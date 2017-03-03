@@ -1,8 +1,8 @@
 page_render = function(num){
 
-	var concept_file = "static/data/Human_manchine_details_des_Team1.csv",
-		mapping_file = "static/graph_data/Mapping_Human_manchine_details_des_Team1.csv",
-		graph_file = "static/graph_data/Human_manchine_details_des_Team1.csv";
+	var concept_file = "/static/data/Human_manchine_details_des_Team1.csv",
+		mapping_file = "/static/graph_data/Mapping_Human_manchine_details_des_Team1.csv",
+		graph_file = "/static/graph_data/Human_manchine_details_des_Team1.csv";
 
 
 
@@ -144,7 +144,7 @@ page_render = function(num){
 			.on("click", function(d){
 				// console.log(d);
 				// console.log(d.Human_Label + ":" + d.Machine_Label)
-				d3.csv("static/data/Human_manchine_details_des_Team1.csv",function(csv){
+				d3.csv(concept_file,function(csv){
 					csv = csv.filter(function(row){
 						return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
 					});
@@ -165,10 +165,6 @@ page_render = function(num){
 	});
 
 	d3.csv(concept_file,function(data){
-		// console.log(data)
-		// console.log(Object.keys(data[0]))
-
-		// var parsedCSV = d3.csv.parseRows(data);
 		tabulate(data);
 
 	});
