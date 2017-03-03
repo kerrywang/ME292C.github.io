@@ -99,7 +99,7 @@ class OriginData(object):
 			cnt[pos[0],pos[1]] += 1
 			if (pos[0],pos[1]) not in concept_indices.keys():
 				concept_indices[(pos[0],pos[1])] = list()
-			concept_indices[(pos[0],pos[1])].append(i)
+			concept_indices[(pos[0],pos[1])].append(i+1)
 
 
 		with open(self.des_filename,'wb') as csvfile:

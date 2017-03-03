@@ -2,6 +2,12 @@
 <meta charset="utf-8">
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+
+
 <style type="text/css">
 .axis path,
 .axis line {
@@ -18,20 +24,35 @@
   height: 28px;
   pointer-events: none;
 }
+
+table {
+	border-collapse: collapse;
+	border: 2px black solid;
+	font: 12px sans-serif;
+}
+
+td,th {
+	border: 1px black solid;
+	padding: 5px;
+}
+
+
 </style>
 
 <body>
-	<svg class="chart"></svg>
-	<!-- <div class="container">
+	<!-- <h1>ME100 Experiment Demo </h1> -->
+	<h1>HM Plot of Autonomous Vehicle Team</h1>
+	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				
+				<svg width="500" height="500" class="chart"></svg>
 			</div>
-			<div class="col-md-6">
-				<p>Hello world</p>
+			<div class="col-md-6" style="height:500px; overflow:scroll;">
+				<div id="table">	
+			</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
 	
 </body>
 
@@ -66,7 +87,7 @@
 		yAxis = d3.svg.axis().scale(yScale).orient("left");
 
 	// add the graph canvas to the body of the webpage
-	var svg = d3.select("body").append("svg")
+	var svg = d3.select(".chart").append("svg")
 		.attr("width", width + margin.left + margin.right)
 		.attr("height", height + margin.top + margin.bottom)
 	  .append("g")
@@ -110,7 +131,13 @@
 
 		svg.selectAll('.x.axis .tick')
 			.on("click",function(d){
-				console.log(d);
+				d3.csv("static/data/Human_manchine_details_des_Team1.csv",function(csv){
+					csv = csv.filter(function(row){
+						return row["Human Label"] == data[d].Human_Label;
+					});
+					// console.log(csv);
+					tabulate(csv);
+				});
 			})
 
 		// y-axis
@@ -135,7 +162,13 @@
 
 		svg.selectAll(".y.axis .tick")
 			.on("click", function(d){
-				console.log(d);
+				d3.csv("static/data/Human_manchine_details_des_Team1.csv",function(csv){
+					csv = csv.filter(function(row){
+						return row["Machine Label"] == data[d].Machine_Label;
+					});
+					// console.log(csv);
+					tabulate(csv);
+				})
 			});
 
 	});
@@ -162,7 +195,14 @@
 			.style("opacity",.9)
 			.on("click", function(d){
 				// console.log(d);
-				console.log(d.Human_Label + ":" + d.Machine_Label)
+				// console.log(d.Human_Label + ":" + d.Machine_Label)
+				d3.csv("static/data/Human_manchine_details_des_Team1.csv",function(csv){
+					csv = csv.filter(function(row){
+						return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+					});
+					// console.log(csv);
+					tabulate(csv);
+				});
 			})
 			.on("mouseover",function(d){
 				// console.log(d);
@@ -170,11 +210,68 @@
 					.duration(200)
 					.style("opacity", .9)
 					.style("left", (d3.event.pageX + 5) + "px")
-               		.style("top", (d3.event.pageY - 28) + "px");
+					.style("top", (d3.event.pageY - 28) + "px");
 				tooltip.html(d.Concept_Indices);
 			})
 
 	});
 	
+	d3.csv("static/data/Human_manchine_details_des_Team1.csv",function(data){
+		// console.log(data)
+		// console.log(Object.keys(data[0]))
+
+		// var parsedCSV = d3.csv.parseRows(data);
+		tabulate(data);
+
+	});
+
+	tabulate = function(data){
+		d3.select("#table > *").remove()
+		var table = d3.select("#table").append('table')
+		var thead = table.append('thead')
+		var tbody = table.append('tbody')
+
+		columns = Object.keys(data[0])
+		// console.log(columns)
+
+		//header row
+		thead.append('tr')
+			.selectAll('th')
+			.data(columns).enter()
+			.append('th')
+				.text(function(column) { return column;})
+
+		// row for each object
+		var rows = tbody.selectAll('tr')
+			.data(data).enter()
+			.append('tr');
+
+		//cell in each row
+		var cells = rows.selectAll('td')
+			.data(function (row) {
+				return columns.map(function (column){
+					return {column: column, value: row[column]};
+				});
+			})
+			.enter()
+			.append('td')
+				.text(function(d) {return d.value});
+
+
+		return table;
+		// var container = d3.select("#table")
+		// 	.append("table")
+
+		// 	.selectAll("tr")
+		// 		.data(csv).enter()
+		// 		.append("tr")
+
+		// 	.selectAll("td")
+		// 		.data(function(d){ return d;}).enter()
+		// 		.append("td")
+		// 		.text(function(d){ return d;});
+		console.log("Generated a table");
+	}
+
 
 </script>
