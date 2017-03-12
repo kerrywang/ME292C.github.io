@@ -1,0 +1,121 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,solar power,powers the antenna by using solar power to charge a battery,Power Source,power;powers
+2,wind power   principle power,powers the antenna using principle powers patented windfloat technology,Power Source,power;powers
+3,battery arrangement,cycle between charging and power for efficiency,Power Source,power;powers
+4,battery cooling,fan  holes covered with fine mesh to prevent water but allow air flow,Power Source,water;ocean
+5,wave power   wave carpet,hydraulic actuators harness wave energy,Power Source,power;powers
+6,wave power   fishing reel,line reels in as wave goes down then tensions as wave rises,Power Source,power;powers
+7,wind power   vortex,tubes harness wind energy rather than traditional blades on a windmill,Power Source,power;powers
+8,wave power   turbine,water flow powers turbine,Power Source,power;powers
+9,wave power   current,water flow powers turbine,Power Source,power;powers
+10,fish power   turbine,school of fish swimming in circle powers turbine,Power Source,power;powers
+11,urianium,using a nuclear based option,Power Source,urianium
+12,electromagnetic,using magnets to turn the ocean current to power,Power Source,power;powers
+13,cables underwater,run cables to provide power and wifi directlly to the buoy,Power Source,wifi;wi
+14,recycltron ,using trash found in the ocean or organic matter to turn it into energy,Power Source,water;ocean
+15,lightning powered,powers the antenna with lightning strike huge free voltage,Power Source,power;powers
+16,solar powered buoy,the wifi buoy has solar pannels to power itwhich makes it super cost efficient,Power Source,wifi;wi
+17,module for existing buoys,small module you can just attach to any existing buoy no toll on ocean environment,Form Factor,signal;module
+18,tug buoy,have the buoy attach to a boat so that it can be dragged around,Form Factor,dock;boat
+19,self moving buoy,buoy automatically follows behind boat,Form Factor,motion;shark
+20,wi fi balloon,similar to google project loon,Form Factor,wifi;wi
+21,module for lifeguard stands,attach to tall relative to flat beachocean lifeguard stands to broadcast wifi,Form Factor,wifi;wi
+22,module for lighthouses,lighthouses have a clear view so emit wifi in addition to light,Form Factor,wifi;wi
+23,module for oil rigs,oil rigs are existing fixtures in ocean with workers as potential customers,Form Factor,signal;module
+24,module extender for submarines,submarines send up a floating box to receive wifi signal and transmit back via cables,Form Factor,signal;module
+25,remote controlled,remotely move buoys to areas with better signal,Form Factor,signal;module
+26,capsule,using a capsule like system that can easily detach,Form Factor,power;powers
+27,airplane ,a solarpowered wifi plane that spreads wifi,Form Factor ,wifi;wi
+28,hover board,using energy to create a moving wifi using hoverair technology,Form Factor ,wifi;wi
+29,embedded wifi hotspot in ice,easy cooling easy to setup,Form Factor,wifi;wi
+30,archer tower,buoy attracts birds so that people can hunt birds on it,Form Factor,people
+31,wifi whale,attach a wifi antenae to the fin of a whale so that it migrates with it,Form Factor,wifi;wi
+32,wifi mast,stick the wifi stuff in the mast of a boat so that it spreads it all over the bay,Form Factor,wifi;wi
+33,wifi kite,stick the wifi stuff in a kite,Form Factor,wifi;wi
+34,plants,grow trees on buoy for birds to land on,Form Factor,water;ocean
+35,safety beacon,bright light on buoy warns ships to avoid running into it,Form Factor,signal;module
+36,biodegradable buoy,made out of biodegradable material to avoid pollution and poisoning fish,Form Factor,water;ocean
+37,wifi attachment pack,a wifi hotspot that attaches to preexisting buoys,Form Factor,wifi;wi
+38,stabilizing structure,structure lowers cg of the buoy in order to survive turbulent water,Form Factor,water;ocean
+39,flodable solar panles ,to help protect the panels during heavy wind or water turbelance ,Form Factor ,water;ocean
+40,twist and pulll container,compartimatatization of the components such as the battery belowthen the device then the power to help with troubleshooting,Form Factor,power;powers
+41,open loop cooling,by introducing a constant flow of water pressure throughout the system to help keep tempearture down and extend the components lifetime ,Form Factor,water;ocean
+42,light saturated solar panels,increases effective area of solar panels by directing more light toward them,Form Factor,water;ocean
+43,shipping routes,put buoys along common shipping routes in order to provide wifi to sailors,Location,wifi;wi
+44,cruise routes,put buoys along common cruise routes so that the passengers can have wifi,Location,wifi;wi
+45,beaches,have beaches purchase ocean wifi for their guests,Location,wifi;wi
+46,private island,have islands purchase ocean wifi for their guests,Location,wifi;wi
+47,underwater hotels,have underwater hotels purchase ocean wifi for their guests,Location,wifi;wi
+48,known attractions ,have attractions hotels purchase ocean wifi for their guests,Location ,wifi;wi
+49,between island clusters,kill multiple birds with one stone by placing buoys between islands,Location,water;ocean
+50,add motion,the buoy moves to find sunlight,Location ,motion;shark
+51,wifi ocean pathway,multuple wifi buoys placed along the most popular boat and cruise routes,Location,wifi;wi
+52,green buoy (trash collector),buoy collects trash from the ocean,Secondary Function,water;ocean
+53,fishing dock,have the buoy be a dock where fisherman can anchor to,Secondary Function,dock;boat
+54,food   water for stranded,buoy contains emergency supplies of food and water for emergencies on the open ocean,Secondary Function,water;ocean
+55,safety buoy,have the buoy be a safe space for peoples narratives,Secondary Function,dock;boat
+56,electronics station,tv mounted on top outlets with phone chargers available,Secondary Function,signal;module
+57,dolphin attractor,buoy emits noise to attract dolphins tourists flock to watch and livestream via wifi,Secondary Function,signal;module
+58,aquarium,buoy attracts local fish for viewing,Secondary Function,water;ocean
+59,power outlets,charging for smartphones,Secondary Function,power;powers
+60,magnetic metal collector,collects lost items in the ocean,Secondary Function,water;ocean
+61,satellite phone,has a phone for people without their devices,Secondary Function,signal;module
+62,snorkel and wifi hotspot,the hotspot also dispenses food for snorkelers,Secondary Function,wifi;wi
+63,sun batheing buoy,a buoy where people can sunbathe,Secondary Function,people
+64,buoy lighthouse,buoy also serves as a lighthouse around dangerous rocks or cliffs,Secondary Function,water;ocean
+65,fish zapper,attracts lightning and zaps fish so that fishing them is easy and we can eat them,Secondary Function,water;ocean
+66,buoy skype screen,able to skype family members or friends with a screen,Secondary Function,signal;module
+67,fish food dispenser,buoy dispenses food so that fisherman can catch fish easier,Secondary Function,water;ocean
+68,recycler,recycles waste into organice matter that can be easily disolved in water,Secondary Function,water;ocean
+69,grows algae,good for environment takes in co2,Secondary Function,water;ocean
+70,fish bait dispenser,buoy dispenses fishbait to attract fish and as a result fishermen who can use the service,Secondary Function,motion;shark
+71,charging station vending machine,a rest stop in the ocean where you can buy stuff,Secondary Function,signal;module
+72,animal rescue station,provides a safe place for hurt animals to rest from swimming,Secondary Function,water;ocean
+73,hot tub,make area near buoy a hot top,Secondary Function,motion;shark
+74,desalinator,desalinates water to contain a freshwater emergency source for lost travelers,Secondary Function,water;ocean
+75,buoy telephone booth,contains telephone that allows poeple to call their friends from the water great for getting publicity,Secondary Function,water;ocean
+76,videotaping drones,a drone connected to our wifi byo films people surfing these surfers can connect to the buoy to watch themselves,Secondary Function,wifi;wi
+77,wifi surf buoy,a buoy located at popular surfing spots that provides wifi to surfers it will allow them to connect their smart watches and gopros to it,Secondary Function,wifi;wi
+78,green buoy (trash collector),the wifi buoy can also float around and clean the plastic waste in the bodies of water,Secondary Function,water;ocean
+79,"as an anchor spot, refuling station ",by serving as a fuling station to help people reful their boats ,Secondary Function,signal;module
+80,geographical or monitoring station,to monitorÿchanges in the ecosystem through a series of observations useful for oceanography ,Secondary Function,signal;module
+81,sea creature watcher,onboard videocamera records whats going on below the surface showing marine animals in natural habitat,Secondary Function,water;ocean
+82,rain catcher,catches rain to contain a fresh water supply for lost travelers,Secondary Function,water;ocean
+83,battery tracker,tracks data about buoy,Buoy Data,tracks;data
+84,energy consumption,tracks data about buoy,Buoy Data,tracks;data
+85,maintenance report,tracks data about buoy,Buoy Data,tracks;data
+86,internet performance,tracks data about buoy,Buoy Data,tracks;data
+87,buoy to buoy communication,buoys farther from land can steal wifi from nearby ones if they are too far from original signal,Buoy Data,signal;module
+88,gps coordinates,tracks data about buoy,Buoy Data,tracks;data
+89,time in field alert,automatic notifications when buoy lifetime expectancy is approaching,Buoy Data,time;lifetime
+90,emergency alerts,automatic notifications when buoy lifetime expectancy is approaching,Buoy Data ,time;lifetime
+91,user input,have users say where they want buoys most,Buoy Data ,signal;module
+92,digital readout ,a digitial interface with important information display ,Buoy Data ,signal;module
+93,critical component check,have a way to send an alert if critical components fail such as if a shark bites into the pipe,Buoy Data,signal;module
+94,solar performance,a readout of the input of the solarpanles or a input power readout ,Buoy Data,power;powers
+95,thermometer,collects information on ocean temperatures in different locations at different times,Secondary Data Collection,water;ocean
+96,ocean movement,tells how much the ocean is moving on a given day,Secondary Data Collection,time;lifetime
+97,weather report,provides information on what the weather is like at that time in that area,Secondary Data Collection,time;lifetime
+98,browser history,sell user data,Secondary Data Collection,tracks;data
+99,wind speed   direction,useful for sailors to know this info before going out,Secondary Data Collection,water;ocean
+100,array network,use an array network so that the signal is spread over multiple buoys from 1 location,Secondary Data Collection,signal;module
+101,health of the ocean monitoring,collects information on various ocean health measures,Secondary Data Collection,water;ocean
+102,activity tracker,using a tracker to find internet activity such as a social network or videos to find and locate demands of users ,Secondary Data Collection,signal;module
+103,a signal light ,to help saliors find there way during nighttime or storms,Secondary Data Collection,motion;shark
+104,shark repellant,make swimming safe again,Secondary Data Collection,motion;shark
+105,migration patterns,collect data on migration patterns of sea creatures,Secondary Data Collection,signal;module
+106,sponsor ads on buoy,sponsors allowed to put stickers physically on buoy,Pricing / Revenue Generation,signal;module
+107,sponsor ads on internet,sponsor name pops up in internet browser saying powered by,Pricing / Revenue Generation,signal;module
+108,public service,get government funding for the public service,Pricing / Revenue Generation,motion;shark
+109,users pay,have users pay for access,Pricing / Revenue Generation,signal;module
+110,beach business sponsor,local businesses offer wifi password with certain purchases,Pricing / Revenue Generation,signal;module
+111,buoy advertisments,advertise on tv internet newspapers that you can buy this buoy,Pricing / Revenue Generation,signal;module
+112,ferry boat complimentary wi fi,ferries offer complimentary wifi to passengers as leg up on competition rather than lowering prices,Pricing / Revenue Generation,wifi;wi
+113,partner with gopro   fitbit,allow cloud storage for go proers on the ocean,Pricing / Revenue Generation,water;ocean
+114,partner with amazon (drones),drones capture video footage of surferssailors that they can later purchase,Pricing / Revenue Generation,signal;module
+115,sponsorship balloon,sponsors pay for buoy and get to attach balloon advertisements to buoy,Pricing / Revenue Generation,signal;module
+116,beach equipment,shacks on the beach selling surfboards and snorkeling equipment can provide wifi password to customers,Pricing / Revenue Generation,wifi;wi
+117,internet providers,internet providers like comcast offer ocean coverage to customers,Pricing / Revenue Generation,signal;module
+118,cruises,cruise lines can advertise free wifi as a perk to customers,Pricing / Revenue Generation,wifi;wi
+119,snapchat geofilter,people want to send snapchats from the middle of the ocean,Pricing / Revenue Generation,people
+120,google partnership,similar to how google sponsors wifi in starbucks,Pricing / Revenue Generation,wifi;wi

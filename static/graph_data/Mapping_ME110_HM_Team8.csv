@@ -1,0 +1,11 @@
+Index,Human_Label,Machine_Label
+0,Shelf Tech,shelves;door
+1,Non-Fridge Concept,food;waste
+2,Apps/Tech,items;users
+3,Door Tech,door;doors
+4,Whole New Fridge,panels;refrigerator
+5,Organization,compartment;cleaning
+6,Temp Control,temperature;humidity
+7,Chemistry Tech,space
+8,Drawer Tech,machine;user
+9,Freshness Indication,shelves

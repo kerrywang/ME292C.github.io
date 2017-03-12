@@ -114,6 +114,7 @@ class OriginData(object):
 			spamwriter = csv.writer(csvfile, delimiter=',',
 								quotechar='|', quoting=csv.QUOTE_MINIMAL)
 			spamwriter.writerow(["Index","Human_Label","Machine_Label"])
+			print (len(human_label_list),len(machine_label_list))
 			for i in range(len(human_label_list)):
 				spamwriter.writerow([i,human_label_list[i], machine_label_list[i]])
 
@@ -123,7 +124,9 @@ class OriginData(object):
 
 
 if __name__ == '__main__':
-	od = OriginData("Human_manchine_details_des_Team1.csv")
+	# od = OriginData("Human_manchine_details_des_Team1.csv")
+	od = OriginData("ME110_HM_Team14.csv")
+
 	# od.graph_data()
 
 				

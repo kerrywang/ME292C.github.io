@@ -1,0 +1,9 @@
+Index,Human_Label,Machine_Label
+0,Accessories,gui;users
+1,Mechanical Implemetation,weight;bar
+2,Safety,bar;weight
+3,Feedback,power;outlet
+4,Work Management,motion;weight
+5,,feature;trainer
+6,Control,system;counterweight
+7,Versatility,connect with friends via app

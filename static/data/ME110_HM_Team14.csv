@@ -1,0 +1,101 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,mega long board,a very long surfboard type board which can fold multiple times,foldable,board;rental
+2,box board,a skateboard also serving as a storage device,accessories ,board;rental
+3,curved board,a curved skateboard to fit around ones backpack,accessories ,board;wheels
+4,circular board,a board that rolls into a circle like  blet,foldable,board;rental
+5,ball board,a hoverboard type board in the shape of a ball,electronic,board;rental
+6,bike board,a board whos wheels extend to be like a bike,extend ,board;wheels
+7,book board,make your large textbooks into a skateboard,modular,board
+8,velcro board,a board that can be velcroed to your backpack,accessories ,board;rental
+9,twistable board,a board that twists for easy fut,foldable,board;rental
+10,flexible board,an extremely flexible rubber board,foldable,board;rental
+11,skate shoes,attachments to shoes to make them a skaetboard heelies,accessories ,helmet;shoes
+12,skatebackpack,make your skateboard a backpack,accessories ,backpack
+13,foldable board,skateboard that folds horizontally,foldable,board;rental
+14,telescoping board,board that telescopes,extend ,board;rental
+15,modular board,board with a quick build time modular parts,modular,board
+16,snow board skate board,board with snowboard and skateboard properties,unique,board;rental
+17,roll in board,board that rolls in like a fruit roll up yoga mat,foldable,board;wheels
+18,foldable scooter,a scooter that folds easily,electroinic,foldable scooter
+19,inflatable skateboard,a board that you can pump up,unique,board;rental
+20,board pants,an atachment to your pants to hold your board,accessories ,board;rental
+21,spider board,skateboard with rails on the side from which extend out as the wheels,extend ,board;wheels
+22,fold a board,skateboard with a hinge on it,foldable,board;rental
+23,crank slider board,board that has linkage between two halves instead of hinge,foldable,board;wheels
+24,stack a board,folds in 3 parts instead of 2 for extra compression wheels rotate to stoe easier,foldable,board;wheels
+25,skelator board,webbed pattern board that folds into channels cut into frame,foldable,board;wheels
+26,break 4 life,brake pannel raising from end of board that applies brake to back wheels,accessories ,board;wheels
+27,grove board,board that hase tonge and grove pattern in center to split up into two seperate halves,Bikini Board,board;wheels
+28,tri razor,board with hollow centeral cavity from whence comes wheels expand out,extend ,board;wheels
+29,erecto board,board composed of multiple small parts held together by string that when pulled together are rigid,modular,board;wheels
+30,rocket rod,pipe affixed between shoes with wheels on it,unique,wheels;folds
+31,zip case,cloth case with zipper to slide board into in backpack laptop case like,accessories ,board;wheels
+32,low rider,board with wheels to the side instead of underneath,unique,board;wheels
+33,hover board,board with fans to provide hover instead of wheels,potential lawsuits,board;wheels
+34,tensegrity ball bot,tesegrity robot composed of rods and springs with central hub to stand on with outer rods spinning so as to provide motion,unique,brake;wheel
+35,expandable monowheel,circus like wheel with person inside that spins for locomotion,potential lawsuits,brake;wheel
+36,acordian board,board that folds up like an accordian when stoed,foldable,board;rental
+37,board back,board that attached to back underneath backpack,unique,board;rental
+38,flying squirel suit,dont walk to class fly to class with flying squirrel webbing,potential lawsuits,arm;hamster
+39,mechanical lama,board with 4 mechanical legs instead of wheels,electronic,board;wheels
+40,eliptical board,board with eliptical on to to power back wheels,unique,board;wheels
+41,skateboard sketch,shows hinges and foot placement,foldable,feet;foot
+42,relative sizing,shows a possible sizing of the board with enough space for only two feet,foldable,board;rental
+43,ladder board,slides along rails like a ladder with metal supports,extend,board;wheels
+44,cutout board,simple board with designs cut out of it to reduce weight,unique,board;rental
+45,socket skateboard,sockets provide stability and better grip,unique,brake;wheel
+46,grill skateboard,collapsing grill like a gate to allow for folding,extend,brake;wheel
+47,brake system,use friction to stop the skateboard,accessories,brake;wheel
+48,skateboard outline,want it to be easily foldable but still stylish,unique,skateboard outline
+49,simple fold skateboard,more traditional like a penny board that folds,foldable,board;rental
+50,logo,possible logo for our end product,accessories,logo
+51,rollable board,rollable board with a rail to slide a metal chassis on to provide stiffness,foldable,board;wheels
+52,hollow board,hollowed out center since actual surface needing contact is minimal,unique,board;wheels
+53,twist lock with hinges,twist lock in the center that allows the board to separate,foldable,board;wheels
+54,collapsible wheels,wheels rotate into board to flatten  use a knife locking kind of mechanism,foldable,board;wheels
+55,ball bearings,bearings that only rotate forwards,unique,brake;wheel
+56,rail slide,foldable board that slides onto wheel axis,foldable,board;wheels
+57,shifting lock bar,moving lock bar forward deploys wheels from the flattened position,unique,brake;wheel
+58,drawstring bagkeeps ,dirt away from other things,accessories,drawstring bagkeeps 
+59,magnetic lock,magnetic locking system with reinforcement to be assembled,foldable,brake;wheel
+60,flat board,very small tiny board where wheels rotate to flatten,foldable,board;wheels
+61,fold out,folds so wheels are on the outside,foldable,wheels;folds
+62,fold in,folds so the wheels are on the inside,foldable,wheels;folds
+63,telescoper,2 halves to the board uses telescoping rods to connect the halves,extend,board;wheels
+64,scissor lift,uses scissorlike mechanism to extend the board,extend,board;wheels
+65,zip board,shortterm rental of skateboards have pickupdropoffs all over the city,accessories,board;rental
+66,skate brake,scooterlike brake for a skatebaord rear wheel,accessories,brake;wheel
+67,out board,wheels are far outside of the platform and can extend and retract,extend,board;wheels
+68,bikini board,board is in 2 pieces and attachable,Bikini Board,board;rental
+69,spin board,two platforms for feet that are able to rotate freely,potential lawsuits,board;wheels
+70,skate pack,attachment for any backpack to carry a skateboard,accessories,backpack
+71,tail brake,brake where the tail of the board flexes to touch the ground,unique,board;wheels
+72,hoverskate,feet facing straighton lean to turn,unique,feet;foot
+73,hood helmet,hood of the jacket is padded like a helmet,unique,helmet;shoes
+74,brake arm,handheld pole to press against the ground to brake,accessories,brake;wheel
+75,balloon helmet,inflating helmet to prevent injury,unique,helmet;shoes
+76,big wheeler,enormous wheels to roll over obstacles,unique,wheels;folds
+77,rear view mirror,mirror attaches to board to see cars behind the rider,accessories,board;wheels
+78,arm cycle,use arm power to push the skateboard,unique,arm;hamster
+79,hamster ball,its a humansized sphere used to get around,potential lawsuits,arm;hamster
+80,magnet shoes,use magnets to attach wheels to shoes,unique,wheels;folds
+81,balance for your life,curved skateboard with arch shaped board,unique,board;wheels
+82,double board,skateboard with 2 layers,cool,board;rental
+83,flower power board,board with decoratble bottom,cool,board;rental
+84,drone powered board,drone pulls your board,accessories,board;rental
+85,hollow board,space in board for storage,stand alone board ideas,board;rental
+86,flexible board,easily collapsible and storable,potential lawsuits,board
+87,keyboard,skateboard works as a musical keyboard as well,cool,brake;wheel
+88,board with odometer,shows how far youve gone  your speed,accessories,board;rental
+89,snowboard +skateboard,all function in one skateboard,modular,snowboard +skateboard
+90,attachable ash tray,for on the go smokers while driving,accessories,arm;hamster
+91,board attachment bag,velcro piece to attach board to bag,accessories,board;wheels
+92,ultra cheep teeny tiny board,compact board made with cheaper materials,no category,board;rental
+93,teeny tiny board,really really compact skateboard,unique,board
+94,teeny tiny board 2.0,same as teeny tiny board but with electric motor,performance,board;rental
+95,skate soes,shoes to go with the ultra compact board,performance,board;rental
+96,ultra discussion forum,online forum to talk about our products,unique,ultra discussion forum
+97,high rider,small board with big wheels,performance,board;wheels
+98,high rider with handle,board with handle similar to scooter,performance,board;rental
+99,foldable board,can be folded in half hinged board,performance,board;rental
+100,motorized foldable board,foldable  motor,performance,board;rental
