@@ -24,8 +24,6 @@ page_render = function(num){
 			return xScale(xValue(d));
 		}
 		xAxis = d3.svg.axis().scale(xScale).orient("bottom");
-
-
 	 
 	// setup y
 	var yValue = function(d) {return d.Machine_Label_Index;},
@@ -121,50 +119,54 @@ page_render = function(num){
 				})
 			});
 
-	});
 
-	d3.csv(graph_file,function(error, data){
-		// change string (from CSV) into proper format
-		data.forEach(function(d){
-			d.Bubble_size = +d.Bubble_size
-			d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
-			d.Human_Label_Index = +d.Human_Label_Index
-			d.Machine_Label_Index = +d.Machine_Label_Index
-			// console.log(d)
-		});
-		svg.selectAll(".dot")
-			.data(data)
-			.enter().append("circle")
-			.attr("class", "dot")
-			.attr("r",function(d){
-				return d.Bubble_size*3;
-			})
-			.attr("cx", xMap)
-			.attr("cy", yMap)
-			.style("fill","#550000")
-			.style("opacity",.9)
-			.on("click", function(d){
-				// console.log(d);
-				// console.log(d.Human_Label + ":" + d.Machine_Label)
-				d3.csv(concept_file,function(csv){
-					csv = csv.filter(function(row){
-						return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+		d3.csv(graph_file,function(error, data){
+			// change string (from CSV) into proper format
+			data.forEach(function(d){
+				d.Bubble_size = +d.Bubble_size
+				d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
+				d.Human_Label_Index = +d.Human_Label_Index
+				d.Machine_Label_Index = +d.Machine_Label_Index
+				// console.log(d)
+			});
+
+			svg.selectAll(".dot")
+				.data(data)
+				.enter().append("circle")
+				.attr("class", "dot")
+				.attr("r",function(d){
+					return d.Bubble_size*3;
+				})
+				.attr("cx", xMap)
+				.attr("cy", yMap)
+				.style("fill","#550000")
+				.style("opacity",.9)
+				.on("click", function(d){
+					// console.log(d);
+					// console.log(d.Human_Label + ":" + d.Machine_Label)
+					d3.csv(concept_file,function(csv){
+						csv = csv.filter(function(row){
+							return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+						});
+						// console.log(csv);
+						tabulate(csv);
 					});
-					// console.log(csv);
-					tabulate(csv);
-				});
-			})
-			.on("mouseover",function(d){
-				// console.log(d);
-				tooltip.transition()
-					.duration(200)
-					.style("opacity", .9)
-					.style("left", (d3.event.pageX + 5) + "px")
-					.style("top", (d3.event.pageY - 28) + "px");
-				tooltip.html(d.Concept_Indices);
-			})
+				})
+				.on("mouseover",function(d){
+					// console.log(d);
+					tooltip.transition()
+						.duration(200)
+						.style("opacity", .9)
+						.style("left", (d3.event.pageX + 5) + "px")
+						.style("top", (d3.event.pageY - 28) + "px");
+					tooltip.html(d.Concept_Indices);
+				})
+
+		});
 
 	});
+
+	
 
 	d3.csv(concept_file,function(data){
 		tabulate(data);
