@@ -8,7 +8,7 @@ So far, we generated the HM Plot for 5 teams out of all the 15 teams.
 
 [IoT/Smart home](./pages/team6.html)
 
-[Mabe Food](./pages/team6.html)
+[Mabe Food](./pages/team8.html)
 
 [Principle Power](./pages/team12.html)
 
