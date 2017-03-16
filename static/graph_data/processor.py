@@ -125,7 +125,7 @@ class OriginData(object):
 
 if __name__ == '__main__':
 	# od = OriginData("Human_manchine_details_des_Team1.csv")
-	od = OriginData("ME110_HM_Team14.csv")
+	od = OriginData("ME110_HM_Team5.csv")
 
 	# od.graph_data()
 
