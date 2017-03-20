@@ -70,6 +70,8 @@ page_render = function(num){
 			.attr("transform", "rotate(-20)")
 			.style("font-size",10)
 			.style("text-anchor", "end")
+
+		svg.selectAll('.x.axis')
 		   .append("text")
 			.attr("class", "label")
 			.attr("x",width)
@@ -99,6 +101,8 @@ page_render = function(num){
 			.call(yAxis)
 		   .selectAll("text")
 			.style("font-size",10)
+
+		svg.selectAll(".y.axis")
 		   .append("text")
 			.attr("class", "label")
 			.attr("transform", "rotate(-90)")
