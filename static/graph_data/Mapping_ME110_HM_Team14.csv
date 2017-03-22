@@ -1,16 +1,14 @@
 Index,Human_Label,Machine_Label
 0,foldable,board;rental
-1,unique,board;wheels
-2,accessories,brake;wheel
+1,extend,board;wheels
+2,unique,brake;wheel
 3,modular,board
-4,potential lawsuits,arm;hamster
-5,accessories ,helmet;shoes
+4,accessories,backpack
+5,potential lawsuits,arm;hamster
 6,electroinic,foldable scooter
-7,electronic,backpack
-8,extend ,wheels;folds
-9,Bikini Board,feet;foot
-10,extend,skateboard outline
-11,cool,logo
-12,stand alone board ideas,drawstring bagkeeps 
-13,no category,snowboard +skateboard
-14,performance,ultra discussion forum
+7,electronic,helmet;shoes
+8,Bikini Board,wheels;folds
+9,cool,feet;foot
+10,stand alone board ideas,skateboard outline
+11,no category,logo
+12,performance,drawstring bagkeeps 

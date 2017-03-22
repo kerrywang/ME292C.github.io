@@ -5,7 +5,4 @@ Index,Human_Label,Machine_Label
 3,Pricing / Revenue Generation,signal;module
 4,Buoy Data,tracks;data
 5,Secondary Data Collection,motion;shark
-6,Buoy Data ,time;lifetime
-7,Form Factor ,urianium
-8,Location,dock;boat
-9,Location ,people
+6,Location,urianium

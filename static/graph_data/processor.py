@@ -30,6 +30,7 @@ class OriginData(object):
 				if firstline:
 					firstline = False
 					continue
+				row[3] = row[3].strip()
 				if row[3] not in human_label_list:
 					human_label_list.append(row[3])
 				if row[4] not in machine_label_list:
@@ -125,7 +126,7 @@ class OriginData(object):
 
 if __name__ == '__main__':
 	# od = OriginData("Human_manchine_details_des_Team1.csv")
-	od = OriginData("ME110_HM_Team5.csv")
+	od = OriginData("ME110_HM_Team14.csv")
 
 	# od.graph_data()
 
