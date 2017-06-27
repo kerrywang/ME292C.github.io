@@ -133,7 +133,7 @@ if __name__ == '__main__':
 	# od.graph_data()
 
 	# ME110_2
-	od = OriginData("ME110_2_HM_Team9.csv")
+	od = OriginData("ME110_2_HM_Team7.csv")
 
 				
 
