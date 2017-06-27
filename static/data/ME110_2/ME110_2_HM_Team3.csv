@@ -1,0 +1,77 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,fire color,add color leds to product,Visual,leds;fireplace
+2,fish tank,have a fish tank underneath,Function,tank;fire
+3,speed dial,setting on side panel to change speed,Control,leds;fireplace
+4,flicker dial,change intensity of stropes,Control,leds;fireplace
+5,presets,a number of preset looks for different appearances,Function,records;appearances
+6,remote control,settings can be changed from a distance,Control,leds;fireplace
+7,visual player,settings to match with music engage light shows,Control,records;appearances
+8,heater,builtin heating units to emulate a fireplace,Function,leds;fireplace
+9,built in fire sounds,emulate sound along with look as a fireplace,Visual,leds;fireplace
+10,adjustable bevels,allows for product to fit into a variety of fireplace sizes,Physical,leds;fireplace
+11,noisedampening,materials around pump to dampen sound and vibrations,Physical,leds;fireplace
+12,clock,give the fireplace a function when not in full use,Function,leds;fireplace
+13,back panel,interchangeable back panel color or patterned backs,Physical,leds;fireplace
+14,easy refillablity,easy access and simple methods to refill water levels,Physical,leds;fireplace
+15,antifog,ability to not fog the inside tank,Physical,tank;fire
+16,chimney access,does not seal off chimney access allows airflow,Function,leds;fireplace
+17,installation,easy installation into fireplace,Physical,leds;fireplace
+18,led customization,custom light interface setup,Control,leds;fireplace
+19,realtime motion,controls that allow for play with speed changing drops,Control,leds;fireplace
+20,wifi connection,phone application control,Control,leds;fireplace
+21,side drawers,extra storage space,Function,leds;fireplace
+22,easy removal,for fireplace cleaning or occassional use,Physical,leds;fireplace
+23,sturdiness,there are many moving parts with water so sturdiness and lifetime,Physical,leds;fireplace
+24,easy clean,easy method and reach to clean aparatus,Physical,leds;fireplace
+25,bowed front glass,front glass bowed like a lens to give interesting look,Visual,leds;fireplace
+26,oscillating electric water pump,this is how the water will be dispensed at a steadt rate,Function,leds;fireplace
+27,noise dampening,if we end up using and electric pump we will want to dampen the noise,Physical,leds;fireplace
+28,battery opperation,if we end up using a n electric pump we may want to consider running it off of a battery,Physical,leds;fireplace
+29,ambient drone,a possible method of noise dampening would be to drown out the pump noise with a relaxing drone tone,Physical,leds;fireplace
+30,built in on off timer,maybe it should be powered of and on on some type of timer switch as a feature,Control,leds;fireplace
+31,bright and low leds,bright for daytime when there is ambient light low for at night,Control,leds;fireplace
+32,tunable drop direction ,a switch that lets the user decide if the drops fall rise or levitate,Control,leds;fireplace
+33,fish tank,this could be the main water container,Function,tank;fire
+34,irrigation dispensors,we need even water distrribution from the pressurized hose,Function,leds;fireplace
+35,led circuit,this will let us strobe the leds at a desirable rate,Control,leds;fireplace
+36,arduino,this might be needed as a voltage control for the strobe,Control,leds;fireplace
+37,led's,between 1w3w really bright for max effect,Function,led's
+38,disntace sensors,if an object is within a set range than a parameter changes color or direction,Control,leds;fireplace
+39,backdrop options,different back drps for different effects,Physical,leds;fireplace
+40,mirrored walls,to create a larger feel open up space could help with the water effect,Physical,leds;fireplace
+41,shoe rack,a custom shoe rack that fit inside a fireplace,Function,leds;fireplace
+42,annex book shelf,a small bookshelf maybe for ondeck books to read,Function,leds;fireplace
+43,fish tank 2,this one has actual fish in it,Function,tank;fire
+44,litter box,they have to go somewhere create a customized version thats pleaseant to look at,Function,leds;fireplace
+45,record player,maybe annoying to change records but a fun idea,Function,records;appearances
+46,records,most fireplaces would fit around 100 reocrds,Function,records;appearances
+47,framed picture of a fire place,this is for the ironic art lover,Visual,tank;fire
+48,fish tank 2,this one has actual fish in it ironic art lover,Physical,tank;fire
+49,customized drawers,design a modular one size fits all set of small drawres,Physical,leds;fireplace
+50,projection screen,mini projector that projects onto the back wall white screen,Function,leds;fireplace
+51,charging station,place for all phones computers etc to charge up perfect for the central living room location,Function,leds;fireplace
+52,telescope,set of mirrors that line up to let you look up the flue at the stars,Visual,leds;fireplace
+53,terrarium,miniecosystem with plants water and insects for cool conversation piece,Control,leds;fireplace
+54,jellyfish tank,lower maintenance than fish more beautiful,Visual,tank;fire
+55,stocked emergency kit,stores nonperishables and disaster gear reminds family to be prepared,Function,leds;fireplace
+56,herb garden ,sunlamp aids in growing kitchen herbs saves money,Function,leds;fireplace
+57,wine rack,conversational and functional encourages drinking them,Physical,leds;fireplace
+58,mini stage,for families with small children to ecourage creativity,Visual,leds;fireplace
+59,folding party furniture,useful space to store micro folding furniture for hosting,Function,leds;fireplace
+60,steampunk radio with remote,gets people in tune with audio more than visual entertainment oldfashioned but hip,Control,leds;fireplace
+61,home security system video display,keep tabs on all security cameras at once from central location,Control,leds;fireplace
+62,mini speakeasy,secret panel folds out to reveal liquor cabinetminibar,Physical,leds;fireplace
+63,scrolling updates,weather news updates on led leaderboard,Visual,leds;fireplace
+64,camping gear storage,compact storage that harkens back to the concept of fire in a creative way,Function,leds;fireplace
+65,lava lamp,fireplaceshaped lava lamp a classic with a twist,Visual,leds;fireplace
+66,household battery,wind and solar power charge during the day and need to be stored for the night this is that battery allows household to monitor energy collection and usage,Control,leds;fireplace
+67,culinary dessicator,desiccators can be large and not fit in the kitchen this one is customsized for the fireplace promotes healthy diet,Function,leds;fireplace
+68,recycling center,containers for ewaste batteries lightbulbs sharps etc,Function,leds;fireplace
+69,medical center,easy location for nebulizers pill regimens defibrillators,Function,leds;fireplace
+70,sand pantry,dark dry storage for potatoes and carrots that keep better packed in sand,Function,leds;fireplace
+71,novelty clock,a rubegoldberg style analog clock with whimsical internal mechanisms visible,Visual,leds;fireplace
+72,earth model,globe that slowly turns in the light of a sunlamp to show earths position in realtime leds show the cities light up after dark as in real life,Visual,leds;fireplace
+73,one year calendar,help people reflect and keep bigpicture perspective,Control,records;appearances
+74,model volcano,leds create realistic eruptions every halfhour absurdist conversation piece helps people reconnect with natural world,Visual,leds;fireplace
+75,beehive,beehive set up at mouth of flue honey drips down into collection container in fireplace,Function,leds;fireplace
+76,visualizer,displays digital visuals that respond to the volume of conversation in the living room,Control,leds;fireplace

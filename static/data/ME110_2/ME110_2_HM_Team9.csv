@@ -1,0 +1,101 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,places with picture.,people can see the picture of the study places before they are getting there,Service,people;places
+2,avoiding loud places.,some people donÕt want to study in a loud place,Environment Type,people;places
+3,already know,berkeley students can know the library is empty or not to which they want to go,Service,people;places
+4,full people in library,when people arrived at the library people are angry if the library is full,Environment Type,people;places
+5,whiteboard necessity,if people meet as a group they need a whiteboard in order to share their thoughts easily and together,Study Convenience,people;places
+6,making separate room,some group wants to be separated from other people in order to really focus on their working,Study Convenience,people;places
+7,existing on couch or sofa,many students woke up early for class so they need sometimes sleeping area,Environment Type,users;students
+8,hot day,the weather is sometimes really hot so people want to go to a study place being really cool,Environment Type,people;places
+9,time safe,if people can know what the place is empty now people can save their time for searching study room,Service,people;places
+10,many sockets,most people need the sockets for their laptop cellphone and other electrical devices,Environment Type,people;places
+11,tired walking,people can avoid walking if they know available for the library,Service,people;places
+12,where friends,people can know their friends where they are,Service,people;places
+13,how distance,the app can find the distance from our position,Service,app;gui
+14,clean up,people want to study in clean places,Environment Type,people;places
+15,no smell,people want to study no weird smell place,Environment Type,people;places
+16,easy access,the app can be easily accessed by berkeley students,Service,app;gui
+17,easy to use,the app should be easy to use for people with simple design,Service,app;gui
+18,water important,the people want to get water purifier lots of time so the water purifier locations are also important,Environment Type,people;places
+19,food available,people can know the food is available in the library,Service,people;places
+20,how to there,people can know how to get there with transportation,Service,people;places
+21,know to time,in the app people can know how long time to reach library if app is connected with google map,Service,people;places
+22,login fast,if the app connected with facebook people can login easily,Service,app;gui
+23,simple access,the gui of app can be simple enough to use quickly access,Service,app;gui
+24,rewarding,if the app has the reward coupon of near cafƒ people can study that places,Service,people;places
+25,good food,the app has a favorite food of the cafƒ restaurant so people can know the information of the best food,Service,people;places
+26,independent study rooms,study cubicles that students can rent out at certain rates  similar to internet cafes but for studying,Service,study;students
+27,study spot recommendations,website tha ttells students where to study based on their preferences eg quiet areas loud areas open areas,Study Convenience,study;students
+28,study partner finder,allows users to find study partners studying the same subject on campus,Organization,study;students
+29,sound canceller,portable panels that can be set up to reduce background noises via active noises,Environment Type,spots;floor
+30,color up,repainting the libraries walls to make it feel much more lively and comfortable,Environment Type,users;students
+31,hour extension,change the hours of operation of the librariesstudy spaces,Study Convenience,extension;hours
+32,open classrooms,tells students of open classrooms so that they can use it as alternatives to study spaces  either for independent studying or group studying,Study Convenience,study;students
+33,group study rooms,study rooms that students can rent out at certain rates,Service,study;students
+34,class reserve,application that reserves classroomsconferences for studying,Study Convenience,users;students
+35,study anywhere,app that lets students know of popular establishments to study at eg peets starbucks,Study Convenience,study;students
+36,snack supplier,supply snacks to students studyign so that they do not starve and also do not have to worry about leaving their seats,Service,users;students
+37,seat monitor,monitors amount of open seats in a librarystudy space,Study Convenience,users;students
+38,sound monitor,monitors the sound of study spaces and displays this information to students so they can use it to decide where they wanna go to study,Study Convenience,study;students
+39,resource renovations,supply more furniture to study spaces to increase their appeal,Service,study;students
+40,whiteboard finder,displays classroomsstudy rooms with whiteboards for use,Study Convenience,users;students
+41,powerstrip supplier,users can rent power strips to use when studying if they are too far from outlets or there are too many people,Service,people;places
+42,earbud supplier,supplies users with earbuds and noise cancelling headphones if they are studying in loud areas,Service,users;students
+43,weekender studies,recommends locations to study during the weekend when most classrooms and libraries are closed,Study Convenience,study;students
+44,natural light info,lets users know which study rooms have the best natural lights,Study Convenience,study;students
+45,coffee delivery,supplies the essential fluid of studying to users who cant be bothered to leave their seat,Service,users;students
+46,printing delivery,students can send files they need to print and it gets delivered to them so they can study without leaving,Service,study;students
+47,phone disabler,app that disables social media on phones to prevent students from getting distracted,Service,app;gui
+48,study material supplier,supplies students with the necessary study materials so students can pick it up and use it for studying dont have to go out of their way to buy it similar to amazonasuc pickups,Service,study;students
+49,quickest classroom open,app that tells students the closest open study areas near them,Study Convenience,study;students
+50,medicinal supplements,supplies supplements to students who are studying and not getting enough nutrients eg fish oil vitamin b12,Service,users;students
+51,basic list of empty rooms,users can see the list of buildings and empty rooms they can use,Service,users;students
+52,map based gui,people prefer easy looking gui map based gui might help users to access to information easily,Service,users;students
+53,floor plan gui spots,if user clicks a building user can see the floor plans of that building empty rooms can be displayed,Service,spots;floor
+54,where is the restroom,restroom locaitons can be included in floor plan,Study Convience ,spots;floor
+55,search classroom by time,a user can search empty classrooms by time and date,Service,study;students
+56,search classroom by building,a user can search empty classrooms by building name so that heshe can choose the building they prefer,Service,study;students
+57,how many people allowed,the maximum number for classrooms can be shown in gui,Organization,app;gui
+58,food allowed area,people want to eat with their friends which is not allowed in libaries we can show if food is allowed in a classroom,Environment Type,people;places
+59,projector,many groups or clubs want to use a projector it might be better to show if its available,Environment Type,app;gui
+60,fans on the ceiling,some students feel constrained in noncirculated small libraries,Environment Type,users;students
+61,icon for better looking,users have different emotional connections with different study spots icons will help users to choose right place to study,Service,study;students
+62,what is your purpose,a user can put the purpose of that study spots they can invite others to join,Organization,study;students
+63,where is my classroom,using the floor plan and study spot information users can find their classroom easily,Organization,study;students
+64,recommend the best spots,the great places like hesse hall can be introduced using campus map,Service,spots;floor
+65,classify your preference,users can choose their needs preferences or amenities to find right place easily,Environment Type,users;students
+66,mobile gui is better,if possible mobile version is required pc version might have too broad information which cannot be visible in smartphones,Service,app;gui
+67,report the issue,some of the class information might be wrong getting report from users might help to imporve the project,Service,users;students
+68,classroom alarm system,if there is a group meeting for some specific cousrse study meetings users can be notification,Organization,study;students
+69,water fountain location,water fountain location can be shown in gui,Study Convience ,app;gui
+70,building operation hours,show the operation hours in gui,Environment Type,extension;hours
+71,order food easier,users can delivers to check the exact location for delivery,Service,users;students
+72,whiteboard type,show the size or type of whiteboard in each class,Environment Type,extension;hours
+73,printer and scanner location,printer and scanner locations can be shown in gui,Environment Type,app;gui
+74,room cleaning schedule,people can avoid cleaning time,Study Convenience ,people;places
+75,bus stop location,location of bus stops help students to choose closer building,Study Convenience ,users;students
+76,nearest to group,the app will show the study spot nearest to all members in the group,Study Convenience ,study;students
+77,when are you studying?,the app will filter room availability based on the hours you study,Environment Type,study;students
+78,want a study buddy?,the app can link you with other students studying the same material,Study Convenience ,study;students
+79,anywhere in mind?,you can check the availability of a specific location,Service,users;students
+80,save me a spot!,you can reserve a room for the hours you need to study,Service,study;students
+81,what do you need?,the app can filter available rooms depending on resources needed,Study Convenience ,users;students
+82,loud or quiet?,the application will allow the user to select the type of study environment,Environment Type,users;students
+83,need a pro?,the application will share gsi and professor availability and location,Organization,users;students
+84,create an event,this feature will allow the creation of study events  study networking,Organization,study;students
+85,rate the room,this feature allows the room experience to be rated and shared with others,Service,users;students
+86,room capacity,this feature will allow the user to see the room capacity,Service,users;students
+87,study rewards,this feature will reward the user for responsible use of school resources,Service,users;students
+88,"check in, check out",document the time spent at each study session to manage study habbits,Organization,study;students
+89,resource locations,shows the location of resources such as printers computers restrooms and water fountains,Service,users;students
+90,food service,have campus food delivered to your room,Service,users;students
+91,ranking,get credit for how often you study the more credit the better oppurtunities for research and gsi positions,Service,study;students
+92,study icon,an icon that shows the type of environment you would be studying at,Study Convenience ,study;students
+93,disable mode,disable social media on your phone to gain reward points,Service,users;students
+94,study alerts,set alarms to warn you when you should be studying,Organization,study;students
+95,schedule planner,create a planner that shows upcoming events,Organization,study;students
+96,room share,people who study in quiet environments can share rooms,Environment Type,study;students
+97,club networking,meet with people in clubs to gain an insight on what they do and how much time comitment is needed,Organization,people;places
+98,find project members,form groups or search for group members in different classes,Study Convenience,study;students
+99,petition for changes,create a forum to gain student signatures to petition for library and class improvements  renovations,Environment Type,users;students
+100,rate study members,rate your study partners to create a system of credibility and comfort,Study Convenience,study;students
