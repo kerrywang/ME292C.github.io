@@ -6,9 +6,11 @@ So far, we generated the HM Plot for 5 teams out of all the 15 teams.
 
 Try to click x-, y- tick labels and dots.
 
-* [Team2](./pages/team2.html)
-* [Team5](./pages/team5.html)
-* [Team6](./pages/team6.html)
-* [Team8](./pages/team8.html)
-* [Team12](./pages/team12.html)
-* [Team14](./pages/team14.html)
+* [Team1](./pages_2/team1.html)
+* [Team2](./pages_2/team2.html)
+* [Team3](./pages_2/team3.html)
+* [Team4](./pages_2/team4.html)
+* [Team5](./pages_2/team5.html)
+* [Team6](./pages_2/team6.html)
+* [Team7](./pages_2/team7.html)
+* [Team9](./pages_2/team9.html)

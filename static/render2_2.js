@@ -4,9 +4,9 @@ page_render = function(num){
 	// 	mapping_file = "../static/graph_data/Mapping_Human_manchine_details_des_Team1.csv",
 	// 	graph_file = "../static/graph_data/Human_manchine_details_des_Team1.csv";
 
-	var concept_file = "../static/data/ME110_HM_Team" + num +".csv",
-		mapping_file = "../static/graph_data/Mapping_ME110_HM_Team" + num + ".csv",
-		graph_file = "../static/graph_data/ME110_HM_Team" + num +".csv";
+	var concept_file = "../static/data/ME110_2/ME110_2_HM_Team" + num +".csv",
+		mapping_file = "../static/graph_data/Mapping_ME110_2_HM_Team" + num + ".csv",
+		graph_file = "../static/graph_data/ME110_2_HM_Team" + num +".csv";
 
 	var margin = {top: 20, right:20, bottom: 80, left: 100},
 		width = 500 - margin.left - margin.right,
