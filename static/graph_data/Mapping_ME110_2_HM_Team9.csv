@@ -1,6 +1,5 @@
 Index,Human_Label,Machine_Label
-0,Service,study;students
-1,Environment Type,people;places
-2,Study Convenience,users;rooms
-3,Organization,gui;spots
-4,Study convenience,app;students
+0,Service,gui;users
+1,Study Convenience,study;students
+2,Environment Type,people;places
+3,Organization,extension;hours

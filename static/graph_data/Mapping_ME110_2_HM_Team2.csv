@@ -1,7 +1,6 @@
 Index,Human_Label,Machine_Label
 0,App Features,app;students
 1,Hardware Devices,accessory;feedback
-2,Social Camp,feature;students
-3,Miscellaneous,passes;color
-4,App features,longboard club
-5,Website,introvert app
+2,Miscellaneous,passes;color
+3,Social Camp,longboard club
+4,Website,introvert app

@@ -1,16 +1,11 @@
 Index,Human_Label,Machine_Label
-0,locking process,lock;bike
-1,infrastructure,bike;bikes
-2,service,bike;lock
-3,tracking/surveillance,bike;gps
-4,Locking process,lock;pad
-5,bike construction,lock;wheel
-6,Service,person;bike
-7,Entertainment,question asker
-8,Surveillance,camera;sensor
-9,Infrastructure,basement 
-10,law,bike;scanner
-11,Bike construction,custom bikes
-12,entertainment,finger scanner
-13,service/infrastructure,lock;door
-14,surveillance,bikes
+0,Locking process,bike;lock
+1,tracking/surveillance,bike;bikes
+2,Entertainment,bike;racks
+3,bike construction,lock;wheel
+4,Infrastructure,button;lock
+5,Bike construction,bikes;bike
+6,Surveillance,camera;sensor
+7,Service,bike;supermarket
+8,law,question asker
+9,service/infrastructure,finger scanner

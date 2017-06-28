@@ -1,7 +1,6 @@
 Index,Human_Label,Machine_Label
 0,Attachments,bottle;water
-1,Personalize,top;tops
-2,Attachment,wrap;koozie
-3,Collapsible,collapsible canvas
-4,The Perfect Fit,shapes and size
-5,Collapsible/Personalize,thing;drink
+1,Collapsible,tops;top
+2,Personalize,shapes and size
+3,The Perfect Fit,wrap;koozie
+4,Collapsible/Personalize,thing;drink
