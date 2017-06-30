@@ -1,0 +1,101 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,integrated wall speaker system,speaker package that is built into the walls and ceilings,Ergonomics,walls;homes
+2,collapsible stairway,stairway collapses to save space,Ergonomics,space;furniture
+3,hide away dining set,dining table folds away to save space,Ergonomics,space;furniture
+4,hd wall projector,wall projector drops down from ceiling and eliminates need for tv,Ergonomics,system;floor
+5,outlet rail system,outlets can slide along the wall to provide easy access,Ergonomics,system;floor
+6,fingerprint locks,much more secure than traditional locks,Security,system;floor
+7,transition windows,provide privacy and reduce cooling costs,Sustainability,cost;privacy
+8,living roof,can grow your own food and is good for the environment,Sustainability,system;floor
+9,shower filtration system,reuse water from the shower for other uses,Sustainability,system;floor
+10,alfred the assistant  app,app provides control over everything in the home as well as offering packages when selecting your home,Ergonomics,power;generator
+11,custom template homes,homes are built as a template for different user groups,Ergonomics,walls;homes
+12,circular apartment homes,apartments tat fit more people in a smaller space,Mobility,space;furniture
+13,greenhouse,house with solar panels and walls that are wind turbines,Sustainability,walls;homes
+14,clay hut,made with cheap materials,Sustainability,materials;glasses
+15,hut 1,made with really cheap materials,Sustainability,materials;glasses
+16,modular house,units bind together depending on the needs of the user,Mobility,house;home
+17,hydroelectric house,runs on hydroelectric power from nearby river,Sustainability,house;home
+18,safe house,prioritizes safety including fence and guard also has renewable energy ,Security,house;home
+19,stilt home,house on stilts with stairs that retract for safety,Security,house;home
+20,outward slanting walls,high ceilings and slanted walls make house appear larger and provide room for solar panels,Ergonomics,walls;homes
+21,shower steam generator,turbine generates power from hot shower steam,Sustainability,power;generator
+22,communal utility rooms,community kitchen or laundry room ,Ergonomics,walls;homes
+23,automatically lowering curtains,adjust in response to the sun to provide privacy and less need for cooling,Ergonomics,cost;privacy
+24,under floor storage,floorboards lift up to provide more storage options,Ergonomics,system;floor
+25,solar tiles,use teslas solar tiles,Sustainability,solar tiles
+26,chameleon walls,change color to user desire or to match environment,Ergonomics,walls;homes
+27,3d printed houses,made of cheap materials customizable,Manufacturability,materials;glasses
+28,retina scanner locks,provide extra security,Security,system;floor
+29,floating communities,houses are put on ships that can travel around the world,Mobility,walls;homes
+30,air drop homes,pre built homes are equipped with parachutes so they can be dropped anywhere,Mobility,walls;homes
+31,community vegetable garden,vegetables are grown an eaten ,Sustainability/Health,owners;fruit
+32,community fish farm,fish are raised and eaten,Sustainability/Health,owners;fruit
+33,exercise bike to electricity,generate electricity by working out,Sustainability/Health,cost;privacy
+34,communal sport courts  gym,exercise,Health,cost;privacy
+35,communal storage lockers,can rent out space if you need extra storage,Ergonomics,space;furniture
+36,health monitor,detects if person is having health problems and calls responders,Health,system;floor
+37,motivation bed,bed detects when youre being lazy on your bed and gives an electric shock,Health,system;floor
+38,fruit orchard,grow fruit to eat,Health/Sustainability,owners;fruit
+39,beehive ,harvest bees for honey,Health/Sustainability,owners;fruit
+40,hologram videocall,allows you to communicate with one another,Mobility,cost;privacy
+41,window computer,window is touchscreen computer ,Ergonomics,window computer
+42,optional air conditioning,if the house is designed to be customizable according to the user needs it would be optional to have air conditioning system installed,Customizability/Ergonomics,devices;items
+43,fast wifi installed,it will be necessary to have wifi installed for internet access to be always available,Customizability/Ergonomics,devices;items
+44,using inexpensive materials.,it would be beneficial to use inexpensive materials when manufacturing the house this would reduce the cost of manufacturing and allow for offering low prices,Ergonomics/Manufacturabiity,cost;privacy
+45,low power consuming devices.,installing devices that consume low power will make the cost of power supply or electricity expenses less,Sustainability,power;generator
+46,standardizing main features.,despite being customizable if we manage to standardize the main features of the house mass production will be more available which will lower the cost,Manufacturability,cost;privacy
+47,multiple task items.,installing items that can have multiple tasks will eliminate the cost of multiple items for instance a sofa can be designed that it can be converted to be a bed,Ergonomics,devices;items
+48,using sunlight.,we can make use of the surrounding environment to eliminate the need for some devices electric heaters for example can be replaced by using sunlight and concentration lenses,Sustainability,devices;items
+49,using detachable items.,detachable items will allow for easy customizability users will be able to customize their homes by removing and adding items like furniture and devices according to their needs,Ergonomics/Mobility,devices;items
+50,implementing compartments for different purposes.,dividing the house into more compartments each having its use will make the users feel that they have plenty of space to do everything they need to do at home,Ergonomics,house;home
+51,one way transparent glass.,replacing one or more walls with oneway transparent glass will help make use of the surrounding environment for the house to feel more spacious while keeping privacy untouched,Ergonomics,walls;homes
+52,using rain water.,the house can have a sink that collects rain water whenever there is it can then be processed and used for different purposes inside the house,Sustainability,devices;items
+53,using roll up doors and windows,using roll up doors and windows can save space for other uses,Ergonomics,space;furniture
+54,surroundings camera display,windows can be replaced by screens hat display the surroundings using cameras this would eliminate the insecurity that comes with windows close to the ground,Security,devices;items
+55,horizontal elevator,for getting around an elevator that moves side to side,Mobility,system;floor
+56,gym generator,exercise units that generate power for other residents,Sustainability,cost;privacy
+57,community cafe,employeerun cafe that uses living roof grown produce built into living complex,Sustainability,system;floor
+58,garden to table system,an interapartment grocery system that distributes produce grown on our living roofs to apartment residents,Sustainability,system;floor
+59,biodome building,a large clear building that houses trees and living spaces on many floors,Sustainability,walls;homes
+60,origami furniture,foldaway furniture based on japanese paper craft that saves space,Ergonomics,space;furniture
+61,apartment spatula,a large lift that transport top floor living spaces to the bottom floor to be moved,Mobility,system;floor
+62,sliding lock door,built like a vault door in a bank door locks into wall,Security,system;floor
+63,all in one bedroom unit,a mobile bedroom unit with a large headboard that hides a rollout closet,Ergonomics,owners;fruit
+64,h20 recycling system,an awg that collects water generated while showering from the atosphere,Sustainability,system;floor
+65,modular appliances,fully customizeable home with modular applianceroom units ,Mobility/Manufacturability,power;generator
+66,themed gardens,gardens themed after different parts of the world ,Ergonomics,themed gardens
+67,virtual windows,windows that look out to different liveviews of other parts of the world,Ergonomics,virtual windows
+68,in house barber,an employee run hair shop,Sustainability,walls;homes
+69,inter complex mail chute,a plumbing system for mail that runs through the living complex and delivers mail,Ergonomics,system;floor
+70,slides instead of elevators,slides to save energy,Sustainability,space;furniture
+71,magical walls,moveable walls that can adjust the space of each room instantaneously ,Ergonomics,space;furniture
+72,smart window,tinted window that adjusts its tint based on the brightness and temperature of the room ,Sustainability,system;floor
+73,lego furniture,modular funitures that can be assembled into different forms for various function with ease,Ergonomics,devices;items
+74,shipment home,use shipping containers as base framework of the house ,Sustainability,house;home
+75,light with a brain,smart light system that adjusts itself based on movement and time of the day,Sustainability,system;floor
+76,all in one,multifunctional rooms that serves different functions at once ,Ergonomics,walls;homes
+77,mini hyro plant,install hydro generator along the piping of the house to use the water flow to generate power,Sustainability,power;generator
+78,trash tunnel,tunnel system where it automatically transport trash from individual homes to consolidated area,Sustainability,walls;homes
+79,resident skill based pricing,coop style living complex where residents can offer services based on their skills for discounted living expenses,Affordability,cost;privacy
+80,workout power supply,a workout bike can be installed and connected to a power generator that feeds the house the gets to train and light his house at the same time,Sustainability,power;generator
+81,robot mail man,delivers mail from floor to floor,Ergonomics,system;floor
+82,food waste chute,an intercomplex chute that collects all food waste and delivers them to a compost area ,Sustainability,system;floor
+83,corporate sponsorships ,partnerships with corporations that provide goods in exchange for advertisements,Affordability,cost;privacy
+84,shelter animal cafe,employee run animal cafe that fosters animals from local shelters,Sustainability,walls;homes
+85,transformer house,house transforms itself based on outside weather to obtain comfortable inner living space,Ergonomics,space;furniture
+86,in house health clinic,an inhouse health clinic that does minor checkups etc,Health,house;home
+87,self sufficient garden,gardens with built in  timed irrigation systems,Sustainability,walls;homes
+88,eagle eyes,system that monitor individauls living habit to detect any health problems ,Health,system;floor
+89,fridge for your health,fridge that limits amount of food you can take based on your house ,Health,house;home
+90,underground wardrobe,storage places can be built beneath the floor so we can save more space for furniture,Ergonomics,space;furniture
+91,furniture trading post,space to leave unwanted furniture for others to taketo be donated,Sustainability,space;furniture
+92,expandable rooms,frames can be installed such that they can protrude from the house when it is crowded inside,Sustainability,devices;items
+93,power saving,sensors can be installed to give in alaram whenever power or water ae running for more than usual time,Sustainability,power;generator
+94,community shuttle,shuttle that takes residence to nearest public transportation center,Sustainability,walls;homes
+95,let there be color,lights that adjust their color based on activity of the users ,Health,devices;items
+96,house on wheels,so you can roll your house around the premises,Mobility,house;home
+97,prescription windows,windows with prescriptions for people with glasses,Ergonomics,materials;glasses
+98,foot powered laundry machine ,powered by an excercise bike,Sustainability,system;floor
+99,robotic dresser,dresser that picks out options for people to wear ,Ergonomics,materials;glasses
+100,automatic pooper scooper,for all you cat owners out there,Ergonomics,owners;fruit

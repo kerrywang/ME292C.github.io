@@ -14,3 +14,4 @@ Try to click x-, y- tick labels and dots.
 * [Team6](./pages_2/team6.html)
 * [Team7](./pages_2/team7.html)
 * [Team9](./pages_2/team9.html)
+* [Team10](./pages_2/team10.html)

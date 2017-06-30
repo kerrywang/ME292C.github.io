@@ -1,0 +1,8 @@
+Index,Human_Label,Machine_Label
+0,Simplicity-Focused Products,switch;switches
+1,Sensor-Based Products,lights;sensor
+2,Application Based Products,control;living
+3,Wearable and On Demand,light;sensor
+4,Hardware and Logistics,light;touch
+5,Application-Based Products,control;controls
+6,Energy Efficient,light

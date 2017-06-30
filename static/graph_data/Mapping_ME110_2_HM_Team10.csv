@@ -1,0 +1,14 @@
+Index,Human_Label,Machine_Label
+0,Sustainability,system;floor
+1,Ergonomics,space;furniture
+2,Mobility,walls;homes
+3,Affordability,cost;privacy
+4,Security,house;home
+5,Sustainability/Health,owners;fruit
+6,Customizability/Ergonomics,devices;items
+7,Mobility/Manufacturability,power;generator
+8,Manufacturability,materials;glasses
+9,Health,solar tiles
+10,Health/Sustainability,window computer
+11,Ergonomics/Manufacturabiity,themed gardens
+12,Ergonomics/Mobility,virtual windows
