@@ -1,0 +1,7 @@
+Index,Human_Label,Machine_Label
+0,Existing storage compliment,drawer;button
+1,Entirely new furniture,chest;drawer
+2,Complement to existing furniture,user;storage
+3,Internal organizer,auto book organizer
+4,Independent container based system,accessories;automation
+5,Other,control;plastic

@@ -1,0 +1,5 @@
+Index,Human_Label,Machine_Label
+0,Infrastructure Adapters,switch;switches
+1,User-Interface Device,lights;button
+2,User-Interface Devices,lights;application
+3,Infrastructure Adapter,light;bulb

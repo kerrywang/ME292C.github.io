@@ -1,0 +1,44 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,stress release,in app feature that helps users destresstake a breather when they feel that they are getting overwhelmed,Emotional Impact,users;user
+2,online reservation,to prevent misuseabuse of physical reservation systems students would log in and place their reservation online thus it cant be changed by others and can be seen by all students,Study Convenience,app;systems
+3,classroom details,includes the number of tableschairs in addition to the capacity,Study Convenience,study;app
+4,lockdown hours,informs students of when buildings lock down eg hesse locks down at 6pm but students who are already inside can stay,Study Convenience,students;study
+5,mood music,creates a studying playlists for students of multiple genres could involve some themes,Emotional Impact,users;user
+6,aesthetic,make the mobile dividers aesthetic so students do not feel as depressed when studying use of warmuplifting colors,Emotional Impact,students;study
+7,centralized info,display all class schedules on a tv screen at the entrance of a building so it is centralized for students and easier to find,Service,users;user
+8,study buddies,find other students studying the similar subject in the hopes of making a study buddy,Service,students;study
+9,confidence booster,feature that provides upliftingencouraging words to boost the confidence of students while they study,Emotional Impact,students;study
+10,study tracker,reminds students to stay on track with their schedule would also suspend websites that are a distraction,Study Convenience,students;study
+11,specific picture,app has pictures of the study space for helping users understand,Service,study;app
+12,user feedback,app has feedback system from the users such as rating and comment,Service,app;systems
+13,find coffee place,app shows the nearest café or restaurant from the study space,Service,study;app
+14,easily login,the login id can be used by berkeley calcentral id,Service,app;systems
+15,don’t memorize,all names of libraries and buildings are shown in the app so it doesn’t need to know the names,Service,students;study
+16,give rewards,facilitating the users to check in system giving some rewards,Organization,users;user
+17,own map,app has own simple mapping systems rather than google map,Service,app;systems
+18,need clean restroom,app shows the restroom information such as number of the restroom modern and clean,Service,study;app
+19,eating food,app can have availability for food and drink in that study place,Study Convenience,study;app
+20,when close,app shows open hour of the study space,Service,study;app
+21,room reviews,find reviews on top rated rooms to see if it will fit your needs,Study Convenience,users;user
+22,hold my stuff,reach out to other users near by to watch your belongings as you go to the restroom  small break,Study Convenience,users;user
+23,group chat,create study groups and chat online to schedule the next meeting appointment,Service,students;study
+24,put it in the books,create a calendar with reminders that will alert you of any scheduled event,Service,users;user
+25,room picture ,provide a picture of the room so that it may seem more familiar to the user,Service,users;user
+26,friends,establish friends on the application who can study with you open a door or watch your stuff,Emotional Impact,students;study
+27,nearby recommendations,the application will offer hit selections nearby the user,Study Convenience,users;user
+28,detailed notes,create a database that harbors notes for ongoing lectures  discussion,Service,students;study
+29,copy cat,students can offer up their study habits and trends to provide a guideline for necessary work load,Service,students;study
+30,q & a forum,create a forum where students can ask questions about workload prereqs and professor  gsi preferences,Service,students;study
+31,electrical version of classroom schedule,"during design review presentation many people recommend to use screen rather than laminated paper
+place screen on each door or each building",Service,users;user
+32,print schedule of a room,students can print or see the schedule of a room on the app it is combined version of prototype 1 and 2,Service,users;user
+33,cafes and restaurants information,show the hour and menu of cafes and restaurants since food and drinks are the factors students care in studying,Service,students;study
+34,cafes and restaurants reserving system,"the second interviewee a cafe manager told me he wants to open longer if there are more students
+so if someone reserves a storecafe the owner will be notified and open longer so it helps community near campus",Service,students;study
+35,take a rest,let users post for their board game or pc game play locations so students can relieve stress by gathering together to play,Emotional Impact,users;user
+36,recommend class based on location,if user chooses all the courses heshe is interested in it recommends schedule based on distance of each class,Organization,users;user
+37,recommend study spots based on classroom locations,students have time between classes if nearby empty study spots are recommended for them they might not need to walk to libraries and get disappointed when its too crowded,Organization,students;study
+38,find study friends,there is a forum where users can find other friends to study together,Study Convenience,students;study
+39,course board,"in course forum there course names in uc berkeley students can go to the specific course section to find information including study friends
+they can post or comment to communicate one another",Study Convenience,students;study
+40,alarm if it is available,if a user has a preferred place and if it becomes available user can get notification,Service,users;user

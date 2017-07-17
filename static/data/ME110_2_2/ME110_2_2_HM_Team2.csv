@@ -1,0 +1,41 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,study grouper ,this service makes finding a study group of class easier than ever users can create or join an ad and even personalize their group preference by answering personality type questions ,Learning,feature;people
+2,tutoring service,an app offered in ios and android to find tutors on campus or sign up to be one tutors and tutees can process payments through the app,Service,app;people
+3,music skill exchange,a website that allows people to sign up for a time slot to exchange their music skills for example a guitar player can teach the guitar and learn violin in return,Learning,feature;people
+4,dance skill exchange,a service to sign up for a group of 510 dancers so they can learn dance move from each other,Socializing,feature;people
+5,party finder,this app allows you to access open parties on campus or create an ad for one party hosts can approve attendees before letting them see the party address,Service,app;people
+6,walking pets,using this website pet owners can find another pet owner to walk their pet together and exchange information ,Service,feature;people
+7,movie all nighters,having problem falling speed on a saturday night movie all nighters is a group netflix and chill scheduler,Socializing,match;frisbee
+8,soccer go,having problem finding a team for an unpopular sport soccer go allows you meet soccer lovers on campus and locate closes soccer field around you,Socializing,match;frisbee
+9,freeeeez b,ever seen frined playing frisbee on grass sites near moffit now you can join them or create a big group to play frisbee and football in the finals week,Socializing,match;frisbee
+10,nerd talk,a new club with graduate members reading a scientific paper per week and present the summery as an audio file in the app or in an inperson meeting  ,Service,app;people
+11,project group,an app feature that helps users filter and match potential partners to help startingworking on a project,Learning,feature;people
+12,the star,the highest rated tutor has herhis name first on the list on tutor app,Service,app;people
+13,no bias ,allow the study buddies to leave each other a review with a anonymous option,Service,feature;people
+14,pet sitter,an app feature that helps users find a reliable and affordable pet sitter for their best buddies,Service,feature;people
+15,polling,an app that allow users to vote and ask for opinions,Socializing,app;people
+16,book exchange,help people exchange their must read books ,Learning,feature;people
+17,pay it forward,a group where every person does one good thing for one other person in the group eg buying launch giving books tutor,Socializing,feature;people
+18,big bro and big sis,match an underclassman to an upperclassman for college experience advice,Service,match;frisbee
+19,video profile,an app that required users to have a video profile introducing their names so that the others can get a better sense of who they are,Service,app;people
+20,dine together,an app that helps users find 23 people to dine with,Service,app;people
+21,my family,some of the college students have familywifehusband and children this appor feature helps them to meet the other families around the campus,Socializing,feature;people
+22,quick friend,this is a feature for the app that people who have our rings or bracletes when they hand shake they automatically become friends without needing to send request,Service,app;people
+23,chat point,when two people become friend in the app whoever texts the other person heshe will get more points and can spend those points on other features of the app,Service,app;people
+24,online games,the points that people have gained they can use them in online gaming and gamble them,Service,match;frisbee
+25,find me a friend,this is an app or option in the app that everytime that you push the bottom it finds you a friendthat can accept or decline randolmy,Socializing,app;people
+26,what should i say?,some people due to the language problems do not know if the say something that would be awkward or not this feature helps them to sugeest them to say a specific sentence or not,Learning,feature;people
+27,events,based on your interests this app finds you all the events all over the campus,Service,app;people
+28,research labs,i figured there is not a single website for ucbnot even urap that shows all the research lab options for the students,Service,feature;people
+29,countryman,this app helps the people from the same country to get to know each other,Socializing,app;people
+30,food buddy,finds you people to go get some food based on the place that you chose so you wont eat alone,Socializing,feature;people
+31,3's get b's,a feature that puts you in a group of 3 for studying a specific topic,Learning,feature;people
+32,you sound nice,a feature that gives everyone a profile with a sound description so you can hear the other persons voice because people dont talk to get to know each other anymore,Socializing,feature;people
+33,drum roll please,a feature that based on your personalityinterests gives you a theme song like the ones wrestlers use when they walk into an arena,Service,feature;people
+34,spotitry,an app that lets local people add the songs theyre currently into based on genres,Service,app;people
+35,got skillz,an app that shares video lessons in skills one may have with other people ex dance singing cooking,Learning,match;frisbee
+36,yearbook,a local yearbook where people post pictures of peopleclassmates or other students  they believe fit the topics ie best eyes best cook best rapper etc,Socializing,match;frisbee
+37,plantz,a planting service that allows you to make a plant and someone plants it for you and sends you pics as it grows you can name your plant and share its profile with other plants,Service,app;people
+38,tell me about it,an app that allows you to post complaints or rants about anything,Socializing,app;people
+39,party chart,an app that lists all the parties going on at the moment that are open to the public could also apply to bars,Socializing,app;people
+40,fidgettiddler,an app that lets you fidget by pressing light up buttons all day this is especially great for people who cant sit still,Service,app;people

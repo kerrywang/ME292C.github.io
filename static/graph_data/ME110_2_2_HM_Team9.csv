@@ -1,0 +1,13 @@
+Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Concept_Indices
+0,Service,1,users;user,6,[7; 24; 25; 31; 32; 40]
+0,Service,0,students;study,8,[8; 15; 23; 28; 29; 30; 33; 34]
+3,Organization,0,students;study,1,[37]
+3,Organization,1,users;user,2,[16; 36]
+0,Service,3,app;systems,3,[12; 14; 17]
+0,Service,2,study;app,4,[11; 13; 18; 20]
+2,Study Convenience,0,students;study,4,[4; 10; 38; 39]
+2,Study Convenience,3,app;systems,1,[2]
+2,Study Convenience,1,users;user,3,[21; 22; 27]
+2,Study Convenience,2,study;app,2,[3; 19]
+1,Emotional Impact,0,students;study,3,[6; 9; 26]
+1,Emotional Impact,1,users;user,3,[1; 5; 35]
