@@ -6,7 +6,7 @@ env = Environment(
 teams_info = [
 	{"page_title":"Team DJR", "team_name":"Team DJR","team_number":"1"},
 	{"page_title":"Social Squirrels", "team_name":"Social Squirrels","team_number":"2"},
-	# {"page_title":"Fire Water", "team_name":"Fire Water","team_number":"3"},
+	{"page_title":"Fire Water", "team_name":"Fire Water","team_number":"3"},
 	{"page_title":"Team Four", "team_name":"Team Four","team_number":"4"},
 	{"page_title":"H2Woah", "team_name":"H2Woah","team_number":"5"},
 	{"page_title":"Drive for Life", "team_name":"Drive for Life","team_number":"6"},

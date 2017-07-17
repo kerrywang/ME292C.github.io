@@ -136,7 +136,7 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_2_HM_Team10.csv")
 
 	# ME110_2_2
-	od = OriginData("ME110_2_2_HM_Team2.csv")
+	od = OriginData("ME110_2_2_HM_Team10.csv")
 
 				
 

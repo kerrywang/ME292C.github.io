@@ -1,8 +1,7 @@
 Index,Human_Label,Machine_Label
-0,Social,bar;fireplace
-1,Optical Illusion,illusion;wheels
-2,Social / Optical Illusion,wires;frame
-3,Nostalgia,screen;box
-4,Installation,tubing;product
-5,Optical Illusion/Nostalgia,water;illusion
-6,Storage / New Concept,display;look
+0,Economy/Sustainability,energy;water
+1,Sustainability,community;garden
+2,Space saving,walls;lights
+3,Comfort,rail;house
+4,Economy,residents;center
+5,Comfort/Sustainability,furniture;functions

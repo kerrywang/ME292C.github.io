@@ -1,0 +1,8 @@
+Index,Human_Label,Machine_Label
+0,Social,bar;fireplace
+1,Optical Illusion,illusion;wheels
+2,Social / Optical Illusion,wires;frame
+3,Nostalgia,screen;box
+4,Installation,tubing;product
+5,Optical Illusion/Nostalgia,water;illusion
+6,Storage / New Concept,display;look
