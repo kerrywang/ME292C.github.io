@@ -1,8 +1,7 @@
 Index,Human_Label,Machine_Label
 0,Design,wheels;heat
-1,Disabilities,fire;people
-2,Detection,users;user
-3,Extinguish,rainfall sprinkler
-4,Communication/ report,people
-5,communication/ report,
-6,Night Fire,size
+1,Communication/ report,users;user
+2,Disabilities,fire;people
+3,Detection,people
+4,Night Fire,
+5,Extinguish,size

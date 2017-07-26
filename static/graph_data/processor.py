@@ -107,7 +107,7 @@ class OriginData(object):
 
 		with open(self.des_filename,'wb') as csvfile:
 			spamwriter = csv.writer(csvfile, delimiter=',',
-								quotechar='|', quoting=csv.QUOTE_MINIMAL)
+								quotechar='"', quoting=csv.QUOTE_MINIMAL)
 			spamwriter.writerow(['Human_Label_Index','Human_Label',"Machine_Label_Index", "Machine_Label","Bubble_size","Concept_Indices"])
 			for pos in concept_indices: 
 
@@ -115,7 +115,7 @@ class OriginData(object):
 		
 		with open("Mapping_"+self.des_filename,'wb') as csvfile:
 			spamwriter = csv.writer(csvfile, delimiter=',',
-								quotechar='|', quoting=csv.QUOTE_MINIMAL)
+								quotechar='"', quoting=csv.QUOTE_MINIMAL)
 			spamwriter.writerow(["Index","Human_Label","Machine_Label"])
 			print (len(human_label_list),len(machine_label_list))
 			for i in range(len(human_label_list)):

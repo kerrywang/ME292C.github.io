@@ -10,12 +10,12 @@ Concept Index,Concept Name,Description,Human Label,Machine Label
 9,vibration wrist band,alerts users if there is a fire by using vibration people who dont have or cannot afford smartwatches can use this,Communication/ report,users;user
 10,fire alarm with user control,turns off alarm if it is only a small fire andor already put out by user,Communication/ report,users;user
 11,smartphone compatibility,can customize features for different people including alerts such as sound light vibration,Communication/ report,users;user
-12,automatic emergency call,automatically calls the fire department when fire becomes really dangerous,communication/ report,fire;people
-13,user controlled fire alarm prevention system,allows users to control the alarms like home security system,communication/ report,users;user
-14,fire report button on necklace,button on a necklace for disabled people to instantly alert emergency services in extreme situation,communication/ report,fire;people
-15,flashing light built in,flashes bright lights in case of a fire for deaf people,communication/ report,fire;people
-16,smartphone connectivity,connects to smartphone for alerts and real time monitoring especially when the user is away from home,communication/ report,users;user
-17,internet connectivity,warns of nearby fires to alert people inside to evacuate in advance,communication/ report,users;user
+12,automatic emergency call,automatically calls the fire department when fire becomes really dangerous,Communication/ report,fire;people
+13,user controlled fire alarm prevention system,allows users to control the alarms like home security system,Communication/ report,users;user
+14,fire report button on necklace,button on a necklace for disabled people to instantly alert emergency services in extreme situation,Communication/ report,fire;people
+15,flashing light built in,flashes bright lights in case of a fire for deaf people,Communication/ report,fire;people
+16,smartphone connectivity,connects to smartphone for alerts and real time monitoring especially when the user is away from home,Communication/ report,users;user
+17,internet connectivity,warns of nearby fires to alert people inside to evacuate in advance,Communication/ report,users;user
 18,autonomous,move a portable robot extinguish fires assist people,Design,users;user
 19,fire proof,our robot is used for fire detection and prevention,Design,fire;people
 20,single use,can use itself to put out fireso it is gonna be cheaper,Design,
@@ -56,7 +56,7 @@ Concept Index,Concept Name,Description,Human Label,Machine Label
 55,fire fighter robot,this robot can detect and extinguish fire when detected you dont need more sprinklers,Extinguish,fire;people
 56,flight,flying capabilities for extinguishing robot,Extinguish,users;user
 57,ac system that keeps house cold,overheating causes fire to prevent that keep the house cold,Extinguish,fire;people
-58,rainfall sprinkler,evenly sprinkles the room,Extinguish,rainfall sprinkler
+58,rainfall sprinkler,evenly sprinkles the room,Extinguish,wheels;heat
 59,sound extinguishing,uses sound waves to extinguish fires at certain distances,Extinguish,wheels;heat
 60,gas vents,uses nonflammable gases to extinguish fires at distance like vortex rings more like an air vent not an extinguisher,Extinguish,wheels;heat
 61,targeting extinguisher,focuses extinguisher on source of fire,Extinguish,fire;people
