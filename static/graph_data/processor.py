@@ -7,7 +7,7 @@ class OriginData(object):
 		super(OriginData, self).__init__()
 		self.filename = "../data/" + filename
 		# For ME110_2
-		self.filename = "../data/ME110_2_2/" + filename
+		self.filename = "../data/DesInv/" + filename
 		self.des_filename = filename
 		self.concept_list = list()
 		self.graph_data()
@@ -136,7 +136,10 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_2_HM_Team10.csv")
 
 	# ME110_2_2
-	od = OriginData("ME110_2_2_HM_Team10.csv")
+	# od = OriginData("ME110_HM_Team1.csv")
+
+	# DesInv
+	od = OriginData("DesInv_HM_Team6.csv")
 
 				
 

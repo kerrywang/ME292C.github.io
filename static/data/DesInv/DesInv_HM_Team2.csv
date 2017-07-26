@@ -1,0 +1,51 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,3d flyby,rebuild models after scanning the patientsÍ bodies this can help students to see how it works,Receiving,students;professors
+2,instruction projector,directly project treatment instructions on injuries this can help doctors follow instructions and ensure operation quality,Better Treatment,doctors;operation
+3,ai doctors,use artificial intelligence to search database for case studies then analyses them for the best solutions,Better Treatment,doctors;models
+4,robot assistants,doctors can ask robots to do simple jobs for them during the operation robots can do their jobs more accurately than human assistants,Better Treatment,doctors;operation
+5,reality rebuild,students can experience the operation by vr glasses and tactual gloves they can see and touch as if they were doing the operation,Practicing ,glasses;eyes
+6,patients simulation,we can make a simulator of patients base on previous case studies students can experience treating by using the system the system can use vr or other equipments to promote the sense of reality,Practicing ,students;teachers
+7,penetrate eyesight,doctors can use special helmets with xray on it to see inner condition of patients immediately,Better Treatment,patients;doctors
+8,first aid _thermal imagery_,doctors can install a special lens on phones that enhance their phones to measure body temperature immediately this enables doctor to correctly treat patients when lack of equipments,Better Treatment,patients;doctors
+9,virtual classroom,students can learn at home watching their professors demonstrate operations,Receiving,students;professors
+10,pre operation simulation,doctors enter statics into computer then practice the operation,Better Treatment,doctors;operation
+11,treatexchange.org,a website integrates basic treatments together students can use it like a wikipedia,Remembering,students;teachers
+12,self check first aid,when patients are not feeling well they can use a software to diagnose themselves this can provide firstaid and save money for patients,Better Treatment,patients;doctors
+13,body simulators,students can use this gamelike software to discover what will happen when some parts of the body are going wrong this can help students memorize medical knowledge ,Remembering,students;professors
+14,ar enhancing instruction,students can use an advanced reality glass to get instructions without touching anything voice control and get directly get information,Practice/Remembering/Better Treatment,information;knowledge
+15,3d printing models,doctors can use 3d printing models to better explain their ideas ,Better Treatment,doctors;models
+16,memory master,personal medical knowledge management is difficult æbecause the quantity is too large ,Remembering,memory master
+17,take medicine on time,i discovered a example that a fruit with a spiked burdock can tightly stick to the dog we can also use this method to hang the medicine on the wall on the head of the bed and remind patients to take medicine on time,Remembering,take medicine on time
+18,gather knowledge,use a machine that can quickly search the information that had been learned,Remembering,information;database
+19,improve clarity,once we thought ahead and figured out the prototype of our product but we discovered this product can not strictly control the clarity of the product in this case we use highdefinition camera to guarantee its clarity,Better treatment,screen;camera
+20,alert & notification,we need to add some voice to our product this can be achieved by using biomimicry method for example imitate the voice of birds and other animals,Better treatment,alert & notification
+21,get help,every inexperienced doctors post unsolved question online and get help from experienced doctors ,Better treatment,doctors;treatment
+22,sound processing,watch the online video and use a sound processing machine to imitation the professorÍs voice let students have a feeling that their teachers are by their side and coach them,Better treatment,students;teachers
+23,resource sharing,we all know hospital have electronic medical record to record patient situation but not share to other hospitals if we connect these hospitals together doctors can view patientÍs situation more comprehensive,Better treatment,doctors;treatment
+24,real  time feedback from doctor to patient,as i mentioned above not only should we establish a information shared system between hospitals but also inform information to patients in this case we can use a mobile sensing machine to send realtime feedback about his physical condition,Receiving ,patients;doctors
+25,real  time feedback from experienced doctor to inexperienced patient,inexperienced doctors can sent realtime video to experienced doctors to get guidance,Receiving ,doctors;operation
+26,coach more students at the same time,usually when doing experiment teachers canÍt viewing all studentsÍ operation at the same time and give feedback using some mobile sensing machine doctors can remote viewing all students at the same time and tell ta which one should be guided,Practicing ,teachers;time
+27,communicate,using mobile sensing product medical students can watching teaching videos and discuss with partner about the problems in long distance,Practicing ,students;professors
+28,master knowledge,more communication about the problems inexperienced doctors will more understand the medical knowledge,Learn better,doctors;treatment
+29,frontier knowledge,once students get the information about the latest news and technologies upload the information to the communicated system to share the frontier knowledge to others,Learn better,information;knowledge
+30,practice better,get more guidance from the experienced doctors inexperienced doctor will be more skilled,Learn better,doctors;operation
+31,seeing through,many peopleÍs home are far away from hospitaland it may take much time to get to itthrough this methods you can always get firstaid from doctors,Better treatment,doctors;operation
+32,scanner,when you are having some pain but donÍt know whatÍs going on it can scan you and give you feedback of your body,Better treatment,body
+33,learning far,too many people around one table that you canÍt see the professor or whatÍs going on clearlythis can help you learn alone whenever and wherever,Receiving---Case Study,picture;table
+34,monitor,professor can see whatÍs going on through a glasses on your eyes on his own computerno need to gather together,Practicing---Hands-on,glasses;eyes
+35,glass remembers,sometime itÍs hard for students to remember something we create this to help you reference easily,Remembering,students;professors
+36,invisible exercise,its like doing an experiment or exercise via visual screen provided by the sensing,Practicing,screen;camera
+37,seeing through 2,doctors can record their treatment as a case study for students by sending the things on the icloud,Receiving,doctors;treatment
+38,real time feedback,by using this kind of book or some ipads while youÍre studying or marking on your book teachers can point out whatÍs going wrong,Receiving,teachers;time
+39,fly eyes,professor wear a kind of glasses that has several aspects like the eye of a fly that he can see many screen showing on the same time which helps reducing time waste,Practicing---Perceiving,glasses;eyes
+40,google it!,theres a google searching picture on the front we create a database like google that contains all the cases that medical students may want to search for information,Receiving,information;database
+41,glass remembers 2,when wearing this glasses itÍs like a camera that can capture everything that your eyes see and store it,Remembering,glasses;eyes
+42,another you,its like another visual you that shows all your physical health scanning by a sensing product that helps you find out the potential problems in your body,Better Treatment,body
+43,connect us!,patients just need to write down their symptoms on the computer and many similar cases and treatments will come out from the computer so that you can prejudge yourself,Better Treatment and Receiving,patients;doctors
+44,learning from seeing,heres a computerlike product that whatever you see or learn will have a picture shown to you so that you can understand and remember it quickly and clearly,Remembering and Receiving,picture;table
+45,real body,medical students may find it hard to try some real exercise on their own and they might not know whatÍs the name or proper names of every parts this body can reflect every parts when you touch it and it will speak out to show you the meaning or descriptions of it,Receiving,students;professors
+46,community based content creation,through a very easy to use capturing device users can make available online what they see and experience this would be especially helpful for educational purposes where students can learn from different practitioners,Better educational content ,students;teachers
+47,live video streaming ,through a similar capturing device content creators can broadcast their experience online so that users can tune in and experience what the users are experiencing ,Better educational content ,video;device
+48,real time instruction,users who use a capturing device can share the video footage with another users and the viewers can instruct or provide feedback to the device users realtime that is especially important for remote coaching  ,Better educational instruction,video;device
+49,remote diagnosing ,a patients family member can wear a capturing device and share the footage with a connected doctor so that distance is not a barrier to good treatment ,Remote medical services ,remote diagnosing 
+50,relive the moment,through a headmounted video capturing device users can revisit a moment that will be very beneficial when it comes to reviewing learning materials ,Better educational tools,video;device

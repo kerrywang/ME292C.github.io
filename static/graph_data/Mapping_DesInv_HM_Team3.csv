@@ -1,0 +1,18 @@
+Index,Human_Label,Machine_Label
+0,connection service,people;app
+1,physical product,users;application
+2,|language services, physical product|,language;someone
+3,Crowd Sourced Data,community;events
+4,Crowd sourced data,campus;location
+5,language services,glasses;glass
+6,|Crowd Sourced Data, Language Services|,information;messages
+7,|Physical Products, Crowd Sourced Data|,info;information
+8,crowd sourced data,events;app
+9,Physical Product & language service,users;breaking
+10,Language Services,translate
+11,Digital Services,issue;service
+12,|connection service, crowd source data|,info
+13,|Crowd Sourced Data ,Language Services|,metal head
+14,|Crowd Sourced Data, Connection Services|,delivery
+15,|Language Services, Crowd Sourced Data|,line;analogue
+16,Connection Services & Physical Product,people;ring

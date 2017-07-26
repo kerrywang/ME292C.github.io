@@ -1,0 +1,76 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,bike sharing,bike sharing,Faster Transportation ,bicycle;bike
+2,better time management,some kind of service that helps to layout time and optimize amount of work that can be done before it gets dark,Personal Improvements,campus;students
+3,panic button,students can hit a button which will alert all authorities in the area of their location and other biometrics in case of emergency,Personal Security,campus;students
+4,that was easy button,a less violent emergency button which focuses on getting someone to help you in case of emergency but not necessarily rush event,Personal Security,campus;students
+5,environment awareness,generally find a way to help with increasing personal awareness of environments such as mapslocations,Personal Awareness,idea;way
+6,activity awareness,generally find a way to help with increasing personal awareness of time for example understanding that at 1am the most crimes happen so its not a good idea to leave the library as opposed to leaving at 4am when most people may be asleep,Personal Awareness,idea;way
+7,augmented awareness,a wearable that may have sensing capability to provide user with relevantuseful information even with low visibility during night,Personal Awareness,campus;students
+8,ninja mode,if a robber cant see someone they cant rob someone,Personal Improvements,ninja mode
+9,personal lighting,personal lighting,Personal Security,personal lighting
+10,rent a dog,give more communal security by having a friendly dog to walk to your apartmentlocation not only are they cute but they can sense when other people are aroundunsafe situations,Communal Security,users;user
+11,drone dog guide,a drone could preanalyze a route that you input and potentially detect any suspicious activity around the area,Communal Security,activity;routes
+12,way points,special posts around campus that may help to guide a student around as well as have sensors  and update the path real time with suspicious circumstances,Personal Awareness,campus;students
+13,global lighting,general issue of figuring out how to bring more light into night time situations general theme of darkness is equivalent to insecurityuneasiness during transportation,Communal Security,users;user
+14,promote stronger community,general idea to create a more interconnected community that is more willing to help each other,Communal Security,idea;way
+15,trend analysis on streets,trend analysis on streets,Communal Security,activity;routes
+16,support personnel on demand,support personnel on demand,Communal Security,campus;students
+17,route sharing,students taking similar routes home could match and walk together to help improve safety and confidence,Communal Security,campus;students
+18,geo fence authorized users,much like how some buildings require keycard access campus could have a virtual fence that when crossed without authorization triggers some silent alarm,Communal Security,campus;students
+19,safe zones,safe zones,Communal Security,safe zones
+20,personal shuttles,shuttles that are less based on specific routes but by detecting student activity hotspots focus on where students actually are,Communal Security,activity;routes
+21,underground walkways that are safer,a series of tubes underground that allow for only authorized users to access which would go between common waypoints,Communal Security,users;user
+22,infra red goggles,improves personal awareness and visibility at night while not drawing extra attention to the user at night,Personal Awareness,users;user
+23,global agent awareness,having a way to track passively where people are and generate heatmaps for policemunicipal services to know physically how manywhere people are,Communal Security,users;user
+24,municipal sensor network,giving municipalities a wide range of telemetry options to track occurancesissues in the area,Communal Security,campus;students
+25,pepper spray turrets,pepper spray may not be easily usable in the middle of an encounter so automatic deployment may be useful,Communal Security,campus;students
+26,bikes available for students to rent,give bikes to students to rent rent period would be around 18 hours so that they can come back during the day to return the bike,Faster Transportation ,campus;students
+27,public location sharing,have a signpost that publicly shares all information about where anyone is,Communal Security,bicycle;bike
+28,active street post light the way,users could put in a location they want to get to and the light posts along the way would light up and show them where to go,Communal Security,users;user
+29,personal telemetry device,a very active telemetry package which would track your location using a multitude of sensors and automatically post all of that information onto a website where trusted family and authorities could view,Personal Security,campus;students
+30,dead man switch,when transitioning from a safe location to an unsafe location user holds down dead man switch signifying they are safe if they find themselves in an unsafe or uncomfortable situation they will let go of the switch and it will send a notification out to authorities or people of interest,Personal Security,users;user
+31,futurama vacuum,tube transportation ala vacuum lines maybe this was a problem of safe transportation and leads to thinking the speed of transportation is an issue,Faster Transportation ,users;user
+32,pufferfish cape,wear a cape which would expand tendrils when approached by unsettlinguncomfortable situation,Personal Security,activity;routes
+33,bio luminescent umbrella,shine light around a person giving more safety by bringing more light into an unknown area,Personal Security,campus;students
+34,bio luminescent bangle,lightup jewelry that can shine brightervibrate more when around other students are around creating a safety net for people to surround themselves with,Communal Security,campus;students
+35,personal slides to campus,make transportation more fun and fast by making slides go all over campus to interest points reduce stress by adding fun,Faster Transportation ,campus;students
+36,scheduling,since most robberies happen in a certain time frame at  night not too early or late a scheduling service could help students avoid risky times,Personal Improvements,users;user
+37,ease of use and accessibility,starting with a box design i determined that the product should be easy to operate under stress and also accessible to most of the student population,Personal Security,campus;students
+38,surroundings alert,lack of awareness can often increase risk of robbery and so a wearable that could augment awareness could help combat visibility issues at night,Personal Awareness,users;user
+39,increasing movement speed,with increased movement speed students spend less time in transit and also are a more difficult target,Personal Security,users;user
+40,street guide,map areas where more criminal activity tends to happen then find trends and characteristics of such areas to attempt to avoid or fix,Personal Security,activity;routes
+41,camouflage,tries to mask sound and visibility of students moving through campus to not draw unwanted attention,Personal Security,campus;students
+42,activity map,anonymously track student locations to create a heat map to help users avoid more barren areas,Communal Awareness,activity;routes
+43,safe points,have certain points on and off campus that provide an accessible safe location to get out of uncomfortable situations,Communal Security,campus;students
+44,smart street lighting,many parts of berkeley both on an off campus can be  poorly lit furthermore sensors can be integrated with street lights to provide real time info about safety conditions,Communal Security,campus;students
+45,community cohesion,stronger community bonds generally lead to decreased criminal activity but this is often difficult with the quick turn around times of student housing,Communal Security,activity;routes
+46,students parties shuttle,on the weekends provide an extra optional service to students allowing them to rent a shuttle and go safely to sf nighlife,Communal Security,campus;students
+47,uc shared route,a featureapp which shows where students going  and allows them to join it,Communal Security,campus;students
+48,uc sharing rides meetpoint,create some official uc meetpoints to students share their rides  safely,Communal Security,bicycle;bike
+49,express campus,in rush time provide nonstop ac transit buses from uc berkeley  sf,Communal Security,campus;students
+50,fast stairs,as in airports provide huge stairs between main buildings in uc campus,Communal Security,campus;students
+51,uc hub,a hub in campus to split students to their destinations in the best modal metro bus bike skate etc,Communal Security,campus;students
+52,skate sharing,as a bike sharing system provide skates sharing to students,Communal Security,bicycle;bike
+53,networking sensor,a sensor plugged in cal id which can provide all details linkedin facebook instagram email about people that you across in the campus geolocalization,Communal Awareness,campus;students
+54,uc drones guard,a openchannel to students watch the images around the campus before go to somewhere  goal  safety,Communal awareness,campus;students
+55,car sharing,a zap cars model but thinking just on berkley demand  perimeter,Communal Security,bicycle;bike
+56,noising street lamp ,when users feel unsafe they can press a button in some kind of app which associates campus lamps together into a network to make the nearby street lamp raise the alarm ,Communal Security,campus;students
+57,campus cable car,build certain cable car lines between two buildings and make them into a network to commute people in a certain route besides it can also become a good way to sightsee,Communal Security,campus;students
+58,identification ,when people enter the campus scope there are some virtual access control system to identify visitors,Communal Security,users;user
+59,mobile guard station ,when users feel unsafe they can use this app to call the nearby guard station who will work 24 hours to come to help them and the app will record users realtime address,Communal Security,users;user
+60,invisible man,gaining inspiration from chameleon users can wear a kind of cover to hide in the dark,Personal Security,users;user
+61,route condition forecast,its an app that can show the following immediate image of the way based on the users setting routes to avoid danger,Personal Security,activity;routes
+62,odour protection ,learning from skunks users can bring a sort of portable container that store scent once opened other people will flee away,Personal Security,users;user
+63,mobility scooter,the mode of operation seems like bike sharing  whereas it can include some extra services like recording routes and safe route recommendations which is based on the date it gathers in each ride,Faster Transportation ,campus;students
+64,signal detonator providing ,users carry some kind of thing that the function is just like the signal detonator and these products are provided in every building that is all user can take and return if not using it in the same place,Communal Security,users;user
+65,in time service ,by including the attribute of showing up immediately users will get help once they trigger the service when they are in danger or potential danger,Communal Security,users;user
+66,alternative methods,provide various methods for our customers to keep safe1bicycle sharing 2 night car service,Personal Safety,bicycle;bike
+67,services listing,make a list of all the services that we want to provide for our customers and choose 5 which are the most important,Personal Awareness,users;user
+68,bicycle umbrella,provides shelter for rainy days,Personal Safety,bicycle;bike
+69,bicycle sharing,oncampus bicycle sharing system free,Personal Safety,bicycle;bike
+70,special clothes,wear special clothes to make yourself hard to be noticed,Personal Safety,idea;way
+71,poster for bicycle sharing,main selling points1 cheap 2convenient 3not much to commit 4safe,Personal Awareness,bicycle;bike
+72,route recording,the bicycle can also record the route that the user usually use and provide safety advises,Personal Awareness,users;user
+73,alarm for crime,watch that shows the potential crime possibility at that time,Personal Awareness,users;user
+74,porters lodge,safety stations that scatter around the campus area provides 24 hours safety protection and life guidance,Communal Security,campus;students
+75,time recording on the bicycle,keeping record of users location and time they used to get home make sure all users reach their destination in a right timing,Personal Security,users;user
