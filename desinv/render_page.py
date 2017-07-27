@@ -4,12 +4,12 @@ env = Environment(
 	loader=FileSystemLoader("./")
 )
 teams_info = [
-	# {"page_title":"Team Phoebe", "team_name":"Team DJR","team_number":"1"},
-	{"page_title":"Team 2", "team_name":"Team 2","team_number":"2"},
-	{"page_title":"Team 3", "team_name":"Team 3","team_number":"3"},
-	{"page_title":"Team 4", "team_name":"Team 4","team_number":"4"},
-	{"page_title":"Team 5", "team_name":"Team 5","team_number":"5"},
-	{"page_title":"Team 6", "team_name":"Team 6","team_number":"6"}
+	{"page_title":"Team Phoebe", "team_name":"Team Phoebe","team_number":"1"},
+	{"page_title":"Team Summer", "team_name":"Team Summer","team_number":"2"},
+	{"page_title":"Team Connect", "team_name":"Team Connect","team_number":"3"},
+	{"page_title":"Team I4G", "team_name":"Team I4G","team_number":"4"},
+	{"page_title":"Team BFF'S", "team_name":"Team BFF'S","team_number":"5"},
+	{"page_title":"Team Fire Away", "team_name":"Team Fire Away","team_number":"6"}
 	 
 
 	# {"page_title":"HM Plot", "team_name":"IoT/Smart home","team_number":"6"},
