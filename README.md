@@ -1,10 +1,8 @@
-## Welcome to ME110
+## Welcome to Design Thinking
 
+We generated the HM Plot or HH Plot for 6 teams of design thinkers
 
-
-So far, we generated the HM Plot for 5 teams out of all the 15 teams. 
-
-Try to click x-, y- tick labels and dots.
+Try to click x-, y- tick labels and bubbles.
 
 * [Team1](./desinv/team1.html)
 * [Team2](./desinv/team2.html)

@@ -1,0 +1,61 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,trip planner,allows you to store multiple trip plans and insert your own schedule for the day,Apps,Apps
+2,intalk,allows you to anonymously talk to other passengers,Apps,Apps
+3,social online,social media app for passengers,Apps,Apps
+4,bart dating app,bart app for commuters ala tinder,Apps,Apps
+5,mobile app,alerts user of times delays etc,Apps,Apps
+6,interactive game,game you can play while on the bart,Apps,Apps
+7,comfy bart,app that allows you to adjust settings in car like temperature light etc,Apps,Apps
+8,bart helper,shows map and stops in real time,Apps,Apps
+9,voice only app,app that communicates about bart through voice interface,Apps,Apps
+10,temperature conditioner,make you feel more comfortable no matter too hot or cold,Cabin Feature,Cabin Feature
+11,brain clear,help you wake your brain up by solving some question,Cabin Feature,Cabin Feature
+12,alarm,when emergency happens on train,Cabin Feature,Cabin Feature
+13,push the button, surprise box with push button help riders to relax,Cabin Feature,Cabin Feature
+14,window monitor,window monitor that shows train info,Cabin Feature,Cabin Feature
+15,flying balloon,flying in the cabin to signal stops ,Cabin Feature,Cabin Feature
+16,material of seat,easy to clean material for seats inside train,Cabin Feature,Cabin Feature
+17,music memory,musics play and differ from each stops to signal,Cabin Feature,Cabin Feature
+18,charger in cabin,chargers that prevent riders smart phone battery from dying,Cabin Feature,Cabin Feature
+19,juke box,wifi connected accessed juke box playing music,Cabin Feature,Cabin Feature
+20,bart box,builtin platform,Cabin Feature,Cabin Feature
+21,in seat device,inseat device that provide services,Cabin Feature,Cabin Feature
+22,bart clock,displays info about station train is headed to ,Cabin Feature,Cabin Feature
+23,in car monitor,displays info about station train is headed to ,Cabin Feature,Cabin Feature
+24,seat speakers,to hear personalized announcements from seats like which stop,Cabin Feature,Cabin Feature
+25,interactive window,touch screen window that gives information about the trip,Cabin Feature,Cabin Feature
+26,musical box car,provide diverse music to those who want to release their depress,Cabin Function,Cabin Function
+27,silent box car,provide a silent place to those who want to take a rest,Cabin Function,Cabin Function
+28,changeable ceiling,provide different scenery or feeling by changing ceiling,Cabin Function,Cabin Function
+29,active cabin,create a space for activities,Cabin Function,Cabin Function
+30,premium seats,multi function cabin,Cabin Function,Cabin Function
+31,upper level,release peoples depress,Cabin Function,Cabin Function
+32,transportation radius,make a comfortable place for to stay and communicate,Cabin Function,Cabin Function
+33,bart community garden,create a comfortable and beautiful space for people,Cabin Function,Cabin Function
+34,food map,once you hit the bottom it will help you find the nearest restaurant recommend,Map,Map
+35,travel map,interactive planner,Map,Map
+36,interactive map,map that uses location to generate userspecific info,Map,Map
+37,projector,projects bart infoallows conductor to illustrate announcements,Map,Map
+38,energy vendor,provide supply to traveler,Misc,Misc
+39,premium seats,pay to access better seats,Misc,Misc
+40,upper level,shopsrestrooms above station,Misc,Misc
+41,transportation radius,suggests best possible mode of transportation,Misc,Misc
+42,clean robot,goes around cleaning car,Robot,Robot
+43,bart company,robot designed like a person to interact with passengers,Robot,Robot
+44,bart tarts,small robot that moves around cabin,Robot,Robot
+45,bart buddy,small box shaped robot that walks around the cabin communicating with people,Robot,Robot
+46,in seat buddy,robot that is attached to each seat,Robot,Robot
+47,eye mask,show riders destination help other to take inner or outer seat,Wearable Device,Wearable Device
+48,bart vr glasses,provide a cool experience and make fun for those who feel boring,Wearable Device,Wearable Device
+49,quiet journey,to block out noise from moving train and be aware of stops,Wearable Device,Wearable Device
+50,bart headphones,to block out noise from moving train,Wearable Device,Wearable Device
+51,clever watch,with holographic,Wearable Device,Wearable Device
+52,smart ear plugs,to block out noise from moving train and be aware of stops,Wearable Device,Wearable Device
+53,bart shades,this pair of glasses is cool to wear and provide info,Wearable Device,Wearable Device
+54,bart shoes,vibrate at your destination,Wearable Device,Wearable Device
+55,bart earpieces,communicates essential info,Wearable Device,Wearable Device
+56,bart watch,multifunction watch bart service,Wearable Device,Wearable Device
+57,jewelry,beautiful jewelry combine service function,Wearable Device,Wearable Device
+58,portable device,provides bart service and train info,Wearable Device,Wearable Device
+59,bart glasses,map projection changes shade based on time of day,Wearable Device,Wearable Device
+60,personal device,you get and return at exit,Wearable Device,Wearable Device

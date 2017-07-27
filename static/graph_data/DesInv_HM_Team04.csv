@@ -1,0 +1,9 @@
+Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Concept_Indices
+0,Communal Security,0,Communal Security,35,[10; 11; 13; 14; 15; 16; 17; 18; 19; 20; 21; 23; 24; 25; 27; 28; 34; 43; 44; 45; 46; 47; 48; 49; 50; 51; 52; 55; 56; 57; 58; 59; 64; 65; 74]
+3,Faster Transportation,3,Faster Transportation ,5,[1; 26; 31; 35; 63]
+6,Communal Awareness,6,Communal Awareness,2,[42; 53]
+4,Personal Safety,4,Personal Safety,4,[66; 68; 69; 70]
+7,Communal awareness,7,Communal awareness,1,[54]
+2,Personal Awareness,2,Personal Awareness,10,[5; 6; 7; 12; 22; 38; 67; 71; 72; 73]
+1,Personal Security,1,Personal Security,15,[3; 4; 9; 29; 30; 32; 33; 37; 39; 40; 41; 60; 61; 62; 75]
+5,Personal Improvements,5,Personal Improvements,3,[2; 8; 36]

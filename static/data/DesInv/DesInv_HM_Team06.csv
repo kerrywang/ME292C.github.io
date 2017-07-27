@@ -1,0 +1,62 @@
+Concept Index,Concept Name,Description,Human Label,Machine Label
+1,special for disabilities,a special model for people with disabilities,Disabilities,Disabilities
+2,avatar for disabled people,allows disabled people to have functional legs senses etc in case of fire,Disabilities,Disabilities
+3,automatic evacuation,the device automatically evacuates people who need help ,Disabilities,Disabilities
+4,fire suit,a fireproof suit to wear in extreme situations when fire cannot be controlled,Disabilities,Disabilities
+5,fireproof room,if evacuation is not possible this room allows for people to wait out the fire like a safe,Disabilities,Disabilities
+6,fire bubble,expanding bubble for wheelchair bound people if evacuation is not possible provides clean air until services arrive,Disabilities,Disabilities
+7,fire proof wheelchair,a fireproof wheelchair so that it will not catchspreadfire during evacuation,Disabilities,Disabilities
+8,a fire alarm app on apple watch smartwatches,alerts users in the best ways for the individual user deaf people flash light blind people sound both deaf and blind vibration,Communication/ report,Communication/ report
+9,vibration wrist band,alerts users if there is a fire by using vibration people who dont have or cannot afford smartwatches can use this,Communication/ report,Communication/ report
+10,fire alarm with user control,turns off alarm if it is only a small fire andor already put out by user,Communication/ report,Communication/ report
+11,smartphone compatibility,can customize features for different people including alerts such as sound light vibration,Communication/ report,Communication/ report
+12,automatic emergency call,automatically calls the fire department when fire becomes really dangerous,Communication/ report,Communication/ report
+13,user controlled fire alarm prevention system,allows users to control the alarms like home security system,Communication/ report,Communication/ report
+14,fire report button on necklace,button on a necklace for disabled people to instantly alert emergency services in extreme situation,Communication/ report,Communication/ report
+15,flashing light built in,flashes bright lights in case of a fire for deaf people,Communication/ report,Communication/ report
+16,smartphone connectivity,connects to smartphone for alerts and real time monitoring especially when the user is away from home,Communication/ report,Communication/ report
+17,internet connectivity,warns of nearby fires to alert people inside to evacuate in advance,Communication/ report,Communication/ report
+18,autonomous,move a portable robot extinguish fires assist people,Design,Design
+19,fire proof,our robot is used for fire detection and prevention,Design,Design
+20,single use,can use itself to put out fireso it is gonna be cheaper,Design,Design
+21,machine learning,device learns user habit and develops warnings  smoke alarm sensitivity,Design,Design
+22,add on features,users can buy more expensive attachments and add on to base model,Design,Design
+23,size of smoke detector,looks like smoke detector small and circular from outside,Design,Design
+24,corner mount,reduce material by being mounted in the corner of a room,Design,Design
+25,modular camera,able to attach camera to most existing smoke detectors,Design,Design
+26,wheels,be able to run,Design,Design
+27,escape route,lightedauditory escape route,Design,Design
+28,minimalism,simplistic user interface across design,Design,Design
+29,affordable,device is affordable to anyone who needs it,Design,Design
+30,varying plans,different plans for people living in higher risk areas,Design,Design
+31,modular camera,can install a device for every room that needs one,Design,Design
+32,durable,metal or other fireproof material outside,Design,Design
+33,sensitivity adjustment,sensitivity for heat detection can be modified by user in case of gas stove or use of lighters,Design,Design
+34,easy to install,can be added on or off,Design,Design
+35,size,not occupy too much space in home,Design,Design
+36,wheels,enables quick ground transport if needed,Design,Design
+37,flying wings,allows people to quickly and safety evacuate,Design,Design
+38,security camera,thermal camera can double as a security camera,Detection,Detection
+39,thermal camera,use a thermal camera to detect abnormal heat levels,Detection,Detection
+40,recyclable monitor,monitor trash areas for high fire hazard,Detection,Detection
+41,detector for deaf people,alerts deaf people that cant hear the sounds of normal smoke detectors,Detection,Detection
+42,kitchen safety stove,stops cooking if unsafe,Detection,Detection
+43,flammable item sweeper,sweeps flammable items into a landfill,Detection,Detection
+44,camera,detects heat possible fire sources,Detection,Detection
+45,fire scanner,scans the entire place searching for fire or possible sources of fire,Detection,Detection
+46,oxygen monitor,used to determine if windowsdoors can be open warns of backdraft,Detection,Detection
+47,anemometer,can alert users on which windows are safe to open,Detection,Detection
+48,alarm,to wake up users,Night Fire,Night Fire
+49,night fire wake up,makes sure people can wake up when there is some night fire,Night Fire,Night Fire
+50,night watch goggle,mimics owls and makes it easier to see at night,Night Fire,Night Fire
+51,water alarm,sprays water at sleeping people to wake up for evacuation,Night Fire,Night Fire
+52,gas mask,provides clean air and prevent smoke inhalation and increase survivability,Extinguish,Extinguish
+53,air lock,seal a room without anyone inside and suck out the air to extinguish fire faster,Extinguish,Extinguish
+54,powder hose,shoots extinguishing powder at fire like salt gun,Extinguish,Extinguish
+55,fire fighter robot,this robot can detect and extinguish fire when detected you dont need more sprinklers,Extinguish,Extinguish
+56,flight,flying capabilities for extinguishing robot,Extinguish,Extinguish
+57,ac system that keeps house cold,overheating causes fire to prevent that keep the house cold,Extinguish,Extinguish
+58,rainfall sprinkler,evenly sprinkles the room,Extinguish,Extinguish
+59,sound extinguishing,uses sound waves to extinguish fires at certain distances,Extinguish,Extinguish
+60,gas vents,uses nonflammable gases to extinguish fires at distance like vortex rings more like an air vent not an extinguisher,Extinguish,Extinguish
+61,targeting extinguisher,focuses extinguisher on source of fire,Extinguish,Extinguish
