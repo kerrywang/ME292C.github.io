@@ -3,11 +3,13 @@ import numpy as np
 
 class OriginData(object):
 	"""docstring for OriginData"""
-	def __init__(self, filename):
+	def __init__(self, filename, dirname=None):
 		super(OriginData, self).__init__()
-		self.filename = "../data/" + filename
-		# For ME110_2
-		self.filename = "../data/DesInv/" + filename
+		if dirname == None:
+			self.filename = "../data/" + filename
+		else:
+		
+			self.filename = "../data/"+ dirname+ "/" + filename
 		self.des_filename = filename
 		self.concept_list = list()
 		self.graph_data()
@@ -139,7 +141,7 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_HM_Team1.csv")
 
 	# DesInv
-	od = OriginData("DesInv_HM_Team06.csv")
+	od = OriginData("DesInv_HM_Team06.csv","DesInv")
 
 				
 
