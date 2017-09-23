@@ -1,16 +1,18 @@
 page_render = function(num){
 
-	var concept_file = "../static/data/Test_Team.csv",
-		mapping_file = "../static/graph_data/Mapping_Test_Team.csv",
-		graph_file = "../static/graph_data/Test_Team.csv";
+	// var concept_file = "../static/data/Human_manchine_details_des_Team1.csv",
+	// 	mapping_file = "../static/graph_data/Mapping_Human_manchine_details_des_Team1.csv",
+	// 	graph_file = "../static/graph_data/Human_manchine_details_des_Team1.csv";
 
-
+	var concept_file = "../static/data/OverView.csv",
+		mapping_file = "../static/graph_data/Mapping_OverView.csv",
+		graph_file = "../static/graph_data/OverView.csv";
 
 	var margin = {top: 20, right:20, bottom: 80, left: 100},
 		width = 500 - margin.left - margin.right,
 		height = 500 - margin.top - margin.bottom;
 
-	// setup x 
+	// setup x
 	var xValue = function(d) {
 			// console.log(d.Human_Label_Index);
 			return d.Human_Label_Index;
@@ -23,8 +25,6 @@ page_render = function(num){
 		}
 		xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
-
-	 
 	// setup y
 	var yValue = function(d) {return d.Machine_Label_Index;},
 		yScale = d3.scale.linear().range([height, 0]),
@@ -50,7 +50,7 @@ page_render = function(num){
 		data.forEach(function(d){
 			d.Index =+ d.Index;
 			// console.log(d.Machine_Label)
-			
+
 		});
 		// x-axis
 		xScale.domain([0,data.length-1]);
@@ -108,7 +108,6 @@ page_render = function(num){
 			.attr("transform", "rotate(-90)")
 			.attr("y", 6)
 			.attr("dy", ".71em")
-			
 			.style("text-anchor", "end")
 			.text("Machine Cluster");
 
@@ -123,50 +122,54 @@ page_render = function(num){
 				})
 			});
 
-	});
 
-	d3.csv(graph_file,function(error, data){
-		// change string (from CSV) into proper format
-		data.forEach(function(d){
-			d.Bubble_size = +d.Bubble_size
-			d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
-			d.Human_Label_Index = +d.Human_Label_Index
-			d.Machine_Label_Index = +d.Machine_Label_Index
-			// console.log(d)
-		});
-		svg.selectAll(".dot")
-			.data(data)
-			.enter().append("circle")
-			.attr("class", "dot")
-			.attr("r",function(d){
-				return d.Bubble_size*3;
-			})
-			.attr("cx", xMap)
-			.attr("cy", yMap)
-			.style("fill","#550000")
-			.style("opacity",.9)
-			.on("click", function(d){
-				// console.log(d);
-				// console.log(d.Human_Label + ":" + d.Machine_Label)
-				d3.csv(concept_file,function(csv){
-					csv = csv.filter(function(row){
-						return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+		d3.csv(graph_file,function(error, data){
+			// change string (from CSV) into proper format
+			data.forEach(function(d){
+				d.Bubble_size = +d.Bubble_size
+				d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
+				d.Human_Label_Index = +d.Human_Label_Index
+				d.Machine_Label_Index = +d.Machine_Label_Index
+				// console.log(d)
+			});
+
+			svg.selectAll(".dot")
+				.data(data)
+				.enter().append("circle")
+				.attr("class", "dot")
+				.attr("r",function(d){
+					return d.Bubble_size*3;
+				})
+				.attr("cx", xMap)
+				.attr("cy", yMap)
+				.style("fill","#550000")
+				.style("opacity",.9)
+				.on("click", function(d){
+					// console.log(d);
+					// console.log(d.Human_Label + ":" + d.Machine_Label)
+					d3.csv(concept_file,function(csv){
+						csv = csv.filter(function(row){
+							return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+						});
+						// console.log(csv);
+						tabulate(csv);
 					});
-					// console.log(csv);
-					tabulate(csv);
-				});
-			})
-			.on("mouseover",function(d){
-				// console.log(d);
-				tooltip.transition()
-					.duration(200)
-					.style("opacity", .9)
-					.style("left", (d3.event.pageX + 5) + "px")
-					.style("top", (d3.event.pageY - 28) + "px");
-				tooltip.html(d.Concept_Indices);
-			})
+				})
+				.on("mouseover",function(d){
+					// console.log(d);
+					tooltip.transition()
+						.duration(200)
+						.style("opacity", .9)
+						.style("left", (d3.event.pageX + 5) + "px")
+						.style("top", (d3.event.pageY - 28) + "px");
+					tooltip.html(d.Concept_Indices);
+				})
+
+		});
 
 	});
+
+
 
 	d3.csv(concept_file,function(data){
 		tabulate(data);
@@ -174,6 +177,7 @@ page_render = function(num){
 	});
 
 	tabulate = function(data){
+	    console.log(data[0])
 		d3.select("#table > *").remove()
 		var table = d3.select("#table").append('table')
 		var thead = table.append('thead')
