@@ -1,0 +1,11 @@
+Index,Human_Label,Machine_Label
+0,cart;shopping,Shopping Cart Device
+1,robot;food,Robot
+2,people;monitor,Wearable device
+3,bottle;water,Home appliance
+4,app;food,Apps(Dining)
+5,intake;muscle,Wearable Device
+6,food;scanner,wearable device
+7,grocery;bag,Grocery Bags
+8,suggestions;fit,Apps (shopping)
+9,,Staying hydrated

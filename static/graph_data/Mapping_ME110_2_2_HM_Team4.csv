@@ -1,9 +1,0 @@
-Index,Human_Label,Machine_Label
-0,Service,lock;bike
-1,Infrastructure,bike;bikes
-2,slow thief,thief;bike
-3,Surveillance,bike;app
-4,Theft prevention,alarm bitlock
-5,Surveillance/Service,bikes;bike
-6,bike construction,parking;bike
-7,Locking process,lock;people

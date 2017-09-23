@@ -1,7 +1,0 @@
-Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Concept_Indices
-0,Design,0,Design,20,[18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37]
-5,Night Fire,5,Night Fire,4,[48; 49; 50; 51]
-4,Disabilities,4,Disabilities,7,[1; 2; 3; 4; 5; 6; 7]
-2,Detection,2,Detection,10,[38; 39; 40; 41; 42; 43; 44; 45; 46; 47]
-1,Communication/ report,1,Communication/ report,10,[8; 9; 10; 11; 12; 13; 14; 15; 16; 17]
-3,Extinguish,3,Extinguish,10,[52; 53; 54; 55; 56; 57; 58; 59; 60; 61]
