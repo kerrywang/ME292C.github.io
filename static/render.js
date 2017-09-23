@@ -1,8 +1,8 @@
 page_render = function(num){
 
-	var concept_file = "static/data/Test_Team.csv",
-		mapping_file = "static/graph_data/Mapping_Test_Team.csv",
-		graph_file = "static/graph_data/Test_Team.csv";
+	var concept_file = "../static/data/Test_Team.csv",
+		mapping_file = "../static/graph_data/Mapping_Test_Team.csv",
+		graph_file = "../static/graph_data/Test_Team.csv";
 
 
 
