@@ -1,12 +1,28 @@
-page_render = function(num){
+page_render = function(num, type){
 
-	// var concept_file = "../static/data/Human_manchine_details_des_Team1.csv",
-	// 	mapping_file = "../static/graph_data/Mapping_Human_manchine_details_des_Team1.csv",
-	// 	graph_file = "../static/graph_data/Human_manchine_details_des_Team1.csv";
+    d3.select(".chart").selectAll("svg").remove();
+    d3.selectAll("tooltip").remove();
+	// 	mapping_file = mapping_file,
+	// 	graph_file = graph_file;
+    console.log(type)
+	var concept_file = "../static/data/Team" + num.toString()
+	var	mapping_file = "../static/graph_data/Mapping_Team" + num.toString()
+	var	graph_file = "../static/graph_data/Team" + num.toString()
 
-	var concept_file = "../static/data/OverView.csv",
-		mapping_file = "../static/graph_data/Mapping_OverView.csv",
-		graph_file = "../static/graph_data/OverView.csv";
+	if (type == "Equal") {
+		concept_file += "_Equal.csv";
+		mapping_file += "_Equal.csv";
+		graph_file += "_Equal.csv";
+	} else if (type == "Half") {
+		concept_file += "_Half.csv";
+		mapping_file += "_Half.csv";
+		graph_file += "_Half.csv";
+	} else if (type == "Double") {
+		concept_file += "_Double.csv";
+		mapping_file += "_Double.csv";
+		graph_file += "_Double.csv";
+	}
+//	console.log(mapping_file)
 
 	var margin = {top: 20, right:20, bottom: 80, left: 100},
 		width = 500 - margin.left - margin.right,
@@ -14,13 +30,13 @@ page_render = function(num){
 
 	// setup x
 	var xValue = function(d) {
-			// console.log(d.Human_Label_Index);
+//			 console.log(d.Human_Label_Index);
 			return d.Human_Label_Index;
 		},
 		xScale = d3.scale.linear().range([0,width]),
 		xMap = function(d) {
-			// console.log("xValue:"+xValue(d));
-			// console.log("xScale:"+xScale(xValue(d)));
+//			 console.log("xValue:"+xValue(d));
+//			 console.log("xScale:"+xScale(xValue(d)));
 			return xScale(xValue(d));
 		}
 		xAxis = d3.svg.axis().scale(xScale).orient("bottom");
@@ -29,7 +45,7 @@ page_render = function(num){
 	var yValue = function(d) {return d.Machine_Label_Index;},
 		yScale = d3.scale.linear().range([height, 0]),
 		yMap = function(d) {
-			// console.log("yValue:"+yValue(d));
+//			 console.log("yValue:"+yValue(d));
 			return yScale(yValue(d));
 		}
 		yAxis = d3.svg.axis().scale(yScale).orient("left");
@@ -47,16 +63,26 @@ page_render = function(num){
 		.style("opacity", 0);
 
 	d3.csv(mapping_file,function(error, data){
+	    console.log(data)
+        var Human_Length = 0;
+        var Machine_Length = 0;
 		data.forEach(function(d){
+		    if (d.Machine_Index != "") Machine_Length += 1;
+		    if (d.Human_Index != "") Human_Length += 1;
 			d.Index =+ d.Index;
-			// console.log(d.Machine_Label)
+			console.log(Machine_Length)
+			console.log(Human_Length)
+            console.log(">>>>>>>>>>>>>>>>>>>>>>")
 
 		});
 		// x-axis
-		xScale.domain([0,data.length-1]);
-		xAxis.ticks(data.length).tickFormat(function(d,i){
-				// console.log(d);
-				return data[d].Human_Label;
+		xScale.domain([0,Human_Length - 1]); // changed from data.length - 1
+		xAxis.ticks(Human_Length).tickFormat(function(d,i){ // changed from data.length
+				console.log(data[d].Human_Index);
+
+				if (data[d].Human_Index != "") {
+				    return data[d].Human_Label;
+				}
 			});
 
 		svg.append("g")
@@ -85,15 +111,18 @@ page_render = function(num){
 					csv = csv.filter(function(row){
 						return row["Human Label"] == data[d].Human_Label;
 					});
-					// console.log(csv);
+//					console.log(csv);
 					tabulate(csv);
 				});
 			})
 
 		// y-axis
-		yScale.domain([0,data.length -1]);
-		yAxis.ticks(data.length).tickFormat(function(d,i){
-			return data[d].Machine_Label;
+		yScale.domain([0,Machine_Length - 1]);
+		yAxis.ticks(Machine_Length).tickFormat(function(d,i){
+		    if (data[d].Machine_Index != "") {
+		        console.log(data[d].Machine_Label.replace(";", " and "));
+			    return data[d].Machine_Label.replace(";", " and ");
+			}
 		})
 
 		svg.append("g")
@@ -117,7 +146,7 @@ page_render = function(num){
 					csv = csv.filter(function(row){
 						return row["Machine Label"] == data[d].Machine_Label;
 					});
-					// console.log(csv);
+//					 console.log(csv);
 					tabulate(csv);
 				})
 			});
@@ -130,7 +159,7 @@ page_render = function(num){
 				d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
 				d.Human_Label_Index = +d.Human_Label_Index
 				d.Machine_Label_Index = +d.Machine_Label_Index
-				// console.log(d)
+//				 console.log(d)
 			});
 
 			svg.selectAll(".dot")
@@ -142,27 +171,28 @@ page_render = function(num){
 				})
 				.attr("cx", xMap)
 				.attr("cy", yMap)
-				.style("fill","#550000")
+				.style("fill","#d8452f")
 				.style("opacity",.9)
 				.on("click", function(d){
-					// console.log(d);
-					// console.log(d.Human_Label + ":" + d.Machine_Label)
+//					 console.log(d);
+//					 console.log(d.Human_Label + ":" + d.Machine_Label)
 					d3.csv(concept_file,function(csv){
+//						console.log(csv);
 						csv = csv.filter(function(row){
 							return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
 						});
-						// console.log(csv);
+//						 console.log(csv);
 						tabulate(csv);
 					});
 				})
 				.on("mouseover",function(d){
-					// console.log(d);
+//					 console.log(d);
 					tooltip.transition()
 						.duration(200)
 						.style("opacity", .9)
 						.style("left", (d3.event.pageX + 5) + "px")
 						.style("top", (d3.event.pageY - 28) + "px");
-					tooltip.html(d.Concept_Indices);
+//					tooltip.html(d.Concept_Indices);
 				})
 
 		});
@@ -177,14 +207,14 @@ page_render = function(num){
 	});
 
 	tabulate = function(data){
-	    console.log(data[0])
+//	    console.log(data[0])
 		d3.select("#table > *").remove()
 		var table = d3.select("#table").append('table')
 		var thead = table.append('thead')
 		var tbody = table.append('tbody')
 
 		columns = Object.keys(data[0])
-		// console.log(columns)
+//		 console.log(columns)
 
 		//header row
 		thead.append('tr')
@@ -211,6 +241,7 @@ page_render = function(num){
 
 
 		return table;
-		console.log("Generated a table");
+//		console.log("Generated a table");
 	}
+//	        d3.selectAll("svg").remove();
 }

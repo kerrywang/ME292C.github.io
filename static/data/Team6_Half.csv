@@ -1,0 +1,62 @@
+index,Concept Name,Concpet Description,Human Label,Machine Label
+1,varying plans,different plans for people living in higher risk areas,Design,people
+2,a fire alarm app on apple watch smartwatches,alerts users in the best ways for the individual user deaf people flash light blind people sound both deaf and blind vibration,Communication/ report,fire;people
+3,vibration wrist band,alerts users if there is a fire by using vibration people who dont have or cannot afford smartwatches can use this,Communication/ report,fire;people
+4,fire alarm with user control,turns off alarm if it is only a small fire andor already put out by user,Communication/ report,fire;people
+5,smartphone compatibility,can customize features for different people including alerts such as sound light vibration,Communication/ report,fire;people
+6,automatic emergency call,automatically calls the fire department when fire becomes really dangerous,Communication/ report,fire;people
+7,user controlled fire alarm prevention system,allows users to control the alarms like home security system,Communication/ report,fire;people
+8,fire report button on necklace,button on a necklace for disabled people to instantly alert emergency services in extreme situation,Communication/ report,fire;people
+9,flashing light built in,flashes bright lights in case of a fire for deaf people,Communication/ report,fire;people
+10,smartphone connectivity,connects to smartphone for alerts and real time monitoring especially when the user is away from home,Communication/ report,fire;people
+11,internet connectivity,warns of nearby fires to alert people inside to evacuate in advance,Communication/ report,fire;people
+12,security camera,thermal camera can double as a security camera,Detection,fire;people
+13,recyclable monitor,monitor trash areas for high fire hazard,Detection,fire;people
+14,detector for deaf people,alerts deaf people that cant hear the sounds of normal smoke detectors,Detection,fire;people
+15,kitchen safety stove,stops cooking if unsafe,Detection,fire;people
+16,flammable item sweeper,sweeps flammable items into a landfill,Detection,fire;people
+17,camera,detects heat possible fire sources,Detection,fire;people
+18,fire scanner,scans the entire place searching for fire or possible sources of fire,Detection,fire;people
+19,anemometer,can alert users on which windows are safe to open,Detection,fire;people
+20,thermal camera,use a thermal camera to detect abnormal heat levels,Detection,wheels;heat
+21,oxygen monitor,used to determine if windowsdoors can be open warns of backdraft,Detection,wheels;heat
+22,avatar for disabled people,allows disabled people to have functional legs senses etc in case of fire,Disabilities,fire;people
+23,automatic evacuation,the device automatically evacuates people who need help ,Disabilities,fire;people
+24,fire suit,a fireproof suit to wear in extreme situations when fire cannot be controlled,Disabilities,fire;people
+25,fireproof room,if evacuation is not possible this room allows for people to wait out the fire like a safe,Disabilities,fire;people
+26,fire bubble,expanding bubble for wheelchair bound people if evacuation is not possible provides clean air until services arrive,Disabilities,fire;people
+27,fire proof wheelchair,a fireproof wheelchair so that it will not catchspreadfire during evacuation,Disabilities,fire;people
+28,alarm,to wake up users,Night Fire,fire;people
+29,night fire wake up,makes sure people can wake up when there is some night fire,Night Fire,fire;people
+30,night watch goggle,mimics owls and makes it easier to see at night,Night Fire,fire;people
+31,water alarm,sprays water at sleeping people to wake up for evacuation,Night Fire,fire;people
+32,special for disabilities,a special model for people with disabilities,Disabilities,people
+33,autonomous,move a portable robot extinguish fires assist people,Design,fire;people
+34,fire proof,our robot is used for fire detection and prevention,Design,fire;people
+35,single use,can use itself to put out fireso it is gonna be cheaper,Design,fire;people
+36,add on features,users can buy more expensive attachments and add on to base model,Design,fire;people
+37,escape route,lightedauditory escape route,Design,fire;people
+38,minimalism,simplistic user interface across design,Design,fire;people
+39,affordable,device is affordable to anyone who needs it,Design,fire;people
+40,modular camera,can install a device for every room that needs one,Design,fire;people
+41,easy to install,can be added on or off,Design,fire;people
+42,flying wings,allows people to quickly and safety evacuate,Design,fire;people
+43,gas mask,provides clean air and prevent smoke inhalation and increase survivability,Extinguish,wheels;heat
+44,rainfall sprinkler,evenly sprinkles the room,Extinguish,wheels;heat
+45,sound extinguishing,uses sound waves to extinguish fires at certain distances,Extinguish,wheels;heat
+46,gas vents,uses nonflammable gases to extinguish fires at distance like vortex rings more like an air vent not an extinguisher,Extinguish,wheels;heat
+47,machine learning,device learns user habit and develops warnings  smoke alarm sensitivity,Design,wheels;heat
+48,size of smoke detector,looks like smoke detector small and circular from outside,Design,wheels;heat
+49,corner mount,reduce material by being mounted in the corner of a room,Design,wheels;heat
+50,modular camera,able to attach camera to most existing smoke detectors,Design,wheels;heat
+51,wheels,be able to run,Design,wheels;heat
+52,durable,metal or other fireproof material outside,Design,wheels;heat
+53,sensitivity adjustment,sensitivity for heat detection can be modified by user in case of gas stove or use of lighters,Design,wheels;heat
+54,size,not occupy too much space in home,Design,wheels;heat
+55,wheels,enables quick ground transport if needed,Design,wheels;heat
+56,air lock,seal a room without anyone inside and suck out the air to extinguish fire faster,Extinguish,fire;people
+57,powder hose,shoots extinguishing powder at fire like salt gun,Extinguish,fire;people
+58,fire fighter robot,this robot can detect and extinguish fire when detected you dont need more sprinklers,Extinguish,fire;people
+59,flight,flying capabilities for extinguishing robot,Extinguish,fire;people
+60,ac system that keeps house cold,overheating causes fire to prevent that keep the house cold,Extinguish,fire;people
+61,targeting extinguisher,focuses extinguisher on source of fire,Extinguish,fire;people

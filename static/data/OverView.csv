@@ -1,4 +1,4 @@
-index,Concept Name,Concpet Description,Human Cluster,Word2Vec Cluster
+index,Concept Name,Concpet Description,Human Label,Machine Label
 1,dining out app,an app that connect with gps and can record what we eat  and give us healthier suggestion based on what we have eaten,Apps(Dining),app;food
 2,recipe app,an app that teach people how to cook and buy food ingredients in the nearest stores efficiently,Apps(Dining),app;food
 3,restaurant app,an app that compares price and quality of different restaurants and gives users profitable recommendation,Apps(Dining),app;food

@@ -1,18 +1,43 @@
 <!DOCTYPE html>
+<html lang="en" ng-app="HMPlotApp">
 <meta charset="utf-8">
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-<link rel="stylesheet" type="text/css" href="../static/style.css">
+<script src="../bower_components/angular/angular.js"></script>
+<script src="../app.module.js"></script>
+<!-- <script src="phone-list/phone-list.module.js"></script>
+ --><link rel="stylesheet" type="text/css" href="../static/style.css">
 
 <head>
 	<title>HM Plot</title>
 </head>
 
-<body>
+<body ng-controller="ListController">
 	<h1>Test_Team</h1>
+	<!-- var concept_file;
+	var mapping_file;
+	var graph_file; -->
+
+
+	<!-- <select ng-model="$scope.orderProp">
+          <option value="Half">HALF</option>
+          <option value="Equal">SAME</option>
+          <option value="Double">DOUBLE</option>
+     </select> -->
+
+     <form id="form1" name="form1" method="post" action="">
+	  <label>
+	    <select name="otherCatches" id="otherCatches">
+	    	<option value="">Select your option</option>
+			<option value="Half">HALF</option>
+          <option value="Equal" >SAME</option>
+          <option value="Double">DOUBLE</option>	    </select>
+	  </label>
+	</form>
+     
+
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -25,11 +50,21 @@
 		</div>
 	</div>
 	
+
+	<div ng-repeat="file in files | filter: $scope.orderProp">
+     	<div ng-bind="page_render(5, file.concept_file, file.mappint_file, file.graph_file)"></div>
+     </div>
+
 </body>
 
 <script src="../static/render.js"></script>
 <script type="text/javascript">
+		
 	$( document ).ready(function() {
-    	page_render(5);
+		$("#otherCatches").change(function() {
+       		page_render(5, $(this).val())
+    	});
+    	// page_render(5);
 	});	
 </script>
+</html>

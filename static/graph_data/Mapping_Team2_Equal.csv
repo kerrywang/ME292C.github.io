@@ -1,0 +1,16 @@
+Index,Human_Label,Machine_Label
+0,Receiving,students;professors
+1,Better Treatment,doctors;operation
+2,Remembering,
+3,Better treatment,doctors;treatment
+4,Practicing,students;teachers
+5,Better Treatment and Receiving,patients;doctors
+6,Receiving---Case Study,picture;table
+7,Practicing---Perceiving,glasses;eyes
+8,Better educational content,video;device
+9,Learn better,information;knowledge
+10,Remote medical services,information;database
+11,Remembering and Receiving,screen;camera
+12,Better educational instruction,body
+13,Better educational tools,teachers;time
+14,Practice/Remembering/Better Treatment,doctors;models

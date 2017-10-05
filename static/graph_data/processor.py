@@ -19,8 +19,8 @@ class OriginData(object):
 		xindices, yindices, human_label_list, machine_label_list = self.readcsv()
 		convx, convy = self.get_sorted_idx(xindices, yindices)
 		self.get_sorted_graph(convx, xindices, human_label_list, convy, yindices, machine_label_list)
-		# print (convx)
-		# print (convy)
+		print (convx)
+		print (convy)
 
 	def readcsv(self):
 		with open(self.filename) as csvfile:
@@ -100,11 +100,11 @@ class OriginData(object):
 		cnt = np.zeros([nx,ny])
 		concept_indices = dict()
 
-		for i,pos in enumerate(zip(xindices,yindices)):
-			cnt[pos[0],pos[1]] += 1
-			if (pos[0],pos[1]) not in concept_indices.keys():
-				concept_indices[(pos[0],pos[1])] = list()
-			concept_indices[(pos[0],pos[1])].append(i+1)
+		for i in range(len(xindices)):
+			cnt[xindices[i],yindices[i]] += 1
+			if (xindices[i],yindices[i]) not in concept_indices.keys():
+				concept_indices[(xindices[i],yindices[i])] = list()
+			concept_indices[(xindices[i],yindices[i])].append(i+1)
 
 
 		with open(self.des_filename,'wb') as csvfile:
@@ -118,10 +118,35 @@ class OriginData(object):
 		with open("Mapping_"+self.des_filename,'wb') as csvfile:
 			spamwriter = csv.writer(csvfile, delimiter=',',
 								quotechar='"', quoting=csv.QUOTE_MINIMAL)
-			spamwriter.writerow(["Index","Human_Label","Machine_Label"])
+			spamwriter.writerow(["Human_Index","Human_Label","Machine_Index", "Machine_Label"])
 			print (len(human_label_list),len(machine_label_list))
-			for i in range(len(human_label_list)):
-				spamwriter.writerow([i,human_label_list[i], machine_label_list[i]])
+			i= 0
+			j = 0
+			while i < len(human_label_list) or j < len(machine_label_list):
+				Hindex = i
+				Mindex = j
+				if Hindex < len(human_label_list):
+					HlistLabel= human_label_list[i]
+				else:
+					Hindex = ''
+					HlistLabel = ''
+				if Mindex < len(machine_label_list):
+					MlistLabel = machine_label_list[j]
+				else:
+					Mindex = ''
+					MlistLabel = ''
+				# if i >= len(human_label_list):
+				# 	Hindex = ''
+				# 	HlistLabel = ''
+				# if j >= len(machine_label_list):
+				# 	Mindex = ''
+				# 	MlistLabel = ''
+				i += 1
+				j += 1
+				spamwriter.writerow([Hindex, HlistLabel, Mindex,MlistLabel])
+
+		# for i in range(len(human_label_list)):
+			# 	spamwriter.writerow([i,human_label_list[i], machine_label_list[i]])
 
 
 
@@ -133,7 +158,6 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_HM_Team14.csv")
 
 	# od.graph_data()
-
 	# ME110_2
 	# od = OriginData("ME110_2_HM_Team10.csv")
 
@@ -141,7 +165,9 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_HM_Team1.csv")
 
 	# DesInv
-	od = OriginData("OverView.csv")
+	od = OriginData("Team{}_Double.csv".format(1))
+
+
 
 				
 
