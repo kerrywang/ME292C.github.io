@@ -2,105 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2679704b-7b9c-492a-9365-f07ad78d54a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/render_page.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/popper/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ME292C/template/vendor/popper/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team10_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team10_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team10_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team11_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team11_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team11_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team12_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team12_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team12_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team13_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team13_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team13_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team14_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team14_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team14_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team15_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team15_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team15_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team16_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team16_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team16_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team17_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team17_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team17_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team18_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team18_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team18_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team19_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team19_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team19_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team20_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team20_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team20_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team7_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team7_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team7_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team8_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team8_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team8_Half.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team9_Double.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team9_Equal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/Team9_Half.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/data/Test_Team.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Team1_Double.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Team1_Equal.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Team1_Half.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Team2_Equal.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Team2_Half.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Mapping_Test_Team.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/OverView.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Team1_Double.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Team1_Equal.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Team1_Half.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Team2_Equal.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Team2_Half.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/graph_data/Test_Team.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/render_page.py" afterPath="$PROJECT_DIR$/pages/render_page.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/team1.html" afterPath="$PROJECT_DIR$/pages/team1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/template.html" afterPath="$PROJECT_DIR$/pages/template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team1_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team1_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team1_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team1_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team1_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team1_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team2_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team2_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team2_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team2_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team2_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team2_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team3_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team3_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team3_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team3_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team3_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team3_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team4_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team4_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team4_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team4_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team4_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team4_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team5_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team5_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team5_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team5_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team5_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team5_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team6_Double.csv" afterPath="$PROJECT_DIR$/static/data/Team6_Double.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team6_Equal.csv" afterPath="$PROJECT_DIR$/static/data/Team6_Equal.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/data/Team6_Half.csv" afterPath="$PROJECT_DIR$/static/data/Team6_Half.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/graph_data/processor.py" afterPath="$PROJECT_DIR$/static/graph_data/processor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/render.js" afterPath="$PROJECT_DIR$/static/render.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -142,16 +44,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mapping_Team19_Double.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/graph_data/Mapping_Team19_Double.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="render_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ME292C/render_page.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wind Power.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Wind Power.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ME292C/Wind Power.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="78" lean-forward="true" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+            <state relative-caret-position="255">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -238,7 +140,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/team5.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pages/team6.html" />
         <option value="$PROJECT_DIR$/static/data/OverView.csv" />
         <option value="$PROJECT_DIR$/static/graph_data/Mapping_Team1_Equal.csv" />
@@ -259,6 +160,7 @@
         <option value="$PROJECT_DIR$/static/graph_data/Mapping_Team15_Equal.csv" />
         <option value="$PROJECT_DIR$/static/graph_data/Mapping_Team15_Double.csv" />
         <option value="$PROJECT_DIR$/ME292C/render_page.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -624,14 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ME292C/Autonomous Veichles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-958">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/data/Team5_Equal.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1028,8 +922,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ME292C/Wind Power.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="78" lean-forward="true" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+        <state relative-caret-position="255">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
