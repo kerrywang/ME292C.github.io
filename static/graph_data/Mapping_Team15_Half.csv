@@ -1,9 +1,9 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Actuated Dynamic Brace,0,brace;force
-1,External Treatment Device,1,forces;force
-2,Implantable/ Surgical Intervention,2,muscle;loads
-3,Rigid Brace Variations,3,
+0,actuated dynamic brace,0,brace;force
+1,external treatment device,1,forces;force
+2,implantable/ surgical intervention,2,muscle;loads
+3,rigid brace variations,3,
 4,,4,brace
-5,Treatment Communication/ Community Building,,
-6,Correct Position Guarantee,,
-7,Modular Brace w/ Multiple Components,,
+5,treatment communication/ community building,,
+6,correct position guarantee,,
+7,modular brace w/ multiple components,,

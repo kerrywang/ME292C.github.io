@@ -1,10 +1,9 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Portable Appliances,0,sun;solar
-1,Residential Solar,1,panel;battery
-2,Hybrid Application,2,electricity;water
-3,Charging Station,3,station;subscription
-4,Large System,4,earth;solar
-5,Maintenance,5,panels;power
-6,portable Appliances,6,wireless;vehicle
-7,Big System,7,solar
-8,Software,8,sun;moon
+0,portable appliances,0,sun;solar
+1,residential solar,1,panel;battery
+2,hybrid application,2,panels;power
+3,charging station,3,station;subscription
+4,large system,4,earth;solar
+5,maintenance,5,electricity;water
+6,big system,6,wireless;vehicle
+7,software,,

@@ -1,108 +1,108 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,pull,grabs something and use it to pull cog forward grab next thing and use to pull cog forward,Locomotion,obstacles;bars
-2,tensegrileap,introduce spring like feet to the endcaps of the tensegrity sphere helps the tensegrity jump past obstacles it cant otherwise roll over also helps act as a force dampener during deployment,Locomotion,obstacles;bars
-3,drillcap,have drills on the endcaps of the 6bar tensegrity to enable it to climb vertically it will drill onto a rocksoft material to provide a stable grip,Locomotion,obstacles;bars
-4,mod,everything condensed to contained within tensile or compression elements,Mod save america,rods;cables
-5,jump!,the robot propels itself over obstacles like a cat,locomotion,robot;spider
-6,staged springs,progressivly stiffer springs that are tied in series,Impact Toughness,springs;motors
-7,halved enclosure,design enclosure as two identical halves since were using two identical control boards,flexibility,control
-8,weave!,the robot weaves between objects,Flexibility,robot;spider
-9,smart robot,recognises the face of the victim during a disaster,Secondary Function,robot;spider
-10,smart robot: path planners,robots which plan the most suitable path for the first responders,Secondary Function,robot;spider
-11,consciousness,robot actively chooses how to navigate,Helmet,robot;spider
-12,directional tread on endcaps,keep feet moving in proper direction by having spikes or something pointed in the opposite direction,locomotion,obstacles;bars
-13,shrink!,the robot adjusts length of spine according to need,flexibility,robot;robots
-14,pulsating lights,pulsating lights on tensegrity allow for easy identification at the diaster site,Secondary Function,obstacles;bars
-15,move! you're in my way,no agenda moves randomly and relays random info,Secondary Function,obstacles;bars
-16,wrap around ,elastic fabric to wrap around device to help protect the components ,Secondary Function,obstacles;bars
-17,wider rod ends,increasing the surface area of the contact points rod ends to help with the stability,Secondary Function,obstacles;bars
-18,extendable rods,extandable rods that can help shifttip the center of mass,Secondary Function,obstacles;bars
-19,kick  stand,add a component that behaves as a kickstand to help with balance,Secondary Function,obstacles;bars
-20,hollow rods,use hollow rods cut down on weight,Secondary Function/Locomotion,rods;cables
-21,heavy load carrying robots,a wide flat robot with a large back which is able to carry heavy loads from one place to another,Weight,robot;robots
-22,composite spools,replace the current spools with carbonfibre thread to increase resistance to snappingbreaking,Integrity,obstacles;bars
-23,tiny,a small bot so that it can get into small places,Mod save america; locomotion,obstacles;bars
-24,squish!,the robot flattens itself to squeeze through tight areas,flexibility,robot;spider
-25,rectangular enclosure,enclosure is designed to be as small as possible surrounding only the two control boards and thats it,Weight,control
-26,helpless,robot asks for help uses local resources help me and carry me,user experience,robot;robots
-27,connectme,connect multiple tensegrities through their endcaps to form a huge transformer tensegrity,Mod Save America,rods;cables
-28,removable endcaps,be able to switch out endcaps so we can test materials and springs,flexibility,obstacles;bars
-29,cover it!,covering the payload and sensitive instruments of the tensegrity using a durable cover,Impact Toughness,payload;shock
-30,plunger endcaps,use air as a springdamper for end shock absorbtion,Impact Toughness,payload;shock
-31,break!,the robot breakspushes through terrain that is in the way grass rocks,Locomotion; impact toughness,robot;robots
-32,balance!,the robot can ensure it is balanced over its center of gravity,Locomotion; impact toughness,robot;robots
-33,2 shape lattice,rubber lattice shapes that consist of triangle and diamonds to ease assembly and cut down on rubber waste,Weight,rods;cables
-34,mid mounting,enclosure is mounted to rest of sphere by cables tethered to middle of rods,Weight,rods;cables
-35,legs!,many legs so that at least one catches on the terrain,Locomotion,rods;cables
-36,toes,has toes on end caps to grip,Locomotion,rods;cables
-37,squeeze,can squeeze two compression rods together to hold onto things,Locomotion,rods;cables
-38,stick together,everything covered in sticky material for grip,Locomotion,rods;cables
-39,hook,hooks tensile component on rubble and shortens it to pulls self forward and on top of rubble,Locomotion,rods;cables
-40,increased friction on the cables,increased friction on the cables rubber band eg with spikes ,Locomotion,rods;cables
-41,spherical electronics enclosure,electronics are enclosed in a sphere to reduce catching on rodscables during movement,Locomotion,rods;cables
-42,cable guides on bearings,if we use bearings include guides that turn the rods,Locomotion,rods;cables
-43,expansion end caps,endcaps that expands like an inverse tripod to provide traction on different terrain,Locomotion,rods;cables
-44,squish it!,collaspable rods into a cynlinder shape for ease of transportation space constraints,Locomotion,rods;cables
-45,resistant robots,when impacted by an object the robot is able to regain its elastic state,Impact Toughness,robot;spider
-46,waterproof robots,a waterproof sheet wrapped around the robot which protects the payload and all the internal sensitive compeonents,Secondary Function,robot;robots
-47,robots with vr,instead of using gps which provides a 2d coordinate the robot uses 3d coordinate system wearing a vr to pinpoint the location of the victim,Secondary Function,robot;robots
-48,smart and fire resistant robots,planning an escape route in a building caught on fire,Secondary Function,robot;robots
-49,sesimic robots,able to scan for earthquakes and can scan the structural integrity of a building before the first responders enter,Secondary Function,robot;robots
-50,wear your controller,a hand watch or app with wireless robot control feautures ,Secondary Function,robot;robots
-51,robo paint,robot paint enables easy identification of robot during search and rescue operations for example a red colour robot can be easily identified by a victim who can then call for help,Secondary Function,robot;robots
-52,protect the planet,recyclable tensegrity adopts ideas of using biodegradable materials which can create the next generation of robots,Secondary Function,robot;robots
-53,thermal imaging robo,thermal imaging allows the robot to view the heat images of the human being allowing for easy identification,Secondary Function,robot;robots
-54,position!,many robots wait in buildings in order to be immediate responders when disaster occurs,Secondary Function,robot;robots
-55,cat eyes,robot locally locates itself using vision that does not depend on outside light eg sonar,Secondary Function,robot;robots
-56,deployable sensors,robot carries and deploys sensors across disaster area,Secondary Function,robot;robots
-57,interactive robot,robot has mic and speaker that can be used to communicate between victims and responders,Secondary Function,robot;robots
-58,increased rod number,increase number of rods to improve stability of the robot,Secondary Function,robot;robots
-59,intelligent robot,has sensors collects data processes it and decides which route is best to get to victims,Secondary Function,robot;robots
-60,feedme,good user control feedback when controlling the tensegrity through an app move the tensegrity using an app to allow for a more intuitive control of the robot,Secondary Function,robot;robots
-61,stopme,sensors to prevent the tensegrity robot from rolling into something that may damage it lidar uv sensors,Secondary Function,robot;robots
-62,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact Toughness,
-63,size changing robots (transformer) ,robots with adjustable rods that can change size and shape whenever they need to fit into tight spots,Flexibility,rods;cables
-64,orientation,all compression rods orient themselves to be parallel so that can fit through small spaces,Flexibility,rods;cables
-65,combined tensegrity shapes,tensegrities that can be joined together to make different shapes can be used for various purposes,Modularity,obstacles;bars
-66,rod electronics,move electronics to rods in order to suspend the payload in the middle,locomotion,rods;cables
-67,expand!,the robot is wide so that the unevenness of the terrain is flat relative to size of contact area like a monster truck,Locomotion; Impact Toughness,robot;robots
-68,telegrity,incease or decrease the size of the tensegrity on demand to help with space constaints or to get over larger obstacles,Mod Save America,obstacles;bars
-69,bubbleit,encase the tensegrity in a light thin elastic bubble protects the tensegrity from any falling debri during an earthquake,Integrity,earthquake;disaster
-70,shape memory polymer,the shape memory polymers enable the researchers to finetune how quickly each strut expands by adjusting at which temperature the expansion occurs ,Impact Toughness,obstacles;bars
-71,tensegribars,add more bars to the tensegrity to make it more rigid and robust,Impact Toughness,obstacles;bars
-72,rubber spring feet,rubber domes attached to end of rods using thick fat compression springs,Impact Toughness,rods;cables
-73,endcap enclosure tethers,enclosure is mounted to rest of sphere by cables tethered to ends of rods,Impact Toughness,rods;cables
-74,thicker rods,simply have thicker rods for the tensegrity sphere to further resist buckling,Impact Toughness,rods;cables
-75,motors on a dampening system,attach motors to a dampener to soften direct blows on it to the shaft it is attached on,Impact Toughness,rods;cables
-76,adjustable spring tension,change spring tension to tighten just before robot experiences high impact loading,Impact Toughness,rods;cables
-77,projectile,robot is thrown into an area sticks landing conveys info,Locomotion,robot;robots
-78,retractable wheels,someor all rods have retractable wheels that are used when appropriate to improve maneuverability of the robot,Locomotion,robot;robots
-79,drone tensegrity hybrid,robot has ability to lift off and land then operate as a tensegrity when need,Locomotion,robot;robots
-80,frog motion,springs within robot that compress and help spring the robot forward when required,Locomotion,robot;robots
-81,rubber tracks,cables on the robot made to resemble tracks like on a military vehicles eg tanks,Locomotion,robot;robots
-82,tensegrifly,introduce collaspable propellers to the ends of the robot to enable flight propellets will retract when rolling on the ground,Locomotion,robot;robots
-83,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,Mod Save America;Impact Toughness,
-84,multi functional rods,integrate some sensors within rods free up some space,Secondary Function,rods;cables
-85,simplified tensegrity,use the least amount of rods materials,Secondary Function,rods;cables
-86,easy assembly,make it easy to add  or remove rods for use in different applications,Secondary Function,rods;cables
-87,plastic shield,cover sphere with some stretchy waterproof membrane that keeps dustwater out of entire assembly,Secondary Function,rods;cables
-88,folding clip,clip that holds sphere in folded position,Secondary Function,rods;cables
-89,robo tether,robo tethers allow for easy grab and release of an object,Flexibility,robot;robots
-90,steady!,the robot uses walls to improve its stability,Flexibility,robot;robots
-91,shrinking robot,rods can retract robot can shrink into a smaller ball when needed,Flexibility,robot;robots
-92,extendable arm,robot has an extendable rod that acts as arm carries sensors and deployable in hardtoreach spaces,Flexibility,robot;robots
-93,micrott swarm,reduce the size of the tensegrity to a tiny robot capable of working in a swarm these robots can then move around multiple areas to cover more ground in the same timeframe than 1 large tensegrity,Flexibility,robot;robots
-94,modulagrity,enable modularity of the tensegrity robots to enable it to change sizes by connecting to several other tensegrities robots,Flexibility,robot;robots
-95,soft electronics enclosure,cover electronics enclosure with soft foam to mitigate damage from occasional rod collisions,impact Toughness,rods;cables
-96,breakaway cables,have some singleuse cable attachments that act as mechanical fuses in order to break fall from drone,impact Toughness,rods;cables
-97,rope,many fibers on tensile component  if one breaks ther are others,Integrity,rods;cables
-98,coverme,cover the springsspools in an elastic protective sleeve to shield them from the elements sharp objects,Integrity,rods;cables
-99,tensegrity compogrity,change the material of the tensegrity rods to one with a higher impact resistance higher strength to weight ratio  preferably composites,Weight/ Impact Toughness,rods;cables
-100,suspense,one of the purposes of designing a robust tensegrity robot is to protect the payload its carrying suspend the payload in the middle with springs and dampeners magnetic repulsion,Impact Toughness,robot;robots
-101,axial spring,decouple motors from stretchiness of sphere by placing springs on axle of motor,Locomotion,springs;motors
-102,froggy,projects self off higher rubble or roofs into desired areas,Locomotion; planning,springs;motors
-103,all in one robot,robots which can traverse in aerial land and sea,Locomotion,robot;spider
-104,flight!,the robot flies over uneven terrain,Locomotion,robot;spider
-105,spider,robot swings on something like spider silk eg into a ditch or over a gap,Locomotion,robot;spider
-106,loyalty,protects humans provides cover when near humans while disaster is occuring,Secondary Function,earthquake;disaster
-107,sliding motor mounts,make it easy to moveremove motors by sliding them around,flexibility,rods;cables
+1,all in one robot,robots which can traverse in aerial land and sea,locomotion,robot;spider
+2,flight!,the robot flies over uneven terrain,locomotion,robot;spider
+3,jump!,the robot propels itself over obstacles like a cat,locomotion,robot;spider
+4,spider,robot swings on something like spider silk eg into a ditch or over a gap,locomotion,robot;spider
+5,mod,everything condensed to contained within tensile or compression elements,mod save america,rods;cables
+6,connectme,connect multiple tensegrities through their endcaps to form a huge transformer tensegrity,mod save america,rods;cables
+7,bubbleit,encase the tensegrity in a light thin elastic bubble protects the tensegrity from any falling debri during an earthquake,integrity,earthquake;disaster
+8,robo tether,robo tethers allow for easy grab and release of an object,flexibility,robot;robots
+9,shrink!,the robot adjusts length of spine according to need,flexibility,robot;robots
+10,steady!,the robot uses walls to improve its stability,flexibility,robot;robots
+11,shrinking robot,rods can retract robot can shrink into a smaller ball when needed,flexibility,robot;robots
+12,extendable arm,robot has an extendable rod that acts as arm carries sensors and deployable in hardtoreach spaces,flexibility,robot;robots
+13,micrott swarm,reduce the size of the tensegrity to a tiny robot capable of working in a swarm these robots can then move around multiple areas to cover more ground in the same timeframe than 1 large tensegrity,flexibility,robot;robots
+14,modulagrity,enable modularity of the tensegrity robots to enable it to change sizes by connecting to several other tensegrities robots,flexibility,robot;robots
+15,break!,the robot breakspushes through terrain that is in the way grass rocks,locomotion; impact toughness,robot;robots
+16,expand!,the robot is wide so that the unevenness of the terrain is flat relative to size of contact area like a monster truck,locomotion; impact toughness,robot;robots
+17,balance!,the robot can ensure it is balanced over its center of gravity,locomotion; impact toughness,robot;robots
+18,cover it!,covering the payload and sensitive instruments of the tensegrity using a durable cover,impact toughness,rods;cables
+19,rubber spring feet,rubber domes attached to end of rods using thick fat compression springs,impact toughness,rods;cables
+20,endcap enclosure tethers,enclosure is mounted to rest of sphere by cables tethered to ends of rods,impact toughness,rods;cables
+21,plunger endcaps,use air as a springdamper for end shock absorbtion,impact toughness,rods;cables
+22,soft electronics enclosure,cover electronics enclosure with soft foam to mitigate damage from occasional rod collisions,impact toughness,rods;cables
+23,breakaway cables,have some singleuse cable attachments that act as mechanical fuses in order to break fall from drone,impact toughness,rods;cables
+24,thicker rods,simply have thicker rods for the tensegrity sphere to further resist buckling,impact toughness,rods;cables
+25,motors on a dampening system,attach motors to a dampener to soften direct blows on it to the shaft it is attached on,impact toughness,rods;cables
+26,adjustable spring tension,change spring tension to tighten just before robot experiences high impact loading,impact toughness,rods;cables
+27,composite spools,replace the current spools with carbonfibre thread to increase resistance to snappingbreaking,integrity,obstacles;bars
+28,2 shape lattice,rubber lattice shapes that consist of triangle and diamonds to ease assembly and cut down on rubber waste,weight,rods;cables
+29,mid mounting,enclosure is mounted to rest of sphere by cables tethered to middle of rods,weight,rods;cables
+30,staged springs,progressivly stiffer springs that are tied in series,impact toughness,springs;enclosure
+31,smart robot,recognises the face of the victim during a disaster,secondary function,robot;spider
+32,smart robot: path planners,robots which plan the most suitable path for the first responders,secondary function,robot;spider
+33,pull,grabs something and use it to pull cog forward grab next thing and use to pull cog forward,locomotion,obstacles;bars
+34,directional tread on endcaps,keep feet moving in proper direction by having spikes or something pointed in the opposite direction,locomotion,obstacles;bars
+35,tensegrileap,introduce spring like feet to the endcaps of the tensegrity sphere helps the tensegrity jump past obstacles it cant otherwise roll over also helps act as a force dampener during deployment,locomotion,obstacles;bars
+36,drillcap,have drills on the endcaps of the 6bar tensegrity to enable it to climb vertically it will drill onto a rocksoft material to provide a stable grip,locomotion,obstacles;bars
+37,rectangular enclosure,enclosure is designed to be as small as possible surrounding only the two control boards and thats it,weight,springs;enclosure
+38,froggy,projects self off higher rubble or roofs into desired areas,locomotion; planning,springs;enclosure
+39,loyalty,protects humans provides cover when near humans while disaster is occuring,secondary function,earthquake;disaster
+40,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,mod save america;impact toughness,
+41,axial spring,decouple motors from stretchiness of sphere by placing springs on axle of motor,locomotion,springs;enclosure
+42,hollow rods,use hollow rods cut down on weight,secondary function/locomotion,rods;cables
+43,heavy load carrying robots,a wide flat robot with a large back which is able to carry heavy loads from one place to another,weight,robot;robots
+44,shape memory polymer,the shape memory polymers enable the researchers to finetune how quickly each strut expands by adjusting at which temperature the expansion occurs ,impact toughness,obstacles;bars
+45,tensegribars,add more bars to the tensegrity to make it more rigid and robust,impact toughness,obstacles;bars
+46,squish!,the robot flattens itself to squeeze through tight areas,flexibility,robot;spider
+47,weave!,the robot weaves between objects,flexibility,robot;spider
+48,legs!,many legs so that at least one catches on the terrain,locomotion,rods;cables
+49,toes,has toes on end caps to grip,locomotion,rods;cables
+50,squeeze,can squeeze two compression rods together to hold onto things,locomotion,rods;cables
+51,stick together,everything covered in sticky material for grip,locomotion,rods;cables
+52,hook,hooks tensile component on rubble and shortens it to pulls self forward and on top of rubble,locomotion,rods;cables
+53,increased friction on the cables,increased friction on the cables rubber band eg with spikes ,locomotion,rods;cables
+54,spherical electronics enclosure,electronics are enclosed in a sphere to reduce catching on rodscables during movement,locomotion,rods;cables
+55,cable guides on bearings,if we use bearings include guides that turn the rods,locomotion,rods;cables
+56,rod electronics,move electronics to rods in order to suspend the payload in the middle,locomotion,rods;cables
+57,expansion end caps,endcaps that expands like an inverse tripod to provide traction on different terrain,locomotion,rods;cables
+58,squish it!,collaspable rods into a cynlinder shape for ease of transportation space constraints,locomotion,rods;cables
+59,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact toughness,
+60,removable endcaps,be able to switch out endcaps so we can test materials and springs,flexibility,obstacles;bars
+61,waterproof robots,a waterproof sheet wrapped around the robot which protects the payload and all the internal sensitive compeonents,secondary function,robot;robots
+62,robots with vr,instead of using gps which provides a 2d coordinate the robot uses 3d coordinate system wearing a vr to pinpoint the location of the victim,secondary function,robot;robots
+63,smart and fire resistant robots,planning an escape route in a building caught on fire,secondary function,robot;robots
+64,sesimic robots,able to scan for earthquakes and can scan the structural integrity of a building before the first responders enter,secondary function,robot;robots
+65,wear your controller,a hand watch or app with wireless robot control feautures ,secondary function,robot;robots
+66,robo paint,robot paint enables easy identification of robot during search and rescue operations for example a red colour robot can be easily identified by a victim who can then call for help,secondary function,robot;robots
+67,protect the planet,recyclable tensegrity adopts ideas of using biodegradable materials which can create the next generation of robots,secondary function,robot;robots
+68,thermal imaging robo,thermal imaging allows the robot to view the heat images of the human being allowing for easy identification,secondary function,robot;robots
+69,position!,many robots wait in buildings in order to be immediate responders when disaster occurs,secondary function,robot;robots
+70,cat eyes,robot locally locates itself using vision that does not depend on outside light eg sonar,secondary function,robot;robots
+71,deployable sensors,robot carries and deploys sensors across disaster area,secondary function,robot;robots
+72,interactive robot,robot has mic and speaker that can be used to communicate between victims and responders,secondary function,robot;robots
+73,increased rod number,increase number of rods to improve stability of the robot,secondary function,robot;robots
+74,intelligent robot,has sensors collects data processes it and decides which route is best to get to victims,secondary function,robot;robots
+75,feedme,good user control feedback when controlling the tensegrity through an app move the tensegrity using an app to allow for a more intuitive control of the robot,secondary function,robot;robots
+76,stopme,sensors to prevent the tensegrity robot from rolling into something that may damage it lidar uv sensors,secondary function,robot;robots
+77,combined tensegrity shapes,tensegrities that can be joined together to make different shapes can be used for various purposes,modularity,obstacles;bars
+78,tensegrity compogrity,change the material of the tensegrity rods to one with a higher impact resistance higher strength to weight ratio  preferably composites,weight/ impact toughness,rods;cables
+79,consciousness,robot actively chooses how to navigate,helmet,robot;spider
+80,resistant robots,when impacted by an object the robot is able to regain its elastic state,impact toughness,robot;spider
+81,projectile,robot is thrown into an area sticks landing conveys info,locomotion,robot;robots
+82,retractable wheels,someor all rods have retractable wheels that are used when appropriate to improve maneuverability of the robot,locomotion,robot;robots
+83,drone tensegrity hybrid,robot has ability to lift off and land then operate as a tensegrity when need,locomotion,robot;robots
+84,frog motion,springs within robot that compress and help spring the robot forward when required,locomotion,robot;robots
+85,rubber tracks,cables on the robot made to resemble tracks like on a military vehicles eg tanks,locomotion,robot;robots
+86,tensegrifly,introduce collaspable propellers to the ends of the robot to enable flight propellets will retract when rolling on the ground,locomotion,robot;robots
+87,halved enclosure,design enclosure as two identical halves since were using two identical control boards,flexibility,springs;enclosure
+88,multi functional rods,integrate some sensors within rods free up some space,secondary function,rods;cables
+89,simplified tensegrity,use the least amount of rods materials,secondary function,rods;cables
+90,easy assembly,make it easy to add  or remove rods for use in different applications,secondary function,rods;cables
+91,plastic shield,cover sphere with some stretchy waterproof membrane that keeps dustwater out of entire assembly,secondary function,rods;cables
+92,folding clip,clip that holds sphere in folded position,secondary function,rods;cables
+93,helpless,robot asks for help uses local resources help me and carry me,user experience,robot;robots
+94,telegrity,incease or decrease the size of the tensegrity on demand to help with space constaints or to get over larger obstacles,mod save america,obstacles;bars
+95,rope,many fibers on tensile component  if one breaks ther are others,integrity,rods;cables
+96,coverme,cover the springsspools in an elastic protective sleeve to shield them from the elements sharp objects,integrity,rods;cables
+97,size changing robots (transformer) ,robots with adjustable rods that can change size and shape whenever they need to fit into tight spots,flexibility,rods;cables
+98,orientation,all compression rods orient themselves to be parallel so that can fit through small spaces,flexibility,rods;cables
+99,sliding motor mounts,make it easy to moveremove motors by sliding them around,flexibility,rods;cables
+100,suspense,one of the purposes of designing a robust tensegrity robot is to protect the payload its carrying suspend the payload in the middle with springs and dampeners magnetic repulsion,impact toughness,robot;robots
+101,pulsating lights,pulsating lights on tensegrity allow for easy identification at the diaster site,secondary function,obstacles;bars
+102,move! you're in my way,no agenda moves randomly and relays random info,secondary function,obstacles;bars
+103,wrap around ,elastic fabric to wrap around device to help protect the components ,secondary function,obstacles;bars
+104,wider rod ends,increasing the surface area of the contact points rod ends to help with the stability,secondary function,obstacles;bars
+105,extendable rods,extandable rods that can help shifttip the center of mass,secondary function,obstacles;bars
+106,kick  stand,add a component that behaves as a kickstand to help with balance,secondary function,obstacles;bars
+107,tiny,a small bot so that it can get into small places,mod save america; locomotion,obstacles;bars

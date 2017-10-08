@@ -1,99 +1,99 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,minimum installation package size,increases speed while installing the software,Installation,software;users
-2,no supercomputer required,simulation can run on a basic laptop,Improving Efficiency and Power,simulation;scanner
-3,gesture recognition,users can use gesture to assemble the components together,AR/VR/GR & Haptics,file;files
-4,graphics tablet input,allows users to control draw and edit inputs and designs via a connected graphics tablet,Import Functions,user;users
-5,different costing,give different pricing for different versions,Costing,
-6,easy edition,the drawing and assemblies from other types of software can be directly editied in our software,Easy to Use,software;users
-7,small file storage,software files do not occupy a lot of space,Easy to Use,software;users
-8,files conversion,software can conver file types,Easy to Use,software;users
-9,automatical optimization function,the software provides automatical optimization function taht helps customers to ideal product model under given boundary conditions,Automation,software;functionality
-10,timed challenge,make people learn the software through timed challenges to complete,Learning the software Games,software;users
-11,explain results,optimization problems software explains why it used certain parameters and weights to functions,Ease of Data Representation,software;functionality
-12,device integration,using cloud computing or network solutions to allow transfer of work across all platforms bluetooth file dropping and model sharing,File/Device Integration,software;functionality
-13,virtual reality,allows users to be inside the design,User Interaction,user;users
-14,custom menu bars,allows users to alter structurelayout of menu bars high level of customisability easy to remember allows multiple menuaccess templates allows users to design their own menus,User Interaction,user;users
-15,notifications alerts,alerts user of certain tasks or if simulations complete users can customise whenwhat alerts to receive allows alerts to push to phone if user is away from desk,User Interaction,user;users
-16,online helping,when design errors stop users to keep drawing in the software online helping feature could solve the problems by operating users computers,In-Built help Feature,software;users
-17,making learning easy,the software comes with a learning package which includes books  videos on how to use the software,In-Built help Feature,software;users
-18,learning tools,the software should have an inbuilt selfsufficient help guide,In-Built help Feature,software;users
-19,animation tutorial,adding animation tutorials in the software help users to have a better understanding through visualization ,In-Built help Feature,software;users
-20,online product tutorial,online product tutorial is the video record files that help users and customers to learn how to use the software ,In-Built help Feature,software;users
-21,high compatibility,the software can run on all types of computer systems,Compatibility,software;users
-22,multiple compatibility,multiple compatibility help morphing software to operate on different types of computer systems,Compatibility,software;users
-23,self servie management,selfservice resources are posted online to provide support information to customers,In-Built help Feature,file;files
-24,talking interface,an interface which tells you rather than show you to increse interaction and experience,User Interface,software;functionality
-25,integrated graphics interface,provides graphic design panel with the optimisation software to allow editing and rendering of colours etc helps engineers to visualise a potential final product,User Interface,software;functionality
-26,online searching,users can type the design goals and then the software can automatically search the relative design,Online Help Services,software;users
-27,camera system,the software has a camera system to generate design drawing by taking photographs,Design Recognition (Image recognition),software;users
-28,reading paper sketch ,the software can generate a drawing by scanning a paper sketch,Design Recognition (Image recognition),software;users
-29,face recognition security,the software has the ability to recognize the human face for document security purposes,Design Recognition (Image recognition),software;users
-30,free trials,the free trial is for a limited period of tie to let users experience the softwre,Costing,users;customers
-31,file sharing ,allows you to share files across devices with ease,File/Device Integration,file;files
-32,multiple file support ,allows you to integrate and use various file type without the need of converting,File/Device Integration,file;files
-33,online help service,you can send your design online and get help with optimization,Online Help Services,design;projects
-34,online forum ,an online forum where people help you design as projects for them but work done for oyu,Online Help Services,design;projects
-35,tutorial game ,tutorial to teach the software an online game to complete against other tutorial users,learning the software Games,software;users
-36,practice problem gaming,the software sets up the practice problem for the users to play the game so that they can know how to use the software,learning the software Games,software;users
-37,3d printing,the drawing from software can be printed through a 3d printer,Export Functions,software;users
-38,minimized analysis time,the software uses artificial neural network to analyze results during the simulation process,Improving Efficiency and Power,software;functionality
-39,allocate processing power,a system which allows you to allocate the computers ram to a particular required computational power threshold by the software,Improving Efficiency and Power,software;functionality
-40,discount package+ free education packag,by comparing our software development time we can reduce the software development costs we could then provide discounted or fee packages,Costing,software;users
-41,user friendly gui,an easy user friendly graphic users interface which provide ease of access to various function for beginners,User Interaction,software;functionality
-42,gui,packaging of morphing software using a visual graphic based gui expresses weight settings and definition visually,User Interaction,software;functionality
-43,cui  pure text,packaging morphing software using a text based cui weight setting and definition by coding andn text entering,User Interaction,software;functionality
-44,natural environment,see how your product looks in natural setting,AR/VR/GR & Haptics,
-45,speak and tell,talk to the software what to do and it will understand and do it,AI,software;users
-46,allow user to join,allows user to ojoin parts using haptics and vr,AR/VR/GR & Haptics,user;users
-47,animation generation,allows user to see the product in motion to build design flaw,AR/VR/GR & Haptics,user;users
-48,use before you make,allows user to use the design before making it to build flaws,AR/VR/GR & Haptics,user;users
-49,ai to judge manufacturability,judges manufacturability of a design and makes alterations on its own,AI and Machine Learning,design;projects
-50,dseign template,add cad models to a set template select functions click enter get results,User Interaction,cad;functions
-51,ai generated baseline cad,no input cad model required just select from a preset design,AI and Machine Learning,cad;functions
-52,simple installation,easy installation process  does not require extra attention or actions simply approve installation and it will do the rest,Installation,software;functionality
-53,graphic design aid,appeals to graphic designers rather than engineers focus on the pure morphing aspect rather than the fluids and design ,Targeted Markets,design;projects
-54,multi function support,importexport and support for multiple file types among devices provides smoother learning curve with familiar experiences,Import Functions,function;curve
-55,suggestions,an ai infused version suggests changes to your design to optimize it,In-Built help Feature,design;projects
-56,3d printer,allows user to 3d print the optimised design aids visualisation and can help to determine the manufacturability support for printer connectivity,Export Functions,user;users
-57,automation,software can automorph autocreate a design from scratch,AI and Machine Learning,software;users
-58,self heal,the software can heal any errors or problems on its own without any human help,AI and Machine Learning,software;users
-59,smart designing,the software tells you which design or material would be better taking into consideration boundary conditions,AI and Machine Learning,software;users
-60,design + manufacture,the software tells you if the design can be manufactured based on the machinery you have,AI and Machine Learning,software;users
-61,automatically fixing error,the software can automatically fix the drawing error,AI and Machine Learning,software;users
-62,haptic designing,has a haptic system which allows you to feel the surface  material of design,AR/VR/GR & Haptics,design;projects
-63,same ui for different function,keep the same ui for different departments like animation etc,User Interface,function;curve
-64,auto data mine,software can autosearch and categorise cad files of related models extact and learn about shapesdata related to the models saves users from manually computing each model,Automation,software;users
-65,iteration manual override,user choice of automatic iterations carried out by software user can interrupt with stop at any time to terminate or pause andor conduct manual override,Automation,software;users
-66,smart optimization,the software can automatically optimize users design to satisfy users requirements,Automation,software;users
-67,mobile app ,compact functionality version suitable for portable use run on mobiles and tablets,Targeted Markets,software;functionality
-68,collaborative drawing,the software allows multiple users to work on the drawing interface,File/Device Integration,software;users
-69,error feedback,reminders and hints of acceptable inputs or suggested inputs provides immediate feedback and alternative solutionsinputsmethods,In-Built help Feature,function;curve
-70,function descriptors,descriptions of functionsbuttons when hovered on reduces learning curve does not rely on user memory,In-Built help Feature,function;curve
-71,face recognition security,the software has a face recognition feature to prevent others to open the design drawings and assembles,User Interface,software;users
-72,mobile installation ,the software can easy to install in the mobile as an appin the cell phone,User Interface,software;users
-73,design on ipad ,the software can install on the ipad for users to design and create drawing in purpose of capturing ideas in users lives,User Interface,software;users
-74,multiple accesing,multiple users can operate the same file,Easy to Use,file;files
-75,small files,all the drawings and assembly files are minimized and they open immediately,Easy to Use,file;files
-76,bluetooth connection,this method is to put multiple laptops togher to share files without wires,Easy to Use,file;files
-77,website,website  upload cad designs  name functions  get optimized design,External Help,cad;functions
-78,consulting service,user gives us cad models and we optimize it and return it to the user,Targeted Markets,user;users
-79,small installation file size,it reduces the installation time for the users,Installation,file;files
-80,accurate 3d scanning,the software contains a 3d scanner to scan objects into the software with accurate dimensions,Import Functions,software;users
-81,adaptable algorithm,write algorithm such that any user can add it to a software they use to optimize,Import Functions,software;users
-82,3d scanning,the software can scan the object by a selfcontained scanner,Import Functions,software;users
-83,visualization of ann,a more intuitive ui and shows you the actual interations the ann makes visual interface live,User Interface,simulation;scanner
-84,smart efficiency management,software can auto adjust processing power requirements based on your multitasking eg draw less power if you are running multiple programs,Improving Efficiency and Power,software;users
-85,social media support,social media is a place to help users and customers to share their using experiences and post their thoughts and ideas,External Help,users;customers
-86,manufacture simulation,allows users to see possible manufacture processes for the new optimised design provides visual process and step breakdown helps determine manufacturability,File/Device Integration,user;users
-87,drawing on touch panel,the software contains a touch panel version for users to draw their design by hands instead of using mouses,User Interaction,software;users
-88,software adapting symbols,each has different symbols on different software select which you are familiar with,User Interaction,software;users
-89,software adapting hotkeys,have oen gui but allow users to select which hotkeys of a particular software they are familiar with,User Interaction,software;users
-90,familiar shortcuts,software should aim to use familiar shortcuts and hotkeys as other conventional design softwares,User Interaction,software;users
-91,augmented reality ui,simulate in augmented reality see a train undergoing a simulation in your living room,AR/VR/GR & Haptics,simulation;scanner
-92,iron man hologram simulation,simulation shows the working via a hologram walk into your simulationmodel make changes with a controller,AR/VR/GR & Haptics,simulation;scanner
-93,3d scan morphing,a 3d image scanner to scan yourself morph your head onto another body,Learning the software Games,simulation;scanner
-94,automatically generates presentable data,can convert data in bar graphs line charts pie graph etc,Ease of Data Representation,function;curve
-95,diffeent pricing packages for efficiency,offering different pricing for different levels of computing and different accuracy level,Costing,software;functionality
-96,error reporting,simple interface for users to report errors easy process with clearly defined categories to speed up the process easy to findaccess,In-Built help Feature,software;functionality
-97,periodic online survey,periodice online survey is a method to periodically collect users and customers feedback so that the software can be updated frequently and timely,External Help,software;users
-98,live chat,live chat is a easy way to communicate with customers an users without leaving software website live chat helps to answer customers questions immediately,External Help,software;users
+1,user friendly gui,an easy user friendly graphic users interface which provide ease of access to various function for beginners,user interaction,software;functionality
+2,gui,packaging of morphing software using a visual graphic based gui expresses weight settings and definition visually,user interaction,software;functionality
+3,cui  pure text,packaging morphing software using a text based cui weight setting and definition by coding andn text entering,user interaction,software;functionality
+4,explain results,optimization problems software explains why it used certain parameters and weights to functions,ease of data representation,software;functionality
+5,different costing,give different pricing for different versions,costing,cad;functions
+6,face recognition security,the software has a face recognition feature to prevent others to open the design drawings and assembles,user interface,software;users
+7,mobile installation ,the software can easy to install in the mobile as an appin the cell phone,user interface,software;users
+8,design on ipad ,the software can install on the ipad for users to design and create drawing in purpose of capturing ideas in users lives,user interface,software;users
+9,3d scan morphing,a 3d image scanner to scan yourself morph your head onto another body,learning the software games,simulation;scanner
+10,accurate 3d scanning,the software contains a 3d scanner to scan objects into the software with accurate dimensions,import functions,software;users
+11,adaptable algorithm,write algorithm such that any user can add it to a software they use to optimize,import functions,software;users
+12,3d scanning,the software can scan the object by a selfcontained scanner,import functions,software;users
+13,social media support,social media is a place to help users and customers to share their using experiences and post their thoughts and ideas,external help,users;customers
+14,simple installation,easy installation process  does not require extra attention or actions simply approve installation and it will do the rest,installation,software;functionality
+15,dseign template,add cad models to a set template select functions click enter get results,user interaction,cad;functions
+16,collaborative drawing,the software allows multiple users to work on the drawing interface,file/device integration,software;users
+17,automatically generates presentable data,can convert data in bar graphs line charts pie graph etc,ease of data representation,function;curve
+18,3d printing,the drawing from software can be printed through a 3d printer,export functions,software;users
+19,error reporting,simple interface for users to report errors easy process with clearly defined categories to speed up the process easy to findaccess,in-built help feature,software;functionality
+20,consulting service,user gives us cad models and we optimize it and return it to the user,targeted markets,user;users
+21,diffeent pricing packages for efficiency,offering different pricing for different levels of computing and different accuracy level,costing,software;functionality
+22,speak and tell,talk to the software what to do and it will understand and do it,ai,software;users
+23,error feedback,reminders and hints of acceptable inputs or suggested inputs provides immediate feedback and alternative solutionsinputsmethods,in-built help feature,function;curve
+24,function descriptors,descriptions of functionsbuttons when hovered on reduces learning curve does not rely on user memory,in-built help feature,function;curve
+25,free trials,the free trial is for a limited period of tie to let users experience the softwre,costing,users;customers
+26,online help service,you can send your design online and get help with optimization,online help services,design;projects
+27,online forum ,an online forum where people help you design as projects for them but work done for oyu,online help services,design;projects
+28,graphics tablet input,allows users to control draw and edit inputs and designs via a connected graphics tablet,import functions,user;users
+29,minimized analysis time,the software uses artificial neural network to analyze results during the simulation process,improving efficiency and power,software;functionality
+30,allocate processing power,a system which allows you to allocate the computers ram to a particular required computational power threshold by the software,improving efficiency and power,software;functionality
+31,graphic design aid,appeals to graphic designers rather than engineers focus on the pure morphing aspect rather than the fluids and design ,targeted markets,design;projects
+32,augmented reality ui,simulate in augmented reality see a train undergoing a simulation in your living room,ar/vr/gr & haptics,simulation;scanner
+33,iron man hologram simulation,simulation shows the working via a hologram walk into your simulationmodel make changes with a controller,ar/vr/gr & haptics,simulation;scanner
+34,high compatibility,the software can run on all types of computer systems,compatibility,software;users
+35,multiple compatibility,multiple compatibility help morphing software to operate on different types of computer systems,compatibility,software;users
+36,small installation file size,it reduces the installation time for the users,installation,file;files
+37,manufacture simulation,allows users to see possible manufacture processes for the new optimised design provides visual process and step breakdown helps determine manufacturability,file/device integration,user;users
+38,online searching,users can type the design goals and then the software can automatically search the relative design,online help services,software;users
+39,multiple accesing,multiple users can operate the same file,easy to use,file;files
+40,small files,all the drawings and assembly files are minimized and they open immediately,easy to use,file;files
+41,bluetooth connection,this method is to put multiple laptops togher to share files without wires,easy to use,file;files
+42,automation,software can automorph autocreate a design from scratch,ai and machine learning,software;users
+43,self heal,the software can heal any errors or problems on its own without any human help,ai and machine learning,software;users
+44,smart designing,the software tells you which design or material would be better taking into consideration boundary conditions,ai and machine learning,software;users
+45,design + manufacture,the software tells you if the design can be manufactured based on the machinery you have,ai and machine learning,software;users
+46,automatically fixing error,the software can automatically fix the drawing error,ai and machine learning,software;users
+47,natural environment,see how your product looks in natural setting,ar/vr/gr & haptics,
+48,allow user to join,allows user to ojoin parts using haptics and vr,ar/vr/gr & haptics,user;users
+49,animation generation,allows user to see the product in motion to build design flaw,ar/vr/gr & haptics,user;users
+50,use before you make,allows user to use the design before making it to build flaws,ar/vr/gr & haptics,user;users
+51,virtual reality,allows users to be inside the design,user interaction,user;users
+52,custom menu bars,allows users to alter structurelayout of menu bars high level of customisability easy to remember allows multiple menuaccess templates allows users to design their own menus,user interaction,user;users
+53,notifications alerts,alerts user of certain tasks or if simulations complete users can customise whenwhat alerts to receive allows alerts to push to phone if user is away from desk,user interaction,user;users
+54,online helping,when design errors stop users to keep drawing in the software online helping feature could solve the problems by operating users computers,in-built help feature,software;users
+55,making learning easy,the software comes with a learning package which includes books  videos on how to use the software,in-built help feature,software;users
+56,learning tools,the software should have an inbuilt selfsufficient help guide,in-built help feature,software;users
+57,animation tutorial,adding animation tutorials in the software help users to have a better understanding through visualization ,in-built help feature,software;users
+58,online product tutorial,online product tutorial is the video record files that help users and customers to learn how to use the software ,in-built help feature,software;users
+59,no supercomputer required,simulation can run on a basic laptop,improving efficiency and power,simulation;scanner
+60,haptic designing,has a haptic system which allows you to feel the surface  material of design,ar/vr/gr & haptics,design;projects
+61,discount package+ free education packag,by comparing our software development time we can reduce the software development costs we could then provide discounted or fee packages,costing,software;users
+62,auto data mine,software can autosearch and categorise cad files of related models extact and learn about shapesdata related to the models saves users from manually computing each model,automation,software;users
+63,iteration manual override,user choice of automatic iterations carried out by software user can interrupt with stop at any time to terminate or pause andor conduct manual override,automation,software;users
+64,smart optimization,the software can automatically optimize users design to satisfy users requirements,automation,software;users
+65,smart efficiency management,software can auto adjust processing power requirements based on your multitasking eg draw less power if you are running multiple programs,improving efficiency and power,software;users
+66,suggestions,an ai infused version suggests changes to your design to optimize it,in-built help feature,design;projects
+67,periodic online survey,periodice online survey is a method to periodically collect users and customers feedback so that the software can be updated frequently and timely,external help,software;users
+68,live chat,live chat is a easy way to communicate with customers an users without leaving software website live chat helps to answer customers questions immediately,external help,software;users
+69,drawing on touch panel,the software contains a touch panel version for users to draw their design by hands instead of using mouses,user interaction,software;users
+70,software adapting symbols,each has different symbols on different software select which you are familiar with,user interaction,software;users
+71,software adapting hotkeys,have oen gui but allow users to select which hotkeys of a particular software they are familiar with,user interaction,software;users
+72,familiar shortcuts,software should aim to use familiar shortcuts and hotkeys as other conventional design softwares,user interaction,software;users
+73,file sharing ,allows you to share files across devices with ease,file/device integration,file;files
+74,multiple file support ,allows you to integrate and use various file type without the need of converting,file/device integration,file;files
+75,talking interface,an interface which tells you rather than show you to increse interaction and experience,user interface,software;functionality
+76,integrated graphics interface,provides graphic design panel with the optimisation software to allow editing and rendering of colours etc helps engineers to visualise a potential final product,user interface,software;functionality
+77,ai to judge manufacturability,judges manufacturability of a design and makes alterations on its own,ai and machine learning,design;projects
+78,mobile app ,compact functionality version suitable for portable use run on mobiles and tablets,targeted markets,software;functionality
+79,camera system,the software has a camera system to generate design drawing by taking photographs,design recognition (image recognition),software;users
+80,reading paper sketch ,the software can generate a drawing by scanning a paper sketch,design recognition (image recognition),software;users
+81,face recognition security,the software has the ability to recognize the human face for document security purposes,design recognition (image recognition),software;users
+82,minimum installation package size,increases speed while installing the software,installation,software;users
+83,ai generated baseline cad,no input cad model required just select from a preset design,ai and machine learning,cad;functions
+84,automatical optimization function,the software provides automatical optimization function taht helps customers to ideal product model under given boundary conditions,automation,software;functionality
+85,gesture recognition,users can use gesture to assemble the components together,ar/vr/gr & haptics,file;files
+86,self servie management,selfservice resources are posted online to provide support information to customers,in-built help feature,file;files
+87,same ui for different function,keep the same ui for different departments like animation etc,user interface,function;curve
+88,easy edition,the drawing and assemblies from other types of software can be directly editied in our software,easy to use,software;users
+89,small file storage,software files do not occupy a lot of space,easy to use,software;users
+90,files conversion,software can conver file types,easy to use,software;users
+91,multi function support,importexport and support for multiple file types among devices provides smoother learning curve with familiar experiences,import functions,function;curve
+92,device integration,using cloud computing or network solutions to allow transfer of work across all platforms bluetooth file dropping and model sharing,file/device integration,software;functionality
+93,3d printer,allows user to 3d print the optimised design aids visualisation and can help to determine the manufacturability support for printer connectivity,export functions,user;users
+94,visualization of ann,a more intuitive ui and shows you the actual interations the ann makes visual interface live,user interface,simulation;scanner
+95,website,website  upload cad designs  name functions  get optimized design,external help,cad;functions
+96,timed challenge,make people learn the software through timed challenges to complete,learning the software games,software;users
+97,tutorial game ,tutorial to teach the software an online game to complete against other tutorial users,learning the software games,software;users
+98,practice problem gaming,the software sets up the practice problem for the users to play the game so that they can know how to use the software,learning the software games,software;users

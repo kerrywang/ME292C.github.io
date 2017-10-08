@@ -1,13 +1,13 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Hiding the WT,0,turbine;wind
-1,Configuration,1,
-2,Aesthetics,2,blades;turbine
-3,WT Efficiency,3,blade;pitch
-4,Community,4,wt;water
-5,Wind Concentrators,5,wind;turbines
-6,Hiding the WT - Camoflage,6,turbines
-7,Bird Safety,7,wt;wind
-8,Merging Renewables,8,lift;rotor
+0,hiding the wt,0,turbine;wind
+1,configuration,1,
+2,aesthetics,2,blades;turbine
+3,wt efficiency,3,blade;pitch
+4,community,4,wt;water
+5,wind concentrators,5,wind;turbines
+6,hiding the wt - camoflage,6,turbines
+7,bird safety,7,wt;wind
+8,merging renewables,8,lift;rotor
 ,,9,tower;level
 ,,10,landscape;buildings
 ,,11,efficiency;medium

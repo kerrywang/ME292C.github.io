@@ -2,5 +2,5 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,application,0,printing;materials
 1,function,1,printer;machine
 2,material,2,material;pla
-3,Policy,3,cakes;milk
+3,policy,3,cakes;milk
 4,new form,4,print;products

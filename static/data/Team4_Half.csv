@@ -1,54 +1,54 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,eco art,small solar panels fashion accessory that has bluetooth to link energy produced to phone transfers power to phone wirelessly,Portable Appliances,panels;panel
-2,solar shdes(sun glasses),solar panels over gloves to protect eyes battery  bluetooth in eyeglass frames camera,Portable Appliances,panels;panel
-3,solar mug,small thin film solar panel  battery were desigend on a mug cup has bluetooth capability that records energy storage,Portable Appliances,panels;panel
-4,sunbook,front cover of notebook has a foldout solar panel within battery bluetooth will send written text to a digital appt reach solar kwh,Portable Appliances,panels;panel
-5,solar tent,a campingor militaryuse tent that has power outlet from solar panels are built on the outseide of the tent to provide electricity,Portable Appliances,panels;panel
-6,solar candle,candle holder that is covered by a flexible thin film solar panel with a battery at the base of the holder trapped heat will also melt candlewithout use of a flame ,Portable Appliances,panels;panel
-7,solar business card,a electronic business card with dynamic figures on it powered by solar,Portable Appliances,sun;solar
-8,sun caf_,small outdoor coffee shop that maximizes solar panels in the storeeg thin film solar umbrellas store sign says pollution reduction amounts,Portable Appliances,sun;solar
-9,soalr gate,many gates of communities are run by electricity it would save much electricity and wiring efforts if they can be powered by solar,Portable Appliances,sun;solar
-10,solar clock,a regulat electronic clock that can be setup outdoor with exposure of the sun for example it can be installed on top of the basketball board that has good reception of sunshine and players can benefit from it,Portable Appliances,sun;solar
-11,flexible solar,flexible solar panels,Portable Appliances,sun;solar
-12,soalr picking,people who work under the sun for a solar hat clothes,Portable Appliances,sun;solar
-13,solar band,solar version of fibit track how much sun you get,Portable Appliances,sun;solar
-14,solar food warmer,food carriers that heat or kepp ware the food while exposed the sun,Portable Appliances,sun;solar
-15,solar irrigation system,power the pumps that are used to transport water with solar energy,Hybrid Application,electricity;water
-16,solar electric water filter system,a electric water filter system that is powered by solar suitable for underprevilaged area where clean water and electricity are scarce,Hybrid Application,electricity;water
-17,solar mat,roll out solar panel that rolls into the size of a water bottle has wireless charging area rolls around the battery,portable Appliances,panels;panel
-18,solar road,roads could be replaced with solar panel roads which can produce energy with the sun if solar roof from tesla is strong enough for the roof something close enough could replace the road,Big System,sun;solar
-19,harvesting solar,harvesting the waste heat trapped between solar panels and roof,Hybrid Application,panels;panel
-20,solar cover,covering sheet with flexible solar panels in order to cover anything outdoor like a car motorcycle etc while it is covering up outside it will produce solar power,Hybrid Application,panels;panel
-21,solar samsung monitor,an app that tells you howwhat the sun exposure is for different location and how much electricity can be generated,Software,sun;solar
-22,rotating solar shade,to add a rotational function to the existing pv panels for parking lots it will provide shade and optimize the efficiency at the same time,Charging Station,panels;panel
-23,power mat,solar panel  battery panel has a material that allows it to stick on windows without falling off sends power to phone app,Charging Station,panels;panel
-24,solar bench,solar panel on a table that has an embedded battery wireless charging pad on the end of the tabledisplay the remaining energy,Charging Station,panels;panel
-25,solar stand,ajustable solar panel mount designed for a range of roof typesto ease installation,Residential Solar,panels;panel
-26,solar window,solar panel window that are transparent,Residential Solar,panels;panel
-27,solar shade,sliding solar panel that acts as blinds for open windows when needed,Residential Solar,panels;panel
-28,amplity +,additional miooros mounted on solar panels to amplify solar strength,Residential Solar,panels;panel
-29,eco shade,solar panel shade cover for cafes and resturants patrons would charge their phones while eating with green energy,Residential Solar,panels;panel
-30,revolving solar,rotating solar panels aroung buildings,Residential Solar,panels;panel
-31,eco porch,porch that has solar panels as the floor this will help to power deviceswithin the home,Residential Solar,panels;panel
-32,solar indicator,a complimentary indicator of how much electricity of one house has generated and how much money has been saved all neighbors can see the numbers,Residential Solar,electricity;water
-33,total green,manufacturing process where solar pvs are manufactured using green energy and recycled completely after their life span,Large System,electricity;water
-34,solar charging station,works as a sunshade and charging station for small applicances together with long desk for people to work on ,Charging Station,station;wireless
-35,solar eelectric vehicle charging station,allow ev to be charged with solar energy the station will store energy when its not being used the grid will be used at night,Charging Station,station;wireless
-36,eco boost,charging station for cell phones that uses solar energy could work through a subscription on min charging model,Charging Station,station;wireless
-37,auto rotating solar panels,for panels on flat rooftops they can be installed on rotating plates which follow the sun the rotation will be adjusted for different seasons,Residential Solar,sun;solar
-38,sunflower solar,like a sunflower the solar panel will follw the sun,Residential Solar,sun;solar
-39,solar time,a device that reminds you when to put your portable solar charger out in the sun eg on your windowshade device is connected to the internet to determine sunlight times,Residential Solar,sun;solar
-40,never dirty solar panels,dirt is a big issue for solar company that affect the efficiency the panels,Maintenance,panels;panel
-41,solar guard,a thin film that is transparent and dustdirt resistent it is applied to the panel so that dirt accumulation is not an issue,Maintenance,panels;panel
-42,solar umbrella,generate electricity from pvs on the umbrella,Portable Appliances,electricity;water
-43,autoclean,water nozzles are installed at the top of the pvs spray water and clean the pv water can be sprayed remotely,Maintenance,electricity;water
-44,solar money pot,set up a small solar panel system outdoor with a screen showing how much money it has been generating continuously after a year the number may be so impressive that someone will start considering going solar,Large System,panels;panel
-45,self charging car battery,cars batteries often die if the engine hasnt been turned on for a long time solarcharging batteries will prevent this issue for cars that park outdoor,Portable Appliances,station;wireless
-46,eco pack,foldable solar array mounted to a portable energy pack that can be folded out when storing energy,Portable Appliances,station;wireless
-47,mountable solar pads,make any objects that contantly expose under sunshine portable charging stations,Portable Appliances,station;wireless
-48,solar headphone,wireless headphones that can be charged when exposed to sunshine,Portable Appliances,station;wireless
-49,solar rewards,set up a public energy data sharing platform people will be free to join and record their power generated by solar the first thousand in a city with the most solar power will be rewarded with money,Large System,sun;solar
-50,moon solar,moon rotates faster and will have more chance of getting exposed to the sun to generate more power,Large System,sun;solar
-51,solar satelites,solar built satelite that revolves the earth,Large System,sun;solar
-52,moving solar,group of truck solar panels moving with the sun,Large System,sun;solar
-53,iot soalr,small solar for internet of things,Large System,sun;solar
+1,eco art,small solar panels fashion accessory that has bluetooth to link energy produced to phone transfers power to phone wirelessly,portable appliances,panels;panel
+2,solar shdes(sun glasses),solar panels over gloves to protect eyes battery  bluetooth in eyeglass frames camera,portable appliances,panels;panel
+3,solar mug,small thin film solar panel  battery were desigend on a mug cup has bluetooth capability that records energy storage,portable appliances,panels;panel
+4,sunbook,front cover of notebook has a foldout solar panel within battery bluetooth will send written text to a digital appt reach solar kwh,portable appliances,panels;panel
+5,solar tent,a campingor militaryuse tent that has power outlet from solar panels are built on the outseide of the tent to provide electricity,portable appliances,panels;panel
+6,solar mat,roll out solar panel that rolls into the size of a water bottle has wireless charging area rolls around the battery,portable appliances,panels;panel
+7,solar candle,candle holder that is covered by a flexible thin film solar panel with a battery at the base of the holder trapped heat will also melt candlewithout use of a flame ,portable appliances,panels;panel
+8,solar business card,a electronic business card with dynamic figures on it powered by solar,portable appliances,sun;solar
+9,sun caf_,small outdoor coffee shop that maximizes solar panels in the storeeg thin film solar umbrellas store sign says pollution reduction amounts,portable appliances,sun;solar
+10,soalr gate,many gates of communities are run by electricity it would save much electricity and wiring efforts if they can be powered by solar,portable appliances,sun;solar
+11,solar clock,a regulat electronic clock that can be setup outdoor with exposure of the sun for example it can be installed on top of the basketball board that has good reception of sunshine and players can benefit from it,portable appliances,sun;solar
+12,flexible solar,flexible solar panels,portable appliances,sun;solar
+13,soalr picking,people who work under the sun for a solar hat clothes,portable appliances,sun;solar
+14,solar band,solar version of fibit track how much sun you get,portable appliances,sun;solar
+15,solar food warmer,food carriers that heat or kepp ware the food while exposed the sun,portable appliances,sun;solar
+16,solar samsung monitor,an app that tells you howwhat the sun exposure is for different location and how much electricity can be generated,software,sun;solar
+17,solar irrigation system,power the pumps that are used to transport water with solar energy,hybrid application,electricity;water
+18,solar electric water filter system,a electric water filter system that is powered by solar suitable for underprevilaged area where clean water and electricity are scarce,hybrid application,electricity;water
+19,harvesting solar,harvesting the waste heat trapped between solar panels and roof,hybrid application,panels;panel
+20,solar cover,covering sheet with flexible solar panels in order to cover anything outdoor like a car motorcycle etc while it is covering up outside it will produce solar power,hybrid application,panels;panel
+21,solar road,roads could be replaced with solar panel roads which can produce energy with the sun if solar roof from tesla is strong enough for the roof something close enough could replace the road,big system,sun;solar
+22,rotating solar shade,to add a rotational function to the existing pv panels for parking lots it will provide shade and optimize the efficiency at the same time,charging station,panels;panel
+23,power mat,solar panel  battery panel has a material that allows it to stick on windows without falling off sends power to phone app,charging station,panels;panel
+24,solar bench,solar panel on a table that has an embedded battery wireless charging pad on the end of the tabledisplay the remaining energy,charging station,panels;panel
+25,solar stand,ajustable solar panel mount designed for a range of roof typesto ease installation,residential solar,panels;panel
+26,solar window,solar panel window that are transparent,residential solar,panels;panel
+27,solar shade,sliding solar panel that acts as blinds for open windows when needed,residential solar,panels;panel
+28,amplity +,additional miooros mounted on solar panels to amplify solar strength,residential solar,panels;panel
+29,eco shade,solar panel shade cover for cafes and resturants patrons would charge their phones while eating with green energy,residential solar,panels;panel
+30,revolving solar,rotating solar panels aroung buildings,residential solar,panels;panel
+31,eco porch,porch that has solar panels as the floor this will help to power deviceswithin the home,residential solar,panels;panel
+32,solar indicator,a complimentary indicator of how much electricity of one house has generated and how much money has been saved all neighbors can see the numbers,residential solar,electricity;water
+33,total green,manufacturing process where solar pvs are manufactured using green energy and recycled completely after their life span,large system,electricity;water
+34,solar charging station,works as a sunshade and charging station for small applicances together with long desk for people to work on ,charging station,station;wireless
+35,solar eelectric vehicle charging station,allow ev to be charged with solar energy the station will store energy when its not being used the grid will be used at night,charging station,station;wireless
+36,eco boost,charging station for cell phones that uses solar energy could work through a subscription on min charging model,charging station,station;wireless
+37,auto rotating solar panels,for panels on flat rooftops they can be installed on rotating plates which follow the sun the rotation will be adjusted for different seasons,residential solar,sun;solar
+38,sunflower solar,like a sunflower the solar panel will follw the sun,residential solar,sun;solar
+39,solar time,a device that reminds you when to put your portable solar charger out in the sun eg on your windowshade device is connected to the internet to determine sunlight times,residential solar,sun;solar
+40,never dirty solar panels,dirt is a big issue for solar company that affect the efficiency the panels,maintenance,panels;panel
+41,solar guard,a thin film that is transparent and dustdirt resistent it is applied to the panel so that dirt accumulation is not an issue,maintenance,panels;panel
+42,solar umbrella,generate electricity from pvs on the umbrella,portable appliances,electricity;water
+43,autoclean,water nozzles are installed at the top of the pvs spray water and clean the pv water can be sprayed remotely,maintenance,electricity;water
+44,solar money pot,set up a small solar panel system outdoor with a screen showing how much money it has been generating continuously after a year the number may be so impressive that someone will start considering going solar,large system,panels;panel
+45,self charging car battery,cars batteries often die if the engine hasnt been turned on for a long time solarcharging batteries will prevent this issue for cars that park outdoor,portable appliances,station;wireless
+46,eco pack,foldable solar array mounted to a portable energy pack that can be folded out when storing energy,portable appliances,station;wireless
+47,mountable solar pads,make any objects that contantly expose under sunshine portable charging stations,portable appliances,station;wireless
+48,solar headphone,wireless headphones that can be charged when exposed to sunshine,portable appliances,station;wireless
+49,solar rewards,set up a public energy data sharing platform people will be free to join and record their power generated by solar the first thousand in a city with the most solar power will be rewarded with money,large system,sun;solar
+50,moon solar,moon rotates faster and will have more chance of getting exposed to the sun to generate more power,large system,sun;solar
+51,solar satelites,solar built satelite that revolves the earth,large system,sun;solar
+52,moving solar,group of truck solar panels moving with the sun,large system,sun;solar
+53,iot soalr,small solar for internet of things,large system,sun;solar

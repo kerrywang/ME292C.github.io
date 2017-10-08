@@ -1,9 +1,9 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Safety,0,car;cars
-1,Comfort and Convenience,1,car;user
-2,User Interface,2,passengers;cars
-3,Remote Control,3,av;users
-4,Efficiency,4,windshield;vehicle
-5,Avoid Traffic Congestion,5,vehicle;vehicles
-6,Localization and Positioning,6,user;extensions
-7,Affordability,7,
+0,safety,0,car;cars
+1,comfort and convenience,1,car;user
+2,user interface,2,passengers;cars
+3,remote control,3,av;users
+4,efficiency,4,windshield;vehicle
+5,avoid traffic congestion,5,vehicle;vehicles
+6,localization and positioning,6,user;extensions
+7,affordability,7,

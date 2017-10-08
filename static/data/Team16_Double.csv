@@ -1,5 +1,5 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am I ,workout;user
+1,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am i ,workout;user
 2,voice control ,the machine can connect to amazon echo siri or any similar product and allow the users to use their voice to control the machine,hey siri ,users;machine
 3,smart exercise service ,a series of exercise machines including both cardio and weight training machines are connected together the system will create the workout plan based on users goal it allows users to use different machines to optimize the workout and collects data from all machines and finally it will provide a conprehensive analysis to the users ,business spinoff,users;access
 4,biking tour with friends,using vr or ar technique to simulate a biking tour and put friends in the same virtual world allowing them to ride together and chat ,arcade mode,biking;bike
@@ -25,9 +25,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 24,challenging mode,the bike machine works like bikes in real life and in this mode the machine will simulate a real life cycling experience including cornering and straight line racing and let the users set their own records and challenge others ,arcade mode,bike;machine
 25,move with the beat,include music of the similiar speed in the optimal workout change music from users folder in different stages of the workout,personal trainer,workout;user
 26,workout selection,allows user to choose a personalized workout based off of goals,personal trainer,workout;user
-27,workout statistics,shows the user their status midworkout,how fit am I ,workout;eg
-28,workout feedback,,how fit am I ,workout;eg
-29,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am I ,workout;eg
+27,workout statistics,shows the user their status midworkout,how fit am i ,workout;eg
+28,workout feedback,,how fit am i ,workout;eg
+29,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am i ,workout;eg
 30,sounds,mimics real life noise rather than music,but wait there's more ,
 31,entertainment list,the machine provide a list of entertainment like music movie tv show and game it can also allow users to install app like netflix hulu to get access to their own subscription ,check out my ride,users;access
 32,alert system,works with a users smartphone and home system to notify about important happenings,check out my ride,users;access

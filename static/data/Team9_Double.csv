@@ -1,102 +1,102 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,wireless transmission,gas sensor can send the data gathered to computer through wireless transmission,Special Features,sensor;gas
-2,open door control,the gas sensor can control the door to close automatically,Special Features,sensor;gas
-3,extractor hood sensor,the sensor mounted under extractor monitor gas,Special Features,sensor;gas
-4,teeth sensor,mounted in the teeth sense the gas exhausted,Special Features,sensor;gas
-5,iwatch embedded,embedded in iwatch uses during working out,Clock&Watch,
-6,individual equipment ,a independent powered sensor,Independent Device,sensor;device
-7,healthy lung,a device with oxygen and carbon dioxide sensor that as as a lung function checker ,Independent Device,sensor;device
-8,mini gas sensor,a gas sensor at a size like remoter the gas inlet is at the top the device has its own display to show the result,Independent Device,sensor;device
-9,detect origin ,a sensor can detect what is the origin,Independent Device,sensor;device
-10,customized modular computer attaching sensor,look like a usb functions can be customized by adding different gas detecting modulars,Smart Device Interactive,sensor;gas
-11,built in sensor,mems gas sensor is planted into the smartphone all function will be connected to the phone,Smart Device Interactive,sensor;gas
-12,key chain wireless,a small sensor will be design and pacakged using its own buildin battery using wireless system to connect with smartphone,Smart Device Interactive,sensor;gas
-13,air outlet mount sensor,can be mount on all types of air outlets using its own battery power,Smart Device Interactive,sensor;gas
-14,implantable gas sensor,this gas sensor can be implanted on the skin of people,Smart Device Interactive,sensor;gas
-15,earring gsa sensor,this gas sensor can be use as decoration earrings connect to smart appliances through bluetooth,Smart Device Interactive,sensor;gas
-16,gas sensor in shirt,this sensor is attached to a short to detect gases it can also be regarded as a decoration,Smart Device Interactive,sensor;gas
-17,gas sensor in pants,the sensor can be attached to pants to detect gases,Smart Device Interactive,sensor;gas
-18,gas sensor in smart glasses,the gas sensor is attached to a pair of smart glasses the data can be projected to the glasses ,Smart Device Interactive,sensor;gas
-19,sheet gas sensor,the sensor is a thing sheet and can be attached on whatever you want apply wireless charging,Smart Device Interactive,sensor;gas
-20,tv gas sensor,the sensor can be designed into smart tvs and show data on tv directly,Smart Device Interactive,sensor;gas
-21,window shade gas sensor,the sensor was designed onto the window shade it can detect whether the window is open or not if it is not opened for a while it can detect the air condition and alarm if it is not good,Independent Device,sensor;air
-22,built into an air purifier,the sensor is built into an air purifier moniter the inlet and outlet air condition and start and stop working automaticly,Independent Device,sensor;air
-23,mobile gas sensor with  srceen,a mobile gas sensor with screen compatible to mobile devices,Smart Device Interactive,sensor;gas
-24,mbile gas sensir,plug into the headphone jack ,Smart Device Interactive,sensor;gas
-25,mask with gas sensor,the sensor is put into a msak,Smart Device Interactive,sensor;gas
-26,computer attraching gas sensor,attach the sensor to pc,Smart Device Interactive,sensor;gas
-27,usb gas sensor,this is a sensor build with a usb connceter once it plug into a computer it can sense and tranfer data to computer,Smart Device Interactive,sensor;gas
-28,perfume storage assistant,a ringshape gas sensor attaching at the perfume cap to avoid perfume leaking,Smart Device Interactive,sensor;gas
-29,table lamp gas sensor,this sensor is installed in a table lamp the result will be displayed on the screen of it,Auto-multifunction,sensor;gas
-30,sefl moving,move automactically to detect toxic gas,Special Features,gas;sensor
-31,miicrophone,it can alarm residents when there toxic gas makes people in danger,Special Features,gas;sensor
-32,all round type gas flow channel,enable gas sensor to detect gas from all direction,Special Features,gas;sensor
-33,protection suit,install gas sensor to protection suit then it can detect toxic gas and report it to those working in dangerous consitions,Special Features,gas;sensor
-34,health monitor,gather and analyze the gas expirated out from human beings to report their health condition,Special Features,gas;sensor
-35,gas sensor on wearable appliances,the sensor is a module in wearable applianceswatch,Clock&Watch,sensor;gas
-36,built in sensor on smart watches,mems gas sensor is built into a smart watch and interact with the smart watch itself,Clock&Watch,sensor;gas
-37,ac assistant,a system with several das sensor around the room to detect the air quality and adjust the ac,Auto-multifunction,air;detection
-38,window opener,a decive that detect hte air flow throught the window and openclose the windowopen for fresh air close for polluted air,Auto-multifunction,air;detection
-39,manual power generatot,when you need to use it press generator to make it work,Special Features,
-40,toliet cleaner,a gas sensor that can help monitor the cleanness of the toliet and then control the toilet to wash it,auto-multifunction,sensor;gas
-41,air quality data net,install gas sensor to the whole city and gather data,Special Features,sensor;air
-42,drone gas sensor,the gas sensor is mounted onto a small drone that can fly around and monitor air quality indoor,Special Features,sensor;air
-43,dog neck band,the gas sensor can be designed into a dog neck bend and monitor the air quality wherever the dog goes,Special Features,sensor;air
-44,medical use gas sensor ,patients will exhale through the funnel the sensor will detect the percentage of co2 and o2 use standard disposable funnel,Independent Device,gas;sensor
-45,air meter,a device that can use gas sensors to evaluate the concentration of certain type of gas in the air and store the data over time,Independent Device,gas;sensor
-46,movable voc checker,a device that can move around the house to detect voc gas and send alerts,Independent Device,gas;sensor
-47,pipe shape gas sensor,fashionable shape can attract many midage people it can detect the conponents when people inhale and exhale,Independent Device,gas;sensor
-48,clean trash can,a gas sensor attaching to the trash can to detect the putrefaction ,Independent Device,gas;sensor
-49,animation presentation,make the results to be presented in animation form,Special Features,data;results
-50,image rendering,the data can be presented rhrough pitcure make it more vivid,Special Features,data;results
-51,friendly ui,the sensor comes with a userfriendly app,Special Features,sensor;device
-52,filter,eliminate the interference of humidity,Special Features,sensor;device
-53,ring sensor,shaped as a ring,Special Features,sensor;device
-54,carpet sensor,sense the harmful things in carpet,Special Features,sensor;device
-55,bath room sensor,sense the harmful things in bathroom,Special Features,sensor;device
-56,furniture sensor,sense the harmful things in funiture,Special Features,sensor;device
-57,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,Independent Device,
-58,smart air filter,an air filter that has gas sensors to help evaluatre the indoor air quality and run accordingly,Auto-multifunction,sensor;air
-59,monitor brightness varies,a monitor whose brightness varies with light,Special Features,device;function
-60,on door gas sensor,the sensor can monitor the air condition on both side of the door and provide best air quality improve advise,Smart Device Interative/Special features,sensor;air
-61,adjustable gas sensor ,probe bar is adjustable so that it can reach out a a specific space full of some gases without coming into that space,Independent Device,sensor;gas
-62,viewing screen,the viewing screen occupies the whole surface of the gas sensor,Independent Device,sensor;gas
-63,vase gas sensor,this gas has a vase exterior every branch is attached to the control board to sense the gas,Independent Device,sensor;gas
-64,night sensor,record the gas exhausted during sleeping,Independent Device,sensor;gas
-65,external connection,connected and powered by cell phone,Smart Device Interactive,
-66,smart humidifier,a humidifier that is controlled by the gas sensor to adjust the working level,Auto-multifunction,gas;sensor
-67,leaking preventing,a device that utilizes gas sensors to detect leaking from pipes like nature gas in kitcken and shut down the gas if needed,Auto-multifunction,gas;sensor
-68,fresh air,an air puifier that is controlled by the gas sensors to maintain a good level of air quaility,Auto-multifunction,gas;sensor
-69,solar energy powered,the sensor can be powered by solar energy,Special Features,sensor;gas
-70,sticker,make the gas sensor can be attached to wall ,Special Features,sensor;gas
-71,mobile phone patch,gas sensor is a slice which can be attached to the backside of the phone,Special Features,sensor;gas
-72,magnetic gas sensor,the magnetic gas sensor with charge port can be attached on the door of refrigerator and many other appliances,Special Features,sensor;gas
-73,nose gas sensor,the gas sensor can be placed inside nose ,Special Features,sensor;gas
-74,mini sensor station,it is desinged for put at one place and monitor the air quality in the room,Clock&Watch,sensor;air
-75,sensitive rose gas sensor,apply attracting rose like appearance to increase contact area app in mobile devices display the result,Smart Device Interactive,sensor;device
-76,110v bluetooth home use sensor,110v ac charge connect to smart devices through bluetooth app in mobile device dasplay the result,Smart Device Interactive,sensor;device
-77,plug in sensor i,this is like a back up battery for a phone which can plug on the phone and using smartphones power and send data to app,Smart Device Interactive,sensor;device
-78,plug in sensor ii,small sensor to plug into smartphone and interact with smartphones,Smart Device Interactive,sensor;device
-79,"timer" gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,Independent Device/watch and clock,sensor;gas
-80,projection,project the result to the wall,Special Features,
-81,fresh meeting room,a device that control the havc of the meeting room according to the meeting people and schedule ,Auto-multifunction,
-82,wall clock sensor,mounted in wall clock,Clock&Watch,sensor;device
-83,workout assistant,a device that analyzes the breathe and monitor the heart lung function with other data ,Smart Device Interactive,device;function
-84,smoke detection,for people who smoke detect the harmful level,Independent Device,air;detection
-85,necklace shape sensor,can be holded on neck,Special Features,sensors;sensor
-86,social media share,the data from sensor can be shared to social media,Special Features,sensors;sensor
-87,foldable,the sensors screen can be foldered to smaller or expand to a larger one as needed,Special Features,sensors;sensor
-88,small size,make the sensors size small to be portable,Special Features,sensors;sensor
-89,;present results in lens,for those who wear glasses the results can be showed to the lens directly,Special Features,sensors;sensor
-90,clean refrigerator,a device that can sensor the gas from putrefaction to tell whether the food goes bad inside the regrigerator,Auto-multifunction,sensor;gas
-91,clean sink disposal ,a device that control a wash flow to keep the sink disposal clean by gas sensor detecting technology,Auto-multifunction,sensor;gas
-92,air monitor,a device that contains gas sensor to detect indoor air quality and communicates with smart device like phones,Smart Device Interactive,sensor;air
-93,in car gas sensor,this gas sensor can be plug into a car using cars power monitor air quality in the car and send data to smartphone,Smart Device Interactive,sensor;air
-94,bottle gas sensor,the sensor was designed on the cap of a water bottle since people bring water bottle around it can monitor the air condition and transfer data to smartphones,Smart Device Interactive,sensor;air
-95,lamp in built gas sensor,the sensor is built into a desk lamp and monitor the air condition if needed send data onto the smartphone,Smart Device Interactive,sensor;air
-96,built into fire alarm,the sensor is built into fire alarm monitor the air quality well not using for fire smokes,Smart Device Interactive,sensor;air
-97,window screen gas sensor,mounted on the screen window and monitor the air goes in and out,Smart Device Interactive,sensor;air
-98,laser gun,a laser gun that makes use of the laser to detect gas to check gas leaking,Smart Device Interactive,gas;sensor
-99,cooking assistant,a device that can detect singed food while cooking by gas sensor,Smart Device Interactive,gas;sensor
-100,mini size,mini size give chance to be mounted and embedded,Special Features,phone;mini
-101,cell phone embedded,can be embedded in cell phone,Special Features,phone;mini
+1,wireless transmission,gas sensor can send the data gathered to computer through wireless transmission,special features,sensor;gas
+2,open door control,the gas sensor can control the door to close automatically,special features,sensor;gas
+3,extractor hood sensor,the sensor mounted under extractor monitor gas,special features,sensor;gas
+4,teeth sensor,mounted in the teeth sense the gas exhausted,special features,sensor;gas
+5,table lamp gas sensor,this sensor is installed in a table lamp the result will be displayed on the screen of it,auto-multifunction,sensor;gas
+6,individual equipment ,a independent powered sensor,independent device,sensor;air
+7,healthy lung,a device with oxygen and carbon dioxide sensor that as as a lung function checker ,independent device,sensor;air
+8,mini gas sensor,a gas sensor at a size like remoter the gas inlet is at the top the device has its own display to show the result,independent device,sensor;air
+9,detect origin ,a sensor can detect what is the origin,independent device,sensor;air
+10,window shade gas sensor,the sensor was designed onto the window shade it can detect whether the window is open or not if it is not opened for a while it can detect the air condition and alarm if it is not good,independent device,sensor;air
+11,built into an air purifier,the sensor is built into an air purifier moniter the inlet and outlet air condition and start and stop working automaticly,independent device,sensor;air
+12,on door gas sensor,the sensor can monitor the air condition on both side of the door and provide best air quality improve advise,smart device interative/special features,sensor;air
+13,mobile gas sensor with  srceen,a mobile gas sensor with screen compatible to mobile devices,smart device interactive,sensor;gas
+14,mbile gas sensir,plug into the headphone jack ,smart device interactive,sensor;gas
+15,mask with gas sensor,the sensor is put into a msak,smart device interactive,sensor;gas
+16,computer attraching gas sensor,attach the sensor to pc,smart device interactive,sensor;gas
+17,usb gas sensor,this is a sensor build with a usb connceter once it plug into a computer it can sense and tranfer data to computer,smart device interactive,sensor;gas
+18,perfume storage assistant,a ringshape gas sensor attaching at the perfume cap to avoid perfume leaking,smart device interactive,sensor;gas
+19,projection,project the result to the wall,special features,
+20,sefl moving,move automactically to detect toxic gas,special features,gas;sensor
+21,miicrophone,it can alarm residents when there toxic gas makes people in danger,special features,gas;sensor
+22,all round type gas flow channel,enable gas sensor to detect gas from all direction,special features,gas;sensor
+23,protection suit,install gas sensor to protection suit then it can detect toxic gas and report it to those working in dangerous consitions,special features,gas;sensor
+24,health monitor,gather and analyze the gas expirated out from human beings to report their health condition,special features,gas;sensor
+25,clean refrigerator,a device that can sensor the gas from putrefaction to tell whether the food goes bad inside the regrigerator,auto-multifunction,sensor;gas
+26,toliet cleaner,a gas sensor that can help monitor the cleanness of the toliet and then control the toilet to wash it,auto-multifunction,sensor;gas
+27,clean sink disposal ,a device that control a wash flow to keep the sink disposal clean by gas sensor detecting technology,auto-multifunction,sensor;gas
+28,smoke detection,for people who smoke detect the harmful level,independent device,air;detection
+29,iwatch embedded,embedded in iwatch uses during working out,clock&watch,
+30,mini size,mini size give chance to be mounted and embedded,special features,phone;mini
+31,cell phone embedded,can be embedded in cell phone,special features,phone;mini
+32,medical use gas sensor ,patients will exhale through the funnel the sensor will detect the percentage of co2 and o2 use standard disposable funnel,independent device,gas;sensor
+33,air meter,a device that can use gas sensors to evaluate the concentration of certain type of gas in the air and store the data over time,independent device,gas;sensor
+34,movable voc checker,a device that can move around the house to detect voc gas and send alerts,independent device,gas;sensor
+35,pipe shape gas sensor,fashionable shape can attract many midage people it can detect the conponents when people inhale and exhale,independent device,gas;sensor
+36,clean trash can,a gas sensor attaching to the trash can to detect the putrefaction ,independent device,gas;sensor
+37,manual power generatot,when you need to use it press generator to make it work,special features,power
+38,wall clock sensor,mounted in wall clock,clock&watch,sensor;air
+39,mini sensor station,it is desinged for put at one place and monitor the air quality in the room,clock&watch,sensor;air
+40,friendly ui,the sensor comes with a userfriendly app,special features,sensor;air
+41,filter,eliminate the interference of humidity,special features,sensor;air
+42,air quality data net,install gas sensor to the whole city and gather data,special features,sensor;air
+43,ring sensor,shaped as a ring,special features,sensor;air
+44,carpet sensor,sense the harmful things in carpet,special features,sensor;air
+45,bath room sensor,sense the harmful things in bathroom,special features,sensor;air
+46,furniture sensor,sense the harmful things in funiture,special features,sensor;air
+47,drone gas sensor,the gas sensor is mounted onto a small drone that can fly around and monitor air quality indoor,special features,sensor;air
+48,dog neck band,the gas sensor can be designed into a dog neck bend and monitor the air quality wherever the dog goes,special features,sensor;air
+49,smart humidifier,a humidifier that is controlled by the gas sensor to adjust the working level,auto-multifunction,gas;sensor
+50,leaking preventing,a device that utilizes gas sensors to detect leaking from pipes like nature gas in kitcken and shut down the gas if needed,auto-multifunction,gas;sensor
+51,fresh air,an air puifier that is controlled by the gas sensors to maintain a good level of air quaility,auto-multifunction,gas;sensor
+52,customized modular computer attaching sensor,look like a usb functions can be customized by adding different gas detecting modulars,smart device interactive,sensor;gas
+53,built in sensor,mems gas sensor is planted into the smartphone all function will be connected to the phone,smart device interactive,sensor;gas
+54,key chain wireless,a small sensor will be design and pacakged using its own buildin battery using wireless system to connect with smartphone,smart device interactive,sensor;gas
+55,air outlet mount sensor,can be mount on all types of air outlets using its own battery power,smart device interactive,sensor;gas
+56,implantable gas sensor,this gas sensor can be implanted on the skin of people,smart device interactive,sensor;gas
+57,earring gsa sensor,this gas sensor can be use as decoration earrings connect to smart appliances through bluetooth,smart device interactive,sensor;gas
+58,gas sensor in shirt,this sensor is attached to a short to detect gases it can also be regarded as a decoration,smart device interactive,sensor;gas
+59,gas sensor in pants,the sensor can be attached to pants to detect gases,smart device interactive,sensor;gas
+60,gas sensor in smart glasses,the gas sensor is attached to a pair of smart glasses the data can be projected to the glasses ,smart device interactive,sensor;gas
+61,sheet gas sensor,the sensor is a thing sheet and can be attached on whatever you want apply wireless charging,smart device interactive,sensor;gas
+62,tv gas sensor,the sensor can be designed into smart tvs and show data on tv directly,smart device interactive,sensor;gas
+63,fresh meeting room,a device that control the havc of the meeting room according to the meeting people and schedule ,auto-multifunction,
+64,"timer" gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
+65,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,independent device,power
+66,ac assistant,a system with several das sensor around the room to detect the air quality and adjust the ac,auto-multifunction,air;detection
+67,window opener,a decive that detect hte air flow throught the window and openclose the windowopen for fresh air close for polluted air,auto-multifunction,air;detection
+68,adjustable gas sensor ,probe bar is adjustable so that it can reach out a a specific space full of some gases without coming into that space,independent device,sensor;gas
+69,viewing screen,the viewing screen occupies the whole surface of the gas sensor,independent device,sensor;gas
+70,vase gas sensor,this gas has a vase exterior every branch is attached to the control board to sense the gas,independent device,sensor;gas
+71,night sensor,record the gas exhausted during sleeping,independent device,sensor;gas
+72,solar energy powered,the sensor can be powered by solar energy,special features,sensor;gas
+73,sticker,make the gas sensor can be attached to wall ,special features,sensor;gas
+74,mobile phone patch,gas sensor is a slice which can be attached to the backside of the phone,special features,sensor;gas
+75,magnetic gas sensor,the magnetic gas sensor with charge port can be attached on the door of refrigerator and many other appliances,special features,sensor;gas
+76,nose gas sensor,the gas sensor can be placed inside nose ,special features,sensor;gas
+77,workout assistant,a device that analyzes the breathe and monitor the heart lung function with other data ,smart device interactive,device;function
+78,sensitive rose gas sensor,apply attracting rose like appearance to increase contact area app in mobile devices display the result,smart device interactive,sensor;air
+79,110v bluetooth home use sensor,110v ac charge connect to smart devices through bluetooth app in mobile device dasplay the result,smart device interactive,sensor;air
+80,air monitor,a device that contains gas sensor to detect indoor air quality and communicates with smart device like phones,smart device interactive,sensor;air
+81,in car gas sensor,this gas sensor can be plug into a car using cars power monitor air quality in the car and send data to smartphone,smart device interactive,sensor;air
+82,plug in sensor i,this is like a back up battery for a phone which can plug on the phone and using smartphones power and send data to app,smart device interactive,sensor;air
+83,plug in sensor ii,small sensor to plug into smartphone and interact with smartphones,smart device interactive,sensor;air
+84,bottle gas sensor,the sensor was designed on the cap of a water bottle since people bring water bottle around it can monitor the air condition and transfer data to smartphones,smart device interactive,sensor;air
+85,lamp in built gas sensor,the sensor is built into a desk lamp and monitor the air condition if needed send data onto the smartphone,smart device interactive,sensor;air
+86,built into fire alarm,the sensor is built into fire alarm monitor the air quality well not using for fire smokes,smart device interactive,sensor;air
+87,window screen gas sensor,mounted on the screen window and monitor the air goes in and out,smart device interactive,sensor;air
+88,monitor brightness varies,a monitor whose brightness varies with light,special features,device;function
+89,smart air filter,an air filter that has gas sensors to help evaluatre the indoor air quality and run accordingly,auto-multifunction,sensor;air
+90,external connection,connected and powered by cell phone,smart device interactive,
+91,animation presentation,make the results to be presented in animation form,special features,data;results
+92,image rendering,the data can be presented rhrough pitcure make it more vivid,special features,data;results
+93,gas sensor on wearable appliances,the sensor is a module in wearable applianceswatch,clock&watch,sensor;gas
+94,built in sensor on smart watches,mems gas sensor is built into a smart watch and interact with the smart watch itself,clock&watch,sensor;gas
+95,necklace shape sensor,can be holded on neck,special features,sensors;sensor
+96,social media share,the data from sensor can be shared to social media,special features,sensors;sensor
+97,foldable,the sensors screen can be foldered to smaller or expand to a larger one as needed,special features,sensors;sensor
+98,small size,make the sensors size small to be portable,special features,sensors;sensor
+99,;present results in lens,for those who wear glasses the results can be showed to the lens directly,special features,sensors;sensor
+100,laser gun,a laser gun that makes use of the laser to detect gas to check gas leaking,smart device interactive,gas;sensor
+101,cooking assistant,a device that can detect singed food while cooking by gas sensor,smart device interactive,gas;sensor

@@ -1,61 +1,61 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,magnetically charged lubricant,a lubricant which can be made to flow based on magnetic attraction,Performance,lubricant;bottle
-2,modular lubricant,a single lubricant base which can be modified to suit different applications based on addition of different particles,Performance,lubricant;bottle
-3,industrial exhaust,high power exhaust in industry to get rid of smell and fumes,Smell,hydrocarbons;fumes
-4,sealed lubricant,use sealed lubricant to store it for long,Long Lasting,lubricant;lubrication
-5,autodispenser ,systems which automatically dispenser lubricant to the bike chain when needed,Long Lasting,lubricant;lubrication
-6,color changing lubricant,lubricant will indicate its life time completion by changing its color,Awareness,lubricant;time
-7,resell used,reselling used lubricant to a different industry as a raw material,Cost ,lubricant;industry
-8,ventilation,ventilation for removal of fumes,Smell,lubrication;lubricants
-9,alter manufacturing ingredients,select alternative hydrocarbons which will smell good after lubricant manufacturing,Performance,hydrocarbons;fumes
-10,metered lubrication,set stroke of lubrication can equivalent to machine needed,Cost ,lubrication;lubricants
-11,sponge,attaching sponge to absorb excess lubricant ,Aesthetics,lubricant;lubrication
-12,auto clean additives,particles which automatically clean lubricant and then can be easily taken out of system,Aesthetics,lubricant;lubrication
-13,evaporating lubricant,design a lubricant which will evaporate once its life is over,Smell,lubricant;bottle
-14,replace liquid by solid lubricant,develop lubricant which will have properties of liquid lubricant but will be solid in state,Long Lasting,lubricant;bottle
-15,bottle oil dispresser,oil dispenser bottle could be designed in a way such that lubricant is dispensed in a controlled manner,Long Lasting,lubricant;bottle
-16,operator training,making operator aware about why lubrication is important and proper amount and process involved,Awareness,operator
-17,operator training,train operators regarding lubrication,Awareness,operator
-18,use of suction pump,to suck all air in drip suction,Smell,pump
-19,highly flowable lubricant,a lubricant with high flowability ,Performance,
-20,self lubricating,using material which can lubricate itself,Aesthetics,self
-21,self lubricating,using self lubricating material,Aesthetics,self
-22,camouflaging lubricant,a lubricant with high transmissibility of light which adapts to its surrounding making it invisible,Aesthetics,lubricant;time
-23,intelligent lubricant,lubricant which changes colour or some other parameter to signal the user that its time to change,Aesthetics,lubricant;time
-24,cost benefit analysis article,an article to make people aware about the money saved by lubrication,Awareness,lubrication;lubricants
-25,analysis of lubrication,study of accurate lubrication process and material required,Awareness,lubrication;lubricants
-26,study of available lubricants,study of available brands,Awareness,lubrication;lubricants
-27,lubrication awareness,lubrication awareness seminar ,Awareness,lubrication;lubricants
-28,auto lubrication,auto lubrication pump which will add require lubricant at predefined time,Performance,pump
-29,spray based lubricant,to ease the process of applying to objects like skateboards cycles,Aesthetics,lubricant;viscosity
-30,electrically charged lubricant,a lubricant which can change its properties like viscosity heat dissipation colour etc based on the electrical current,Performance,lubricant;viscosity
-31,temperature independent lubricant,lubricant whose viscosity does not change with temperature,Performance,lubricant;viscosity
-32,improve lubricant property,add metal particles in lubricant to improve its heat carrying capacity,Performance,lubricant;viscosity
-33,improve lubricant property (viscosity),improve viscosity of lubricant which will result in less noise through less metal to metal contact,Performance,lubricant;viscosity
-34,waste management,waste management of lubricant to ensure safe dispose,Environment Friendly,lubricant;lubrication
-35,natural lubricant,lubricant made up of renewable cheap resources,Environment Friendly,lubricant;lubrication
-36,pneumatic lubrication,use high pressure air which will act as kind of lubricant,Environment Friendly,lubricant;lubrication
-37,frictionless drives,use magnetic leviation or other friction less drives to remove usage of lubricant,Environment Friendly,lubricant;lubrication
-38,recyclable lubricant,lubricant is recycled at the machine to make it reusable,Environment Friendly,lubricant;lubrication
-39,gas mask,a gas mask for operators,Smell,
-40,water based lubricant,adding water in lubricant to reduce the amount of lubricant being used,Cost ,lubricant;viscosity
-41,flower fragrant additives,adding scented additives to counter the foul smell,Smell,
-42,fragrant lubricant,lubricant which emits fragrance,Smell,lubricant;lubrication
-43,odourless lubricant,lubricant which has no smell or odour of its own,Smell,lubricant;lubrication
-44,additive through pump,a pump to add fragrant additives to mix it with lubricant,Smell,lubricant;lubrication
-45,using gauge,a gaufe can be designed to check level of lubricant,Awareness,lubricant;bottle
-46,nose plugs,to block smell,Smell,pleasant;smell
-47,additives to improve performance,adding certain additives which enhances lubricant performances,Performance,lubricant;lubrication
-48,summer lubricant,making a lubricant for hot weather conditions,Performance,lubricant;lubrication
-49,winter lubricant,making a lubricant for cold weather conditions,Performance,lubricant;lubrication
-50,use ear plugs,to reduce noise,Noise,
-51,employees training,training the employees in industry section to improve their understanding of selectingapplying right lubricant,Awareness,lubricant;industry
-52,recycling burnt lubricant,adding burnt lubricant back to system,Cost ,lubricant;lubrication
-53,coolant lubricant,creating a lubricant with excellent cooling properties,Cost ,lubricant;lubrication
-54,manual additive addition,add additive manually at users end to smell lubricant pleasant,Performance,pleasant;smell
-55,plastic apron,to prevent from clothes getting dirty,Aesthetics,
-56,sticky lubricant,lubricant which sticks to the surface applied and does not come off due to water or any other natural elements,Long Lasting,lubricant;viscosity
-57,reuse lubricant,small scale industry can buy reused lubricant from larger industry,Awareness,lubricant;lubrication
-58,procurement team training,formal training should be given to procurement team which will help them to select right lubricant,Aesthetics,lubricant;bottle
-59,solvent to wash hands,solvent is provided to remove lubricant from hands,Aesthetics,lubricant;bottle
-60,manufacturing modification,add additive in lubricant in manufacturing process,Performance,lubricant;industry
+1,magnetically charged lubricant,a lubricant which can be made to flow based on magnetic attraction,performance,lubricant;bottle
+2,modular lubricant,a single lubricant base which can be modified to suit different applications based on addition of different particles,performance,lubricant;bottle
+3,industrial exhaust,high power exhaust in industry to get rid of smell and fumes,smell,hydrocarbons;fumes
+4,sealed lubricant,use sealed lubricant to store it for long,long lasting,lubricant;lubrication
+5,autodispenser ,systems which automatically dispenser lubricant to the bike chain when needed,long lasting,lubricant;lubrication
+6,color changing lubricant,lubricant will indicate its life time completion by changing its color,awareness,lubricant;time
+7,resell used,reselling used lubricant to a different industry as a raw material,cost ,lubricant;industry
+8,ventilation,ventilation for removal of fumes,smell,lubrication;lubricants
+9,alter manufacturing ingredients,select alternative hydrocarbons which will smell good after lubricant manufacturing,performance,hydrocarbons;fumes
+10,metered lubrication,set stroke of lubrication can equivalent to machine needed,cost ,lubrication;lubricants
+11,sponge,attaching sponge to absorb excess lubricant ,aesthetics,lubricant;lubrication
+12,auto clean additives,particles which automatically clean lubricant and then can be easily taken out of system,aesthetics,lubricant;lubrication
+13,evaporating lubricant,design a lubricant which will evaporate once its life is over,smell,lubricant;bottle
+14,replace liquid by solid lubricant,develop lubricant which will have properties of liquid lubricant but will be solid in state,long lasting,lubricant;bottle
+15,bottle oil dispresser,oil dispenser bottle could be designed in a way such that lubricant is dispensed in a controlled manner,long lasting,lubricant;bottle
+16,operator training,making operator aware about why lubrication is important and proper amount and process involved,awareness,operator
+17,operator training,train operators regarding lubrication,awareness,operator
+18,use of suction pump,to suck all air in drip suction,smell,pump
+19,highly flowable lubricant,a lubricant with high flowability ,performance,
+20,self lubricating,using material which can lubricate itself,aesthetics,self
+21,self lubricating,using self lubricating material,aesthetics,self
+22,camouflaging lubricant,a lubricant with high transmissibility of light which adapts to its surrounding making it invisible,aesthetics,lubricant;time
+23,intelligent lubricant,lubricant which changes colour or some other parameter to signal the user that its time to change,aesthetics,lubricant;time
+24,cost benefit analysis article,an article to make people aware about the money saved by lubrication,awareness,lubrication;lubricants
+25,analysis of lubrication,study of accurate lubrication process and material required,awareness,lubrication;lubricants
+26,study of available lubricants,study of available brands,awareness,lubrication;lubricants
+27,lubrication awareness,lubrication awareness seminar ,awareness,lubrication;lubricants
+28,auto lubrication,auto lubrication pump which will add require lubricant at predefined time,performance,pump
+29,spray based lubricant,to ease the process of applying to objects like skateboards cycles,aesthetics,lubricant;viscosity
+30,electrically charged lubricant,a lubricant which can change its properties like viscosity heat dissipation colour etc based on the electrical current,performance,lubricant;viscosity
+31,temperature independent lubricant,lubricant whose viscosity does not change with temperature,performance,lubricant;viscosity
+32,improve lubricant property,add metal particles in lubricant to improve its heat carrying capacity,performance,lubricant;viscosity
+33,improve lubricant property (viscosity),improve viscosity of lubricant which will result in less noise through less metal to metal contact,performance,lubricant;viscosity
+34,waste management,waste management of lubricant to ensure safe dispose,environment friendly,lubricant;lubrication
+35,natural lubricant,lubricant made up of renewable cheap resources,environment friendly,lubricant;lubrication
+36,pneumatic lubrication,use high pressure air which will act as kind of lubricant,environment friendly,lubricant;lubrication
+37,frictionless drives,use magnetic leviation or other friction less drives to remove usage of lubricant,environment friendly,lubricant;lubrication
+38,recyclable lubricant,lubricant is recycled at the machine to make it reusable,environment friendly,lubricant;lubrication
+39,gas mask,a gas mask for operators,smell,
+40,water based lubricant,adding water in lubricant to reduce the amount of lubricant being used,cost ,lubricant;viscosity
+41,flower fragrant additives,adding scented additives to counter the foul smell,smell,
+42,fragrant lubricant,lubricant which emits fragrance,smell,lubricant;lubrication
+43,odourless lubricant,lubricant which has no smell or odour of its own,smell,lubricant;lubrication
+44,additive through pump,a pump to add fragrant additives to mix it with lubricant,smell,lubricant;lubrication
+45,using gauge,a gaufe can be designed to check level of lubricant,awareness,lubricant;bottle
+46,nose plugs,to block smell,smell,pleasant;smell
+47,additives to improve performance,adding certain additives which enhances lubricant performances,performance,lubricant;lubrication
+48,summer lubricant,making a lubricant for hot weather conditions,performance,lubricant;lubrication
+49,winter lubricant,making a lubricant for cold weather conditions,performance,lubricant;lubrication
+50,use ear plugs,to reduce noise,noise,
+51,employees training,training the employees in industry section to improve their understanding of selectingapplying right lubricant,awareness,lubricant;industry
+52,recycling burnt lubricant,adding burnt lubricant back to system,cost ,lubricant;lubrication
+53,coolant lubricant,creating a lubricant with excellent cooling properties,cost ,lubricant;lubrication
+54,manual additive addition,add additive manually at users end to smell lubricant pleasant,performance,pleasant;smell
+55,plastic apron,to prevent from clothes getting dirty,aesthetics,
+56,sticky lubricant,lubricant which sticks to the surface applied and does not come off due to water or any other natural elements,long lasting,lubricant;viscosity
+57,reuse lubricant,small scale industry can buy reused lubricant from larger industry,awareness,lubricant;lubrication
+58,procurement team training,formal training should be given to procurement team which will help them to select right lubricant,aesthetics,lubricant;bottle
+59,solvent to wash hands,solvent is provided to remove lubricant from hands,aesthetics,lubricant;bottle
+60,manufacturing modification,add additive in lubricant in manufacturing process,performance,lubricant;industry

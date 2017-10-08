@@ -1,14 +1,14 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Consumer,0,robot;robots
-1,Medical,1,robot;arm
-2,Education,2,
-3,Agriculture,3,arm;screw
-4,Medical/Industry,4,arm
-5,Consumer/education,,
-6,Industry,,
-7,Organization,,
-8,Industry/Engineer,,
-9,Consumer/Education/Medical,,
-10,Consumer; Organization,,
-11,Consumer/medical,,
-12,Industry/Consumer,,
+0,consumer,0,robot;robots
+1,medical,1,robot;arm
+2,education,2,
+3,agriculture,3,arm;screw
+4,medical/industry,4,arm
+5,consumer/education,,
+6,industry,,
+7,organization,,
+8,industry/engineer,,
+9,consumer/education/medical,,
+10,consumer; organization,,
+11,consumer/medical,,
+12,industry/consumer,,

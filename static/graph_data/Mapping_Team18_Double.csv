@@ -1,24 +1,25 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Secondary Function,0,
-1,Locomotion,1,robot;propellers
-2,Flexibility,2,robot;sensors
-3,Impact Toughness,3,rods;cables
-4,Mod Save America,4,size;balance
-5,locomotion,5,robot;spider
-6,Mod save america; locomotion,6,direction;bot
-7,Secondary Function/Locomotion,7,rods
-8,user experience,8,robot;help
-9,Weight/ Impact Toughness,9,impact;tension
-10,Weight,10,robots;robot
-11,flexibility,11,fibers;motors
-12,Integrity,12,sphere;objects
-13,Modularity,13,shapes;materials
-14,Locomotion; Impact Toughness,14,robot
-15,Mod Save America;Impact Toughness,15,grip;lights
-16,Locomotion; planning,16,rods;shape
-17,impact Toughness,17,robots;materials
-18,Helmet,18,robot;sonar
-19,Locomotion; impact toughness,19,grip;toes
-20,Mod save america,20,thread;polymers
-,,21,robot;robo
-,,22,terrain
+0,impact toughness,0,rods;cables
+1,secondary function,1,robot;app
+2,locomotion,2,robot;sensors
+3,flexibility,3,robot;spider
+4,mod save america,4,transformer;tensile
+5,integrity,5,component;thread
+6,secondary function/locomotion,6,rods
+7,weight,7,control
+8,locomotion; planning,8,
+9,locomotion; impact toughness,9,robot;help
+10,modularity,10,shapes;materials
+11,weight/ impact toughness,11,impact;tension
+12,mod save america; locomotion,12,direction;bot
+13,helmet,13,grip;lights
+14,mod save america;impact toughness,14,fibers;motors
+15,user experience,15,robot;robo
+,,16,terrain
+,,17,robot
+,,18,robots;robot
+,,19,springs
+,,20,sphere;objects
+,,21,rods;rod
+,,22,grip;toes
+,,23,pull;roll

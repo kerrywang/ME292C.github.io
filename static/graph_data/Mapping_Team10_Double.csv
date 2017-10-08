@@ -1,16 +1,16 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Finger Designs,0,finger;fingers
+0,finger designs,0,finger;fingers
 1,,1,brake;wrist
-2,Other,2,hand;interface
-3,The Claw,3,hand;fingers
-4,iMonkeyBar,4,wrist;fingers
-5,Gone Ridin',5,hand
-6,Control,6,bindings;linkage
-7,Harness,7,sensors;heat
-8,Niche,8,
-9,Joints,9,fingers;finger
-10,Grippers,10,grip;texture
-11,Mount,11,thumb;finger
+2,other,2,hand;interface
+3,the claw,3,hand;fingers
+4,imonkeybar,4,wrist;fingers
+5,gone ridin',5,hand
+6,control,6,bindings;linkage
+7,harness,7,sensors;heat
+8,niche,8,
+9,joints,9,fingers;finger
+10,grippers,10,grip;texture
+11,mount,11,thumb;finger
 ,,12,clamp;drum
 ,,13,hand;clamp
 ,,14,finger;hand

@@ -1,22 +1,21 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Productivity and Functionality,0,
-1,Service,1,car;service
-2,Internal Experience,2,headset;vr
-3,Pedestrian Communication,3,car;signal
-4,Smart Mobility,4,car;hotel
-5,Awareness of AV Tech,5,dashboard;vehicle
-6,Pedestrian communication,6,interface;passengers
-7,Visibility and safety,7,car;passenger
-8,Aesthetics,8,car;taxi
-9,Driver Monitoring,9,car;routes
-10,Redesigning Infrastructure,10,mode;car
-11,Internal Comfortability,11,car;workout
-12,Handing-over of control,,
-13,Driver condition & hand-over of control,,
-14,Mobility and Route,,
-15,Connecting with others,,
-16,Sharing Control,,
-17,Mobility & Driver condition,,
-18,Visiblity,,
-19,Safety; functionality,,
-20,Functionality and Usability,,
+0,productivity and functionality,0,
+1,service,1,car;service
+2,internal experience,2,headset;vr
+3,pedestrian communication,3,car;signal
+4,visibility and safety,4,car;passenger
+5,awareness of av tech,5,dashboard;vehicle
+6,aesthetics,6,car;taxi
+7,smart mobility,7,car;hotel
+8,handing-over of control,8,passengers;car
+9,safety; functionality,9,mode;car
+10,redesigning infrastructure,10,car;workout
+11,mobility & driver condition,,
+12,mobility and route,,
+13,visiblity,,
+14,sharing control,,
+15,internal comfortability,,
+16,driver condition & hand-over of control,,
+17,connecting with others,,
+18,functionality and usability,,
+19,driver monitoring,,

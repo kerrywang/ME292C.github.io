@@ -1,22 +1,21 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Productivity and Functionality,0,car;parking
-1,Service,1,car;service
-2,Pedestrian Communication,2,car;passengers
-3,Internal Experience,3,headset;vr
-4,Aesthetics,4,car;passenger
-5,Visiblity,5,dashboard;screen
-6,Redesigning Infrastructure,6,
-7,Connecting with others,7,cars;wifi
-8,Visibility and safety,8,vision;awareness
-9,Driver condition & hand-over of control,9,seats;driver
-10,Functionality and Usability,10,mode;dash
-11,Smart Mobility,11,buses;vehicles
-12,Sharing Control,12,car;dynamics
-13,Mobility and Route,,
-14,Driver Monitoring,,
-15,Internal Comfortability,,
-16,Safety; functionality,,
-17,Awareness of AV Tech,,
-18,Handing-over of control,,
-19,Pedestrian communication,,
-20,Mobility & Driver condition,,
+0,productivity and functionality,0,car;parking
+1,pedestrian communication,1,car;passengers
+2,service,2,car;service
+3,aesthetics,3,car;passenger
+4,internal experience,4,cars;headset
+5,internal comfortability,5,
+6,smart mobility,6,buses;vehicles
+7,sharing control,7,seats;driver
+8,visiblity,8,dashboard;screen
+9,functionality and usability,9,mode;dash
+10,visibility and safety,10,vision;awareness
+11,redesigning infrastructure,11,car;dynamics
+12,safety; functionality,,
+13,handing-over of control,,
+14,awareness of av tech,,
+15,mobility & driver condition,,
+16,connecting with others,,
+17,mobility and route,,
+18,driver condition & hand-over of control,,
+19,driver monitoring,,

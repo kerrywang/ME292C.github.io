@@ -165,7 +165,7 @@ if __name__ == '__main__':
 	# od = OriginData("ME110_HM_Team1.csv")
 
 	#
-	for i in range(15, 16):
+	for i in range(1, 2):
 		od = OriginData("Team{}_Double.csv".format(i))
 		od = OriginData("Team{}_Equal.csv".format(i))
 		od = OriginData("Team{}_Half.csv".format(i))

@@ -1,22 +1,17 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Secondary Function,0,robot;robots
-1,Locomotion,1,rods;cables
-2,Impact Toughness,2,obstacles;bars
-3,locomotion,3,robot;spider
-4,Locomotion; planning,4,springs;motors
-5,flexibility,5,control
-6,impact Toughness,6,
-7,Integrity,7,earthquake;disaster
-8,Mod save america,8,payload;shock
-9,Flexibility,,
-10,Helmet,,
-11,Secondary Function/Locomotion,,
-12,Weight,,
-13,Mod save america; locomotion,,
+0,secondary function,0,robot;robots
+1,locomotion,1,rods;cables
+2,flexibility,2,robot;spider
+3,impact toughness,3,obstacles;bars
+4,integrity,4,earthquake;disaster
+5,weight,5,springs;enclosure
+6,mod save america;impact toughness,6,
+7,mod save america,,
+8,locomotion; impact toughness,,
+9,locomotion; planning,,
+10,secondary function/locomotion,,
+11,modularity,,
+12,weight/ impact toughness,,
+13,helmet,,
 14,user experience,,
-15,Mod Save America,,
-16,Locomotion; impact toughness,,
-17,Modularity,,
-18,Locomotion; Impact Toughness,,
-19,Mod Save America;Impact Toughness,,
-20,Weight/ Impact Toughness,,
+15,mod save america; locomotion,,

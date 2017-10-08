@@ -1,13 +1,12 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Solar integration w/ existing product,0,panels;battery
-1,Transportation,1,panels;panel
-2,Software Integration,2,storage;energy
-3,Efficiency Boosting,3,panel;mirrors
-4,Unconventional Usage,4,power;panel
-5,Control Sensor,5,installation;monitor
-6,B2B service,,
-7,Maintenance,,
-8,Energy Saving,,
-9,B2B Service,,
-10,Energy Storage,,
-11,Retrofit Market,,
+0,solar integration w/ existing product,0,panels;battery
+1,software integration,1,storage;energy
+2,transportation,2,panels;panel
+3,efficiency boosting,3,panel;mirrors
+4,unconventional usage,4,power;panel
+5,b2b service,,
+6,maintenance,,
+7,energy saving,,
+8,control sensor,,
+9,energy storage,,
+10,retrofit market,,

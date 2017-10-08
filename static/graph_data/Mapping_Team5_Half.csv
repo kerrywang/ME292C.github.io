@@ -1,14 +1,14 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Infrastructure planning,0,car;cars
-1,Use Cases,1,ride;riders
-2,Basic concept,2,cav;buses
-3,Interior Desgn,3,seats;seat
-4,Transition to AV,4,
-5,Kids,,
-6,Transition to Automated Vehicles,,
-7,Commute / peak management,,
-8,Pricing & Cost,,
-9,Safety & Health,,
-10,Interior Design,,
-11,Optimizing efficiency,,
-12,New Vehicle Shapes/Forms,,
+0,infrastructure planning,0,car;cars
+1,use cases,1,ride;riders
+2,basic concept,2,cav;buses
+3,interior desgn,3,seats;seat
+4,transition to av,4,
+5,kids,,
+6,transition to automated vehicles,,
+7,commute / peak management,,
+8,pricing & cost,,
+9,safety & health,,
+10,interior design,,
+11,optimizing efficiency,,
+12,new vehicle shapes/forms,,

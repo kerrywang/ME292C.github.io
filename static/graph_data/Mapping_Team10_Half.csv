@@ -1,13 +1,13 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Finger Designs,0,finger;fingers
+0,finger designs,0,finger;fingers
 1,,1,objects;clamp
-2,Other,2,hand;clamp
-3,Harness,3,sensors;combination
-4,iMonkeyBar,4,bar;child
-5,The Claw,5,
-6,Control,,
-7,Gone Ridin',,
-8,Mount,,
-9,Grippers,,
-10,Joints,,
-11,Niche,,
+2,other,2,hand;clamp
+3,harness,3,sensors;combination
+4,imonkeybar,4,bar;child
+5,the claw,5,
+6,control,,
+7,gone ridin',,
+8,mount,,
+9,grippers,,
+10,joints,,
+11,niche,,

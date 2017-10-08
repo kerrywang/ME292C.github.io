@@ -1,31 +1,21 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,casin things,0,gloves
-1,material,1,
-2,Enhance comfort,2,gloves;caffeine
-3,internet with controls,3,button;buttons
-4,Energy Basic,4,energy
-5,Better than the Iphone,5,gloves;rubber
-6,There's an app for that,6,gloves;glove
-7,Better than the iphone,7,gloves;mars
-8,Got it?,8,fingers
-9,Grip,9,gloves;grip
-10,intersurfaces,10,glove;massage
-11,Can you Feel it?,,
-12,Hot Stuff,,
-13,lock N load,,
-14,would you look at that,,
-15,Iron Man Glove,,
-16,Safety,,
-17,Would you look at that,,
-18,intersurfaces With/Into,,
-19,Clean Things,,
-20,Sensor,,
-21,Got it,,
-22,Would You look at that,,
-23,Touch,,
-24,Can you feel it?,,
-25,there's an app for that,,
-26,iron Man Glove,,
-27,Lock N Load,,
-28,Add a name of created cluster that you added a concept into.,,
-29,Hot stuff,,
+1,enhance comfort,1,gloves;massage
+2,there's an app for that,2,
+3,internet with controls,3,gloves;button
+4,material,4,gloves;mars
+5,energy basic,5,energy
+6,intersurfaces,6,gloves;glove
+7,sensor,7,gloves;bearings
+8,touch,8,fingers
+9,better than the iphone,9,gloves;fingers
+10,lock n load,10,glove;wrist
+11,would you look at that,11,glove
+12,got it?,12,gloves;application
+13,grip,13,gloves;grip
+14,hot stuff,14,things
+15,clean things,15,heater;glove
+16,safety,,
+17,can you feel it?,,
+18,iron man glove,,
+19,intersurfaces with/into,,

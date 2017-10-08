@@ -4,4 +4,4 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 3,new form,0,printing;printer,1,[79]
 2,function,0,printing;printer,31,[48; 49; 50; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 71; 72; 73; 74; 75; 76; 77; 78]
 1,material,0,printing;printer,6,[42; 43; 44; 45; 46; 47]
-4,Policy,0,printing;printer,1,[80]
+4,policy,0,printing;printer,1,[80]

@@ -18,9 +18,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 17,shared bike machine,bike machine rooms located at convenient places allow users to use it and pay per use all machine will be connected and upload users data to the cloud server so that users are able to be access to their own data easily ,business spinoff,users;user
 18,smart exercise service ,a series of exercise machines including both cardio and weight training machines are connected together the system will create the workout plan based on users goal it allows users to use different machines to optimize the workout and collects data from all machines and finally it will provide a conprehensive analysis to the users ,business spinoff,users;user
 19,bike park,have the exercise machine go around the gym on a set race track depending on speed of the user race with other users,business spinoff,users;user
-20,workout statistics,shows the user their status midworkout,how fit am I ,workout;eg
-21,workout feedback,,how fit am I ,workout;eg
-22,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am I ,workout;eg
+20,workout statistics,shows the user their status midworkout,how fit am i ,workout;eg
+21,workout feedback,,how fit am i ,workout;eg
+22,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am i ,workout;eg
 23,workout more ,have small workout for different parts of the machine for example the bike brakes on the handle could be used as a grip trainer or the bike can be coupled with another trainning machine ,but wait there's more ,biking;bike
 24,sounds,mimics real life noise rather than music,but wait there's more ,biking;bike
 25,cupholder,lets user put their water bottle within reach,but wait there's more ,biking;bike
@@ -56,4 +56,4 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 55,weigh for me,the machine finds out directly how heavy is ther user so he or she doesnt have to do it while keying in the personal information,check out my ride,machine;user
 56,tilted,tilt the whole machine for different experiences ,check out my ride,machine;user
 57,competition mode,shows user the past workout stats for a friend and encourages them to try to beat their friend,arcade mode,workout;user
-58,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am I ,workout;user
+58,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am i ,workout;user

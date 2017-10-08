@@ -9,7 +9,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 8,3d printed 3d printer,a project that allows user to print out parts and assemble a new 3d printer,application,printer;machine
 9,adjustable extruding nozzle,a controllable extruding nozzle size can help reduce the risk of material clogging,function,material;pla
 10,cleans of excess 3d material on object,residue material is cleaned off automatically from object and machine,function,material;pla
-11,3d printing material recycle code,for now there isnt any recycle policy for pla and other 3d printing material it is good to build up a rule which everyone can follow like what we did to recycle trash,Policy,material;pla
+11,3d printing material recycle code,for now there isnt any recycle policy for pla and other 3d printing material it is good to build up a rule which everyone can follow like what we did to recycle trash,policy,material;pla
 12,metal 3d printing,creating structures freeform using metal,application,printing;materials
 13,3d printing prototype models,used to quickly prototype of ideate models to present,application,printing;materials
 14,3d printed house,customized printing of concrete blocks and onsite stacking and assembly by a 3d printing like machine,application,printing;materials
@@ -36,7 +36,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 35,draw on screen to 3d print,just draw on a computer screen and printer prints it no 3d rendering like cad needed,function,printer;machine
 36,portable 3d printer,a portable 3d printer that can be stored in a suitcase when unused,function,printer;machine
 37,wireless 3d printer,receive signals wirelessly from other devices such as phones and tablets,function,printer;machine
-38,print first; sculpture next,print out a rough shape first and mill off parts by switching tools,function,printer;machine
+38,"print first, sculpture next",print out a rough shape first and mill off parts by switching tools,function,printer;machine
 39,multi function software,a software that is able to open all sorts of 3d model files and convert to slicer,function,printer;machine
 40,editing 3d model in vr,construct 3d model in virtual reality with goggle headsets and controllers,function,printer;machine
 41,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printer;machine

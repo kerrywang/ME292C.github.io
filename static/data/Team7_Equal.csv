@@ -1,62 +1,62 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,the cube,a robotic platform that solves the cube using userdefined algorithm,Education,
-2,artificial hand,a robotic hand that can be programmed to do multiple versatile job,Medical/Industry,
-3,the connoisseur,a cooking pot equipped with robotic arms that could be programmed to do stir frying actions,Consumer,
-4,magic cube robot,a robot arm which can operate the magic cube cameras are located to get the status of magic cube,Consumer/education,robot;arm
-5,apple bagging robot,no machine can replace the work of bagging for apple in agriculture some easy handled robot arm may help them ,Agriculture,arm;screw
-6,components material delivery robot,deliver required components or material to working station in factory,Industry,robot;robots
-7,robotic band,some robots can play instruments as a band,Industry,robot;robots
-8,robotic garbage collector,a robot can walk on street he can collect the garbage on street,Industry,robot;robots
-9,robotic firefighter,a robot have detector of life he can survive and complete the mission,Industry,robot;robots
-10,sorting robot,a robot that efficiently sorts packages,Industry,robot;robots
-11,robot librarian,a robot can put books back to its shelf,Organization,robot;robots
-12,sneak attack robot,a robot can sneak attact bad guys when they have hostage in their hand,Organization,robot;robots
-13,robotic police,the robot can walk around the street the video camera is used to pattern recognize someone who has intention to crime,Organization,robot;robots
-14,robotic manager,a robot can walk around in a company as a manager he can monitor the status of the employee,Organization,robot;robots
-15,robotic salesperson,a robot works as a shop assistant she can scan the code of product and receive money from customers,Organization,robot;robots
-16,third hand,hold the screw or something else when people are assembling wear on the arm have a little screen to have user program it,Industry/Engineer,arm;screw
-17,the guardian,a robot that stand by the classroom and can be simply controlled by buttons to express feelings and reach things for autistic children ,Consumer/Education/Medical,robot;arm
-18,agv,automatically guided vehicle that performs logistics duty in the plant,Industry,
-19,the grommer,a robotic arm that automatically wash dry and groom pets,Consumer,
-20,homework robot,a robot can solve your homework peoblem with its database,Consumer/education,robot;robots
-21,robotic teacher,the main function of this robot is teaching children she can talk and answer the questions ,Consumer/education,robot;robots
-22,user programmable robots,users can upload the software to the robot they can watch the results of ther algorithm by video on the platform,Consumer/education,robot;robots
-23,open source robot,the robot has open archetecture on hardware and software users can develop the software of robots the hard ware use standard interface,Consumer/education,robot;robots
-24,make up robot,a robot that can be programmed to put different makeups on users,Consumer/education,robot;robots
-25,hair cut robot,scan your hair download the style template cut automatically,Consumer; Organization,
-26,industrial robot arm,a robot platfrom that controls robotic arms for heavy duty in the industry,Industry,robot;arm
-27,injection assistant,shaking while injection can cause extra pain for patients the nurses can control our robot to finish the injection,Medical,robot;arm
-28,surgery assistant,a robot arm can help with some simple but important motions during surgery to avoid handshaking,Medical,robot;arm
-29,ladder player,a robot can play balls with you,Consumer,robot;robots
-30,design robot,a robot can generate design ideas once you input all your user research data and information,Consumer,robot;robots
-31,companion robot,a robot can spend time with the  old talk with them and deal with emergency situation like call hospital or police and can do first aid,Consumer,robot;robots
-32,robot lover,a robot can change its character according the data you input,Consumer,robot;robots
-33,robotic waiter,a robot who can walk talk hear and watch its used for working as a waiter,Consumer,robot;robots
-34,house keeping robot,the robot is set in your home she can clean the room collect objects and put them back according to the original seeting,Consumer,robot;robots
-35,robotic mail box,a robot who is also a mail box the robot can receive mails she can also open the letter and then scan the letter send the letter to customers email,Consumer,robot;robots
-36,robotic gardener,a robot that clean your garden he can use tools to finish the job,Consumer,robot;robots
-37,fridge robot,the robot lives in fridge he can monitor the status of the food,Consumer,robot;robots
-38,the scribe,a robot that has automatic speech recognition and write down automatically what people said,Consumer,robot;robots
-39,the diver,a robot that dive underwater and take deep ocean pictures for searching and rescuing,Consumer,robot;robots
-40,cube robot,kids can write their own algorithm to solve a cube with our platform and use our robot to test it,Education,robot;robots
-41,robot painter,control a robot to draw a picture or write some words,Education,robot;robots
-42,dancer robot,a robot with a lot of arms can dance under your control,Education,robot;robots
-43,robotic artist,a robot use mathematical visualization method to design magic picture ,Education,robot;robots
-44,educational humanoid robot,a humanoid robot that has inbuilt platform teaching junior high students programming knowledge,Education,robot;robots
-45,the barber,a robotic arm that can do haircuts for people,Consumer,arm
-46,guide,a robot can guide blind people walking to replace service dog,Consumer/medical,robot;robots
-47,medicine delivery,deliver pills to pateients under control of nurse to avoid mistakes that deliver wrong medicine to patients,Medical,
-48,medical injection robot,a robot that can accurately find the spot and control the dosage of injection,Medical,robot;robots
-49,cooking assistant,help user stir fry while cooking to avoid hot oil splattering on body,Consumer,
-50,robotic toy,this robotic toy provide software for children to program children can learn the course from apps they can use the graphic program tools,Consumer/education,
-51,robot cutter,cut cooking ingredients into specific shape and size,Consumer,robot;arm
-52,crab opener,a robot can open crab with its arms while you eating to free your hands,Consumer,robot;arm
-53,cooking robot,the robot can use all tools in kitchen they can process the meat vegatables etc they can also download different typ of meals,Consumer,robot;arm
-54,grandparents health care robot,robot can record the voice of the people at home they can process the voice and alarm if someone need help,Consumer,robot;arm
-55,robot pet,a robot pet that can be programmed to mimic the actions of real dogs or cats which entaintains people who want to keep a pet but cant,Consumer,robot;arm
-56,robot lawn mower,a lawn mower that can automatically detect where needs to be cleaned or watered,Consumer,robot;arm
-57,the combing robot,a robot arm that comb and fondle pets,Consumer,robot;arm
-58,nanny,a robot arm that can sense babys crying and then play music and swing the cradle softly,Consumer,robot;arm
-59,the acupuncturist,a robotic arm that can do acupuncture ,Medical,arm
-60,quadruped robot,a quadruped robot that can do dangerous job for people,Industry/Consumer,robot;robots
-61,make up robot,young girls can learn makeup by practicing on a dummy and learn program by control a robot to remove the makeup,Education,robot;arm
+1,the cube,a robotic platform that solves the cube using userdefined algorithm,education,
+2,artificial hand,a robotic hand that can be programmed to do multiple versatile job,medical/industry,
+3,the connoisseur,a cooking pot equipped with robotic arms that could be programmed to do stir frying actions,consumer,
+4,magic cube robot,a robot arm which can operate the magic cube cameras are located to get the status of magic cube,consumer/education,robot;arm
+5,apple bagging robot,no machine can replace the work of bagging for apple in agriculture some easy handled robot arm may help them ,agriculture,arm;screw
+6,components material delivery robot,deliver required components or material to working station in factory,industry,robot;robots
+7,robotic band,some robots can play instruments as a band,industry,robot;robots
+8,robotic garbage collector,a robot can walk on street he can collect the garbage on street,industry,robot;robots
+9,robotic firefighter,a robot have detector of life he can survive and complete the mission,industry,robot;robots
+10,sorting robot,a robot that efficiently sorts packages,industry,robot;robots
+11,robot librarian,a robot can put books back to its shelf,organization,robot;robots
+12,sneak attack robot,a robot can sneak attact bad guys when they have hostage in their hand,organization,robot;robots
+13,robotic police,the robot can walk around the street the video camera is used to pattern recognize someone who has intention to crime,organization,robot;robots
+14,robotic manager,a robot can walk around in a company as a manager he can monitor the status of the employee,organization,robot;robots
+15,robotic salesperson,a robot works as a shop assistant she can scan the code of product and receive money from customers,organization,robot;robots
+16,third hand,hold the screw or something else when people are assembling wear on the arm have a little screen to have user program it,industry/engineer,arm;screw
+17,the guardian,a robot that stand by the classroom and can be simply controlled by buttons to express feelings and reach things for autistic children ,consumer/education/medical,robot;arm
+18,agv,automatically guided vehicle that performs logistics duty in the plant,industry,
+19,the grommer,a robotic arm that automatically wash dry and groom pets,consumer,
+20,homework robot,a robot can solve your homework peoblem with its database,consumer/education,robot;robots
+21,robotic teacher,the main function of this robot is teaching children she can talk and answer the questions ,consumer/education,robot;robots
+22,user programmable robots,users can upload the software to the robot they can watch the results of ther algorithm by video on the platform,consumer/education,robot;robots
+23,open source robot,the robot has open archetecture on hardware and software users can develop the software of robots the hard ware use standard interface,consumer/education,robot;robots
+24,make up robot,a robot that can be programmed to put different makeups on users,consumer/education,robot;robots
+25,hair cut robot,scan your hair download the style template cut automatically,consumer; organization,
+26,industrial robot arm,a robot platfrom that controls robotic arms for heavy duty in the industry,industry,robot;arm
+27,injection assistant,shaking while injection can cause extra pain for patients the nurses can control our robot to finish the injection,medical,robot;arm
+28,surgery assistant,a robot arm can help with some simple but important motions during surgery to avoid handshaking,medical,robot;arm
+29,ladder player,a robot can play balls with you,consumer,robot;robots
+30,design robot,a robot can generate design ideas once you input all your user research data and information,consumer,robot;robots
+31,companion robot,a robot can spend time with the  old talk with them and deal with emergency situation like call hospital or police and can do first aid,consumer,robot;robots
+32,robot lover,a robot can change its character according the data you input,consumer,robot;robots
+33,robotic waiter,a robot who can walk talk hear and watch its used for working as a waiter,consumer,robot;robots
+34,house keeping robot,the robot is set in your home she can clean the room collect objects and put them back according to the original seeting,consumer,robot;robots
+35,robotic mail box,a robot who is also a mail box the robot can receive mails she can also open the letter and then scan the letter send the letter to customers email,consumer,robot;robots
+36,robotic gardener,a robot that clean your garden he can use tools to finish the job,consumer,robot;robots
+37,fridge robot,the robot lives in fridge he can monitor the status of the food,consumer,robot;robots
+38,the scribe,a robot that has automatic speech recognition and write down automatically what people said,consumer,robot;robots
+39,the diver,a robot that dive underwater and take deep ocean pictures for searching and rescuing,consumer,robot;robots
+40,cube robot,kids can write their own algorithm to solve a cube with our platform and use our robot to test it,education,robot;robots
+41,robot painter,control a robot to draw a picture or write some words,education,robot;robots
+42,dancer robot,a robot with a lot of arms can dance under your control,education,robot;robots
+43,robotic artist,a robot use mathematical visualization method to design magic picture ,education,robot;robots
+44,educational humanoid robot,a humanoid robot that has inbuilt platform teaching junior high students programming knowledge,education,robot;robots
+45,the barber,a robotic arm that can do haircuts for people,consumer,arm
+46,guide,a robot can guide blind people walking to replace service dog,consumer/medical,robot;robots
+47,medicine delivery,deliver pills to pateients under control of nurse to avoid mistakes that deliver wrong medicine to patients,medical,
+48,medical injection robot,a robot that can accurately find the spot and control the dosage of injection,medical,robot;robots
+49,cooking assistant,help user stir fry while cooking to avoid hot oil splattering on body,consumer,
+50,robotic toy,this robotic toy provide software for children to program children can learn the course from apps they can use the graphic program tools,consumer/education,
+51,robot cutter,cut cooking ingredients into specific shape and size,consumer,robot;arm
+52,crab opener,a robot can open crab with its arms while you eating to free your hands,consumer,robot;arm
+53,cooking robot,the robot can use all tools in kitchen they can process the meat vegatables etc they can also download different typ of meals,consumer,robot;arm
+54,grandparents health care robot,robot can record the voice of the people at home they can process the voice and alarm if someone need help,consumer,robot;arm
+55,robot pet,a robot pet that can be programmed to mimic the actions of real dogs or cats which entaintains people who want to keep a pet but cant,consumer,robot;arm
+56,robot lawn mower,a lawn mower that can automatically detect where needs to be cleaned or watered,consumer,robot;arm
+57,the combing robot,a robot arm that comb and fondle pets,consumer,robot;arm
+58,nanny,a robot arm that can sense babys crying and then play music and swing the cradle softly,consumer,robot;arm
+59,the acupuncturist,a robotic arm that can do acupuncture ,medical,arm
+60,quadruped robot,a quadruped robot that can do dangerous job for people,industry/consumer,robot;robots
+61,make up robot,young girls can learn makeup by practicing on a dummy and learn program by control a robot to remove the makeup,education,robot;arm

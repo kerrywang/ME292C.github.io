@@ -1,23 +1,22 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,In-Built help Feature,0,software;users
-1,AI and Machine Learning,1,software;design
-2,AR/VR/GR & Haptics,2,user;users
-3,Online Help Services,3,online;forum
-4,User Interaction,4,software;functionality
-5,Easy to Use,5,
-6,Import Functions,6,function;curve
-7,Export Functions,7,drawing
-8,File/Device Integration,8,files;share
-9,External Help,9,users;customers
-10,Installation,10,file;users
-11,User Interface,11,interface;installation
-12,Improving Efficiency and Power,12,simulation;scanner
-13,Targeted Markets,13,design;ai
-14,Compatibility,14,cad;functions
-15,Automation,,
-16,Design Recognition (Image recognition),,
-17,Costing,,
-18,Ease of Data Representation,,
-19,AI,,
-20,Learning the software Games,,
-21,learning the software Games,,
+0,in-built help feature,0,software;users
+1,user interaction,1,software;design
+2,ar/vr/gr & haptics,2,user;users
+3,improving efficiency and power,3,software;functionality
+4,easy to use,4,files;share
+5,online help services,5,online;forum
+6,user interface,6,interface;installation
+7,import functions,7,function;curve
+8,file/device integration,8,file;users
+9,costing,9,
+10,external help,10,users;customers
+11,ai and machine learning,11,cad;functions
+12,export functions,12,drawing
+13,learning the software games,13,simulation;scanner
+14,targeted markets,14,design;ai
+15,ease of data representation,,
+16,installation,,
+17,automation,,
+18,design recognition (image recognition),,
+19,compatibility,,
+20,ai,,

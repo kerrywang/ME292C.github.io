@@ -14,7 +14,7 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 0,application,5,structures,2,[52; 53]
 0,application,7,,2,[71; 79]
 0,application,4,printer;parts,2,[43; 44]
-4,Policy,2,material;pla,1,[26]
+4,policy,2,material;pla,1,[26]
 0,application,3,printer;scanner,2,[24; 25]
 0,application,8,fashion;media,4,[75; 76; 77; 78]
 1,function,0,printing;materials,16,[27; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42]

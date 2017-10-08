@@ -1,101 +1,101 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,sticker localization,the can recognizes specific stickers put on the streets the sticker acts like a qr code which gives the global location the car then calculate its position relative to the sticker,Localization and Positioning ,car;location
-2,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,User Interface,
-3,the talking car,a signboard  a speaker system to communicate to pedestrians and other cars,User Interface,car;cars
-4,friendly interaction with pedestrains ,when the av stops at a cross or stop sign it should brake previously so the pedestrain would not be threatened,Safety,functions;interaction
-5,narrow car,reducing the width of the car to have just one column of seats,Avoid Traffic Congestion ,car;seats
-6,sleeping pod,the sleeping pod will help the user to relax since driving and effort is not required,Comfort and Convenience,user;malfunction
-7,connected autonomous vehicles,this is away to physically have two vehicles at random connect together based on a common path theyre taking to improve energy efficiency,Avoid Traffic Congestion ,vehicle;energy
-8,autonomous vehicle lane,having a separate lane for autonomous vehicles like the carpool lane,Avoid Traffic Congestion ,vehicle;vehicles
-9,wind shield projector,the windshield has the option of being used as a screen to see movies or presentations,Comfort and Convenience,windshield;dashboard
-10,hidden steering wheel,the steering wheel will come out from from the dashboard only when the autonomous function is disabled,Comfort and Convenience,windshield;dashboard
-11,anti theft system,the car will autonomatically send the location to the police department if it got broken into,Safety,car;location
-12,auto car wash,the car can be set up to go to car wash by itself,Remote Control,car;cars
-13,refuel or charge by iteslf,the car can go and refuel or recharge itself during unoccupied timeor by order,Remote Control,car;cars
-14,auto pick up and park,the car can pick up passengers by their order and can park itself,Remote Control,car;cars
-15,modularity cars,the owner can replace modules of the cars to fix them or get new features,Comfort and Convenience,cars;traffic
-16,surrounding screen dome,the car turns the inside surrounding into screen which becomes similar to vr,User Interface,car;location
-17,location shared app,the car has an app that can share its location most like uber but more personal for example sharing it to family members you want to pick up somewhere,User Interface,car;location
-18,favorite place markings,the car can record the marked favorite places like work retaurants uncles house etc,User Interface,car;location
-19,3d projected hologram,a personal assistent will be projected with 3d hologram user will be able to interact with a human look ai,User Interface,user;extensions
-20,remote control,user can use cell phone to control av remotely including selfparking and call the av from parking lot,Remote Control,av;users
-21,user locator app,the user can pin point the pick up location and his av will revieve the request and drive to the pick up point,Remote Control,av;users
-22,rising footrest,the floor holding the gas and brake pedals can rise up to be a footrest during autonomous functions,Comfort and Convenience,functions;interaction
-23,solar panel on the top,the solar panel on the top can collect solar energy and store it in the battery,Efficiency,vehicle;energy
-24,sleep mode,avs window would block all the outside light vehicle would wake user up when the vehicle arrive destination,Comfort and Convenience,vehicle;vehicles
-25,human power mode,user can generate power by pedaling when the vehicle runs out of energy this can be a back up generator ,Comfort and Convenience,vehicle;vehicles
-26,brain vehicle link,user can command the vehicle with brain wave and helmet,Comfort and Convenience,vehicle;vehicles
-27,transformers,the vehicle can transforms into robotics and get across obstacles,Comfort and Convenience,vehicle;vehicles
-28,night vision,the windshield is able to increase the outside brightness via image processing ,Safety,windshield;dashboard
-29,manual override function ,in case of autodriving malfunction the user is able to manually override the function and engage indriving,User Interface,user;malfunction
-30,auto rerouting ,cars can recive the traffic report from other cars automatically if a congestion is about to happen the system will automatically reroute the approaching cars,Avoid Traffic Congestion ,cars;traffic
-31,traffic light data sharing,the car interacts with traffic lights around the city the traffic lights have sensors to detect heavy traffic or road construction then the car recalculate the optimal route,Avoid Traffic Congestion ,cars;traffic
-32,connected grid,all autonomous cars are connected so the traffic flow is optimized by themselves instead of traffic lights,Avoid Traffic Congestion ,cars;traffic
-33,top entertainment system ,the av should have top entertainment system and give user the best travel experience all the windows can be screen,Comfort and Convenience,user;extensions
-34,flexible seats,since the user do not need to drive the seats should be able to turn and slide flexibly,Comfort and Convenience,user;extensions
-35,hidden baby holder,the seat can be made to have extensions to hold a baby the extensions will come out only with a toggle of a switch,Comfort and Convenience,user;extensions
-36,cold beverage storage,the car can have a mini storage for cold drinks,Comfort and Convenience,car;seats
-37,car seat earphones,each car seats head rest can have an extension that fits into the users ears and plays their select music,Comfort and Convenience,car;seats
-38,car seats with storage area,car seats can be designed to have hidden storage areas under them to protect against theft,Comfort and Convenience,car;seats
-39,auto vaccum,the car can have vaccum cleaners attached above the carpets and under the seats to have autocleaning function,Comfort and Convenience,car;seats
-40,massage armchair,users can have a massage in the car,Comfort and Convenience,car;seats
-41,travel history,the car records the whole trip including the traffic condition it will compare it to the estimated duration and choose alternate route if the route is more efficient,User Interface,cars;traffic
-42,smart navigation system,a smart navigation system for autonomous cars to keep users engaged  informed,User Interface,cars;traffic
-43,eeg controlled ui,users are able to communicate with their cars with brainwave extremely helpful for disabled passengers,User Interface,cars;traffic
-44,pedestrians identification,the car can identify pedestrians using sensors and lidar,Safety,car;cars
-45,identification system for cars and pedestrians,the car can detect and identify carrs motor bike and pedestrains,Safety,car;cars
-46,floating on water,the car can float on warter instead of sink in to the water,Safety,car;cars
-47,traffic rules monitor,the car can detect and identify traffic signs and signals to avoid violate traffic rules,Safety,car;cars
-48,passenger monitor ,if a certain passenger has a heart attack or something like this the car can report and call 911,Safety,car;cars
-49,slippery warning,the car can calculates how bad and frequent the car has minislip in the rain or snow then the car wanrs the driver to slow down or stop for a while,Safety,car;cars
-50,speed limit enforcer,the car collects data of speed limit in every possible road and adjust the autodriving to follow the speed limit,Safety,car;cars
-51,outside airbag,there are airbags on the outside of the car to protect the car from collision,Safety,car;cars
-52,road condition identification ,when meeting bad road conditions the car can avoid it automatically,Safety,car;cars
-53,porpuse light signal,the car should use signal light on the car to indicate its purpose,Safety,car;cars
-54,outside airbag,the car has airbag outside of it when the car crush pedestrians teh airbag can protect pedestrians,Safety,car;cars
-55,portable car,the car parts can be detached and can be put into a suit case to be carried around,Efficiency,car;cars
-56,solar car,the car can use solar panels to power certain components to make the car more energy efficient,Efficiency,car;cars
-57,tutorial system,the car provides interactive tutorial system on every possible features,User Interface,car;prompt
-58,voice prompt system ,when meeting pedestrians it can report the trend of the car by voice prompt,User Interface,car;prompt
-59,rc   autonomous,the user should have the ability to call the vehicle from miles away using his phone,Remote Control,vehicle;vehicles
-60,affordable car,an autonomous vehicle should be affordable for ordinary people,Affordability ,car;cars
-61,work mode,av will reduce light from outside and turn on inside light the hmi would change from voice to screen message the users can focys on work,Comfort and Convenience,av;users
-62,mobile dining ,users can order this service and the restaurant will send this av loaded with food the users ordered can drive to users preferable location,Comfort and Convenience,av;users
-63,moving gym,av provides gym facilities inside for users,Comfort and Convenience,av;users
-64,dj instrument in av,club decoration inside users can sing and dance in it,Comfort and Convenience,av;users
-65,plane pilot simulation,with ar and plane instrument users can experience plane pilot simulation,Comfort and Convenience,av;users
-66,detachable car,the body parts of the car can be made easily detachable so that the user can plug and play with certain components,Efficiency,car;user
-67,manual driving option ,the car can change to manual riving mode according to the drivers command,User Interface,car;user
-68,lego car,this car is easy for users to assemble also it is easy to upgrade parts by having standarized parts,User Interface,car;user
-69,stargazing roof mode,the roof of the car will open wider for user to stargaze the night it can also use a transparent glass mode instead of fully open,Comfort and Convenience,car;user
-70,umberlla dispatch,the car can dispatch umberlla from its side when it is raining if the user wants to get out of the car,Comfort and Convenience,car;user
-71,"preset ""theme""",the car has different settings saved for each user and the user can activate it by phone for example nancy likes the temperature in the car to be 75 while matt likes it at 72,Comfort and Convenience,car;user
-72,3d projected car body,the car can change its exterior look depending on users preference,Comfort and Convenience,car;user
-73,a full view for passenger,the car has a transparent car cabin,Comfort and Convenience,car;cars
-74,auto following,for a motorcade the car can follow the car in front of it automatically,Comfort and Convenience,car;cars
-75,self cleaning,the car can wash and clean itself,Comfort and Convenience,car;cars
-76,self diagnose,the car can find and locate some small problems of  itself,Comfort and Convenience,car;cars
-77,flying cars,the car can fly to avoid traffic jam,Comfort and Convenience,car;cars
-78,disability accessable,the car has a slope so the disnables in wheelchair can board the car with the slope,Comfort and Convenience,car;cars
-79,ar & autonomous vehicles,the augmented reality can show the chosen path of an autonomous vehicle helping the other interact with it,User Interface,vehicle;vehicles
-80,voice human machine interaction,autonomous vehicle driver can use voice to iteract with av and send command to av,User Interface,vehicle;vehicles
-81,avoiding traffic jam,the av must be able to recognize the traffic jam in the route and change route plan autonomously to avoid traffic jam,Avoid Traffic Congestion ,
-82,multiple satellite positioning ,the car can combine the location signals from several satelite oistioning systems lile gps and beidou,Localization and Positioning ,car;cars
-83,auto mapping ,the car identify and record some places and combine it to the map then it can localize itself later,Localization and Positioning ,car;cars
-84,360 degrees chairs,given that the vehicle is autonomous the seats need not face front rotating seats allow for meetings discussions etc,Comfort and Convenience,vehicle;energy
-85,sphere wheels ,the car is able to turn without actually turning the wheels the steering angle is 360 degrees,Comfort and Convenience,vehicle;energy
-86,3d printing av,manufacture the autonomous vehicle by 3d printing technology,Efficiency,vehicle;vehicles
-87,intelligence report,the car can report emergency automatically,Safety,car;prompt
-88,ar windshield,the windshield with ar function enables the passengers to explore a world beyound reality,User Interface,passengers;views
-89,vr,the passengers will wear wear vr sets to experience an immersive riding thrill,User Interface,passengers;views
-90,gps/lidar and camera fusion,safety is one of the biggest concerns from potential users gps lidar and camera fusion enable the av to jave more accirate localization and positiong which enhances users safety,Safety,user;malfunction
-91,mobile sleeping capsule,passengers can lay down and take a nap while their av to their destination,Comfort and Convenience,passengers;views
-92,chageable window views ,instead of lookubg through the window passengers is able to change their views to other possible location,Comfort and Convenience,passengers;views
-93,mobile theater,passengers are able to enjoy their video on this massive screen while the av driving them to their desination ,Comfort and Convenience,passengers;views
-94,adjustable seat layout,passengers can change the seat layout without the consideration of driving,Comfort and Convenience,passengers;views
-95,rotatable seats,passengers can rotate their seats to enjoy the front side or back views and to use the center table for work,Comfort and Convenience,passengers;views
-96,alcohol reading for manual driving,the car will read the alcohol level of the driver if the driver wants to switch to manual mode,Safety,car;user
-97,user owner face recognition,the car can identify the user by using face recognition based on stored pictures not limited to 1 person,Safety,car;user
-98,charging facilities connection,the car knows the location for every charging facilities it will warn the user if the destination does not have any charging facilities nearby that reachable with the remaining fuel,Safety,car;user
-99,self diagnosed,the car diagnosed itself on daily basis if something wrong is detected the car warns the user through the phone to check some specific parts of the car,Safety,car;user
-100,pedestrain indicator,cars can recieve the cell phone signals from pedestrains who are about to cross the road and slow down accordingly,Safety,cars;traffic
+1,sticker localization,the can recognizes specific stickers put on the streets the sticker acts like a qr code which gives the global location the car then calculate its position relative to the sticker,localization and positioning ,car;location
+2,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,
+3,the talking car,a signboard  a speaker system to communicate to pedestrians and other cars,user interface,car;cars
+4,friendly interaction with pedestrains ,when the av stops at a cross or stop sign it should brake previously so the pedestrain would not be threatened,safety,functions;interaction
+5,narrow car,reducing the width of the car to have just one column of seats,avoid traffic congestion ,car;seats
+6,sleeping pod,the sleeping pod will help the user to relax since driving and effort is not required,comfort and convenience,user;malfunction
+7,connected autonomous vehicles,this is away to physically have two vehicles at random connect together based on a common path theyre taking to improve energy efficiency,avoid traffic congestion ,vehicle;energy
+8,autonomous vehicle lane,having a separate lane for autonomous vehicles like the carpool lane,avoid traffic congestion ,vehicle;vehicles
+9,wind shield projector,the windshield has the option of being used as a screen to see movies or presentations,comfort and convenience,windshield;dashboard
+10,hidden steering wheel,the steering wheel will come out from from the dashboard only when the autonomous function is disabled,comfort and convenience,windshield;dashboard
+11,anti theft system,the car will autonomatically send the location to the police department if it got broken into,safety,car;location
+12,auto car wash,the car can be set up to go to car wash by itself,remote control,car;cars
+13,refuel or charge by iteslf,the car can go and refuel or recharge itself during unoccupied timeor by order,remote control,car;cars
+14,auto pick up and park,the car can pick up passengers by their order and can park itself,remote control,car;cars
+15,modularity cars,the owner can replace modules of the cars to fix them or get new features,comfort and convenience,cars;traffic
+16,surrounding screen dome,the car turns the inside surrounding into screen which becomes similar to vr,user interface,car;location
+17,location shared app,the car has an app that can share its location most like uber but more personal for example sharing it to family members you want to pick up somewhere,user interface,car;location
+18,favorite place markings,the car can record the marked favorite places like work retaurants uncles house etc,user interface,car;location
+19,3d projected hologram,a personal assistent will be projected with 3d hologram user will be able to interact with a human look ai,user interface,user;extensions
+20,remote control,user can use cell phone to control av remotely including selfparking and call the av from parking lot,remote control,av;users
+21,user locator app,the user can pin point the pick up location and his av will revieve the request and drive to the pick up point,remote control,av;users
+22,rising footrest,the floor holding the gas and brake pedals can rise up to be a footrest during autonomous functions,comfort and convenience,functions;interaction
+23,solar panel on the top,the solar panel on the top can collect solar energy and store it in the battery,efficiency,vehicle;energy
+24,sleep mode,avs window would block all the outside light vehicle would wake user up when the vehicle arrive destination,comfort and convenience,vehicle;vehicles
+25,human power mode,user can generate power by pedaling when the vehicle runs out of energy this can be a back up generator ,comfort and convenience,vehicle;vehicles
+26,brain vehicle link,user can command the vehicle with brain wave and helmet,comfort and convenience,vehicle;vehicles
+27,transformers,the vehicle can transforms into robotics and get across obstacles,comfort and convenience,vehicle;vehicles
+28,night vision,the windshield is able to increase the outside brightness via image processing ,safety,windshield;dashboard
+29,manual override function ,in case of autodriving malfunction the user is able to manually override the function and engage indriving,user interface,user;malfunction
+30,auto rerouting ,cars can recive the traffic report from other cars automatically if a congestion is about to happen the system will automatically reroute the approaching cars,avoid traffic congestion ,cars;traffic
+31,traffic light data sharing,the car interacts with traffic lights around the city the traffic lights have sensors to detect heavy traffic or road construction then the car recalculate the optimal route,avoid traffic congestion ,cars;traffic
+32,connected grid,all autonomous cars are connected so the traffic flow is optimized by themselves instead of traffic lights,avoid traffic congestion ,cars;traffic
+33,top entertainment system ,the av should have top entertainment system and give user the best travel experience all the windows can be screen,comfort and convenience,user;extensions
+34,flexible seats,since the user do not need to drive the seats should be able to turn and slide flexibly,comfort and convenience,user;extensions
+35,hidden baby holder,the seat can be made to have extensions to hold a baby the extensions will come out only with a toggle of a switch,comfort and convenience,user;extensions
+36,cold beverage storage,the car can have a mini storage for cold drinks,comfort and convenience,car;seats
+37,car seat earphones,each car seats head rest can have an extension that fits into the users ears and plays their select music,comfort and convenience,car;seats
+38,car seats with storage area,car seats can be designed to have hidden storage areas under them to protect against theft,comfort and convenience,car;seats
+39,auto vaccum,the car can have vaccum cleaners attached above the carpets and under the seats to have autocleaning function,comfort and convenience,car;seats
+40,massage armchair,users can have a massage in the car,comfort and convenience,car;seats
+41,travel history,the car records the whole trip including the traffic condition it will compare it to the estimated duration and choose alternate route if the route is more efficient,user interface,cars;traffic
+42,smart navigation system,a smart navigation system for autonomous cars to keep users engaged  informed,user interface,cars;traffic
+43,eeg controlled ui,users are able to communicate with their cars with brainwave extremely helpful for disabled passengers,user interface,cars;traffic
+44,pedestrians identification,the car can identify pedestrians using sensors and lidar,safety,car;cars
+45,identification system for cars and pedestrians,the car can detect and identify carrs motor bike and pedestrains,safety,car;cars
+46,floating on water,the car can float on warter instead of sink in to the water,safety,car;cars
+47,traffic rules monitor,the car can detect and identify traffic signs and signals to avoid violate traffic rules,safety,car;cars
+48,passenger monitor ,if a certain passenger has a heart attack or something like this the car can report and call 911,safety,car;cars
+49,slippery warning,the car can calculates how bad and frequent the car has minislip in the rain or snow then the car wanrs the driver to slow down or stop for a while,safety,car;cars
+50,speed limit enforcer,the car collects data of speed limit in every possible road and adjust the autodriving to follow the speed limit,safety,car;cars
+51,outside airbag,there are airbags on the outside of the car to protect the car from collision,safety,car;cars
+52,road condition identification ,when meeting bad road conditions the car can avoid it automatically,safety,car;cars
+53,porpuse light signal,the car should use signal light on the car to indicate its purpose,safety,car;cars
+54,outside airbag,the car has airbag outside of it when the car crush pedestrians teh airbag can protect pedestrians,safety,car;cars
+55,portable car,the car parts can be detached and can be put into a suit case to be carried around,efficiency,car;cars
+56,solar car,the car can use solar panels to power certain components to make the car more energy efficient,efficiency,car;cars
+57,tutorial system,the car provides interactive tutorial system on every possible features,user interface,car;prompt
+58,voice prompt system ,when meeting pedestrians it can report the trend of the car by voice prompt,user interface,car;prompt
+59,rc   autonomous,the user should have the ability to call the vehicle from miles away using his phone,remote control,vehicle;vehicles
+60,affordable car,an autonomous vehicle should be affordable for ordinary people,affordability ,car;cars
+61,work mode,av will reduce light from outside and turn on inside light the hmi would change from voice to screen message the users can focys on work,comfort and convenience,av;users
+62,mobile dining ,users can order this service and the restaurant will send this av loaded with food the users ordered can drive to users preferable location,comfort and convenience,av;users
+63,moving gym,av provides gym facilities inside for users,comfort and convenience,av;users
+64,dj instrument in av,club decoration inside users can sing and dance in it,comfort and convenience,av;users
+65,plane pilot simulation,with ar and plane instrument users can experience plane pilot simulation,comfort and convenience,av;users
+66,detachable car,the body parts of the car can be made easily detachable so that the user can plug and play with certain components,efficiency,car;user
+67,manual driving option ,the car can change to manual riving mode according to the drivers command,user interface,car;user
+68,lego car,this car is easy for users to assemble also it is easy to upgrade parts by having standarized parts,user interface,car;user
+69,stargazing roof mode,the roof of the car will open wider for user to stargaze the night it can also use a transparent glass mode instead of fully open,comfort and convenience,car;user
+70,umberlla dispatch,the car can dispatch umberlla from its side when it is raining if the user wants to get out of the car,comfort and convenience,car;user
+71,preset "theme",the car has different settings saved for each user and the user can activate it by phone for example nancy likes the temperature in the car to be 75 while matt likes it at 72,comfort and convenience,car;user
+72,3d projected car body,the car can change its exterior look depending on users preference,comfort and convenience,car;user
+73,a full view for passenger,the car has a transparent car cabin,comfort and convenience,car;cars
+74,auto following,for a motorcade the car can follow the car in front of it automatically,comfort and convenience,car;cars
+75,self cleaning,the car can wash and clean itself,comfort and convenience,car;cars
+76,self diagnose,the car can find and locate some small problems of  itself,comfort and convenience,car;cars
+77,flying cars,the car can fly to avoid traffic jam,comfort and convenience,car;cars
+78,disability accessable,the car has a slope so the disnables in wheelchair can board the car with the slope,comfort and convenience,car;cars
+79,ar & autonomous vehicles,the augmented reality can show the chosen path of an autonomous vehicle helping the other interact with it,user interface,vehicle;vehicles
+80,voice human machine interaction,autonomous vehicle driver can use voice to iteract with av and send command to av,user interface,vehicle;vehicles
+81,avoiding traffic jam,the av must be able to recognize the traffic jam in the route and change route plan autonomously to avoid traffic jam,avoid traffic congestion ,
+82,multiple satellite positioning ,the car can combine the location signals from several satelite oistioning systems lile gps and beidou,localization and positioning ,car;cars
+83,auto mapping ,the car identify and record some places and combine it to the map then it can localize itself later,localization and positioning ,car;cars
+84,360 degrees chairs,given that the vehicle is autonomous the seats need not face front rotating seats allow for meetings discussions etc,comfort and convenience,vehicle;energy
+85,sphere wheels ,the car is able to turn without actually turning the wheels the steering angle is 360 degrees,comfort and convenience,vehicle;energy
+86,3d printing av,manufacture the autonomous vehicle by 3d printing technology,efficiency,vehicle;vehicles
+87,intelligence report,the car can report emergency automatically,safety,car;prompt
+88,ar windshield,the windshield with ar function enables the passengers to explore a world beyound reality,user interface,passengers;views
+89,vr,the passengers will wear wear vr sets to experience an immersive riding thrill,user interface,passengers;views
+90,gps; lidar and camera fusion,safety is one of the biggest concerns from potential users gps lidar and camera fusion enable the av to jave more accirate localization and positiong which enhances users safety,safety,user;malfunction
+91,mobile sleeping capsule,passengers can lay down and take a nap while their av to their destination,comfort and convenience,passengers;views
+92,chageable window views ,instead of lookubg through the window passengers is able to change their views to other possible location,comfort and convenience,passengers;views
+93,mobile theater,passengers are able to enjoy their video on this massive screen while the av driving them to their desination ,comfort and convenience,passengers;views
+94,adjustable seat layout,passengers can change the seat layout without the consideration of driving,comfort and convenience,passengers;views
+95,rotatable seats,passengers can rotate their seats to enjoy the front side or back views and to use the center table for work,comfort and convenience,passengers;views
+96,alcohol reading for manual driving,the car will read the alcohol level of the driver if the driver wants to switch to manual mode,safety,car;user
+97,user owner face recognition,the car can identify the user by using face recognition based on stored pictures not limited to 1 person,safety,car;user
+98,charging facilities connection,the car knows the location for every charging facilities it will warn the user if the destination does not have any charging facilities nearby that reachable with the remaining fuel,safety,car;user
+99,self diagnosed,the car diagnosed itself on daily basis if something wrong is detected the car warns the user through the phone to check some specific parts of the car,safety,car;user
+100,pedestrain indicator,cars can recieve the cell phone signals from pedestrains who are about to cross the road and slow down accordingly,safety,cars;traffic

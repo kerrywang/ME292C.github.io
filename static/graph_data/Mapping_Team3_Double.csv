@@ -1,12 +1,12 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Consumer Product,0,
-1,Home Appliances,1,life;strength
-2,Recreational,2,material;weight
-3,Automotive,3,vehicle;performance
-4,Appliances,4,load;life
-5,Electronics Applications,5,performance;material
-6,Stationery,6,material
-7,Personal accessory,,
-8,Aerospace & Aeronautical,,
-9,Renewable Energy/Consumer Product,,
-10,Renewable Energy,,
+0,consumer product,0,
+1,home appliances,1,life;strength
+2,recreational,2,material;weight
+3,automotive,3,vehicle;performance
+4,appliances,4,load;life
+5,electronics applications,5,performance;material
+6,stationery,6,material
+7,personal accessory,,
+8,aerospace & aeronautical,,
+9,renewable energy/consumer product,,
+10,renewable energy,,

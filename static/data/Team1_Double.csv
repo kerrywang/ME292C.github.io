@@ -24,7 +24,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 23,3d printing jewelry,jewelry usually comes with complex process 3d printing can help to minimize this process,application,printing;materials
 24,reverse engineering,3d printer with camera scanner a allinone machine used for reverse engineering,application,printer;scanner
 25,cable printer,extend existed cable length if needed,application,printer;scanner
-26,3d printing material recycle code,for now there isnt any recycle policy for pla and other 3d printing material it is good to build up a rule which everyone can follow like what we did to recycle trash,Policy,material;pla
+26,3d printing material recycle code,for now there isnt any recycle policy for pla and other 3d printing material it is good to build up a rule which everyone can follow like what we did to recycle trash,policy,material;pla
 27,3d colouring,create an extra nozzle in addition to the current one used to coloring the object during printing process,function,printing;materials
 28,thermal expansion estimating algorithm,an algorithm used to predict the 3d printed object size based on monitored temperature and printing data,function,printing;materials
 29,multiple automatic switching nozzles,multiple nozzles enable 3d printing different materials on a single job thus better meets the customer needs,function,printing;materials
@@ -62,7 +62,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 61,food maker,easy to digest food such as ground meat to make the shape,application,food;print
 62,3d print shoes,based on persons foot really create a comfortable and customized shoe,application,food;print
 63,3d print food,create complete meals that are 3d printed,application,food;print
-64,print first; sculpture next,print out a rough shape first and mill off parts by switching tools,function,printer;parts
+64,"print first, sculpture next",print out a rough shape first and mill off parts by switching tools,function,printer;parts
 65,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printer;parts
 66,multi nozzles machine,there are multinozzles in one machine to print different parts with different materials at the same time,function,printer;parts
 67,structurally strong material,pla that is mixed with carbon nano particles to give it mechanical properties such as more durability,material,material;pla

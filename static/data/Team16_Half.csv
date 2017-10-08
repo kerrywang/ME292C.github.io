@@ -29,13 +29,13 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 28,challenging mode,the bike machine works like bikes in real life and in this mode the machine will simulate a real life cycling experience including cornering and straight line racing and let the users set their own records and challenge others ,arcade mode,workout;bike
 29,biking tour with friends,using vr or ar technique to simulate a biking tour and put friends in the same virtual world allowing them to ride together and chat ,arcade mode,workout;bike
 30,voice control ,the machine can connect to amazon echo siri or any similar product and allow the users to use their voice to control the machine,hey siri ,users;user
-31,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am I ,workout;bike
+31,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am i ,workout;bike
 32,shared bike machine,bike machine rooms located at convenient places allow users to use it and pay per use all machine will be connected and upload users data to the cloud server so that users are able to be access to their own data easily ,business spinoff,users;user
 33,smart exercise service ,a series of exercise machines including both cardio and weight training machines are connected together the system will create the workout plan based on users goal it allows users to use different machines to optimize the workout and collects data from all machines and finally it will provide a conprehensive analysis to the users ,business spinoff,users;user
 34,bike park,have the exercise machine go around the gym on a set race track depending on speed of the user race with other users,business spinoff,users;user
-35,workout statistics,shows the user their status midworkout,how fit am I ,workout;eg
-36,workout feedback,,how fit am I ,workout;eg
-37,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am I ,workout;eg
+35,workout statistics,shows the user their status midworkout,how fit am i ,workout;eg
+36,workout feedback,,how fit am i ,workout;eg
+37,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am i ,workout;eg
 38,bring your bike to workout day ,instead of a exercise machine attach a real bike to the exercise machine and bike on a real bike a bike treadmill ,business spinoff,workout;bike
 39,ride for rewards,users get simple rewards for sticking to the optimal workout plan ,business spinoff,workout;bike
 40,workout consultant,communicate and share the data with a personal trainer through the system to get more advices on their workout,business spinoff,workout;bike

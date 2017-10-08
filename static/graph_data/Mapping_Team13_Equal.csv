@@ -1,9 +1,9 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Performance,0,lubricant;viscosity
-1,Awareness,1,lubrication;lubricants
-2,Aesthetics,2,self
-3,Smell,3,
-4,Environment Friendly,4,pump;plastic
-5,Cost,5,smell;ingredients
-6,Noise,,
-7,Long Lasting,,
+0,performance,0,lubricant;viscosity
+1,awareness,1,lubrication;lubricants
+2,aesthetics,2,self
+3,smell,3,
+4,environment friendly,4,pump;plastic
+5,cost,5,smell;ingredients
+6,noise,,
+7,long lasting,,

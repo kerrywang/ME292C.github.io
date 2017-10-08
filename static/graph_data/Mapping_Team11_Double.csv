@@ -1,25 +1,25 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,AR/VR/GR & Haptics,0,
-1,User Interaction,1,software;users
-2,AI and Machine Learning,2,design
-3,Easy to Use,3,file;software
-4,Improving Efficiency and Power,4,software;optimization
-5,Compatibility,5,software;package
-6,Import Functions,6,software;scanner
-7,External Help,7,users;software
-8,Online Help Services,8,online;forum
-9,In-Built help Feature,9,software;help
-10,File/Device Integration,10,users;user
-11,User Interface,11,simulation;visualization
-12,Costing,12,packages;computing
-13,Export Functions,13,drawing
-14,Design Recognition (Image recognition),14,software
-15,Installation,15,file
-16,Targeted Markets,16,user;allows
-17,Ease of Data Representation,17,function;curve
-18,AI,18,files;share
-19,Automation,19,users;customers
-20,Learning the software Games,20,design;software
-21,learning the software Games,21,ai;design
+0,ar/vr/gr & haptics,0,
+1,ai and machine learning,1,design;software
+2,automation,2,software;users
+3,compatibility,3,software;package
+4,easy to use,4,file;software
+5,improving efficiency and power,5,software;optimization
+6,external help,6,users;software
+7,import functions,7,software;scanner
+8,online help services,8,online;forum
+9,user interaction,9,packaging;definition
+10,costing,10,packages;computing
+11,in-built help feature,11,software;help
+12,user interface,12,interface;users
+13,installation,13,file
+14,targeted markets,14,user;allows
+15,file/device integration,15,users;user
+16,export functions,16,drawing
+17,design recognition (image recognition),17,software
+18,ease of data representation,18,simulation;visualization
+19,ai,19,function;curve
+20,learning the software games,20,files;share
+,,21,ai;design
 ,,22,design;cad
-,,23,packaging;definition
+,,23,users;customers
