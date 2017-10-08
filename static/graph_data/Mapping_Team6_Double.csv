@@ -1,0 +1,13 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Smart home,0,juice;sandwiches
+1,Casing,1,controller;wall
+2,Agriculture IoT,2,soil;supplies
+3,Smart City,3,car
+4,home,4,wood;glass
+5,Smart Home,5,door
+6,Smart Office,6,user;tables
+,,7,temperature;humidity
+,,8,
+,,9,shape;tree
+,,10,light;user
+,,11,products;home

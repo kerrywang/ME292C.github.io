@@ -1,62 +1,41 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,varying plans,different plans for people living in higher risk areas,Design,people
-2,a fire alarm app on apple watch smartwatches,alerts users in the best ways for the individual user deaf people flash light blind people sound both deaf and blind vibration,Communication/ report,fire;people
-3,vibration wrist band,alerts users if there is a fire by using vibration people who dont have or cannot afford smartwatches can use this,Communication/ report,fire;people
-4,fire alarm with user control,turns off alarm if it is only a small fire andor already put out by user,Communication/ report,fire;people
-5,smartphone compatibility,can customize features for different people including alerts such as sound light vibration,Communication/ report,fire;people
-6,automatic emergency call,automatically calls the fire department when fire becomes really dangerous,Communication/ report,fire;people
-7,user controlled fire alarm prevention system,allows users to control the alarms like home security system,Communication/ report,fire;people
-8,fire report button on necklace,button on a necklace for disabled people to instantly alert emergency services in extreme situation,Communication/ report,fire;people
-9,flashing light built in,flashes bright lights in case of a fire for deaf people,Communication/ report,fire;people
-10,smartphone connectivity,connects to smartphone for alerts and real time monitoring especially when the user is away from home,Communication/ report,fire;people
-11,internet connectivity,warns of nearby fires to alert people inside to evacuate in advance,Communication/ report,fire;people
-12,security camera,thermal camera can double as a security camera,Detection,fire;people
-13,recyclable monitor,monitor trash areas for high fire hazard,Detection,fire;people
-14,detector for deaf people,alerts deaf people that cant hear the sounds of normal smoke detectors,Detection,fire;people
-15,kitchen safety stove,stops cooking if unsafe,Detection,fire;people
-16,flammable item sweeper,sweeps flammable items into a landfill,Detection,fire;people
-17,camera,detects heat possible fire sources,Detection,fire;people
-18,fire scanner,scans the entire place searching for fire or possible sources of fire,Detection,fire;people
-19,anemometer,can alert users on which windows are safe to open,Detection,fire;people
-20,thermal camera,use a thermal camera to detect abnormal heat levels,Detection,wheels;heat
-21,oxygen monitor,used to determine if windowsdoors can be open warns of backdraft,Detection,wheels;heat
-22,avatar for disabled people,allows disabled people to have functional legs senses etc in case of fire,Disabilities,fire;people
-23,automatic evacuation,the device automatically evacuates people who need help ,Disabilities,fire;people
-24,fire suit,a fireproof suit to wear in extreme situations when fire cannot be controlled,Disabilities,fire;people
-25,fireproof room,if evacuation is not possible this room allows for people to wait out the fire like a safe,Disabilities,fire;people
-26,fire bubble,expanding bubble for wheelchair bound people if evacuation is not possible provides clean air until services arrive,Disabilities,fire;people
-27,fire proof wheelchair,a fireproof wheelchair so that it will not catchspreadfire during evacuation,Disabilities,fire;people
-28,alarm,to wake up users,Night Fire,fire;people
-29,night fire wake up,makes sure people can wake up when there is some night fire,Night Fire,fire;people
-30,night watch goggle,mimics owls and makes it easier to see at night,Night Fire,fire;people
-31,water alarm,sprays water at sleeping people to wake up for evacuation,Night Fire,fire;people
-32,special for disabilities,a special model for people with disabilities,Disabilities,people
-33,autonomous,move a portable robot extinguish fires assist people,Design,fire;people
-34,fire proof,our robot is used for fire detection and prevention,Design,fire;people
-35,single use,can use itself to put out fireso it is gonna be cheaper,Design,fire;people
-36,add on features,users can buy more expensive attachments and add on to base model,Design,fire;people
-37,escape route,lightedauditory escape route,Design,fire;people
-38,minimalism,simplistic user interface across design,Design,fire;people
-39,affordable,device is affordable to anyone who needs it,Design,fire;people
-40,modular camera,can install a device for every room that needs one,Design,fire;people
-41,easy to install,can be added on or off,Design,fire;people
-42,flying wings,allows people to quickly and safety evacuate,Design,fire;people
-43,gas mask,provides clean air and prevent smoke inhalation and increase survivability,Extinguish,wheels;heat
-44,rainfall sprinkler,evenly sprinkles the room,Extinguish,wheels;heat
-45,sound extinguishing,uses sound waves to extinguish fires at certain distances,Extinguish,wheels;heat
-46,gas vents,uses nonflammable gases to extinguish fires at distance like vortex rings more like an air vent not an extinguisher,Extinguish,wheels;heat
-47,machine learning,device learns user habit and develops warnings  smoke alarm sensitivity,Design,wheels;heat
-48,size of smoke detector,looks like smoke detector small and circular from outside,Design,wheels;heat
-49,corner mount,reduce material by being mounted in the corner of a room,Design,wheels;heat
-50,modular camera,able to attach camera to most existing smoke detectors,Design,wheels;heat
-51,wheels,be able to run,Design,wheels;heat
-52,durable,metal or other fireproof material outside,Design,wheels;heat
-53,sensitivity adjustment,sensitivity for heat detection can be modified by user in case of gas stove or use of lighters,Design,wheels;heat
-54,size,not occupy too much space in home,Design,wheels;heat
-55,wheels,enables quick ground transport if needed,Design,wheels;heat
-56,air lock,seal a room without anyone inside and suck out the air to extinguish fire faster,Extinguish,fire;people
-57,powder hose,shoots extinguishing powder at fire like salt gun,Extinguish,fire;people
-58,fire fighter robot,this robot can detect and extinguish fire when detected you dont need more sprinklers,Extinguish,fire;people
-59,flight,flying capabilities for extinguishing robot,Extinguish,fire;people
-60,ac system that keeps house cold,overheating causes fire to prevent that keep the house cold,Extinguish,fire;people
-61,targeting extinguisher,focuses extinguisher on source of fire,Extinguish,fire;people
+1,automatic ventilation fan,the ventilation fan is controlled based on the temperature and humidity,Smart home,device;light
+2,automatic window shades,windows shades controlled basded on the brightness and temperature,Smart home,device;light
+3,controllable light,light bulb can be controlled by cellphone or ir controller,Smart home,device;light
+4,automatic dim light,the light will automatically be dimmed according to users habits,Smart home,device;light
+5,iot scale,measure the weight of the consumable supplies and when they are runing low the device can order it online automatically ,Smart home,device;light
+6,plant watering,the device will sense the humidity of the soil and automatically water the plants acoording to the feedback,Smart home,device;light
+7,pet food water storage,the lower layer of the drawer will automatically open when pets come close and refill if the foodwater is empty,Smart home,device;light
+8,smart mirror,it display the environment condition of the home temperature humidity reminds tasks and play music and news,Smart home,device;light
+9,smart sleep assistant ,the device will help turn off all the lights ac in the room when the user go to sleep and display light that can improve the quality of sleep,Smart home,device;light
+10,smart fridge screen,a screen which can be attached to the refridgerator to record the quality of food and warn the user,Smart home,door;phone
+11,smart button,wirelessly connect to the home appliances to control them together by one button,Smart home,door;phone
+12,smart door,automatically open when owner stand in front of the door,Smart home,door;phone
+13,task reminder ,the task is written on the stickers which is  stick to the wall with light and sound on for warning,Smart home,door;phone
+14,smart rice cooker,the rice cooker stores rice and is connected to the water tube it can be controlled remotely and will automatically cook rice ,Smart home,door;phone
+15,smart coffee machine,the coffee machine is meant to be used in an office  and can make custimized  coffee with diffenent kinds of beans and strength the order can be made remotely using app on the phone,Smart home,door;phone
+16,smart cocktail machine,the machine stores all kinds of raw material for making cocktails alchohol fruit juice ect and can make customized cocktail with a click on the phone,Smart home,door;phone
+17,breakfast maker,it will automatically make simple breakfast when you get up sandwiches omelette steam bombs and so on,Smart home,door;phone
+18,juice maker & blender,it can make customizable blender juice and suggest the fruit to buy in the morning,Smart home,door;phone
+19,smart ring,it works with smart home products which can adjust things like the lightness of the bulb the temprature of the room volume of speaker ,Smart home,door;phone
+20,smart dot,it works with smart home products which can adjust things like the lightness of the bulb the temprature of the room volume of speaker by rotating the knobs or voice control,Smart home,door;phone
+21,smart clock,this clock is very effective in waking up the user the user have to get up and do some required exercise before the clock can be disabled,Smart home,door;phone
+22,shelf,the shelf is made from wood and has a structure and shape similar to a small plant,home,door;phone
+23,plant shelf ,the shelf resemble the look and feel of a tree with several branches to hold on small plants,home,door;phone
+24,wall bar,the mini bar is to be mounted on the wall and is fordable ,home,door;phone
+25,speaker,it has a shape of a trumpet can play music when you plug in the phone,home,door;phone
+26,bird cage,the bird cage is consist of a bottom part resembling a real nest and top part made from glass which allows seeing for people ,home,door;phone
+27,smart wheel,to be installed to chairs and tables and restore to original location,Smart Office,door;phone
+28,gesture reader,use the hand gesture to control light and audio system ,Smart home,
+29,blocking door,the blocking door will allow adults pass throght and limit the child or pets going through,Smart Home,door;phone
+30,pill reminder,by scanning the barcode on the package by the phone the medicien information will be automatically loaded and the phone will be able to remind the user to take the medicine accoringly,Smart Home,door;phone
+31,casing for controller_1,all the controller and sensor will be placed in a box which is will insulated and is water and dust resisted so that it can work in a harsh environment,Casing,door;phone
+32,casing for controller_2,all the controller and sensor will be placed within the wall outlet to make the smart home controller invisiable,Casing,door;phone
+33,solar panel at home,this solar panel will have a shape of a tree it sits harmony with trees on the street,Smart City,door;phone
+34,soil nutrition monitoring system,monitor the nutrition of the soil and send the data back to customer and warn them if fetilizer is needed ,Agriculture IoT,device;light
+35,crop watering ,the system will automatically determine the optimal watering schedule for crops accoding to soil humidity and weather conditions,Agriculture IoT,device;light
+36,guiding cart,the car automatically follow the customer in a supermarkect or even on the street,Smart City,device;light
+37,connected vehicle,car shares information and detact condition of surrounding vehicle,Smart City,device;light
+38,smart traffic light,the timing of traffic light will change automatically based on the current traffic condition,Smart City,device;light
+39,parking indicator,shows the driection of avaliable parking space in a large parking lot,Smart City,device;light
+40,light control,the light will iluminte part of the room or space by detecting the motion of the user,Smart City,device;light

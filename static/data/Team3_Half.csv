@@ -1,75 +1,41 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,new note book,for freshman you can find the service for all the important issue,physical product,service;issue
-2,phone case,school will give you a phone casefor freshman you can find the service for all the important issue,physical product,service;issue
-3,where to eat,a detailed guide of all kinds of cuision around the community food can deliver familiar awareness to users,|Crowd Sourced Data, Connection Services|,info;information
-4,live subtitles,an app for your glasses that produces live subtitles via sound no matter the language it projects on your glasses,language services,glasses;language
-5,locator pins,an app that locates people by there moods there are locations on campus where you can meet to resolve the mood ice cream mood,|connection service, crowd source data|,people;users
-6,tactile info board,a screen that also has bumps to translate in braile across languages these are live raised bumps with  live updating and new info imagine bumps changing under your fingers immediately per the new and updated information,|language services, physical product|,info;information
-7,contact,contact lenses that take pictures when user blinks so that they can capture images that the users was confused about interested in or thought were important,|language services, physical product|,info;information
-8,the social network,a social network for building support networks combination of features from free and for sale and overheard ,Digital Services,info;information
-9,social app,use your phone app to contact with others you can change any language you want,|Crowd Sourced Data, Language Services|,glasses;language
-10,friend meets app, 3 options meet up with one of three people or pass its an app that is also a game there are specific places on campus where you can meet these people publicly,connection service,people;users
-11,cohort,an app that groups people in social groups on arrival they are grouped based on differences not on similarities they attend meet ups that teach them how to interact with uncomplimentary characters,connection service,people;users
-12,pet lease,many people could feel more comfortable with a pet this serve could rent pets to users,connection service,people;users
-13,are you confused?,a wearable product that identify similarly confused people and pair the user and another user up form study groups social groups,connection service,people;users
-14,question headband,short phrase displayed on this headband that pose quick questions to people around the user and therefore invites people with similar invites to complete similar tasks,connection service,people;users
-15,glasses projection,glasses that project info with live updates,physical product,glasses;language
-16,metal head,a head band that telepathically communicates from one person to the next,physical product,glasses;language
-17,intelligent electronic glasses,this glasses could interpret whatever you see among this community,physical product,glasses;language
-18,college google glass,sun glasses that feature integrated personalization system and act like a pa for appointments and access to resources,physical product,glasses;language
-19,sunglass connection,a glass with sensor use this glass you can see someone want to connect,physical product,glasses;language
-20,super pen,this pen can record this pen can record what you heard about and can make a translate,Language Services,service;issue
-21,local translate service,help you to translate for freshman you can find the service for all the important issue,Language Services,service;issue
-22,event alerts,event alerts that uses a sms to build community around events through creating networks of people through mobile technology,connection service,community;events
-23,info tower,a tower that give information via the 3 senses touch sight hearing not taste no smell ,physical product,info
-24,slogan cup,drinking cup with individualized slogan  personal info printed on the cup icebreaker cup,physical product,info
-25,multi language info map,the language changes per person you stand in front of info dock and tell it the language you want to use,|language services, physical product|,glasses;language
-26,display board,the important info will show on this board you can change any language you want,|language services, physical product|,glasses;language
-27,sound insulation mask,a mask be designed to insulate noise you can change any language you want,|language services, physical product|,glasses;language
-28,ping(images),an app that sends information via images so house party would be notified via emoji and location is a visual map with live movements to follow no words,connection service,info;information
-29,online diagnostic,just like many online software companies expediting academic assistance by utilizing an online system to help solve problems,connection service,info;information
-30,meet me,inspired by japanese cell phone technology using infrared technology  to connect people and provide tailored info on activities and places,connection service,info;information
-31,go to event,application that leverages social media data to compile events and provide information and directions on a mobile platform,connection service,info;information
-32,crowd sourced data,waze like application that uses user data to preform calculations and provide information about the collegiate ecosystem,connection service,info;information
-33,name tag,displays personal info on the tag and connects users in the same area with similar interests,connection service,info;information
-34,a stationary map ,its a  large stationary map that offers students the opportunity to find live events happening on campus they can also live update by touching the map to there phone it takes a picture and copy to there docs,physical product,info;information
-35,live watch,the watch can record your information and remind you with certain events when users sign up,physical product,info;information
-36,earphone reminder,at the end of earphone has a usb which can connect to computer and update your information and remind you in time,physical product,info;information
-37,interactive resource map,a physical map that features a qr reader to personalize the map experience for the user while providing mobile integration and guidance to users,physical product,info;information
-38,super shirt,it is just a shirt with some info you can add the info in the front of you shirt and it can be changed,physical product,info;information
-39,connect cup,everyone need to go cafe this cup can provide a info of you,physical product,info;information
-40,say hi insert,a new design insert with sensor this cup can provide a info of you,physical product,info;information
-41,language help,rose use this glass you can see someone want to connect,Language Services,glasses;language
-42,holographic notifications,walking by a community building or in the main squre there are squares located that have holograms that you can turn on via an app in your phone you walk to the location hover your phone and a hologram notifies you of the organizations info,Crowd sourced data,people;users
-43,call out docks,this is an info dock that sends notifications to peoples phones as they pass by this notifies them of changes in there walk it is stationary and does not require people to have an app it just sends info to people with smart phones walking by,Crowd sourced data,people;users
-44,holographic stickers ,these can be posted anywhere on campus notifying passerby of upcoming events they are biodigital they contain a bit of energy enough to project static image and they wash away or dry out they last 30days,Crowd sourced data,people;users
-45,where to have fun,an app can exhibit public social events in school to users users can also apply in app,Crowd sourced data,people;users
-46,who is the local,this app can help users find some enthusiastic local students to help them adapt to this place quickly,Crowd sourced data,people;users
-47,people you like app,users can type detailed information of interests this app can help users make friends with others with same interests,Crowd sourced data,people;users
-48,how do i?,electronic system that matches people with questions with expereinced students as part of a mentorship program,Crowd sourced data,people;users
-49,what do i do,app that utilizes local events and personal preference to provide directions on what events should be attended,Crowd sourced data,people;users
-50,task alert,a cube that alerts people when friends are hanging out in the area,Crowd sourced data,people;users
-51,find my friends 2.0,similar to find my friends on iphone but designed more oriented around berkeley campus resources and location,Crowd sourced data,people;users
-52,message remainder,important information will be informed by text messages in selected language,|Crowd Sourced Data, Language Services|,info;information
-53,find everything,an app with the basic information of all infrastructures these information will be showed on the map,|Crowd Sourced Data, Language Services|,info;information
-54,live updating calender,this app notifies actively students of up coming events via a live updating calendar it is supported by community organizations,Crowd sourced data,community;events
-55,my calendar,a personalized calendar that shows a daily schedule as well as upcoming appointments and activities,Crowd sourced data,community;events
-56,community updates,wearable product that feeds community news about events alerts etc,Crowd sourced data,community;events
-57,party map,live map about ongoing parties around the community and details about attendants,Crowd sourced data,community;events
-58,translate earphone,to contact this earphone with your phone it will translate what you heard to the language you wantir can be designed in any model ,|language services, physical product|,service;issue
-59,info drone,personal pet that does all the walking detecting and socializing for the user when the drones get to know each other the users can eventually become friends because the drones are interacting,Connection Services & Physical Product,info;information
-60,carry on name card,a card with everyones name users can stick it in conspicuous places in the body which is good for ice breaking,physical product,people;users
-61,memorial hat,a memorable hat with school logo and users name on it it is also good for ice breaking,physical product,people;users
-62,deli line waiting system,a system that features an analogue waiting system that takes a long time and requires a physical presence,physical product,people;users
-63,id bracelet,bracelet to replace cal1 card that contains student information and permissions to streamline interaction with campus resources,physical product,people;users
-64,me,a doll with mobile sensing that speaks for its owner represents the owner works best for introverts and makes friends for its owner connects with other dolls,physical product,people;users
-65,drama queen ,a ring that buzzes when you walk past a event party gathering of people you know share similar interests,physical product,people;users
-66,netdisc for new student,couldfor freshman you can find the service for all the important issue,Digital Services,service;issue
-67,advisor contact,the information of significant persons like teachers and advisors will all updated in your account,Crowd sourced data,info;information
-68,live transcript,for students that have difficulty following along in lecture and application that will deliver a live transcript to their phones as to permit greater interaction with the material,Crowd sourced data,info;information
-69,geolocation watch,a fitbit like watch that transmit user location and allows the plotting of agenda maps,|Physical Products, Crowd Sourced Data|,info;information
-70,sports bracelet,this bracelet can let you know the info what you want it can help you to find out similar friends around you who have similar background with you,|Physical Products, Crowd Sourced Data|,info;information
-71,slang spectacle,helps users learn slang words and phrases has a database like a slang dictionary,Language Services,info;information
-72,immobilized screen,it is an immobilized electric board settled all around the campus students can browse all they want after registering,|language services, physical product|,people;users
-73,recording translation pen,a pen that records voice video and translates materials upon users request and buzzes when different users have similar questions and makes a connection among those users,|language services, physical product|,people;users
-74,delivery,a service that can be used for food medicine and books delivery,connection service,service;issue
+1,wing aerofoils in aerospace industry,most essential component in an aeroplane made out of composite material improved strength to weight ratio strength life,Aerospace & Aeronautical,material;strength
+2,shelves,shelves made of composite material improved life and load bearing capacity,Home Appliances,material;strength
+3,handles for utensils,handles made of compostie material it can add to life of the utensils,Home Appliances,material;strength
+4,chairs,chairs made out of composite material enhances looks strength life,Home Appliances,material;strength
+5,table,table made of composite material improves strength and life also reduces weight,Home Appliances,material;strength
+6,containers,conatiners made out of composite material improves their strength and life,Home Appliances,material;strength
+7,composite tools,tools made of composite material to decrease the weight,Home Appliances,material;strength
+8,fan blades,a fan blade made of compsite material ,Home Appliances,material;strength
+9,mugs,mugs can made of composite materail for increased strength,Home Appliances,material;strength
+10,bed frames,bed frames made of composite material for lightweight,Home Appliances,material;strength
+11,composite glasses,glasses ade using composite material for the frames to increase durabilty,Personal accessory ,performance;material
+12,back brace,a composite back brace,Personal accessory ,
+13,solar powered umbrellas,for sun shade umbrellas utilize the top for solar power to create a source for energy,Renewable Energy/Consumer Product,glasses;shade
+14,jet engine blades and body,important component and subjected to extreme conditions better efficiency and performance with improved longevity,Aerospace & Aeronautical,performance;material
+15,wind turbine blades,wind turbine blades made of composite material used for power generation increases strength to weight ratio increases efficiency increases longevity,Renewable Energy,material;strength
+16,pen body,composite material can be used in manufacturing bodies for pens light weight improved life,Stationery,material;strength
+17,smart windows,a window that shows what the weather for the day will be and other features,Consumer Product,window
+18,exercise bike,bike parts made of compostie improved life load bearing capacity,Appliances,material;strength
+19,laptop body,the casing for laptop made of composite material to decrease weight,Appliances,material;strength
+20,steering wheels,wheels made out of composite material improved strength to weight ratio,Automotive,material;strength
+21,window frames,window frames madee out of composites so that rotting and termites dont effect them,Home Appliances,window
+22,skateboards,a skateboard made of improved composite material used for small distance commuting,Recreational,material;strength
+23,surfboards,surfboard made of composite material used for recreational sport surfing,Recreational,material;strength
+24,helmets,helmets made of composite material provides safety and lesser weight used by riders bike motorcycle etc,Recreational,material;strength
+25,skiis ,skiis made from composite materials for decreased weight,Recreational,material;strength
+26,composite gun,a riffle or handgun made of composite materials,Recreational,material;strength
+27,wheel rim,critical component essential for movement improved overall performance of vehicle due to material properties of new composite material,Automotive,performance;material
+28,body panels,aesthetics are important for the look of the vehicle stiff sturdy improved performance of vehicle due to weight reduction by composite material,Automotive,performance;material
+29,fixtures and shafts in automotive industry,1 shafts used in transmissions propulsion to be made of composite material for better performance fixture used in automotive industry to hold components and provide support,Automotive,performance;material
+30,wi fi backpack,a backpack with a mobile hotspot integrated within it to give data when going to remote places,Recreational,glasses;shade
+31,bicycle components,used for commuting recreational activities  improved performance due to new composite material,Recreational,performance;material
+32,torque handle,the bottom of the handle on a baseball bat will rotate while the player swings,Consumer Product,glasses;shade
+33,golf glasses,glasses that allow golfers to see the trace of their ball when they hit it along with other useful information,Consumer Product,glasses;shade
+34,temperature mug,a coffee mug that tells you the temperature of your coffeedrink,Consumer Product,glasses;shade
+35,tattoo printer,a device that prints preset sizes of tattoos on your body,Consumer Product,glasses;shade
+36,toothbrush mouthpiece,a mouthpiece with bristles inside to clean all of your teeth at once,Consumer Product,glasses;shade
+37,smart tap handle,a beer tap handle that senses the amount of beer that has been dispensed to give an estimate on how full the keg is,Consumer Product,glasses;shade
+38,speaker phone case,a phone case that senses the vibrations coming from the phone speaker and amplifies the sound,Consumer Product,glasses;shade
+39,phone case cover,the phone cover can be made out of composite material improving life and decreasing cost,Electronics Applications,material;strength
+40,mouse, mice can be made out of composite material improves life strength to weight ratio,Electronics Applications,material;strength

@@ -1,61 +1,81 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,zero wait time register,display wait time at each register on screen,Shopping Cart Device,food;bottle
-2,cookie keeper,a device that guards sweets and junk food and does not allow user to access it unless they have been keeping up with their nutrition goals would link to a phone app,Home appliance,food;robot
-3,electronic cabinet,a cabinet that can record expiration date of every food and record users to eat them before the food spoils,Home appliance,food;robot
-4,ez shopping cart,smaller and easy to maneuver shopping cart,Shopping Cart Device,cart;shopping
-5,advanced shopping cart ,show where employees are and allow you to talk to them directly,Shopping Cart Device,cart;shopping
-6,budget shopping cart,screen attached to cart that tracks the prices of items put into cart,Shopping Cart Device,cart;shopping
-7,advanced shopping cart ,shows location of store items,Shopping Cart Device,cart;shopping
-8,automatic shopping cart,a screen on shopping cart that can connect with app and help the efficiency of picking up what to buy,Shopping Cart Device,cart;shopping
-9,electronic shopping cart,a shopping cart where we can place and plug our phones,Shopping Cart Device,cart;shopping
-10,shopping bot,a shopping cart in the form of a bot that follows you around in store and holds your items,Shopping Cart Device,cart;shopping
-11,electric cart,electric grocery cart that activates when the cart gets too heavy,Shopping Cart Device,cart;shopping
-12,robocart,cart that unloads groceries into the car for user,Shopping Cart Device,cart;shopping
-13,shopping list app,an app that we can create our shopping list and record the price it can also connect with the monitor on shopping cart that can remind us when we pass by the items we need in grocery stores,Apps (shopping),cart;shopping
-14,exercise monitor,people can see how much fat they have burnt through exercie,Wearable device,people;monitor
-15,exercise advisor,people can get help through the device when they doing exercise,Wearable device,people;monitor
-16,taser reminder,for people who make up their mind to improve their health condition but are weak in self control force them to get fitexercise or diet ,Wearable device,people;monitor
-17,online after  sale service,this function is connected to taser reminder it can let people stop the force program ,Wearable device,people;monitor
-18,heart rate monitor,scan the heart rate to help people overexercised,Wearable device,people;monitor
-19,blood sugar monitor,wearable blood sugar monitor for diabetic people,Wearable device,people;monitor
-20,scanner,wearable that scans food and estimates nutritional value by comparing to food in database,wearable device,food;bottle
-21,wearable camera,item would record your actions throughout the day and automatically logs your food intake and calculated nutrition for you,wearable device,food;bottle
-22,well designed,the product should have not only the powerful functions but also the fashionable appearance,Wearable device,
-23,title scanner,people can scan the title of packed food to know how much energy in it and help them to calculate the calorie,Wearable device,food;bottle
-24,food camera,can analyze the contain of a meal and calculate the calorie,Wearable device,food;bottle
-25,disease predictor,a watch that can detect our disease and symptom by monitoring our physiology,Wearable device,food;bottle
-26,nutrition patch,wearable patch that connects to an app to notify user which aspects of their diet are lacking ,Wearable Device,food;robot
-27,durable grocery bag,made out of very strong material ,Grocery Bags,cart;shopping
-28,temp control bag,grocery bag with adjustable temperature control to keep food at certain temp,Grocery Bags,cart;shopping
-29,robot bagger,robot bagger that can efficiently bag grocery items,Robot,cart;shopping
-30,intelligent bottle sleeve,can scan the water quality whats the composition of the water temperature etc,Apps(Dining),food;bottle
-31,wake up bed,a bed which will be rough in the morning that can wake up people,Home appliance,people;monitor
-32,blink h2o,water bottle that connects to app to track progress,Staying hydrated,food;bottle
-33,freezer buddy,robot that keeps inventory of food in the freezer and defrosts food accordingly,Robot,food;robot
-34,robo prepcook,robot that prepares food for user to cook ie cuts vegetables and measures ingredients,Robot,food;robot
-35,personal shopper,user inputs the dishes they want to cook and the robot shops for necessary ingredients and delivers them to user,Robot,food;robot
-36,deli pro,robot that makes sandwiches for users that dont have time to cook ,Robot,food;robot
-37,food checker,robot that checks food in fridge ie vegetables left overs dairy etc and determines whether to keep or throw out,Robot,food;robot
-38,item grabber,robot that helps you retrieve items from high places,Robot,food;robot
-39,massage robot,a robot that can find our acupoint and give us more comfortable massage,Robot,food;robot
-40,fever cap,cap that measures body temp and acts as a coolingheat pad,Wearable Device,food;bottle
-41,dehydration bracelet,monitors users hydration level and beeps or vibrates to let user know to drink,Wearable Device,food;bottle
-42,fatigue monitor,a watch that can remind users to go to sleep when they are over fatigue to decrease the rate of sudden death,Wearable Device,food;bottle
-43,hot compress device,a electric sticker that can stick on skin to make hot compress easier and prevent scald,Wearable Device,food;bottle
-44,body fat monitor,a necklace that can monitor and record our body fat and muscle content,Wearable Device,food;bottle
-45,dining out app,an app that connect with gps and can record what we eat  and give us healthier suggestion based on what we have eaten,Apps(Dining),food;robot
-46,recipe app,an app that teach people how to cook and buy food ingredients in the nearest stores efficiently,Apps(Dining),food;robot
-47,restaurant app,an app that compares price and quality of different restaurants and gives users profitable recommendation,Apps(Dining),food;robot
-48,cooking advisor,give suggestions on what type of food to choose in order to keep fit and how to cook them,Apps(Dining),food;robot
-49,water drinking monitor,help people drink enough water during a day,Staying hydrated,people;monitor
-50,automatic water boiler ,water boiler that automatically refills from tap ,Home appliance,food;bottle
-51,caffeine pal,device that makes a warm beverage for you based on the time of day and how much you got for example if its late at night the device would make you a soothing tea if its first thing in the morning after a rough night it may make you a double shot latte learns users likes and dislikes,Home appliance,food;bottle
-52,health sensor,a sensor that can put in mouth and monitor our vitamin and calcium intake,Home appliance,food;bottle
-53,sleep quality monitoring clock,an alarm clock that can monitor sleep quality and wake up users when they are not in deep sleep,Home appliance,food;bottle
-54,cookie keeper vers 2.0,voice activation is implemented ,Home appliance,food;bottle
-55,expireno cutting board,a cutting board that detects spoiled food that is placed on top of it,Home appliance,food;bottle
-56,weighable cutting board,a cutting board that can weigh the substance on it,Home appliance,food;bottle
-57,fridge sensor,scans items put into refrigerator and keeps track of how much is left example alerts user if pickles are low,Home appliance,food;bottle
-58,eating  shopping advisor,give suggestions base on the data collected from peoples daily lives to help them keep fit,Apps (shopping),food;robot
-59,quick meals ,app that keep inventory of the users food and suggests meals based on time and inventory,Apps (shopping),food;robot
-60,menstruation recording app,an app that can help women to record their period and remind them two days before next period comes so they can stock up on supplies,App (Health),food;robot
+1,3d printed art,can use different media and create much more versatilecreative things,application,print;products
+2,3d printed commodity products,used in industry to create products uniformly and quickly,application,print;products
+3,food maker,easy to digest food such as ground meat to make the shape,application,print;products
+4,fashion products,create really complicated and customized fashion products,application,print;products
+5,3d print shoes,based on persons foot really create a comfortable and customized shoe,application,print;products
+6,3d print food,create complete meals that are 3d printed,application,print;products
+7,create buildings ,3d print concretepolymer to create buildingshomes,application,print;products
+8,3d organ bioprinting,can build structures with cells or hydrogels,application,printing;printer
+9,3d printed circuits,circuits that are printed in any shape and dont need extra material,application,printing;printer
+10,metal 3d printing,creating structures freeform using metal,application,printing;printer
+11,3d printing prototype models,used to quickly prototype of ideate models to present,application,printing;printer
+12,3d structures,can build structures in any shapesize and the material would be strong enough to hold it,application,printing;printer
+13,3d printed house,customized printing of concrete blocks and onsite stacking and assembly by a 3d printing like machine,application,printing;printer
+14,3d printing consulting,a consulting service for helping customers select 3d printing technics and materials based on their needs,application,printing;printer
+15,reverse engineering,3d printer with camera scanner a allinone machine used for reverse engineering,application,printing;printer
+16,3d mending,3d printing done on existing objects to fix or change the shape of the objects,application,printing;printer
+17,suurgery prototyping,pla 3d printing can be used to do prototyping in surgery so the doctor can see whats the best plan for the patient,application,printing;printer
+18,3d printing furniture,3d printing furniture can deal with complex parts and it is biodegradable,application,printing;printer
+19,embedded optical elements,pla can have electronic property by combining with other materialslike graphene or metals this chip can be directly embedded in mechanical structure,application,printing;printer
+20,airfoil and propeller,pla combine with other material can enhance its mechanical property so it can print airfoil and propeller,application,printing;printer
+21,brushless motor model,pla can be magnetic by adding other material this brushless motor would not hurt your fingers during operation ,application,printing;printer
+22,fluidic device,pla can 3d printing fluidic devices because usually they conatins complex parts,application,printing;printer
+23,milk container,pla can be shinier it is also bio degradable it is also safe to contain food,application,printing;printer
+24,uav parts,pla is light so it is good for 3d printing uav parts besides you can customize your parts,application,printing;printer
+25,phone case,pla is soft  therefore it is a good material to do phone cases also you can customize your own case,application,printing;printer
+26,decice holder during shipping,device holder during shipping usually comes with complex parts 3d printing can handle that also pla is soft but have enough mechanial property to protect the device it is also biodegradable,application,printing;printer
+27,multi material printing,able to print more than 1 kind of material in one job,application,printing;printer
+28,cable printer,extend existed cable length if needed,application,printing;printer
+29,maintenance part,can print out easy maintenance part for bikes or other simple mechanical parts,application,printing;printer
+30,sewing machine ,with multiple heads that can move 3 dimensions it ccan become a sewing machine,application,printing;printer
+31,molecule 3d printer,create molecules by ejecting one atom at a time,application,printing;printer
+32,sealant or protective coating,can use printer to create a protective coating over odd shapes ,application,printing;printer
+33,packaging,can use printer to create packaging for odd shaped objects,application,printing;printer
+34,3d printed 3d printer,a project that allows user to print out parts and assemble a new 3d printer,application,printing;printer
+35,welding 3d printer,use stick welding as a printing method ,application,printing;printer
+36,3d printed cakes,used in the decoration of cake toppings,application,printing;printer
+37,laptop case,laptop case always wastes a lot of material but 3d printing dont need to weld therefore it can save more material,application,printing;printer
+38,3d printing hair,for now most fake hair are from real peoples hair you can directly print the hair style you wanted,application,printing;printer
+39,education tool,students can choose the material property they want and try to print out something and do some experiment with that,application,printing;printer
+40,3d printing tissue for animal ,some animals lose some part of their body for example hunters take the tooth from elephants 3d printing tissue can help those animals back to their normal lifes ,application,printing;printer
+41,3d printing jewelry,jewelry usually comes with complex process 3d printing can help to minimize this process,application,printing;printer
+42,structurally strong material,pla that is mixed with carbon nano particles to give it mechanical properties such as more durability,material,printing;printer
+43,magnetic material,pla that is mixed with iron particles to give it magnetic properties ,material,printing;printer
+44,conductive material,pla that is mixed with copper particles to give it conductive properties,material,printing;printer
+45,chocolate 3d printer,a 3d printer used to print chocolate used for creating your own chocolate gift,material,printing;printer
+46,mixture of wax and abs,a 3d printing material made from abs and wax combing the advantages of the two materials,material,printing;printer
+47,recyclable material,even if the material has particles we can recycle it with some method,material,printing;printer
+48,3d colouring,create an extra nozzle in addition to the current one used to coloring the object during printing process,function,printing;printer
+49,adjustable extruding nozzle,a controllable extruding nozzle size can help reduce the risk of material clogging,function,printing;printer
+50,thermal expansion estimating algorithm,an algorithm used to predict the 3d printed object size based on monitored temperature and printing data,function,printing;printer
+51,multiple automatic switching nozzles,multiple nozzles enable 3d printing different materials on a single job thus better meets the customer needs,function,printing;printer
+52,visualize printed object analysis,help user visualize the full structure  property analysis after printing,function,printing;printer
+53,temperature control,temperature of printing enviroment can be controlled for special purpose,function,printing;printer
+54,customized material mixer,user can customize theri material according to theri special need at the moment of printing,function,printing;printer
+55,auto polishing,after printing can auto polish the surface to have a nicer look,function,printing;printer
+56,automated internal support,automate simulation and add internal support to make the part stronger,function,printing;printer
+57,insert printing,can print around an existing object to make a fit,function,printing;printer
+58,scan for duplication,able to scan an existing object and duplicate,function,printing;printer
+59,faster printer,printer speed is much faster thn current ones,function,printing;printer
+60,no size limitation,the printer can be easily set up for large printing job,function,printing;printer
+61,hologram display,can be a hologram display to show the 3d geometry before printing,function,printing;printer
+62,brain wave printing,can read the signal from brain as a person think how things will look like and print,function,printing;printer
+63,communicating robot,blend in with amazon echo to become a intelligent robot,function,printing;printer
+64,post processing ability,can modifycut drill hole etc the product after it has been printed,function,printing;printer
+65,draw on screen to 3d print,just draw on a computer screen and printer prints it no 3d rendering like cad needed,function,printing;printer
+66,cleans of excess 3d material on object,residue material is cleaned off automatically from object and machine,function,printing;printer
+67,speed up process of 3d printing,printing takes hours so multiple nozzles should decrease the time ,function,printing;printer
+68,portable 3d printer,a portable 3d printer that can be stored in a suitcase when unused,function,printing;printer
+69,wireless 3d printer,receive signals wirelessly from other devices such as phones and tablets,function,printing;printer
+70,print first;sculpture next,print out a rough shape first and mill off parts by switching tools,function,printing;printer
+71,multi function software,a software that is able to open all sorts of 3d model files and convert to slicer,function,printing;printer
+72,editing 3d model in vr,construct 3d model in virtual reality with goggle headsets and controllers,function,printing;printer
+73,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printing;printer
+74,better user interface,a more user friendly ui with touch screens and clear functions,function,printing;printer
+75,fast heat nozzle,for now 3d printing takes long time to warmup this nozzle can warmup pretty fast,function,printing;printer
+76,one  step solution,our 3d printing machie can do several different functions in one machine for example step 1 printing step 2polishing step 3 welding,function,printing;printer
+77,gradation material,change the ratio of the materials during printing process can control the material property its something hard for traditional material,function,printing;printer
+78,multi nozzles machine,there are multinozzles in one machine to print different parts with different materials at the same time,function,printing;printer
+79,3d printer pen,a pen that heats up filament and extrudes the material into shapes,new form,printing;printer
+80,3d printing material recycle code,for now there isnt any recycle policy for pla and other 3d printing material it is good to build up a rule which everyone can follow like what we did to recycle trash,Policy,printing;printer

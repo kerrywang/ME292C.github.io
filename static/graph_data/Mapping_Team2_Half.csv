@@ -1,10 +1,9 @@
-Index,Human_Label,Machine_Label
-0,Better treatment,doctors;treatment
-1,Better Treatment,patients;doctors
-2,Receiving,students;knowledge
-3,Better educational instruction,video;device
-4,Remembering,students;doctors
-5,Remembering and Receiving,information;picture
-6,Practicing,feedback;method
-7,Practicing---Perceiving,glasses;eyes
-8,Learn better,
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Safety,0,car;user
+1,Comfort and Convenience,1,vehicle;passengers
+2,Remote Control,2,user;users
+3,User Interface,3,
+4,Affordability,,
+5,Localization and Positioning,,
+6,Efficiency,,
+7,Avoid Traffic Congestion,,

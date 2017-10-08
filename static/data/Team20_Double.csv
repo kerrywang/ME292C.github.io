@@ -1,0 +1,61 @@
+index,Concept Name,Concpet Description,Human Label,Machine Label
+1,auto stall,wt changes blade pitch to stall when birds are near sensors monitor if bird is near,Bird Safety,blade;pitch
+2,scare the birds,kid play area near the wt where kids can spray water at nearby birds,Community,wt;water
+3,mist er,in public areas wt can release water droplets into air to mist people and keep them cool,Community,wt;water
+4,extendable blades,lengthn blades at high wind speeds and shorten when lots of birds,Configuration,wind;turbines
+5,sail based conveyer rotor,foldable omnidirectional sails on a conveyor belt thats partially overunderground,Configuration,lift;rotor
+6,soil based conveyer with hood,the hood helps direct the air away and reduces drag,Configuration,lift;rotor
+7,open lift based vawt,exposed vertical axis liftbased turbine with minimal visual footprint due to thin structural members,WT Efficiency,turbine;wind
+8,designated migration area,build an alleyway with trees next to windfarms that are designated as migration routes,Wind Concentrators,
+9,wind + water,corkscrew turbine in the air when there is wind and submerged underwater when there isnt to take advantage of waterflow instead,Merging Renewables,turbine;wind
+10,tidal chamber wind turbines,change in tides pushes air through tidal chamber as water passes through  take advantage of the airflow,Merging Renewables,turbine;wind
+11,wind + thermal,black boxshaft on top of turbine provides warm water for residents,Merging Renewables,turbine;wind
+12,slow vawt,larger lift based vertical concept which will spin slower thus making it safer for birds,Aesthetics,lift;rotor
+13,chimney with concentrator,shape the chimney in a way to concentrate the wind through a chimney mounted concentrator,Hiding the WT,wind;turbines
+14,camoflage turbine,turbine has a brown trunk and green blades to match the environment,Hiding the WT - Camoflage,blades;turbine
+15,retractable blade and stock,the stock and blade retract to fold into a small structure during the day,Configuration,
+16,fan,turbine can act as fan to breeze an area on a windy day,Community,turbine;wind
+17,rooftop dragbased mini turbine,small verticall axis dragbased wt for individual use,Bird Safety,wt;wind
+18,slide,a kids slide that swivels around the spire of the tower to engage kids and community,Community,tower;level
+19,ecorotr,this blade hub deflects incoming wind towards the blade so that more power is generated it could lead to 3 performance increase,WT Efficiency,blade;pitch
+20,turbine blade tubercule design,inspired by the ridges on humpback whale flippers this blade has edges that are ridged at low mph winds the performance levels were 2x,WT Efficiency,blade;pitch
+21,strategic placement,place the turbines in strategic locations that have good wind resource like at the top of hills,WT Efficiency,wind;turbines
+22,carbon emission screen,screen next to wt displaying how much coal is emitting to show the importance of the wt,Community,wt;wind
+23,wind power meter,shows customers how much power the wt has generated,Community,wt;wind
+24,landscape art,feature vawts as landscape sculptures and treat them as an attraction,Aesthetics,landscape;buildings
+25,tree vent,array of vertical ind turbines that are meant to be efficient,Aesthetics,turbines
+26,window door turbines,when window is closed the wt is tucked away when the window is open the wt slides down in front of the window to harvest the breeze,Hiding the WT,wt;wind
+27,roof top,installing small scale wind turbines on roof tops to be less intrusive,Aesthetics,wind;turbines
+28,wind funnel art,art work designed to funnel wind transparent with air dyes so people can see the streams spin the turbines,Aesthetics,wind;turbines
+29,hot hub,hub of wt is hot to avoid bird nesting,Configuration,
+30,buoyant airborne turbine,helium aerostat with 3 rotating blades ,Aesthetics,blades;turbine
+31,transparent wt,lack of turbine blade material allows the background to show through,Aesthetics,blades;turbine
+32,light emitting camouflage,light source used to match ambient light conditions to counter illuminate the structure,Aesthetics,blades;turbine
+33,retractable wind blades,wt with retracting blades to avoid obstruction in day,Configuration,wt;wind
+34,suction turbine,fast low pressure wind draws air from the other side of the hill through hawts underground,Hiding the WT,turbine;wind
+35,hill side drag based covered turbines,turbine system placed inside hillside chambers that collect wind from directors at the top of the hill,Hiding the WT,turbine;wind
+36,corkscrew turbine,corkscrew shaped wind harvester covered in a sheath,Hiding the WT,turbine;wind
+37,chimney based turbine,takes advantage of aleady present and constant flow of air up a chimney,Hiding the WT,turbine;wind
+38,anti perching hawt with painted blades,a standard medium scale hawt with the addition of cone top for anti perching and a single patterned blade for bird detection ease,Bird Safety,blades;turbine
+39,variable height,wt adjusts to harvest rated wind speeds can be lowered for certain times of the day,Aesthetics,
+40,drag based vawt with concentrator,a covered dragbased vawt with a concentrator placed ahead for increased efficiency,Wind Concentrators,efficiency;medium
+41,cowled hawt with uv reflective patterns,a medium sized hawt with an efficiency increasing cowl covered in uv reflective surface finish,Wind Concentrators,efficiency;medium
+42,natural wind concentrator,wt blends in with environment and natural features eg trees are used to increase the wind velocity,Wind Concentrators,wind;turbines
+43,shroud,honeycomb shroud smooths wind and encases low pressure zone make shroud out of fabric,Wind Concentrators,wind;turbines
+44,tree  turbine,turbine placed on a tree to allow camouflaging,Aesthetics,turbine;wind
+45,vortex bladeless,coneshaped turbine that uses vortex created by wind moving past objects to harness energy the vortex causes the cone to deliberatel oscillate,Aesthetics,turbine;wind
+46,barn housing,house wts in uppermost levels of barns at farms or place on top of silos,Hiding the WT,
+47,colored turbines,use turbines that are very visible to birds to detract them from flying close,Hiding the WT - Camoflage,turbines
+48,mirror covered turbine,put many tiny mirrors on turbines so they are invisible,Hiding the WT - Camoflage,turbines
+49,segmented ultralight morphing rotor,technology that allows substantial decrease in peak stress and fatigue on rotor blades they can bend without losing stiffness meaning larger blades and higher power,WT Efficiency,blades;turbine
+50,super turbine,this is a variation of a vawt that uses a chain of blades that could change the angle of attack in order to create better power generation,WT Efficiency,blades;turbine
+51,shrouded diffuser,a large area intake to get more air and a diffuser to increase efficiency,Wind Concentrators,parts;area
+52,shrouded vertical,vawt with a shroud to minimize visible moving parts,Wind Concentrators,parts;area
+53,building landscape camo,blend buildings into landscape begind them,Hiding the WT - Camoflage,landscape;buildings
+54,vertical intake,no direct visible moving part and funnel is used to draw in air to the turbine,Wind Concentrators,turbine;wind
+55,vertical axis anti perching turbine with vibration attenuation,a helix shaped lift based vawt with a windspeadincreasing deflector around it and antiperching measures uptop,Wind Concentrators,turbine;wind
+56,mirrored wt,mirrored finish blends with surroundings,Aesthetics,wt;water
+57,collector tower with ground level hawts,a large collector tower disguised as a building collects wind to redirect at covered ground level hawts through a stream straghtener,Hiding the WT,tower;level
+58,wind tunnel tower,this is a tunnel based wind generator that catches wind near ground level and funnels it accelerating it,Hiding the WT,tower;level
+59,vawt farm formation,wt harvest from the vortices of the other wts could harvest gusts from buildings and trees,Configuration,
+60,wind + solar panel,wt covered in solar panels,Merging Renewables,wt;wind

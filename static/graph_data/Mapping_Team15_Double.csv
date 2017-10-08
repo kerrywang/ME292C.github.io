@@ -1,0 +1,19 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Actuated Dynamic Brace,0,brace;force
+1,External Treatment Device,1,pads;forces
+2,Implantable/Surgical Intervention,2,curvature;spine
+3,Rigid Brace Variations,3,brace;cables
+4,Modular Brace w/Multiple Components,4,brace;curvature
+5,,5,torso;shaft
+6,Treatment Communication/ Community Building,6,children;extension
+7,Correct Position Guarantee,7,
+,,8,body;brace
+,,9,muscle;stimulation
+,,10,brace;shoulders
+,,11,patients;mobility
+,,12,pads;air
+,,13,curve;motion
+,,14,forces;bands
+,,15,brace
+,,16,force;patients
+,,17,mars;layer

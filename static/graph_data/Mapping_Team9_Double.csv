@@ -1,0 +1,11 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Smart Device Interactive,0,sensor;gas
+1,Special Features,1,sensor;device
+2,Independent Device,2,gas;sensor
+3,Auto-multifunction,3,air;detection
+4,Clock&Watch,4,
+5,Smart Device Interative/Special features,5,sensor;air
+6,auto-multifunction,6,data;results
+7,Independent Device/watch and clock,7,device;function
+,,8,sensors;sensor
+,,9,phone;mini

@@ -1,18 +1,10 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,Shopping Cart Device,0,cart;shopping
-1,Wearable device,1,
-2,Robot,2,food;robot
-3,Wearable Device,3,intake;monitor
-4,wearable device,4,food;caffeine
-5,Grocery Bags,5,grocery;bag
-6,Home appliance,6,pad;device
-7,Staying hydrated,7,people;monitor
-8,Apps(Dining),8,water;bottle
-9,App (Health),9,date;app
-10,Apps (shopping),10,food;nutrition
-,,11,suggestions;fit
-,,12,app;cart
-,,13,people;exercise
-,,14,robot;user
-,,15,robot
-,,16,board
+0,application,0,printing;materials
+1,function,1,printer;controllers
+2,material,2,material;pla
+3,new form,3,printer;scanner
+4,Policy,4,printer;parts
+,,5,structures
+,,6,food;print
+,,7,
+,,8,fashion;media

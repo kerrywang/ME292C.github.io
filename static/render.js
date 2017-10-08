@@ -119,9 +119,10 @@ page_render = function(num, type){
 		// y-axis
 		yScale.domain([0,Machine_Length - 1]);
 		yAxis.ticks(Machine_Length).tickFormat(function(d,i){
-		    if (data[d].Machine_Index != "") {
-		        console.log(data[d].Machine_Label.replace(";", " and "));
-			    return data[d].Machine_Label.replace(";", " and ");
+//		    console.log(data[d].Machine_Label)
+		    if (data[d] && data[d].Machine_Index != "") {
+		        console.log(data[d]);
+			    return data[d].Machine_Label;
 			}
 		})
 

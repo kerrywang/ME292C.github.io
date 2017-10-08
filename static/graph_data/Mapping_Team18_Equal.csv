@@ -1,0 +1,22 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Secondary Function,0,robots;robot
+1,Locomotion,1,rods;cables
+2,Integrity,2,sleeve;fibers
+3,Impact Toughness,3,
+4,Flexibility,4,robot;sensors
+5,locomotion,5,robot;spider
+6,flexibility,6,robot;robo
+7,Modularity,7,shapes;materials
+8,Mod save america; locomotion,8,move;jump
+9,Weight,9,control
+10,Locomotion; impact toughness,10,robot;help
+11,Mod Save America,11,rods;obstacles
+12,Mod save america,12,transformer;tensile
+13,Secondary Function/Locomotion,13,earthquake;disaster
+14,Locomotion; planning,14,springs
+15,Weight/ Impact Toughness,15,grip;lights
+16,Mod Save America;Impact Toughness,16,grip;toes
+17,Locomotion; Impact Toughness,,
+18,user experience,,
+19,impact Toughness,,
+20,Helmet,,

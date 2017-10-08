@@ -1,0 +1,15 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Residential Solar,0,panel;installation
+1,Portable Appliances,1,panels;power
+2,Hybrid Application,2,water;energy
+3,Large System,3,
+4,Charging Station,4,panel;battery
+5,Software,5,sun;device
+6,Maintenance,6,electricity
+7,Big System,7,sun;panels
+8,portable Appliances,8,solar;communities
+,,9,wireless;energy
+,,10,sun
+,,11,platform;players
+,,12,station;subscription
+,,13,pads;battery

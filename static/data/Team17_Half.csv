@@ -1,0 +1,61 @@
+index,Concept Name,Concpet Description,Human Label,Machine Label
+1,solar powered panel cleaner,wipers powered by solar to clean off panels to maximize efficiency,Maintenance,panels;panel
+2,panel cleaning water jets,spray nozzles on top of panels to clean up debris and can also cool the panels,Maintenance,panels;panel
+3,smart water heater,heat water during the day and keep hot using minimal energy for use at night,Energy Saving,storage;energy
+4,solar integration for container ships,container ships spend a lot of time in the sea exposed to sun light solar integration can be useful to help powering the ship and reduce costs,Energy Saving,storage;energy
+5,smart panel for shadow calculation,smart panel can get shadow quantity that can be used to compare tracking,Control Sensor,panel;mirrors
+6,bag backpack w  solar charging,bag with built in solar panels to be used for electronic charging,Solar integration w/ existing product,panels;panel
+7,solar heated ski clothing,ski clothing with small solar panels to power small heating devices,Solar integration w/ existing product,panels;panel
+8,solar panel integration company,company that identifies areas where solar panels could be used and how the energy generated could be used,B2B Service,panels;panel
+9,cost saving prediction software,software to predict potential cost savings based on usage and home setup,Software Integration,installation;monitor
+10,generation loss due to clouds prediction,tool to predict generation loss due to how cloudy it will be,Software Integration,installation;monitor
+11,artificial light solar panels.,solar panels powered by already used artificial light,Unconventional Usage,panels;battery
+12,shadow expectation,camera shows the shadow and improve tracking performance,Control Sensor,installation;monitor
+13,shadow monitor,the camera monitor the shadow on the ground and keep the interval between shadows small as possible,Control Sensor,installation;monitor
+14,solar customer locator firm,locate potential residential solar customers based on demographics home shading,B2B service,installation;monitor
+15,internal solar generation,in home solar panel that can generate power from home lighting,Unconventional Usage,power;panel
+16,lunar power,use lunar light to generate power in night,Unconventional Usage,power;panel
+17,solar generating paint,paint capable of generating power through solar energy,Unconventional Usage,power;panel
+18,smart fridge,small doors more specific classification of food,Energy Saving,panels;panel
+19,integrated panel water heating,heating water from pipes integrated in panels,Energy Saving,panels;panel
+20,smart light,light that tracks activity and turns off when not being used,Energy Saving,panels;panel
+21,double solar installation,it can be feasible when no controls for tracking are available on existing farms,Efficiency Boosting,installation;monitor
+22,visual measurement with drone,use drone to get position data and calculate the real position of each panel,B2B service,panel;mirrors
+23,human behavior controls,controller that adapts to human behavior to manage storage,Software Integration,storage;energy
+24,market adaptive energy management system,utilityscale energy management system to predict when to send to storage and when to grid,Software Integration,storage;energy
+25,mapping software for maintenance,shows current location and location of panels on map of solar farm,Software Integration,storage;energy
+26,energy generation storage phone app,phone app showing realtime and historical solar generation and batter level,Software Integration,storage;energy
+27,bi sensor,installed on edges of solar panels it control the angle of panel by controlling the shadow between two sensor,Control Sensor,panels;panel
+28,solar recycling,an oneway glass installed on solar panel which can reflect light back and trap light to enhance efficiency,Efficiency Boosting,panel;mirrors
+29,mirror panel group,set one solar panel and a few mirrors as a group mirrors reflect lights on panel so one panel can generate more energy,Efficiency Boosting,panel;mirrors
+30,additional mirror on panel,mirrors on panel help collecting more solar and decrease cost to produce panel,Efficiency Boosting,panel;mirrors
+31,giant solar panel,one giant panel rather than multiple rows,Efficiency Boosting,panel;mirrors
+32,solar powered car battery charger,battery charger to use to jump car that is charged by solar while drivingparked,Solar integration w/ existing product,panels;battery
+33,solar powered outdoor grill,electric grill powered by solar rather than propane or charcoal,Solar integration w/ existing product,panels;battery
+34,solar skateboard,electric skateboard powered by solar deck,Solar integration w/ existing product,panels;battery
+35,solar powered steam distiller,solar powered water heater to boil water to distill,Solar integration w/ existing product,panels;battery
+36,solar portable fan,small fan powered on solar power for hot days,Solar integration w/ existing product,panels;battery
+37,solar powered phone charger,power bank powered on solar power,Solar integration w/ existing product,panels;battery
+38,solar powered fans,windowunit solar powered fans for rooms with no air conditioning,Solar integration w/ existing product,panels;battery
+39,solar powered compressor for ac,a compressor for ac works on solar power since when the power gen is max the consumption is max too,Solar integration w/ existing product,panels;battery
+40,solar powered interactive ads,solar panels installed on big interactive advertisement boards installed on highways,Solar integration w/ existing product,panels;battery
+41,solar powered wireless headsets.,integrating small solar cells on a wireless headsets band to charge the battery while wearing them outside ,Solar integration w/ existing product,panels;battery
+42,solar powered pumpjack,electric motor powered by solar energy to be used for oil and gas pumpjacks,Solar integration w/ existing product,panels;battery
+43,solar powered kettle coffee maker,solar powered kettles can be useful for people who like backpacking and camping,Solar integration w/ existing product,panels;battery
+44,solar powered speakers,solar powered speakers for outdoor concerts,Solar integration w/ existing product,panels;battery
+45,solid energy storage,similar to a water tower this well allow a solid heavy block go up and down to store and release energy,Energy Storage,storage;energy
+46,fuel cell storage,decompose water into hydrogen and oxygen use fuel cell to release the energy in gas when we need it,Energy Storage,storage;energy
+47,wavy solar panel,increase area and generate more power,Efficiency Boosting,power;panel
+48,transport electricity across time zone,transport electricity generated during daytime to somewhere in evening so that we dont need to consider storing them,Unconventional Usage,storage;energy
+49,semi trailer solar panels,solar panels installed on the top of semitrailers that can power refrigeration or truck lighting etc,Transportation ,panels;panel
+50,car roof solar panels,solar panels installed on the top of passenger cars to power entertainment electronics etc,Transportation ,panels;panel
+51,aircraft wing solar panels,panels installed on aircraft wings to power passenger cabin lightselectronics etc,Transportation ,panels;panel
+52,solar panel roads,roads with solar panels integrated in the pavement,Transportation ,panels;panel
+53,integrated phone solar charging,phone with a solar panel on its back,Solar integration w/ existing product,panel;mirrors
+54,solar power wipers,wind shield wipers that are on the solar panels that can be powered by the solar power,Maintenance,panels;battery
+55,battery and energy management system for existing panels,battery storage and ems to retrofit to existing residential solar panels,Retrofit Market,storage;energy
+56,solar panels in sports stadiums,solar panels that can generate power from the projectors that light a sport field,Unconventional Usage,panels;panel
+57,solar fan for bbq smoker heat regulator,solar powered fan attached to bbq pit with app to control fan speed to regulate heat,Solar integration w/ existing product,storage;energy
+58,solar panels with storage systems on highway's lightning lamps,install solar panels on road lamps with storage since the batteries can charge during the day and light up the road at night,Solar integration w/ existing product,storage;energy
+59,solar powered portable storage system,people who go camping for weeks can take with them an energy storage system that charges on solar ,Solar integration w/ existing product,storage;energy
+60,train car solar panels,solar panels to be used on the top of train cars can store energy in batteries or be used for passenger amenities if passenger car,Solar integration w/ existing product,storage;energy

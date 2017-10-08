@@ -1,51 +1,101 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,real time instruction,users who use a capturing device can share the video footage with another users and the viewers can instruct or provide feedback to the device users realtime that is especially important for remote coaching  ,Better educational instruction,video;device
-2,treatexchange.org,a website integrates basic treatments together students can use it like a wikipedia,Remembering,students;doctors
-3,master knowledge,more communication about the problems inexperienced doctors will more understand the medical knowledge,Learn better,doctors;treatment
-4,practice better,get more guidance from the experienced doctors inexperienced doctor will be more skilled,Learn better,doctors;treatment
-5,memory master,personal medical knowledge management is difficult ¾because the quantity is too large ,Remembering,
-6,patients simulation,we can make a simulator of patients base on previous case studies students can experience treating by using the system the system can use vr or other equipments to promote the sense of reality,Practicing ,students;doctors
-7,get help,every inexperienced doctors post unsolved question online and get help from experienced doctors ,Better treatment,doctors;treatment
-8,resource sharing,we all know hospital have electronic medical record to record patient situation but not share to other hospitals if we connect these hospitals together doctors can view patientês situation more comprehensive,Better treatment,doctors;treatment
-9,seeing through,many peopleês home are far away from hospitaland it may take much time to get to itthrough this methods you can always get firstaid from doctors,Better treatment,doctors;treatment
-10,improve clarity,once we thought ahead and figured out the prototype of our product but we discovered this product can not strictly control the clarity of the product in this case we use highdefinition camera to guarantee its clarity,Better treatment,video;device
-11,real  time feedback from experienced doctor to inexperienced patient,inexperienced doctors can sent realtime video to experienced doctors to get guidance,Receiving ,doctors;treatment
-12,google it!,theres a google searching picture on the front we create a database like google that contains all the cases that medical students may want to search for information,Receiving,information;picture
-13,remote diagnosing ,a patients family member can wear a capturing device and share the footage with a connected doctor so that distance is not a barrier to good treatment ,Remote medical services ,patients;doctors
-14,connect us!,patients just need to write down their symptoms on the computer and many similar cases and treatments will come out from the computer so that you can prejudge yourself,Better Treatment and Receiving,patients;doctors
-15,coach more students at the same time,usually when doing experiment teachers canêt viewing all studentsê operation at the same time and give feedback using some mobile sensing machine doctors can remote viewing all students at the same time and tell ta which one should be guided,Practicing ,feedback;method
-16,body simulators,students can use this gamelike software to discover what will happen when some parts of the body are going wrong this can help students memorize medical knowledge ,Remembering,students;knowledge
-17,glass remembers,sometime itês hard for students to remember something we create this to help you reference easily,Remembering,students;knowledge
-18,another you,its like another visual you that shows all your physical health scanning by a sensing product that helps you find out the potential problems in your body,Better Treatment,feedback;method
-19,frontier knowledge,once students get the information about the latest news and technologies upload the information to the communicated system to share the frontier knowledge to others,Learn better,students;knowledge
-20,live video streaming ,through a similar capturing device content creators can broadcast their experience online so that users can tune in and experience what the users are experiencing ,Better educational content ,video;device
-21,real  time feedback from doctor to patient,as i mentioned above not only should we establish a information shared system between hospitals but also inform information to patients in this case we can use a mobile sensing machine to send realtime feedback about his physical condition,Receiving ,patients;doctors
-22,glass remembers 2,when wearing this glasses itês like a camera that can capture everything that your eyes see and store it,Remembering,glasses;eyes
-23,penetrate eyesight,doctors can use special helmets with xray on it to see inner condition of patients immediately,Better Treatment,patients;doctors
-24,first aid _thermal imagery_,doctors can install a special lens on phones that enhance their phones to measure body temperature immediately this enables doctor to correctly treat patients when lack of equipments,Better Treatment,patients;doctors
-25,self check first aid,when patients are not feeling well they can use a software to diagnose themselves this can provide firstaid and save money for patients,Better Treatment,patients;doctors
-26,alert & notification,we need to add some voice to our product this can be achieved by using biomimicry method for example imitate the voice of birds and other animals,Better treatment,feedback;method
-27,scanner,when you are having some pain but donêt know whatês going on it can scan you and give you feedback of your body,Better treatment,feedback;method
-28,community based content creation,through a very easy to use capturing device users can make available online what they see and experience this would be especially helpful for educational purposes where students can learn from different practitioners,Better educational content ,students;doctors
-29,instruction projector,directly project treatment instructions on injuries this can help doctors follow instructions and ensure operation quality,Better Treatment,doctors;treatment
-30,robot assistants,doctors can ask robots to do simple jobs for them during the operation robots can do their jobs more accurately than human assistants,Better Treatment,doctors;treatment
-31,pre operation simulation,doctors enter statics into computer then practice the operation,Better Treatment,doctors;treatment
-32,sound processing,watch the online video and use a sound processing machine to imitation the professorês voice let students have a feeling that their teachers are by their side and coach them,Better treatment,students;doctors
-33,3d flyby,rebuild models after scanning the patientsê bodies this can help students to see how it works,Receiving,students;knowledge
-34,virtual classroom,students can learn at home watching their professors demonstrate operations,Receiving,students;knowledge
-35,real body,medical students may find it hard to try some real exercise on their own and they might not know whatês the name or proper names of every parts this body can reflect every parts when you touch it and it will speak out to show you the meaning or descriptions of it,Receiving,students;knowledge
-36,invisible exercise,its like doing an experiment or exercise via visual screen provided by the sensing,Practicing,video;device
-37,fly eyes,professor wear a kind of glasses that has several aspects like the eye of a fly that he can see many screen showing on the same time which helps reducing time waste,Practicing---Perceiving,glasses;eyes
-38,ar enhancing instruction,students can use an advanced reality glass to get instructions without touching anything voice control and get directly get information,Practice/Remembering/Better Treatment,students;knowledge
-39,take medicine on time,i discovered a example that a fruit with a spiked burdock can tightly stick to the dog we can also use this method to hang the medicine on the wall on the head of the bed and remind patients to take medicine on time,Remembering,feedback;method
-40,learning from seeing,heres a computerlike product that whatever you see or learn will have a picture shown to you so that you can understand and remember it quickly and clearly,Remembering and Receiving,information;picture
-41,seeing through 2,doctors can record their treatment as a case study for students by sending the things on the icloud,Receiving,doctors;treatment
-42,relive the moment,through a headmounted video capturing device users can revisit a moment that will be very beneficial when it comes to reviewing learning materials ,Better educational tools,video;device
-43,communicate,using mobile sensing product medical students can watching teaching videos and discuss with partner about the problems in long distance,Practicing ,students;knowledge
-44,reality rebuild,students can experience the operation by vr glasses and tactual gloves they can see and touch as if they were doing the operation,Practicing ,glasses;eyes
-45,monitor,professor can see whatês going on through a glasses on your eyes on his own computerno need to gather together,Practicing---Hands-on,glasses;eyes
-46,gather knowledge,use a machine that can quickly search the information that had been learned,Remembering,information;picture
-47,ai doctors,use artificial intelligence to search database for case studies then analyses them for the best solutions,Better Treatment,students;doctors
-48,3d printing models,doctors can use 3d printing models to better explain their ideas ,Better Treatment,students;doctors
-49,learning far,too many people around one table that you canêt see the professor or whatês going on clearlythis can help you learn alone whenever and wherever,Receiving---Case Study,information;picture
-50,real time feedback,by using this kind of book or some ipads while youêre studying or marking on your book teachers can point out whatês going wrong,Receiving,feedback;method
+1,friendly interaction with pedestrains ,when the av stops at a cross or stop sign it should brake previously so the pedestrain would not be threatened,Safety,vehicle;passengers
+2,pedestrain indicator,cars can recieve the cell phone signals from pedestrains who are about to cross the road and slow down accordingly,Safety,vehicle;passengers
+3,gps; lidar and camera fusion,safety is one of the biggest concerns from potential users gps lidar and camera fusion enable the av to jave more accirate localization and positiong which enhances users safety,Safety,vehicle;passengers
+4,night vision,the windshield is able to increase the outside brightness via image processing ,Safety,vehicle;passengers
+5,work mode,av will reduce light from outside and turn on inside light the hmi would change from voice to screen message the users can focys on work,Comfort and Convenience,user;users
+6,mobile dining ,users can order this service and the restaurant will send this av loaded with food the users ordered can drive to users preferable location,Comfort and Convenience,user;users
+7,top entertainment system ,the av should have top entertainment system and give user the best travel experience all the windows can be screen,Comfort and Convenience,user;users
+8,flexible seats,since the user do not need to drive the seats should be able to turn and slide flexibly,Comfort and Convenience,user;users
+9,moving gym,av provides gym facilities inside for users,Comfort and Convenience,user;users
+10,dj instrument in av,club decoration inside users can sing and dance in it,Comfort and Convenience,user;users
+11,hidden baby holder,the seat can be made to have extensions to hold a baby the extensions will come out only with a toggle of a switch,Comfort and Convenience,user;users
+12,plane pilot simulation,with ar and plane instrument users can experience plane pilot simulation,Comfort and Convenience,user;users
+13,3d projected hologram,a personal assistent will be projected with 3d hologram user will be able to interact with a human look ai,User Interface,user;users
+14,alcohol reading for manual driving,the car will read the alcohol level of the driver if the driver wants to switch to manual mode,Safety,car;user
+15,pedestrians identification,the car can identify pedestrians using sensors and lidar,Safety,car;user
+16,identification system for cars and pedestrians,the car can detect and identify carrs motor bike and pedestrains,Safety,car;user
+17,floating on water,the car can float on warter instead of sink in to the water,Safety,car;user
+18,traffic rules monitor,the car can detect and identify traffic signs and signals to avoid violate traffic rules,Safety,car;user
+19,passenger monitor ,if a certain passenger has a heart attack or something like this the car can report and call 911,Safety,car;user
+20,user owner face recognition,the car can identify the user by using face recognition based on stored pictures not limited to 1 person,Safety,car;user
+21,slippery warning,the car can calculates how bad and frequent the car has minislip in the rain or snow then the car wanrs the driver to slow down or stop for a while,Safety,car;user
+22,charging facilities connection,the car knows the location for every charging facilities it will warn the user if the destination does not have any charging facilities nearby that reachable with the remaining fuel,Safety,car;user
+23,self diagnosed,the car diagnosed itself on daily basis if something wrong is detected the car warns the user through the phone to check some specific parts of the car,Safety,car;user
+24,speed limit enforcer,the car collects data of speed limit in every possible road and adjust the autodriving to follow the speed limit,Safety,car;user
+25,intelligence report,the car can report emergency automatically,Safety,car;user
+26,anti theft system,the car will autonomatically send the location to the police department if it got broken into,Safety,car;user
+27,outside airbag,there are airbags on the outside of the car to protect the car from collision,Safety,car;user
+28,road condition identification ,when meeting bad road conditions the car can avoid it automatically,Safety,car;user
+29,porpuse light signal,the car should use signal light on the car to indicate its purpose,Safety,car;user
+30,outside airbag,the car has airbag outside of it when the car crush pedestrians teh airbag can protect pedestrians,Safety,car;user
+31,affordable car,an autonomous vehicle should be affordable for ordinary people,Affordability ,car;user
+32,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,User Interface,
+33,manual driving option ,the car can change to manual riving mode according to the drivers command,User Interface,car;user
+34,surrounding screen dome,the car turns the inside surrounding into screen which becomes similar to vr,User Interface,car;user
+35,location shared app,the car has an app that can share its location most like uber but more personal for example sharing it to family members you want to pick up somewhere,User Interface,car;user
+36,tutorial system,the car provides interactive tutorial system on every possible features,User Interface,car;user
+37,favorite place markings,the car can record the marked favorite places like work retaurants uncles house etc,User Interface,car;user
+38,voice prompt system ,when meeting pedestrians it can report the trend of the car by voice prompt,User Interface,car;user
+39,the talking car,a signboard  a speaker system to communicate to pedestrians and other cars,User Interface,car;user
+40,lego car,this car is easy for users to assemble also it is easy to upgrade parts by having standarized parts,User Interface,car;user
+41,travel history,the car records the whole trip including the traffic condition it will compare it to the estimated duration and choose alternate route if the route is more efficient,User Interface,vehicle;passengers
+42,manual override function ,in case of autodriving malfunction the user is able to manually override the function and engage indriving,User Interface,vehicle;passengers
+43,ar & autonomous vehicles,the augmented reality can show the chosen path of an autonomous vehicle helping the other interact with it,User Interface,vehicle;passengers
+44,voice human machine interaction,autonomous vehicle driver can use voice to iteract with av and send command to av,User Interface,vehicle;passengers
+45,smart navigation system,a smart navigation system for autonomous cars to keep users engaged  informed,User Interface,vehicle;passengers
+46,ar windshield,the windshield with ar function enables the passengers to explore a world beyound reality,User Interface,vehicle;passengers
+47,vr,the passengers will wear wear vr sets to experience an immersive riding thrill,User Interface,vehicle;passengers
+48,eeg controlled ui,users are able to communicate with their cars with brainwave extremely helpful for disabled passengers,User Interface,vehicle;passengers
+49,multiple satellite positioning ,the car can combine the location signals from several satelite oistioning systems lile gps and beidou,Localization and Positioning ,car;user
+50,sticker localization,the can recognizes specific stickers put on the streets the sticker acts like a qr code which gives the global location the car then calculate its position relative to the sticker,Localization and Positioning ,car;user
+51,auto mapping ,the car identify and record some places and combine it to the map then it can localize itself later,Localization and Positioning ,car;user
+52,rc   autonomous,the user should have the ability to call the vehicle from miles away using his phone,Remote Control,vehicle;passengers
+53,auto car wash,the car can be set up to go to car wash by itself,Remote Control,car;user
+54,refuel or charge by iteslf,the car can go and refuel or recharge itself during unoccupied timeor by order,Remote Control,car;user
+55,auto pick up and park,the car can pick up passengers by their order and can park itself,Remote Control,car;user
+56,portable car,the car parts can be detached and can be put into a suit case to be carried around,Efficiency,car;user
+57,detachable car,the body parts of the car can be made easily detachable so that the user can plug and play with certain components,Efficiency,car;user
+58,solar car,the car can use solar panels to power certain components to make the car more energy efficient,Efficiency,car;user
+59,remote control,user can use cell phone to control av remotely including selfparking and call the av from parking lot,Remote Control,user;users
+60,user locator app,the user can pin point the pick up location and his av will revieve the request and drive to the pick up point,Remote Control,user;users
+61,3d printing av,manufacture the autonomous vehicle by 3d printing technology,Efficiency,vehicle;passengers
+62,solar panel on the top,the solar panel on the top can collect solar energy and store it in the battery,Efficiency,vehicle;passengers
+63,a full view for passenger,the car has a transparent car cabin,Comfort and Convenience,car;user
+64,stargazing roof mode,the roof of the car will open wider for user to stargaze the night it can also use a transparent glass mode instead of fully open,Comfort and Convenience,car;user
+65,umberlla dispatch,the car can dispatch umberlla from its side when it is raining if the user wants to get out of the car,Comfort and Convenience,car;user
+66,cold beverage storage,the car can have a mini storage for cold drinks,Comfort and Convenience,car;user
+67,preset "theme",the car has different settings saved for each user and the user can activate it by phone for example nancy likes the temperature in the car to be 75 while matt likes it at 72,Comfort and Convenience,car;user
+68,3d projected car body,the car can change its exterior look depending on users preference,Comfort and Convenience,car;user
+69,auto following,for a motorcade the car can follow the car in front of it automatically,Comfort and Convenience,car;user
+70,self cleaning,the car can wash and clean itself,Comfort and Convenience,car;user
+71,self diagnose,the car can find and locate some small problems of  itself,Comfort and Convenience,car;user
+72,flying cars,the car can fly to avoid traffic jam,Comfort and Convenience,car;user
+73,disability accessable,the car has a slope so the disnables in wheelchair can board the car with the slope,Comfort and Convenience,car;user
+74,car seat earphones,each car seats head rest can have an extension that fits into the users ears and plays their select music,Comfort and Convenience,car;user
+75,car seats with storage area,car seats can be designed to have hidden storage areas under them to protect against theft,Comfort and Convenience,car;user
+76,auto vaccum,the car can have vaccum cleaners attached above the carpets and under the seats to have autocleaning function,Comfort and Convenience,car;user
+77,massage armchair,users can have a massage in the car,Comfort and Convenience,car;user
+78,auto rerouting ,cars can recive the traffic report from other cars automatically if a congestion is about to happen the system will automatically reroute the approaching cars,Avoid Traffic Congestion ,vehicle;passengers
+79,traffic light data sharing,the car interacts with traffic lights around the city the traffic lights have sensors to detect heavy traffic or road construction then the car recalculate the optimal route,Avoid Traffic Congestion ,vehicle;passengers
+80,avoiding traffic jam,the av must be able to recognize the traffic jam in the route and change route plan autonomously to avoid traffic jam,Avoid Traffic Congestion ,vehicle;passengers
+81,connected grid,all autonomous cars are connected so the traffic flow is optimized by themselves instead of traffic lights,Avoid Traffic Congestion ,vehicle;passengers
+82,autonomous vehicle lane,having a separate lane for autonomous vehicles like the carpool lane,Avoid Traffic Congestion ,vehicle;passengers
+83,connected autonomous vehicles,this is away to physically have two vehicles at random connect together based on a common path theyre taking to improve energy efficiency,Avoid Traffic Congestion ,vehicle;passengers
+84,sleep mode,avs window would block all the outside light vehicle would wake user up when the vehicle arrive destination,Comfort and Convenience,vehicle;passengers
+85,mobile sleeping capsule,passengers can lay down and take a nap while their av to their destination,Comfort and Convenience,vehicle;passengers
+86,chageable window views ,instead of lookubg through the window passengers is able to change their views to other possible location,Comfort and Convenience,vehicle;passengers
+87,mobile theater,passengers are able to enjoy their video on this massive screen while the av driving them to their desination ,Comfort and Convenience,vehicle;passengers
+88,sleeping pod,the sleeping pod will help the user to relax since driving and effort is not required,Comfort and Convenience,vehicle;passengers
+89,360 degrees chairs,given that the vehicle is autonomous the seats need not face front rotating seats allow for meetings discussions etc,Comfort and Convenience,vehicle;passengers
+90,wind shield projector,the windshield has the option of being used as a screen to see movies or presentations,Comfort and Convenience,vehicle;passengers
+91,adjustable seat layout,passengers can change the seat layout without the consideration of driving,Comfort and Convenience,vehicle;passengers
+92,rotatable seats,passengers can rotate their seats to enjoy the front side or back views and to use the center table for work,Comfort and Convenience,vehicle;passengers
+93,human power mode,user can generate power by pedaling when the vehicle runs out of energy this can be a back up generator ,Comfort and Convenience,vehicle;passengers
+94,sphere wheels ,the car is able to turn without actually turning the wheels the steering angle is 360 degrees,Comfort and Convenience,vehicle;passengers
+95,modularity cars,the owner can replace modules of the cars to fix them or get new features,Comfort and Convenience,vehicle;passengers
+96,rising footrest,the floor holding the gas and brake pedals can rise up to be a footrest during autonomous functions,Comfort and Convenience,vehicle;passengers
+97,brain vehicle link,user can command the vehicle with brain wave and helmet,Comfort and Convenience,vehicle;passengers
+98,hidden steering wheel,the steering wheel will come out from from the dashboard only when the autonomous function is disabled,Comfort and Convenience,vehicle;passengers
+99,transformers,the vehicle can transforms into robotics and get across obstacles,Comfort and Convenience,vehicle;passengers
+100,narrow car,reducing the width of the car to have just one column of seats,Avoid Traffic Congestion ,car;user

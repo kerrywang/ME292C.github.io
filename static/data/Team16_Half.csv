@@ -1,0 +1,59 @@
+index,Concept Name,Concpet Description,Human Label,Machine Label
+1,tv mode,lets user catch up on their favorite tv show while working out and picks a workout with the right length,check out my ride,workout;bike
+2,butler in a bike ,allow the user to answer the door or phone during the workout on the bike without interuptting the workout ,check out my ride,workout;bike
+3,weigh for me,the machine finds out directly how heavy is ther user so he or she doesnt have to do it while keying in the personal information,check out my ride,workout;bike
+4,make me fast,change the handles of the bike to race bike handles to make the user feel powerful ,check out my ride,workout;bike
+5,tilted,tilt the whole machine for different experiences ,check out my ride,workout;bike
+6,the whole experience ,allows the bike to lean foward and back and tilt left and right,check out my ride,workout;bike
+7,drop the beat,surround sound speaker to imitate biking noise in the real world,check out my ride,workout;bike
+8,moving hands,lets user keep their arms moving for maximum cardio output during a workout,check out my ride,workout;bike
+9,class anytime,can play cycling class videos on demand to mimic actually participating in a class,check out my ride,workout;bike
+10,entertainment list,the machine provide a list of entertainment like music movie tv show and game it can also allow users to install app like netflix hulu to get access to their own subscription ,check out my ride,users;user
+11,alert system,works with a users smartphone and home system to notify about important happenings,check out my ride,users;user
+12,connect me ,using the users phone to identify user through wireless or bluetooth,check out my ride,users;user
+13,smartphone connection ,unique users are identified by connecting with the users smartphone,check out my ride,users;user
+14,handlebar sensor,detect users realtime physical condition accurately using a handle sensor,check out my ride,users;user
+15,modular machine,allow customers to install the feature they want and it will be easy to repair the machines by simply replace the broken part hot swappingly ,check out my ride,users;user
+16,fingerprint reader,unique users are identified by their unique fingerprint,check out my ride,users;user
+17,auto seat adjustment ,whenever the users start to use the machine the physical and digital setting will be adjusted automatically,check out my ride,users;user
+18,all users matter,have easy to adjust handles seats and display screen so users of different sizes can enjoy the machine to the full potential,check out my ride,users;user
+19,heart rate arm band,paired with machine reads users heart rate more accurately,check out my ride,users;user
+20,strength measurement,measures and records the maximum strength of the users various muscle groups for example grip strength,check out my ride,users;user
+21,internet connectivity,would use either wfi or the users phone connection to allow them the same connectivity as a smartphone to browse the web read the news email etc,check out my ride,users;user
+22,game mode,allows the user to play an interactive game which requires them to exercise,arcade mode,users;user
+23,personal reminder,a user might forget what he was going to do after the workout because hes tired user can set a reminder before the workout and the machine will remind the user after the workout,hey siri ,workout;bike
+24,encourgement eve,an encourgement from the inbuilt personal trainer eve once a user reaches a mini milestone or completes a workout ,hey siri ,workout;bike
+25,p.o.d bike,bike machine combined with panoramic optical display to give users a immersive experience in exercising while playing,arcade mode,workout;bike
+26,competition mode,shows user the past workout stats for a friend and encourages them to try to beat their friend,arcade mode,workout;bike
+27,arcade bike,users can ride the bike like playing a arcade machine and compete with each other,arcade mode,workout;bike
+28,challenging mode,the bike machine works like bikes in real life and in this mode the machine will simulate a real life cycling experience including cornering and straight line racing and let the users set their own records and challenge others ,arcade mode,workout;bike
+29,biking tour with friends,using vr or ar technique to simulate a biking tour and put friends in the same virtual world allowing them to ride together and chat ,arcade mode,workout;bike
+30,voice control ,the machine can connect to amazon echo siri or any similar product and allow the users to use their voice to control the machine,hey siri ,users;user
+31,progress monitor,shows the user how their performance has changed over time based on their workout history,how fit am I ,workout;bike
+32,shared bike machine,bike machine rooms located at convenient places allow users to use it and pay per use all machine will be connected and upload users data to the cloud server so that users are able to be access to their own data easily ,business spinoff,users;user
+33,smart exercise service ,a series of exercise machines including both cardio and weight training machines are connected together the system will create the workout plan based on users goal it allows users to use different machines to optimize the workout and collects data from all machines and finally it will provide a conprehensive analysis to the users ,business spinoff,users;user
+34,bike park,have the exercise machine go around the gym on a set race track depending on speed of the user race with other users,business spinoff,users;user
+35,workout statistics,shows the user their status midworkout,how fit am I ,workout;eg
+36,workout feedback,,how fit am I ,workout;eg
+37,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am I ,workout;eg
+38,bring your bike to workout day ,instead of a exercise machine attach a real bike to the exercise machine and bike on a real bike a bike treadmill ,business spinoff,workout;bike
+39,ride for rewards,users get simple rewards for sticking to the optimal workout plan ,business spinoff,workout;bike
+40,workout consultant,communicate and share the data with a personal trainer through the system to get more advices on their workout,business spinoff,workout;bike
+41,video chat,users that are using different machines in the gym can have video chat when exercising ,but wait there's more ,users;user
+42,wheelie,allow the user to perform a wheelie ,but wait there's more ,users;user
+43,move with the beat,include music of the similiar speed in the optimal workout change music from users folder in different stages of the workout,personal trainer,workout;bike
+44,workout selection,allows user to choose a personalized workout based off of goals,personal trainer,workout;bike
+45,smartphone dock,almost everyone has a smart phone nowadays it would be nice if there is a dock that can transfer user musicvideos and charge it at the same time during workout ,but wait there's more ,workout;bike
+46,water is life,have a water dispence built into the machine so the user doesnt need to go far away for water,but wait there's more ,workout;bike
+47,workout more ,have small workout for different parts of the machine for example the bike brakes on the handle could be used as a grip trainer or the bike can be coupled with another trainning machine ,but wait there's more ,workout;bike
+48,snack bar,have an energy bar dispenser ,but wait there's more ,workout;bike
+49,towel hanger,have a desinated place to hold towels ,but wait there's more ,workout;bike
+50,sounds,mimics real life noise rather than music,but wait there's more ,workout;bike
+51,real feel,the whole bike moves to mimic cycling over uneven surfaces in real life,but wait there's more ,workout;bike
+52,cupholder,lets user put their water bottle within reach,but wait there's more ,workout;bike
+53,bike generator,attach a generator to the bike machine and generate electircity when the user is cycling and the user can get paid for it ,but wait there's more ,workout;bike
+54,mountain biking,the bike machine simulate real condition when mountain biking,but wait there's more ,workout;bike
+55,personalized plan,provide users their personalized plan everytime when they start to exercise ,personal trainer,users;user
+56,music selector ,based on the users pace music is automatically selected and played to match that speed,personal trainer,users;user
+57,goal selection ,different users have different goals in mind through a set of selections users can pick the one that matches his or her goal ,personal trainer,users;user
+58,punishment system ,users can manually turn on the punishment and force themselve to keep cycling when they are tired and want to quit,personal trainer,users;user

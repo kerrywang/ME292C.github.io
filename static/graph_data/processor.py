@@ -164,8 +164,11 @@ if __name__ == '__main__':
 	# ME110_2_2
 	# od = OriginData("ME110_HM_Team1.csv")
 
-	# DesInv
-	od = OriginData("Team{}_Double.csv".format(1))
+	#
+	for i in range(15, 16):
+		od = OriginData("Team{}_Double.csv".format(i))
+		od = OriginData("Team{}_Equal.csv".format(i))
+		od = OriginData("Team{}_Half.csv".format(i))
 
 
 

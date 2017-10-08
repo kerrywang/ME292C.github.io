@@ -1,0 +1,14 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Consumer,0,robot;robots
+1,Medical,1,robot;arm
+2,Education,2,
+3,Agriculture,3,arm;screw
+4,Medical/Industry,4,arm
+5,Consumer/education,,
+6,Industry,,
+7,Organization,,
+8,Industry/Engineer,,
+9,Consumer/Education/Medical,,
+10,Consumer; Organization,,
+11,Consumer/medical,,
+12,Industry/Consumer,,

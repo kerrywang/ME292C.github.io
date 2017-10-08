@@ -1,0 +1,20 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Use Cases,0,
+1,New Vehicle Shapes/Forms,1,cars;vehicles
+2,Infrastructure planning,2,car;cars
+3,Basic concept,3,cav;benefits
+4,Transition to Automated Vehicles,4,car;seats
+5,Kids,5,experiences;reality
+6,Commute / peak management,6,accidents;hours
+7,Interior Desgn,7,buses;roads
+8,Optimizing efficiency,8,cav;vans
+9,Interior Design,9,ride;riders
+10,Safety & Health,10,battery;pickup
+11,Pricing & Cost,11,vehicle;ride
+12,Transition to AV,12,car;ride
+,,13,car;sleep
+,,14,seats;seat
+,,15,cav;car
+,,16,riders;tourists
+,,17,cav;lanes
+,,18,car;time

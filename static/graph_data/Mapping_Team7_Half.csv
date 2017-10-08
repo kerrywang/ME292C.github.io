@@ -1,0 +1,14 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,Consumer,0,robot;robots
+1,Consumer/education,1,template;platform
+2,Industry,2,plant;cooking
+3,Industry/Engineer,3,arm;screw
+4,Medical,4,arm
+5,Medical/Industry,5,job;actions
+6,Organization,,
+7,Consumer/medical,,
+8,Consumer; Organization,,
+9,Education,,
+10,Consumer/Education/Medical,,
+11,Industry/Consumer,,
+12,Agriculture,,
