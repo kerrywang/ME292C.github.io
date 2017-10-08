@@ -1,20 +1,20 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,use cases,0,
-1,new vehicle shapes/forms,1,cars;vehicles
-2,infrastructure planning,2,car;cars
+0,new vehicle shapes/forms,0,cars;vehicles
+1,use cases,1,car;ride
+2,interior design,2,car;cars
 3,basic concept,3,cav;benefits
-4,transition to automated vehicles,4,car;seats
-5,kids,5,experiences;reality
-6,commute / peak management,6,accidents;hours
-7,interior desgn,7,buses;roads
-8,optimizing efficiency,8,cav;vans
-9,interior design,9,ride;riders
-10,safety & health,10,battery;pickup
-11,pricing & cost,11,vehicle;ride
-12,transition to av,12,car;ride
-,,13,car;sleep
-,,14,seats;seat
-,,15,cav;car
-,,16,riders;tourists
-,,17,cav;lanes
-,,18,car;time
+4,infrastructure planning,4,car;time
+5,commute / peak management,5,riders;tourists
+6,safety & health,6,battery;pickup
+7,transition to av,7,
+8,transition to automated vehicles,8,accidents;hours
+9,optimizing efficiency,9,cav;lanes
+10,pricing & cost,10,vehicle;ride
+11,kids,11,cav;vans
+,,12,experiences;reality
+,,13,grocery;haircut
+,,14,car;seats
+,,15,seats;seat
+,,16,ride;riders
+,,17,cav;car
+,,18,buses;roads

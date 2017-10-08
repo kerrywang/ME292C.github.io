@@ -1,0 +1,9 @@
+Human_Index,Human_Label,Machine_Index,Machine_Label
+0,health,0,sensors;sensor
+1,consuming content,1,
+2,monitoring,2,sensor;patch
+3,ar overlays,3,ar;eg
+4,communication,4,communication;ar
+5,assistant,5,display;helmet
+6,stretchable application,6,ar;user
+7,ar applications,,
