@@ -1,7 +1,6 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,application,0,printing;printer
-1,print out a rough shape first and mill off parts by switching tools,1,function
-2,material,2,print;products
-3,function,,
-4,new form,,
-5,policy,,
+1,material,1,print;products
+2,function,,
+3,new form,,
+4,policy,,

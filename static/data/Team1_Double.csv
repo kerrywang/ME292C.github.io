@@ -62,7 +62,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 61,food maker,easy to digest food such as ground meat to make the shape,application,food;print
 62,3d print shoes,based on persons foot really create a comfortable and customized shoe,application,food;print
 63,3d print food,create complete meals that are 3d printed,application,food;print
-64,|print first, sculpture next|,print out a rough shape first and mill off parts by switching tools,function,printer;parts
+64,"|print first, sculpture next",print out a rough shape first and mill off parts by switching tools,function,printer;parts
 65,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printer;parts
 66,multi nozzles machine,there are multinozzles in one machine to print different parts with different materials at the same time,function,printer;parts
 67,structurally strong material,pla that is mixed with carbon nano particles to give it mechanical properties such as more durability,material,material;pla

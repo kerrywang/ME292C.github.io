@@ -2,11 +2,10 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,application,0,printing;materials
 1,function,1,printer;controllers
 2,material,2,material;pla
-3,print out a rough shape first and mill off parts by switching tools,3,function
-4,new form,4,printer;scanner
-5,policy,5,printer;parts
-,,6,3d organ bioprinting
-,,7,food;print
-,,8,3d printed cakes
-,,9,fashion;media
-,,10,milk container
+3,new form,3,printer;scanner
+4,policy,4,printer;parts
+,,5,3d organ bioprinting
+,,6,food;print
+,,7,3d printed cakes
+,,8,fashion;media
+,,9,milk container
