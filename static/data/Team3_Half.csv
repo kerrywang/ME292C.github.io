@@ -10,16 +10,16 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 9,mugs,mugs can made of composite materail for increased strength,home appliances,material;strength
 10,bed frames,bed frames made of composite material for lightweight,home appliances,material;strength
 11,composite glasses,glasses ade using composite material for the frames to increase durabilty,personal accessory ,performance;material
-12,back brace,a composite back brace,personal accessory ,
+12,back brace,a composite back brace,personal accessory ,back brace
 13,solar powered umbrellas,for sun shade umbrellas utilize the top for solar power to create a source for energy,renewable energy/consumer product,glasses;shade
 14,jet engine blades and body,important component and subjected to extreme conditions better efficiency and performance with improved longevity,aerospace & aeronautical,performance;material
 15,wind turbine blades,wind turbine blades made of composite material used for power generation increases strength to weight ratio increases efficiency increases longevity,renewable energy,material;strength
 16,pen body,composite material can be used in manufacturing bodies for pens light weight improved life,stationery,material;strength
-17,smart windows,a window that shows what the weather for the day will be and other features,consumer product,window
+17,smart windows,a window that shows what the weather for the day will be and other features,consumer product,smart windows
 18,exercise bike,bike parts made of compostie improved life load bearing capacity,appliances,material;strength
 19,laptop body,the casing for laptop made of composite material to decrease weight,appliances,material;strength
 20,steering wheels,wheels made out of composite material improved strength to weight ratio,automotive,material;strength
-21,window frames,window frames madee out of composites so that rotting and termites dont effect them,home appliances,window
+21,window frames,window frames madee out of composites so that rotting and termites dont effect them,home appliances,smart windows
 22,skateboards,a skateboard made of improved composite material used for small distance commuting,recreational,material;strength
 23,surfboards,surfboard made of composite material used for recreational sport surfing,recreational,material;strength
 24,helmets,helmets made of composite material provides safety and lesser weight used by riders bike motorcycle etc,recreational,material;strength

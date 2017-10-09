@@ -1,21 +1,41 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,productivity and functionality,0,
-1,service,1,car;service
+0,service,0,car;service
+1,productivity and functionality,1,mode;car
 2,internal experience,2,headset;vr
 3,pedestrian communication,3,car;signal
-4,visibility and safety,4,car;passenger
-5,awareness of av tech,5,dashboard;vehicle
-6,aesthetics,6,car;taxi
-7,smart mobility,7,car;hotel
-8,handing-over of control,8,passengers;car
-9,safety; functionality,9,mode;car
-10,redesigning infrastructure,10,car;workout
-11,mobility & driver condition,,
-12,mobility and route,,
-13,visiblity,,
-14,sharing control,,
-15,internal comfortability,,
-16,driver condition & hand-over of control,,
-17,connecting with others,,
-18,functionality and usability,,
-19,driver monitoring,,
+4,safety; functionality,4,crash fail safe
+5,aesthetics,5,ufo looking car
+6,handing-over of control,6,hmi via vibration feedback
+7,redesigning infrastructure,7,inverted intersection
+8,visibility and safety,8,car;passenger
+9,smart mobility,9,split av
+10,mobility & driver condition,10,humanized simplistic interface
+11,mobility and route,11,interactive gps interface
+12,awareness of av tech,12,dashboard;vehicle
+13,sharing control,13,4 d seats
+14,internal comfortability,14,seats for fidgeting
+15,driver condition & hand-over of control,15,driver eye tracking & condition monitoring
+16,connecting with others,16,connectivity in traffic
+17,functionality and usability,17,productive user environment
+18,visiblity,18,ar boundary box
+19,driver monitoring,19,user monitoring
+,,20,peer attach av
+,,21,soft car
+,,22,mobile work space
+,,23,i see you
+,,24,cars attached to buses
+,,25,car;workout
+,,26,programmable activity car
+,,27,hmi via acoustics
+,,28,car;taxi
+,,29,a car as a bedroom
+,,30,the speaker
+,,31,car;hotel
+,,32,passengers;car
+,,33,morphing av
+,,34,vtol car
+,,35,imax car
+,,36,360o view field
+,,37,hmi via heat
+,,38,digital zebra
+,,39,camp car

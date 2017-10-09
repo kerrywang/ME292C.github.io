@@ -46,7 +46,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 45,car seats with storage area,car seats can be designed to have hidden storage areas under them to protect against theft,comfort and convenience,car;user
 46,auto vaccum,the car can have vaccum cleaners attached above the carpets and under the seats to have autocleaning function,comfort and convenience,car;user
 47,massage armchair,users can have a massage in the car,comfort and convenience,car;user
-48,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,
+48,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,user friendly 
 49,3d printing av,manufacture the autonomous vehicle by 3d printing technology,efficiency,vehicle;vehicles
 50,pedestrians identification,the car can identify pedestrians using sensors and lidar,safety,car;cars
 51,identification system for cars and pedestrians,the car can detect and identify carrs motor bike and pedestrains,safety,car;cars

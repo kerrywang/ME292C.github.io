@@ -5,8 +5,8 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 3,impact toughness,3,obstacles;bars
 4,integrity,4,earthquake;disaster
 5,weight,5,springs;enclosure
-6,mod save america;impact toughness,6,
-7,mod save america,,
+6,mod save america;impact toughness,6,stensegth
+7,mod save america,7,elastomer dampening
 8,locomotion; impact toughness,,
 9,locomotion; planning,,
 10,secondary function/locomotion,,

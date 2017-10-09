@@ -5,21 +5,29 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 3,flexibility,3,robot;spider
 4,mod save america,4,transformer;tensile
 5,integrity,5,component;thread
-6,secondary function/locomotion,6,rods
-7,weight,7,control
-8,locomotion; planning,8,
-9,locomotion; impact toughness,9,robot;help
+6,secondary function/locomotion,6,easy assembly
+7,weight,7,rectangular enclosure
+8,locomotion; impact toughness,8,robot;help
+9,locomotion; planning,9,froggy
 10,modularity,10,shapes;materials
 11,weight/ impact toughness,11,impact;tension
 12,mod save america; locomotion,12,direction;bot
-13,helmet,13,grip;lights
-14,mod save america;impact toughness,14,fibers;motors
-15,user experience,15,robot;robo
-,,16,terrain
-,,17,robot
-,,18,robots;robot
-,,19,springs
-,,20,sphere;objects
-,,21,rods;rod
-,,22,grip;toes
-,,23,pull;roll
+13,mod save america;impact toughness,13,stensegth
+14,helmet,14,grip;lights
+15,user experience,15,fibers;motors
+,,16,robot;robo
+,,17,elastomer dampening
+,,18,legs!
+,,19,cover it!
+,,20,resistant robots
+,,21,robots;robot
+,,22,staged springs
+,,23,sphere;objects
+,,24,plunger endcaps
+,,25,bubbleit
+,,26,rods;rod
+,,27,loyalty
+,,28,tensegribars
+,,29,grip;toes
+,,30,position!
+,,31,pull;roll

@@ -1,14 +1,27 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,consumer,0,
-1,consumer/education,1,robot;robots
-2,organization,2,robot;customers
-3,education,3,robot;humanoid
+0,consumer,0,robot;robots
+1,organization,1,robot;customers
+2,education,2,robot;humanoid
+3,medical/industry,3,artificial hand
 4,industry,4,robot;picture
-5,consumer/medical,5,robot
-6,industry/consumer,6,robot;job
-7,medical,7,robot;nurses
-8,consumer/education/medical,8,robot;pet
-9,medical/industry,9,robots;robot
-10,industry/engineer,10,arm;robot
-11,consumer; organization,11,robot;meat
-12,agriculture,,
+5,consumer/medical,5,guide
+6,consumer/education,6,robotic toy
+7,industry/consumer,7,robot;job
+8,medical,8,robot;nurses
+9,industry/engineer,9,third hand
+10,consumer; organization,10,hair cut robot
+11,consumer/education/medical,11,robot;pet
+12,agriculture,12,apple bagging robot
+,,13,the barber
+,,14,robots;robot
+,,15,the cube
+,,16,arm;robot
+,,17,the connoisseur
+,,18,medicine delivery
+,,19,the acupuncturist
+,,20,agv
+,,21,grandparents health care robot
+,,22,cooking assistant
+,,23,surgery assistant
+,,24,the grommer
+,,25,robot;meat

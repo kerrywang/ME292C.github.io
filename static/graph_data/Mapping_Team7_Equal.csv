@@ -1,14 +1,14 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,consumer,0,robot;robots
 1,medical,1,robot;arm
-2,education,2,
-3,agriculture,3,arm;screw
-4,medical/industry,4,arm
-5,consumer/education,,
-6,industry,,
-7,organization,,
-8,industry/engineer,,
-9,consumer/education/medical,,
-10,consumer; organization,,
-11,consumer/medical,,
-12,industry/consumer,,
+2,education,2,the cube
+3,medical/industry,3,artificial hand
+4,agriculture,4,arm;screw
+5,industry,5,agv
+6,consumer; organization,6,hair cut robot
+7,consumer/education,7,robotic toy
+8,organization,8,the connoisseur
+9,industry/engineer,9,the grommer
+10,consumer/education/medical,10,the barber
+11,consumer/medical,11,medicine delivery
+12,industry/consumer,12,cooking assistant

@@ -17,7 +17,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 16,computer attraching gas sensor,attach the sensor to pc,smart device interactive,sensor;gas
 17,usb gas sensor,this is a sensor build with a usb connceter once it plug into a computer it can sense and tranfer data to computer,smart device interactive,sensor;gas
 18,perfume storage assistant,a ringshape gas sensor attaching at the perfume cap to avoid perfume leaking,smart device interactive,sensor;gas
-19,projection,project the result to the wall,special features,
+19,projection,project the result to the wall,special features,projection
 20,sefl moving,move automactically to detect toxic gas,special features,gas;sensor
 21,miicrophone,it can alarm residents when there toxic gas makes people in danger,special features,gas;sensor
 22,all round type gas flow channel,enable gas sensor to detect gas from all direction,special features,gas;sensor
@@ -27,7 +27,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 26,toliet cleaner,a gas sensor that can help monitor the cleanness of the toliet and then control the toilet to wash it,auto-multifunction,sensor;gas
 27,clean sink disposal ,a device that control a wash flow to keep the sink disposal clean by gas sensor detecting technology,auto-multifunction,sensor;gas
 28,smoke detection,for people who smoke detect the harmful level,independent device,air;detection
-29,iwatch embedded,embedded in iwatch uses during working out,clock&watch,
+29,iwatch embedded,embedded in iwatch uses during working out,clock&watch,iwatch embedded
 30,mini size,mini size give chance to be mounted and embedded,special features,phone;mini
 31,cell phone embedded,can be embedded in cell phone,special features,phone;mini
 32,medical use gas sensor ,patients will exhale through the funnel the sensor will detect the percentage of co2 and o2 use standard disposable funnel,independent device,gas;sensor
@@ -35,7 +35,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 34,movable voc checker,a device that can move around the house to detect voc gas and send alerts,independent device,gas;sensor
 35,pipe shape gas sensor,fashionable shape can attract many midage people it can detect the conponents when people inhale and exhale,independent device,gas;sensor
 36,clean trash can,a gas sensor attaching to the trash can to detect the putrefaction ,independent device,gas;sensor
-37,manual power generatot,when you need to use it press generator to make it work,special features,power
+37,manual power generatot,when you need to use it press generator to make it work,special features,manual power generatot
 38,wall clock sensor,mounted in wall clock,clock&watch,sensor;air
 39,mini sensor station,it is desinged for put at one place and monitor the air quality in the room,clock&watch,sensor;air
 40,friendly ui,the sensor comes with a userfriendly app,special features,sensor;air
@@ -61,9 +61,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 60,gas sensor in smart glasses,the gas sensor is attached to a pair of smart glasses the data can be projected to the glasses ,smart device interactive,sensor;gas
 61,sheet gas sensor,the sensor is a thing sheet and can be attached on whatever you want apply wireless charging,smart device interactive,sensor;gas
 62,tv gas sensor,the sensor can be designed into smart tvs and show data on tv directly,smart device interactive,sensor;gas
-63,fresh meeting room,a device that control the havc of the meeting room according to the meeting people and schedule ,auto-multifunction,
+63,fresh meeting room,a device that control the havc of the meeting room according to the meeting people and schedule ,auto-multifunction,fresh meeting room
 64,"timer" gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
-65,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,independent device,power
+65,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,independent device,manual power generatot
 66,ac assistant,a system with several das sensor around the room to detect the air quality and adjust the ac,auto-multifunction,air;detection
 67,window opener,a decive that detect hte air flow throught the window and openclose the windowopen for fresh air close for polluted air,auto-multifunction,air;detection
 68,adjustable gas sensor ,probe bar is adjustable so that it can reach out a a specific space full of some gases without coming into that space,independent device,sensor;gas
@@ -88,7 +88,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 87,window screen gas sensor,mounted on the screen window and monitor the air goes in and out,smart device interactive,sensor;air
 88,monitor brightness varies,a monitor whose brightness varies with light,special features,device;function
 89,smart air filter,an air filter that has gas sensors to help evaluatre the indoor air quality and run accordingly,auto-multifunction,sensor;air
-90,external connection,connected and powered by cell phone,smart device interactive,
+90,external connection,connected and powered by cell phone,smart device interactive,external connection
 91,animation presentation,make the results to be presented in animation form,special features,data;results
 92,image rendering,the data can be presented rhrough pitcure make it more vivid,special features,data;results
 93,gas sensor on wearable appliances,the sensor is a module in wearable applianceswatch,clock&watch,sensor;gas

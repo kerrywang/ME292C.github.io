@@ -2,8 +2,8 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,actuated dynamic brace,0,brace;force
 1,external treatment device,1,forces;force
 2,implantable/ surgical intervention,2,muscle;loads
-3,rigid brace variations,3,
-4,,4,brace
+3,rigid brace variations,3,breathable cast
+4,,4,exo skeleton back 
 5,treatment communication/ community building,,
 6,correct position guarantee,,
 7,modular brace w/ multiple components,,

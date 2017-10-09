@@ -6,5 +6,5 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 2,home,0,door;phone,5,[24; 25; 26; 27; 28]
 5,agriculture iot,1,device;light,2,[34; 35]
 1,smart city,0,door;phone,1,[33]
-0,smart home,2,,1,[29]
+0,smart home,2,gesture reader,1,[29]
 4,smart office,0,door;phone,1,[32]

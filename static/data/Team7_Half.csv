@@ -16,7 +16,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 15,agv,automatically guided vehicle that performs logistics duty in the plant,industry,plant;cooking
 16,the cube,a robotic platform that solves the cube using userdefined algorithm,education,template;platform
 17,third hand,hold the screw or something else when people are assembling wear on the arm have a little screen to have user program it,industry/engineer,arm;screw
-18,the acupuncturist,a robotic arm that can do acupuncture ,medical,arm
+18,the acupuncturist,a robotic arm that can do acupuncture ,medical,the barber
 19,robot cutter,cut cooking ingredients into specific shape and size,consumer,robot;robots
 20,crab opener,a robot can open crab with its arms while you eating to free your hands,consumer,robot;robots
 21,ladder player,a robot can play balls with you,consumer,robot;robots
@@ -50,7 +50,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 49,surgery assistant,a robot arm can help with some simple but important motions during surgery to avoid handshaking,medical,robot;robots
 50,medical injection robot,a robot that can accurately find the spot and control the dosage of injection,medical,robot;robots
 51,artificial hand,a robotic hand that can be programmed to do multiple versatile job,medical/industry,job;actions
-52,the barber,a robotic arm that can do haircuts for people,consumer,arm
+52,the barber,a robotic arm that can do haircuts for people,consumer,the barber
 53,homework robot,a robot can solve your homework peoblem with its database,consumer/education,robot;robots
 54,magic cube robot,a robot arm which can operate the magic cube cameras are located to get the status of magic cube,consumer/education,robot;robots
 55,robotic teacher,the main function of this robot is teaching children she can talk and answer the questions ,consumer/education,robot;robots

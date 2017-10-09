@@ -1,11 +1,21 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,earth science games,0,
-1,game mechanics and features,1,game;kids
-2,adventurous biology games,2,vr;kit
-3,fiction games,3,balls;ride
-4,simulation,4,environment;app
-5,physical sport game,5,world;vr
-6,prep education,6,wires;airflow
-7,daily life related,7,vr;tutorials
-8,adventure,8,planet;earth
-9,constructing game,,
+0,game mechanics and features,0,game;kids
+1,adventurous biology games,1,vr;kit
+2,earth science games,2,planet;earth
+3,fiction games,3,harry potter stick
+4,adventure,4,chemical material collecting game
+5,constructing game,5,balls;ride
+6,simulation,6,vr prototype
+7,prep education,7,environment;app
+8,physical sport game,8,world;vr
+9,daily life related,9,wires;airflow
+,,10,catch the fish
+,,11,vr;tutorials
+,,12,mountain hiking
+,,13,zoo safari vr
+,,14,space vr
+,,15,telescope view
+,,16,disaster simulation
+,,17,physic baseball game
+,,18,space station fleat
+,,19,reward system

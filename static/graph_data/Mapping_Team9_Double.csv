@@ -3,9 +3,12 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 1,special features,1,sensor;air
 2,independent device,2,gas;sensor
 3,auto-multifunction,3,air;detection
-4,clock&watch,4,
-5,smart device interative/special features,5,phone;mini
-6,independent device/watch and clock,6,power
-,,7,device;function
-,,8,data;results
-,,9,sensors;sensor
+4,clock&watch,4,iwatch embedded
+5,smart device interative/special features,5,projection
+6,independent device/watch and clock,6,phone;mini
+,,7,manual power generatot
+,,8,fresh meeting room
+,,9,device;function
+,,10,external connection
+,,11,data;results
+,,12,sensors;sensor

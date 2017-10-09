@@ -5,10 +5,10 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 3,there's an app for that,3,glove;heater
 4,material,4,hands;sensors
 5,lock n load,5,glove;sensors
-6,hot stuff,6,glove
-7,energy basic,7,
-8,intersurfaces with/into,,
-9,clean things,,
+6,hot stuff,6,thermal control
+7,energy basic,7,waste heat energy
+8,intersurfaces with/into,8,arm screen
+9,clean things,9,storage for quick food
 10,touch,,
 11,would you look at that,,
 12,can you feel it?,,

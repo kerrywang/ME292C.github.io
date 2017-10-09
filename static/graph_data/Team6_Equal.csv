@@ -6,7 +6,7 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 0,smart home,3,humidity;temperature,6,[31; 32; 33; 34; 35; 36]
 1,home,1,juice;plant,3,[13; 14; 15]
 2,smart city,0,door;user,1,[30]
-0,smart home,5,,1,[24]
+0,smart home,5,gesture reader,1,[24]
 5,smart office,0,door;user,1,[40]
 0,smart home,4,light;user,3,[27; 28; 29]
 1,home,0,door;user,2,[22; 23]

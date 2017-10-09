@@ -50,8 +50,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 49,multi function software,a software that is able to open all sorts of 3d model files and convert to slicer,function,printer;controllers
 50,editing 3d model in vr,construct 3d model in virtual reality with goggle headsets and controllers,function,printer;controllers
 51,better user interface,a more user friendly ui with touch screens and clear functions,function,printer;controllers
-52,3d organ bioprinting,can build structures with cells or hydrogels,application,structures
-53,3d structures,can build structures in any shapesize and the material would be strong enough to hold it,application,structures
+52,3d organ bioprinting,can build structures with cells or hydrogels,application,3d organ bioprinting
+53,3d structures,can build structures in any shapesize and the material would be strong enough to hold it,application,3d organ bioprinting
 54,3d printed circuits,circuits that are printed in any shape and dont need extra material,application,material;pla
 55,embedded optical elements,pla can have electronic property by combining with other materialslike graphene or metals this chip can be directly embedded in mechanical structure,application,material;pla
 56,airfoil and propeller,pla combine with other material can enhance its mechanical property so it can print airfoil and propeller,application,material;pla
@@ -62,14 +62,14 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 61,food maker,easy to digest food such as ground meat to make the shape,application,food;print
 62,3d print shoes,based on persons foot really create a comfortable and customized shoe,application,food;print
 63,3d print food,create complete meals that are 3d printed,application,food;print
-64,"print first, sculpture next",print out a rough shape first and mill off parts by switching tools,function,printer;parts
+64,|print first, sculpture next|,print out a rough shape first and mill off parts by switching tools,function,printer;parts
 65,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printer;parts
 66,multi nozzles machine,there are multinozzles in one machine to print different parts with different materials at the same time,function,printer;parts
 67,structurally strong material,pla that is mixed with carbon nano particles to give it mechanical properties such as more durability,material,material;pla
 68,magnetic material,pla that is mixed with iron particles to give it magnetic properties ,material,material;pla
 69,conductive material,pla that is mixed with copper particles to give it conductive properties,material,material;pla
 70,recyclable material,even if the material has particles we can recycle it with some method,material,material;pla
-71,3d printed cakes,used in the decoration of cake toppings,application,
+71,3d printed cakes,used in the decoration of cake toppings,application,3d printed cakes
 72,faster printer,printer speed is much faster thn current ones,function,printer;scanner
 73,draw on screen to 3d print,just draw on a computer screen and printer prints it no 3d rendering like cad needed,function,printer;scanner
 74,portable 3d printer,a portable 3d printer that can be stored in a suitcase when unused,function,printer;scanner
@@ -77,5 +77,5 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 76,3d printed commodity products,used in industry to create products uniformly and quickly,application,fashion;media
 77,fashion products,create really complicated and customized fashion products,application,fashion;media
 78,create buildings ,3d print concretepolymer to create buildingshomes,application,fashion;media
-79,milk container,pla can be shinier it is also bio degradable it is also safe to contain food,application,
+79,milk container,pla can be shinier it is also bio degradable it is also safe to contain food,application,milk container
 80,chocolate 3d printer,a 3d printer used to print chocolate used for creating your own chocolate gift,material,printer;parts

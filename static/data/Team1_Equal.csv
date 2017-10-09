@@ -36,7 +36,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 35,draw on screen to 3d print,just draw on a computer screen and printer prints it no 3d rendering like cad needed,function,printer;machine
 36,portable 3d printer,a portable 3d printer that can be stored in a suitcase when unused,function,printer;machine
 37,wireless 3d printer,receive signals wirelessly from other devices such as phones and tablets,function,printer;machine
-38,"print first, sculpture next",print out a rough shape first and mill off parts by switching tools,function,printer;machine
+38,|print first, sculpture next|,print out a rough shape first and mill off parts by switching tools,function,printer;machine
 39,multi function software,a software that is able to open all sorts of 3d model files and convert to slicer,function,printer;machine
 40,editing 3d model in vr,construct 3d model in virtual reality with goggle headsets and controllers,function,printer;machine
 41,handy 3d printer,print on any surface just by attaching the printer to the surface,function,printer;machine

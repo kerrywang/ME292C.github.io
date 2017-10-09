@@ -1,6 +1,6 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,sticker localization,the can recognizes specific stickers put on the streets the sticker acts like a qr code which gives the global location the car then calculate its position relative to the sticker,localization and positioning ,car;location
-2,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,
+2,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,user friendly 
 3,the talking car,a signboard  a speaker system to communicate to pedestrians and other cars,user interface,car;cars
 4,friendly interaction with pedestrains ,when the av stops at a cross or stop sign it should brake previously so the pedestrain would not be threatened,safety,functions;interaction
 5,narrow car,reducing the width of the car to have just one column of seats,avoid traffic congestion ,car;seats
@@ -79,7 +79,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 78,disability accessable,the car has a slope so the disnables in wheelchair can board the car with the slope,comfort and convenience,car;cars
 79,ar & autonomous vehicles,the augmented reality can show the chosen path of an autonomous vehicle helping the other interact with it,user interface,vehicle;vehicles
 80,voice human machine interaction,autonomous vehicle driver can use voice to iteract with av and send command to av,user interface,vehicle;vehicles
-81,avoiding traffic jam,the av must be able to recognize the traffic jam in the route and change route plan autonomously to avoid traffic jam,avoid traffic congestion ,
+81,avoiding traffic jam,the av must be able to recognize the traffic jam in the route and change route plan autonomously to avoid traffic jam,avoid traffic congestion ,avoiding traffic jam
 82,multiple satellite positioning ,the car can combine the location signals from several satelite oistioning systems lile gps and beidou,localization and positioning ,car;cars
 83,auto mapping ,the car identify and record some places and combine it to the map then it can localize itself later,localization and positioning ,car;cars
 84,360 degrees chairs,given that the vehicle is autonomous the seats need not face front rotating seats allow for meetings discussions etc,comfort and convenience,vehicle;energy

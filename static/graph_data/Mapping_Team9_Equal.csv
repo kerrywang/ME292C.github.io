@@ -2,7 +2,7 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,smart device interactive,0,sensor;gas
 1,special features,1,sensor;device
 2,independent device,2,gas;sensor
-3,clock&watch,3,
-4,independent device/watch and clock,4,data;mini
-5,smart device interative/special features,,
-6,auto-multifunction,,
+3,clock&watch,3,iwatch embedded
+4,independent device/watch and clock,4,external connection
+5,smart device interative/special features,5,projection
+6,auto-multifunction,6,data;mini

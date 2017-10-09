@@ -4,15 +4,22 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 2,other,2,hand;interface
 3,the claw,3,hand;fingers
 4,imonkeybar,4,wrist;fingers
-5,gone ridin',5,hand
+5,gone ridin',5,ibike
 6,control,6,bindings;linkage
 7,harness,7,sensors;heat
-8,niche,8,
+8,niche,8,hand;clamp
 9,joints,9,fingers;finger
 10,grippers,10,grip;texture
 11,mount,11,thumb;finger
-,,12,clamp;drum
-,,13,hand;clamp
+,,12,gripper
+,,13,clamp;drum
 ,,14,finger;hand
-,,15,device;input
-,,16,hook;button
+,,15,double reaper
+,,16,monkey bar hand joint
+,,17,the gripper
+,,18,watch mount
+,,19,imonkey bar c metal part
+,,20,cosmetic  attachment
+,,21,ihero
+,,22,device;input
+,,23,hook;button

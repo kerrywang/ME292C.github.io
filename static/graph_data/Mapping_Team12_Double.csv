@@ -11,9 +11,15 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 9,,9,use;waist
 10,control,10,user;muscles
 11,durability,11,leg;foot
-,,12,exoskeleton
-,,13,
+,,12,inflatable 
+,,13,emergency calling 
 ,,14,compensation;users
-,,15,mode;user
-,,16,user
-,,17,braces;bones
+,,15,rear actuators
+,,16,mode;user
+,,17,back actuators
+,,18,achievements
+,,19,alarm clock
+,,20,reminders
+,,21,braces;bones
+,,22,inflatable frame
+,,23,id verification

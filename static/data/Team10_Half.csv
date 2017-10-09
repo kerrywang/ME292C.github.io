@@ -13,7 +13,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 12,zoidburg clamp,strong  three pronged gripper actuated with other hand,,hand;clamp
 13,watch mount,a combination of prostheses and watch,harness,sensors;combination
 14,cooling harness,a mini fan implanted in harness to dissipate heat,harness,sensors;combination
-15,gripper,actuates like regular grippers,the claw,
+15,gripper,actuates like regular grippers,the claw,gripper
 16,ibike myo signal processing,using myo armbands myoelectric sensors and using the frequency range for brach radi muscle on the forarm one can use the median power frequency of the power spectrum to classify light break vs tight break,gone ridin',sensors;combination
 17,bar gripper,a monkey bar gripper that automatically closed due to springs and is safety button on side where is thumb is for releasing the grips,imonkeybar,finger;fingers
 18,single joint hand,hook hand with single joint possibly for monkey bars,imonkeybar,finger;fingers

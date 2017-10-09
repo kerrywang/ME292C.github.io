@@ -32,13 +32,13 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 31,built into fire alarm,the sensor is built into fire alarm monitor the air quality well not using for fire smokes,smart device interactive,sensor;device
 32,window screen gas sensor,mounted on the screen window and monitor the air goes in and out,smart device interactive,sensor;device
 33,workout assistant,a device that analyzes the breathe and monitor the heart lung function with other data ,smart device interactive,sensor;device
-34,iwatch embedded,embedded in iwatch uses during working out,clock&watch,
-35,external connection,connected and powered by cell phone,smart device interactive,
+34,iwatch embedded,embedded in iwatch uses during working out,clock&watch,iwatch embedded
+35,external connection,connected and powered by cell phone,smart device interactive,external connection
 36,wall clock sensor,mounted in wall clock,clock&watch,sensor;device
 37,mini sensor station,it is desinged for put at one place and monitor the air quality in the room,clock&watch,sensor;device
 38,"timer" gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
 39,on door gas sensor,the sensor can monitor the air condition on both side of the door and provide best air quality improve advise,smart device interative/special features,sensor;device
-40,projection,project the result to the wall,special features,
+40,projection,project the result to the wall,special features,projection
 41,necklace shape sensor,can be holded on neck,special features,sensor;gas
 42,solar energy powered,the sensor can be powered by solar energy,special features,sensor;gas
 43,social media share,the data from sensor can be shared to social media,special features,sensor;gas

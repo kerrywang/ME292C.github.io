@@ -5,13 +5,13 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 4,breakfast maker,it will automatically make simple breakfast when you get up sandwiches omelette steam bombs and so on,smart home,juice;sandwiches
 5,juice maker & blender,it can make customizable blender juice and suggest the fruit to buy in the morning,smart home,juice;sandwiches
 6,smart wheel,to be installed to chairs and tables and restore to original location,smart office,user;tables
-7,guiding cart,the car automatically follow the customer in a supermarkect or even on the street,smart city,car
-8,connected vehicle,car shares information and detact condition of surrounding vehicle,smart city,car
+7,guiding cart,the car automatically follow the customer in a supermarkect or even on the street,smart city,guiding cart
+8,connected vehicle,car shares information and detact condition of surrounding vehicle,smart city,guiding cart
 9,speaker,it has a shape of a trumpet can play music when you plug in the phone,home,shape;home
 10,iot scale,measure the weight of the consumable supplies and when they are runing low the device can order it online automatically ,smart home,soil;supplies
 11,plant watering,the device will sense the humidity of the soil and automatically water the plants acoording to the feedback,smart home,soil;supplies
 12,pet food water storage,the lower layer of the drawer will automatically open when pets come close and refill if the foodwater is empty,smart home,soil;supplies
-13,parking indicator,shows the driection of avaliable parking space in a large parking lot,smart city,
+13,parking indicator,shows the driection of avaliable parking space in a large parking lot,smart city,parking indicator
 14,soil nutrition monitoring system,monitor the nutrition of the soil and send the data back to customer and warn them if fetilizer is needed ,agriculture iot,soil;supplies
 15,crop watering ,the system will automatically determine the optimal watering schedule for crops accoding to soil humidity and weather conditions,agriculture iot,soil;supplies
 16,smart button,wirelessly connect to the home appliances to control them together by one button,smart home,shape;home
@@ -26,11 +26,11 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,wall bar,the mini bar is to be mounted on the wall and is fordable ,home,controller;wall
 26,smart fridge screen,a screen which can be attached to the refridgerator to record the quality of food and warn the user,smart home,user;tables
 27,pill reminder,by scanning the barcode on the package by the phone the medicien information will be automatically loaded and the phone will be able to remind the user to take the medicine accoringly,smart home,user;tables
-28,gesture reader,use the hand gesture to control light and audio system ,smart home,
+28,gesture reader,use the hand gesture to control light and audio system ,smart home,gesture reader
 29,smart traffic light,the timing of traffic light will change automatically based on the current traffic condition,smart city,light;user
 30,light control,the light will iluminte part of the room or space by detecting the motion of the user,smart city,light;user
-31,smart door,automatically open when owner stand in front of the door,smart home,door
-32,blocking door,the blocking door will allow adults pass throght and limit the child or pets going through,smart home,door
+31,smart door,automatically open when owner stand in front of the door,smart home,smart door
+32,blocking door,the blocking door will allow adults pass throght and limit the child or pets going through,smart home,smart door
 33,task reminder ,the task is written on the stickers which is  stick to the wall with light and sound on for warning,smart home,controller;wall
 34,smart rice cooker,the rice cooker stores rice and is connected to the water tube it can be controlled remotely and will automatically cook rice ,smart home,controller;wall
 35,smart clock,this clock is very effective in waking up the user the user have to get up and do some required exercise before the clock can be disabled,smart home,controller;wall

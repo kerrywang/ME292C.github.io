@@ -25,7 +25,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 24,wrist lock,air tight lock between glove and sleeve of suit,lock n load,glove;sensors
 25,projecter glove,gloves project images or information,intersurfaces,gloves;glove
 26,force sensors gloves,crew members interact with computer system using gesture and voice control the user wear a glove with sensor which allows them to control an application running on a linked computer,can you feel it?,glove;sensors
-27,thermal control,the inside of the glove is thermally controlled maybe with a thin film of water ,hot stuff,glove
+27,thermal control,the inside of the glove is thermally controlled maybe with a thin film of water ,hot stuff,thermal control
 28,grip assist,mechatronic fingers go around your fingers to aid in gripping,iron man glove,fingers;gloves
 29,feeler gloves,gloves have sensors on finger tips to enhance user feel of objects,sensor,gloves;mars
 30,lobster gloves,claw like extension for the hand that has auto rotate feature on it this way user doesnt have to touch anything claw feature is good for grip ,got it?,fingers;gloves
@@ -50,8 +50,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 49,high temperature resistance of gloves,gloves work in mars hence it may withsatnd different temperature our gloves should work well in high temperature even exposed directly to the sun,material,gloves;mars
 50,good breathability of gloves,when hands put in gloves in a long time inaccurate humidity might make hand in some diseases due of bad breathability of hand so keep hand in a good comfortability is important,material,gloves;mars
 51,radiation protecting gloves,mars contains lots of uncertain radiations our gloves can protect astranauts hand from radiation when they conduct scientic research,material,gloves;mars
-52,charger,glove is capable of charging things wirelessly,there's an app for that,glove
-53,waste heat energy,waste heat from snit assd to generate a turbine,energy basic,
+52,charger,glove is capable of charging things wirelessly,there's an app for that,thermal control
+53,waste heat energy,waste heat from snit assd to generate a turbine,energy basic,waste heat energy
 54,clean your hand gloves,clean your hand in the gloves by high frequency vibrating and beauty product,clean things,gloves;mars
 55,water line in gloves,gloves has a water spiggot in it,clean things,gloves;mars
 56,dust collector gloves,collect the dust just by gloves easily,clean things,gloves;mars
@@ -74,8 +74,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 73,anti skid gloves,gloves should be antiskid astronaut would conduct scientic research in mars which is required gloves can be a part of toolkit used for project handling slippery things well,got it?,gloves;mars
 74,ruberized tensor hands,these gloves are meant to go underneath the protective gloves the rubber and the flexible electronics are protected being in the middle layer and helps with movement,got it?,gloves;mars
 75,eva 2.0,these gloves follows the designs of current eva gloves however the bottom side mechanical components are added these metal inserts also serve as metal inserts ,got it?,gloves;mars
-76,arm screen,flexible display on arm for spave tv,intersurfaces with/into,
-77,storage for quick food,in space youll need some quick eenergy probably act as a food stroage device,casin things,
+76,arm screen,flexible display on arm for spave tv,intersurfaces with/into,arm screen
+77,storage for quick food,in space youll need some quick eenergy probably act as a food stroage device,casin things,storage for quick food
 78,wiring,this concept is to connect glove wires to the rest of the suit seemlessly,would you look at that,glove;heater
 79,screen gloves,have a screen can show cabin or external entertainments,intersurfaces,gloves;mars
 80,drilling gloves,edge based blove that helps with escavating operations when you need to dig a lot,intersurfaces,gloves;mars

@@ -1,7 +1,7 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,always be pitching,virtual whiteboard in ar where you can gesture to swap between visuals and use haptic feedback to draw,communication,sensor;sensors
 2,automatic home temperature system using body temp sensors,a body temperature sensor attached to the user will communicate with the thermostat to maintain temperature that is just right for the user,communication,sensor;sensors
-3,hand gesture recognition & control for phone laptop & AR,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,communication,sensor;sensors
+3,|hand gesture recognition & control for phone, laptop & ar|,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,communication,sensor;sensors
 4,holographic projection using ar for long distance communication,ar glasses which can project a person to make it seem like theyre right in front of the user feel like theyre physically talking to the person ,communication,sensor;sensors
 5,ez communicate: ar headset communication,ar glasses paired with phone to received also can take video calls on the go so you dont have to look down or hold your phone up ,communication,sensor;sensors
 6,on wrist battery charging for wearables,a stretchable battery which will stick to your wrist and can charge a wearable such as an apple watch or a fitbit its like an additional battery pack,stretchable application,sensor;sensors
@@ -16,12 +16,12 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 15,huh that's interesting' assistant,detects when user is relacxed  not busy to prompt w intersting  relevant articles to read,assistant,sensor;sensors
 16,earflix,the ultimate audio  sensory expereience with favorite show audio profile personalized  vibrations depending on scene,consuming content,sensor;sensors
 17,skin id: ar and stretchable sensors into a display,use a combo of ar and flexible sensors to use your arm as a display for the sensor readings heart rate blood pressure etc,consuming content,sensor;sensors
-18,conference helper,when meeting people it remembers who they are the context what was discussed and contact info,assistant,
+18,conference helper,when meeting people it remembers who they are the context what was discussed and contact info,assistant,conference helper
 19,streamdream,arm wearbale to make gaming streams more interactive read out streamer messages and use gestures as hotkeys for emotes ,consuming content,arm;display
 20,emotigram,capture emotions through social media platform autogenerate custom ar filters based on emotional state,ar overlays,sensor;sensors
 21,augmented jersey,when seen through ar it displays custom elements set by the user eg fantasy sports trophies,ar overlays,sensor;sensors
 22,pharm count: ar headset counters for pharmacies,ar used in pharmacies to prevent countring and incorrect identification errors using computer vision headset displays the pill being counted and current count ,ar overlays,sensor;sensors
-23,textanator,stretchable wearable on hand for discrete textentry onthego for ar,communication,
+23,textanator,stretchable wearable on hand for discrete textentry onthego for ar,communication,textanator
 24,car map: ar directions on windshield,use ar principles to display mapsdirections onto windshield of cars people wont have to look down for directions anymore ,ar overlays,arm;display
 25,firefighar: ar helmet for vitals on firefighters,ar helpemt with sensing to display hot spots personal vitals and o2 levels info also networked to captain outside ,ar overlays,arm;display
 26,ar weight lifting coach for proper form,ar headsetglasses which will project the proper form for weight lifting and will allow the user to follow along and replicate the form the coach will be a stick figure superimposed on the user,health,sensor;sensors

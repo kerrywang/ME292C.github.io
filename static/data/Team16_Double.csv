@@ -3,9 +3,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 2,voice control ,the machine can connect to amazon echo siri or any similar product and allow the users to use their voice to control the machine,hey siri ,users;machine
 3,smart exercise service ,a series of exercise machines including both cardio and weight training machines are connected together the system will create the workout plan based on users goal it allows users to use different machines to optimize the workout and collects data from all machines and finally it will provide a conprehensive analysis to the users ,business spinoff,users;access
 4,biking tour with friends,using vr or ar technique to simulate a biking tour and put friends in the same virtual world allowing them to ride together and chat ,arcade mode,biking;bike
-5,smartphone connection ,unique users are identified by connecting with the users smartphone,check out my ride,users
-6,fingerprint reader,unique users are identified by their unique fingerprint,check out my ride,users
-7,cupholder,lets user put their water bottle within reach,but wait there's more ,
+5,smartphone connection ,unique users are identified by connecting with the users smartphone,check out my ride,smartphone connection 
+6,fingerprint reader,unique users are identified by their unique fingerprint,check out my ride,smartphone connection 
+7,cupholder,lets user put their water bottle within reach,but wait there's more ,cupholder
 8,game mode,allows the user to play an interactive game which requires them to exercise,arcade mode,users;user
 9,tv mode,lets user catch up on their favorite tv show while working out and picks a workout with the right length,check out my ride,workout;user
 10,butler in a bike ,allow the user to answer the door or phone during the workout on the bike without interuptting the workout ,check out my ride,workout;user
@@ -28,7 +28,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 27,workout statistics,shows the user their status midworkout,how fit am i ,workout;eg
 28,workout feedback,,how fit am i ,workout;eg
 29,show me food!,at the end of the workout show the calories equivalent of the current workout in terms of food eg a pint of icecream ,how fit am i ,workout;eg
-30,sounds,mimics real life noise rather than music,but wait there's more ,
+30,sounds,mimics real life noise rather than music,but wait there's more ,sounds
 31,entertainment list,the machine provide a list of entertainment like music movie tv show and game it can also allow users to install app like netflix hulu to get access to their own subscription ,check out my ride,users;access
 32,alert system,works with a users smartphone and home system to notify about important happenings,check out my ride,users;access
 33,connect me ,using the users phone to identify user through wireless or bluetooth,check out my ride,users;access
@@ -45,7 +45,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 44,music selector ,based on the users pace music is automatically selected and played to match that speed,personal trainer,users;user
 45,goal selection ,different users have different goals in mind through a set of selections users can pick the one that matches his or her goal ,personal trainer,users;user
 46,video chat,users that are using different machines in the gym can have video chat when exercising ,but wait there's more ,users;machine
-47,tilted,tilt the whole machine for different experiences ,check out my ride,
+47,tilted,tilt the whole machine for different experiences ,check out my ride,tilted
 48,bring your bike to workout day ,instead of a exercise machine attach a real bike to the exercise machine and bike on a real bike a bike treadmill ,business spinoff,biking;bike
 49,modular machine,allow customers to install the feature they want and it will be easy to repair the machines by simply replace the broken part hot swappingly ,check out my ride,users;machine
 50,auto seat adjustment ,whenever the users start to use the machine the physical and digital setting will be adjusted automatically,check out my ride,users;machine

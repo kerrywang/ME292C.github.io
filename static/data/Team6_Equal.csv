@@ -22,7 +22,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 21,juice maker & blender,it can make customizable blender juice and suggest the fruit to buy in the morning,smart home,juice;plant
 22,wall bar,the mini bar is to be mounted on the wall and is fordable ,home,door;user
 23,speaker,it has a shape of a trumpet can play music when you plug in the phone,home,door;user
-24,gesture reader,use the hand gesture to control light and audio system ,smart home,
+24,gesture reader,use the hand gesture to control light and audio system ,smart home,gesture reader
 25,casing for controller_1,all the controller and sensor will be placed in a box which is will insulated and is water and dust resisted so that it can work in a harsh environment,casing,door;user
 26,casing for controller_2,all the controller and sensor will be placed within the wall outlet to make the smart home controller invisiable,casing,door;user
 27,controllable light,light bulb can be controlled by cellphone or ir controller,smart home,light;user

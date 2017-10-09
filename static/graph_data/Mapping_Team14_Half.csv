@@ -3,19 +3,19 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 1,pedestrian communication,1,car;cameras
 2,internal experience,2,cars;headset
 3,smart mobility,3,buses;vehicles
-4,internal comfortability,4,
+4,internal comfortability,4,seats for fidgeting
 5,handing-over of control,5,seats;driver
 6,visiblity,6,mode;dashboard
-7,awareness of av tech,,
-8,mobility and route,,
-9,functionality and usability,,
-10,mobility & driver condition,,
-11,safety; functionality,,
-12,driver condition & hand-over of control,,
-13,sharing control,,
-14,redesigning infrastructure,,
-15,service,,
-16,visibility and safety,,
-17,driver monitoring,,
-18,aesthetics,,
+7,redesigning infrastructure,7,inverted intersection
+8,awareness of av tech,8,split av
+9,safety; functionality,9,camp car
+10,driver condition & hand-over of control,,
+11,mobility and route,,
+12,sharing control,,
+13,functionality and usability,,
+14,service,,
+15,visibility and safety,,
+16,driver monitoring,,
+17,aesthetics,,
+18,mobility & driver condition,,
 19,connecting with others,,

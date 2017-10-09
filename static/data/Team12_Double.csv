@@ -1,16 +1,16 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,inflatable ,it is more comfortable if we use inflatable skeleton in some place meanwhile when we dont use the exoskeleton it can be deflated,adjustability,exoskeleton
+1,inflatable ,it is more comfortable if we use inflatable skeleton in some place meanwhile when we dont use the exoskeleton it can be deflated,adjustability,inflatable 
 2,cushioned interior,exoskeleton with a cushioned material lining the inside to maximize comfort,comfort,exoskeleton;accessory
 3,ultra cushioned back straps,maximize users comfort by adding extra cushion to the backpack straps,comfort,exoskeleton;accessory
 4,cushioned soles,extra padding on the bottoms of the exoskeleton which can replace the support of shoes,comfort,exoskeleton;accessory
 5,modular knee,knee can be removed and used in isolation or exo can be used without knee,easy to use,foot;knee
 6,motivational feature,tracks usage and performance to motivate users towards a specific goal,connectivity,users;tracks
 7,split legs,exo legs can split in the direction of the human limb to provide increased stability on extreme survaces,mobility,legs;leg
-8,emergency calling ,there are two onebutton emergency calling function in this suit becasue stroke patients easily get into some troubles,safety,
+8,emergency calling ,there are two onebutton emergency calling function in this suit becasue stroke patients easily get into some troubles,safety,emergency calling 
 9,maps,the exoskeleton can tell you the path from the one place to another just like google maps,connectivity,exoskeleton;accessory
 10,sea pulley,use sea to drive pulley system at knee,,use;waist
 11,rent   an   exo,rental service for stroke victims to use exo for rehabilitation period only inhome,affordability,compensation;users
-12,rear actuators,move the hip actuators to a less intrusive spot on the back,aesthetic,
+12,rear actuators,move the hip actuators to a less intrusive spot on the back,aesthetic,rear actuators
 13,detachable backpack,its wasy to carry something when users need to go out if there is a detachable backpack,comfort,mode;user
 14,waterproof actuators,fully enclose the actuators to acheive waterproof and increased toughness,safety,exoskeleton;accessory
 15,self balancing exoskeleton,helps user keep their balance by using gyroscopes to make adjustments when they fall offbalance,safety,exoskeleton;accessory
@@ -25,12 +25,12 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 24,programmable exoskeleton,exoskeleton can be programmed to optimize specific motions that the user wants to improve on,motivation,exoskeleton;user
 25,exoskeleton call,using app to call the exoskeleton while called the exoskeleton at home or stored place can walk to the user automatically,motivation,exoskeleton;user
 26,built in roller blades,roller blades in the foot of the exo that can be retracted to walk or extended to rollerblade,mobility,foot;knee
-27,back actuators,one actuators in the back that can control two sides frame,connectivity,
+27,back actuators,one actuators in the back that can control two sides frame,connectivity,back actuators
 28,air propulsion,with the help of highpressure nitrogen gas proplusion system the user can jump higher or softland from high places,mobility,user;muscles
-29,achievements,as the user completes activity milestones they are rewarded with free customizeable exo features etc,motivation,user
+29,achievements,as the user completes activity milestones they are rewarded with free customizeable exo features etc,motivation,achievements
 30,defense mode,the exo detects nearby hazards zombies shooters aliens etc and reacts to different types of hazards help the user survive,safety,user;muscles
 31,smart rebalancing system,algorithm to detect and predict the potential falling or similar danger and balance the user before the fall initiated,safety,user;muscles
-32,machine learning,exo keeps learning about its user and becomes smarter and more personal,easy to use,user
+32,machine learning,exo keeps learning about its user and becomes smarter and more personal,easy to use,achievements
 33,gps system,link the program to a gps system so that people can set the destination and the exoskeleton will walk the user there,connectivity,exoskeleton;user
 34,3d printed exoskeleton,use durable 3d printers like markforged to make exoskeleton frame,affordability,exoskeleton;accessory
 35,moveable foot plane,the foot plane is moveable and it can make user more comefortable in different situation ,comfort,leg;foot
@@ -38,7 +38,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 37,force sensing,use the force sensor measures the joint torque without increasing the overall jaint width,aesthetic,battery;bulky
 38,dance training mode,exo plays music and teaches you dance moves with movement and audio cues,motivation,music;dance
 39,music player,play music for relax,motivation,music;dance
-40,alarm clock,the exoleketon can remind paitents the time need to train,easy to use,
+40,alarm clock,the exoleketon can remind paitents the time need to train,easy to use,alarm clock
 41,spring hip joint damping,similar to adjustable backjoing the system allows the leg to move left and right no longer constrained it also gives damping so that exessive motion is constrained,comfort,leg;button
 42,shin guard,two soft adjustable band to constrain the shin preventing legs from leaving the exoskeleton while make the user feel comfortable,comfort,leg;button
 43,shoulder strap,the adjustable straps can fit different user hightly and wraooed the interior metal strips by using nylon and soft material these can make users more comfortable and allow them have a fairly normal gait,comfort,leg;button
@@ -66,11 +66,11 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 65,knee joint constrainer,2 brakes deisng mechanically restrict thte range of motion the knee joint can do reduced the effort of control design,safety,legs;leg
 66,workout suit,exo can lead the user in preprogrammed and adaptive workout trainings using audio cues in ordrer to strengthen their muscles,motivation,user;muscles
 67,equalizer,use gait of one leg to set gait pattern of other leg,control,use;waist
-68,reminders,suit will let the user know when it is time to do their exercises again,motivation,
+68,reminders,suit will let the user know when it is time to do their exercises again,motivation,reminders
 69,side bending weight compensation,use springs to help set spine back to entral position compensating for weight of payload,comfort,use;waist
 70,non rigid spine,use biomimetic spine parts to replace the onepiece spine part,comfort,use;waist
 71,bus stop notification,wake the user up when its hisher stop,easy to use,user;muscles
-72,body armor exo,its a exoskeleton and it is also bulletproof,safety,exoskeleton
+72,body armor exo,its a exoskeleton and it is also bulletproof,safety,inflatable 
 73,solar charging panel,bring solar panel on the exoskeleton so that it can have a longer cruise duration,durability,exoskeleton;accessory
 74,low profile exoskeleton,exoskeleton that has a lowprofile frame hiding bulky features such as motor housings,aesthetic,exoskeleton;accessory
 75,slim braces,motor housings and braces are in front of patient to reduce frontal profile,aesthetic,braces;bones
@@ -83,7 +83,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 82,fold up exoskeleton,exoskeleton that can be folded up easily to take on the go in a briefcase or something like that,easy to use,exoskeleton;accessory
 83,easy put on system,have parts that can have the exoskeleton fit on a chair so that people just need to sit on the exoskeleton and tighten the buckles,easy to use,exoskeleton;accessory
 84,accessory car charging plug,bring a power adapter so that the exoskeleton can be charged using the electronic car charging station,easy to use,exoskeleton;accessory
-85,inflatable frame,the totally frame can be inflated ,adjustability,
+85,inflatable frame,the totally frame can be inflated ,adjustability,inflatable frame
 86,customizable upgrades,pay to unlock the hidden advance functions and pay to upgrade the gears with more powerful actuators battery addons etc,motivation,battery;bulky
 87,real time supervision app,using app to provide realtime supervision to the exoskeleton similarly to the car panel which can report the battery cruise distance and any break down,motivation,battery;bulky
 88,interchangeable bones,tibia and femur braces are made of the same part,affordability,braces;bones
@@ -91,7 +91,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 90,watch dog  mode,turn on this mode when the owner is sleeping and watch out for theives,safety,mode;user
 91,spotter system,control algorithm that senses when assistance is needed during walking uses force thresholds,control,leg;button
 92,spring steel leg,use spring steel to make the leg so that for every step some energy is accumulated on the spring which will be applied during the release phase thus saving some energy,durability,leg;foot
-93,id verification,the exo know who you are by analyzing the vocal and facial features,safety,
+93,id verification,the exo know who you are by analyzing the vocal and facial features,safety,id verification
 94,modularized power pack,use modularized battery packs to acheive quick change indirectly prolonging the function time,easy to use,battery;bulky
 95,adjustable length,has adjustable bars on thighs and lower legs so it fits users of different sizes,adjustability,users;tracks
 96,ai exo,users can wear the exo but the exo can do something by itself such as cooking cleaning charging itself and so on,affordability,users;tracks

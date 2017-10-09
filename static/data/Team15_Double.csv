@@ -1,9 +1,9 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,expanding and contracting bladders,similar to bendable robot fingers,correct position guarantee,
+1,expanding and contracting bladders,similar to bendable robot fingers,correct position guarantee,expanding and contracting bladders
 2,bodysuit,the brace is designed like a bodysuitconstraints come from upper and lower part of the body and help guarantee the correct position,correct position guarantee,body;brace
 3,soft band,soft bands are designed with various length and theyre adjustable it allows patients to have the maximum mobility,modular brace w/ multiple components,patients;mobility
 4,muscle stimulation,avoid atrophy apply a load to user with their own muscle,implantable/ surgical intervention ,muscle;stimulation
-5,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,
+5,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,breathable cast
 6,turnbuckle,a turnbuckle is hooked with oneside on upper side and another on lower side it forces the concave curvature to go straight,rigid brace variations ,pads;forces
 7,foam padded rigid brace,a rigid brace is made by either thermoforming or 3d printing and in the inside there are compressibe foam pads that provide corrective forces at 35 locations,rigid brace variations ,pads;forces
 8,shoulder pad,shoulder pad has a ringoshape covering the shoulders upper part of chest and back it is used together with elastic bands for force generation,rigid brace variations ,pads;forces
@@ -26,7 +26,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,flexible straps,straps are flexible to adjust the lengh and therefore strength loose the strap every a few months to leave space for muscle growth,modular brace w/ multiple components,torso;shaft
 26,spring suit,two half bands go around upper and lower torso spring loaded mechanism with pad at output applies loads at necessary points,modular brace w/ multiple components,torso;shaft
 27,scoliosis play group,children with scoliosis are often limited in their mobility due to casting or other treatments enabling children to play with other kids like them would help them to not feel left out becaues of their condition,treatment communication/ community building,patients;mobility
-28,lifevest,a vest that is decomposed into many small inflatable sections the regions that are inflated provide the necessary forces,actuated dynamic brace,
+28,lifevest,a vest that is decomposed into many small inflatable sections the regions that are inflated provide the necessary forces,actuated dynamic brace,lifevest
 29,air vest,provides force with foam pads that inflate and deflate monitors force and progress of treatment,actuated dynamic brace,pads;air
 30,roller for tighten,by rotating a bar on the roller parents doctors easily adjust the forces applied,rigid brace variations,forces;bands
 31,brace invisalign,510 rigid braces are generated each to be worn for 23 months braces can be slowly printed and slowly provide correction over time similar to how dental invisalign works a body scan of the patient would be used as a first step to generating the braces,rigid brace variations ,brace;cables
@@ -40,7 +40,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 39,padded wheelchair,child sits in a wheelchair and 3 pads come in driven by lead screws to provide necessary forces,external treatment device,pads;forces
 40,bed with stretch bands,patient lies in bed with 3 stretch bands that wrap around them as they sleep tension from the bands apply forces pads should be placed where contact is made with the body,external treatment device,pads;forces
 41,scoliosis swing,a novel way to put pressure on the spine the childs harness for the swing is made specifically to put pressure on the spine when swinging motion occurs otherwise used the same way as a baby swing,external treatment device,pads;forces
-42,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,brace
+42,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,exo skeleton back 
 43,pressure sensors,sensors attached to inner surface of the brace which could detect pressure temperature and force,actuated dynamic brace,brace;force
 44,pressure sensor sheet,use pressure sensor sheets to adjust a brace manually keep constant pressure ,actuated dynamic brace,brace;force
 45,smartbrace,brace only applies force when necessary brace can detect when spinal curvature needs to be improved and applies appropriate pressure,actuated dynamic brace,brace;force
@@ -60,7 +60,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 59,cotton contact,a layer of cotton on the inersurface of the brace helps keep kids warm in winter also cotton is soft and gentle for kids skinit could be removed if it needs cleaning or is no longer necessary,modular brace w/ multiple components,brace;cables
 60,motor,motor generates power and then applies corrective force,rigid brace variations ,force;patients
 61,fixed pelvic griddle,fixed gridle sits on patients pelvic combined with other components for derotation force,rigid brace variations ,force;patients
-62,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,brace
+62,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,exo skeleton back 
 63,bioinspired,place linear actuators inline with muscles to add natural support,correct position guarantee,muscle;stimulation
 64,chair with brace,we put on and take off clothes throughout the day what if you had different braces throughout the day,actuated dynamic brace,brace;shoulders
 65,modular brace,the brace are made of modular parts which are designed to match various body size,modular brace w/ multiple components,body;brace

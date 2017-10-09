@@ -19,7 +19,7 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 6,control,0,finger;fingers,3,[3; 4; 5]
 2,other,3,sensors;combination,3,[55; 56; 57]
 1,,0,finger;fingers,13,[59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 71]
-5,the claw,5,,1,[15]
+5,the claw,5,gripper,1,[15]
 0,finger designs,1,objects;clamp,1,[73]
 7,gone ridin',0,finger;fingers,4,[50; 51; 52; 53]
 5,the claw,2,hand;clamp,1,[58]

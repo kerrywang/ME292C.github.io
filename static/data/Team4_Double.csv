@@ -1,10 +1,10 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,moon solar,moon rotates faster and will have more chance of getting exposed to the sun to generate more power,large system,sun
-2,solar umbrella,generate electricity from pvs on the umbrella,portable appliances,electricity
-3,sunflower solar,like a sunflower the solar panel will follw the sun,residential solar,
-4,flexible solar,flexible solar panels,portable appliances,
-5,iot soalr,small solar for internet of things,large system,
-6,solar satelites,solar built satelite that revolves the earth,large system,
+1,moon solar,moon rotates faster and will have more chance of getting exposed to the sun to generate more power,large system,solar band
+2,solar umbrella,generate electricity from pvs on the umbrella,portable appliances,solar umbrella
+3,sunflower solar,like a sunflower the solar panel will follw the sun,residential solar,sunflower solar
+4,flexible solar,flexible solar panels,portable appliances,flexible solar
+5,iot soalr,small solar for internet of things,large system,iot soalr
+6,solar satelites,solar built satelite that revolves the earth,large system,solar satelites
 7,amplity +,additional miooros mounted on solar panels to amplify solar strength,residential solar,panels;power
 8,revolving solar,rotating solar panels aroung buildings,residential solar,panels;power
 9,eco porch,porch that has solar panels as the floor this will help to power deviceswithin the home,residential solar,panels;power
@@ -41,13 +41,13 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 40,solar money pot,set up a small solar panel system outdoor with a screen showing how much money it has been generating continuously after a year the number may be so impressive that someone will start considering going solar,large system,panel;battery
 41,power mat,solar panel  battery panel has a material that allows it to stick on windows without falling off sends power to phone app,charging station,panel;battery
 42,solar bench,solar panel on a table that has an embedded battery wireless charging pad on the end of the tabledisplay the remaining energy,charging station,panel;battery
-43,soalr picking,people who work under the sun for a solar hat clothes,portable appliances,
+43,soalr picking,people who work under the sun for a solar hat clothes,portable appliances,soalr picking
 44,eco art,small solar panels fashion accessory that has bluetooth to link energy produced to phone transfers power to phone wirelessly,portable appliances,panels;power
 45,solar shdes(sun glasses),solar panels over gloves to protect eyes battery  bluetooth in eyeglass frames camera,portable appliances,panels;power
 46,solar tent,a campingor militaryuse tent that has power outlet from solar panels are built on the outseide of the tent to provide electricity,portable appliances,panels;power
-47,solar band,solar version of fibit track how much sun you get,portable appliances,sun
+47,solar band,solar version of fibit track how much sun you get,portable appliances,solar band
 48,solar samsung monitor,an app that tells you howwhat the sun exposure is for different location and how much electricity can be generated,software,sun;device
-49,solar indicator,a complimentary indicator of how much electricity of one house has generated and how much money has been saved all neighbors can see the numbers,residential solar,electricity
+49,solar indicator,a complimentary indicator of how much electricity of one house has generated and how much money has been saved all neighbors can see the numbers,residential solar,solar umbrella
 50,eco pack,foldable solar array mounted to a portable energy pack that can be folded out when storing energy,portable appliances,wireless;energy
 51,solar headphone,wireless headphones that can be charged when exposed to sunshine,portable appliances,wireless;energy
 52,solar irrigation system,power the pumps that are used to transport water with solar energy,hybrid application,water;energy

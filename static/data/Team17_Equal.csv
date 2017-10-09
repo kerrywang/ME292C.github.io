@@ -2,7 +2,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 1,shadow expectation,camera shows the shadow and improve tracking performance,control sensor,installation;monitor
 2,shadow monitor,the camera monitor the shadow on the ground and keep the interval between shadows small as possible,control sensor,installation;monitor
 3,solar power wipers,wind shield wipers that are on the solar panels that can be powered by the solar power,maintenance,panels;battery
-4,smart fridge,small doors more specific classification of food,energy saving,
+4,smart fridge,small doors more specific classification of food,energy saving,smart fridge
 5,solar powered car battery charger,battery charger to use to jump car that is charged by solar while drivingparked,solar integration w/ existing product,panels;battery
 6,solar powered outdoor grill,electric grill powered by solar rather than propane or charcoal,solar integration w/ existing product,panels;battery
 7,solar skateboard,electric skateboard powered by solar deck,solar integration w/ existing product,panels;battery
@@ -26,9 +26,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,additional mirror on panel,mirrors on panel help collecting more solar and decrease cost to produce panel,efficiency boosting,panel;mirrors
 26,solar powered panel cleaner,wipers powered by solar to clean off panels to maximize efficiency,maintenance,panels;panel
 27,panel cleaning water jets,spray nozzles on top of panels to clean up debris and can also cool the panels,maintenance,panels;panel
-28,giant solar panel,one giant panel rather than multiple rows,efficiency boosting,
-29,lunar power,use lunar light to generate power in night,unconventional usage,power
-30,solar generating paint,paint capable of generating power through solar energy,unconventional usage,power
+28,giant solar panel,one giant panel rather than multiple rows,efficiency boosting,giant solar panel
+29,lunar power,use lunar light to generate power in night,unconventional usage,lunar power
+30,solar generating paint,paint capable of generating power through solar energy,unconventional usage,lunar power
 31,smart panel for shadow calculation,smart panel can get shadow quantity that can be used to compare tracking,control sensor,panel;mirrors
 32,double solar installation,it can be feasible when no controls for tracking are available on existing farms,efficiency boosting,installation;monitor
 33,human behavior controls,controller that adapts to human behavior to manage storage,software integration,storage;panels
@@ -56,6 +56,6 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 55,bi sensor,installed on edges of solar panels it control the angle of panel by controlling the shadow between two sensor,control sensor,panels;panel
 56,solar customer locator firm,locate potential residential solar customers based on demographics home shading,b2b service,installation;monitor
 57,wavy solar panel,increase area and generate more power,efficiency boosting,power;panel
-58,smart light,light that tracks activity and turns off when not being used,energy saving,
+58,smart light,light that tracks activity and turns off when not being used,energy saving,smart light
 59,solar panels with storage systems on highway's lightning lamps,install solar panels on road lamps with storage since the batteries can charge during the day and light up the road at night,solar integration w/ existing product,storage;panels
 60,train car solar panels,solar panels to be used on the top of train cars can store energy in batteries or be used for passenger amenities if passenger car,solar integration w/ existing product,storage;panels

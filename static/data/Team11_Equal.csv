@@ -8,7 +8,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 7,tutorial game ,tutorial to teach the software an online game to complete against other tutorial users,learning the software games,software;users
 8,practice problem gaming,the software sets up the practice problem for the users to play the game so that they can know how to use the software,learning the software games,software;users
 9,manufacture simulation,allows users to see possible manufacture processes for the new optimised design provides visual process and step breakdown helps determine manufacturability,file/device integration,user;users
-10,same ui for different function,keep the same ui for different departments like animation etc,user interface,
+10,same ui for different function,keep the same ui for different departments like animation etc,user interface,same ui for different function
 11,minimized analysis time,the software uses artificial neural network to analyze results during the simulation process,improving efficiency and power,software;functionality
 12,allocate processing power,a system which allows you to allocate the computers ram to a particular required computational power threshold by the software,improving efficiency and power,software;functionality
 13,gui,packaging of morphing software using a visual graphic based gui expresses weight settings and definition visually,user interaction,software;functionality
@@ -19,9 +19,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 18,dseign template,add cad models to a set template select functions click enter get results,user interaction,cad;functions
 19,smart optimization,the software can automatically optimize users design to satisfy users requirements,automation,software;design
 20,3d printer,allows user to 3d print the optimised design aids visualisation and can help to determine the manufacturability support for printer connectivity,export functions,user;users
-21,augmented reality ui,simulate in augmented reality see a train undergoing a simulation in your living room,ar/vr/gr & haptics,
+21,augmented reality ui,simulate in augmented reality see a train undergoing a simulation in your living room,ar/vr/gr & haptics,augmented reality ui
 22,reading paper sketch ,the software can generate a drawing by scanning a paper sketch,design recognition (image recognition),software;users
-23,3d printing,the drawing from software can be printed through a 3d printer,export functions,drawing
+23,3d printing,the drawing from software can be printed through a 3d printer,export functions,3d printing
 24,graphics tablet input,allows users to control draw and edit inputs and designs via a connected graphics tablet,import functions,user;users
 25,error feedback,reminders and hints of acceptable inputs or suggested inputs provides immediate feedback and alternative solutionsinputsmethods,in-built help feature,function;curve
 26,function descriptors,descriptions of functionsbuttons when hovered on reduces learning curve does not rely on user memory,in-built help feature,function;curve
@@ -31,8 +31,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 30,automatical optimization function,the software provides automatical optimization function taht helps customers to ideal product model under given boundary conditions,automation,software;functionality
 31,periodic online survey,periodice online survey is a method to periodically collect users and customers feedback so that the software can be updated frequently and timely,external help,software;users
 32,live chat,live chat is a easy way to communicate with customers an users without leaving software website live chat helps to answer customers questions immediately,external help,software;users
-33,self servie management,selfservice resources are posted online to provide support information to customers,in-built help feature,
-34,virtual reality,allows users to be inside the design,user interaction,
+33,self servie management,selfservice resources are posted online to provide support information to customers,in-built help feature,self servie management
+34,virtual reality,allows users to be inside the design,user interaction,virtual reality
 35,small installation file size,it reduces the installation time for the users,installation,file;users
 36,timed challenge,make people learn the software through timed challenges to complete,learning the software games,software;users
 37,3d scan morphing,a 3d image scanner to scan yourself morph your head onto another body,learning the software games,simulation;scanner
@@ -62,7 +62,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 61,use before you make,allows user to use the design before making it to build flaws,ar/vr/gr & haptics,user;users
 62,haptic designing,has a haptic system which allows you to feel the surface  material of design,ar/vr/gr & haptics,design;ai
 63,online searching,users can type the design goals and then the software can automatically search the relative design,online help services,software;design
-64,easy edition,the drawing and assemblies from other types of software can be directly editied in our software,easy to use,drawing
+64,easy edition,the drawing and assemblies from other types of software can be directly editied in our software,easy to use,3d printing
 65,suggestions,an ai infused version suggests changes to your design to optimize it,in-built help feature,design;ai
 66,diffeent pricing packages for efficiency,offering different pricing for different levels of computing and different accuracy level,costing,software;functionality
 67,small file storage,software files do not occupy a lot of space,easy to use,software;users
@@ -73,7 +73,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 72,software adapting hotkeys,have oen gui but allow users to select which hotkeys of a particular software they are familiar with,user interaction,software;users
 73,device integration,using cloud computing or network solutions to allow transfer of work across all platforms bluetooth file dropping and model sharing,file/device integration,software;functionality
 74,talking interface,an interface which tells you rather than show you to increse interaction and experience,user interface,interface;installation
-75,automatically fixing error,the software can automatically fix the drawing error,ai and machine learning,drawing
+75,automatically fixing error,the software can automatically fix the drawing error,ai and machine learning,3d printing
 76,social media support,social media is a place to help users and customers to share their using experiences and post their thoughts and ideas,external help,users;customers
 77,camera system,the software has a camera system to generate design drawing by taking photographs,design recognition (image recognition),software;design
 78,face recognition security,the software has the ability to recognize the human face for document security purposes,design recognition (image recognition),software;design
@@ -88,8 +88,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 87,adaptable algorithm,write algorithm such that any user can add it to a software they use to optimize,import functions,software;users
 88,3d scanning,the software can scan the object by a selfcontained scanner,import functions,software;users
 89,speak and tell,talk to the software what to do and it will understand and do it,ai,software;users
-90,different costing,give different pricing for different versions,costing,
-91,natural environment,see how your product looks in natural setting,ar/vr/gr & haptics,
+90,different costing,give different pricing for different versions,costing,different costing
+91,natural environment,see how your product looks in natural setting,ar/vr/gr & haptics,natural environment
 92,auto data mine,software can autosearch and categorise cad files of related models extact and learn about shapesdata related to the models saves users from manually computing each model,automation,software;users
 93,iteration manual override,user choice of automatic iterations carried out by software user can interrupt with stop at any time to terminate or pause andor conduct manual override,automation,software;users
 94,making learning easy,the software comes with a learning package which includes books  videos on how to use the software,in-built help feature,software;users

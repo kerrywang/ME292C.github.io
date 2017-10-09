@@ -1,6 +1,6 @@
 Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Concept_Indices
 7,bird safety,3,blade;pitch,1,[60]
-4,hiding the wt,7,,1,[54]
+4,hiding the wt,7,barn housing,1,[54]
 6,hiding the wt - camoflage,6,landscape;buildings,1,[1]
 3,wt efficiency,0,turbine;wind,4,[12; 13; 14; 15]
 8,merging renewables,0,turbine;wind,3,[51; 52; 53]
@@ -24,6 +24,6 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 7,bird safety,0,turbine;wind,1,[7]
 0,aesthetics,2,wt;wind,2,[58; 59]
 2,community,0,turbine;wind,1,[18]
-1,wind concentrators,7,,1,[56]
+1,wind concentrators,8,designated migration area,1,[56]
 5,configuration,2,wt;wind,1,[57]
 2,community,4,tower;level,1,[43]

@@ -5,12 +5,19 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 3,software integration,3,energy;storage
 4,maintenance,4,panels;panel
 5,control sensor,5,shadow;camera
-6,unconventional usage,6,
-7,energy storage,7,energy;water
-8,energy saving,8,time;container
-9,retrofit market,9,panels;batteries
+6,energy storage,6,energy;water
+7,unconventional usage,7,time;container
+8,retrofit market,8,panels;batteries
+9,energy saving,9,smart fridge
 10,b2b service,10,home;customers
-,,11,panels
-,,12,power;phone
-,,13,power;panel
-,,14,heat;energy
+,,11,lunar power
+,,12,smart panel for shadow calculation
+,,13,giant solar panel
+,,14,generation loss due to clouds prediction
+,,15,solar power wipers
+,,16,power;phone
+,,17,power;panel
+,,18,heat;energy
+,,19,solar generating paint
+,,20,integrated phone solar charging
+,,21,smart light

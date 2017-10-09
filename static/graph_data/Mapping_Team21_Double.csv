@@ -1,9 +1,18 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,health,0,sensors;sensor
-1,consuming content,1,
-2,monitoring,2,sensor;patch
-3,ar overlays,3,ar;eg
-4,communication,4,communication;ar
+1,monitoring,1,sensor;patch
+2,ar overlays,2,ar;eg
+3,communication,3,communication;ar
+4,consuming content,4,streamdream
 5,assistant,5,display;helmet
-6,stretchable application,6,ar;user
-7,ar applications,,
+6,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,6,communication
+7,ar applications,7,real view: real estate ar
+8,stretchable application,8,huh that's interesting' assistant
+,,9,ar;user
+,,10,earflix
+,,11,conference helper
+,,12,heart smart: elderly tracking for falls and emergencies
+,,13,textanator
+,,14,emotigram
+,,15,car map: ar directions on windshield
+,,16,nuink

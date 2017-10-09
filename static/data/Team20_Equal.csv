@@ -52,9 +52,9 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 51,wind + water,corkscrew turbine in the air when there is wind and submerged underwater when there isnt to take advantage of waterflow instead,merging renewables,turbine;wind
 52,tidal chamber wind turbines,change in tides pushes air through tidal chamber as water passes through  take advantage of the airflow,merging renewables,turbine;wind
 53,wind + thermal,black boxshaft on top of turbine provides warm water for residents,merging renewables,turbine;wind
-54,barn housing,house wts in uppermost levels of barns at farms or place on top of silos,hiding the wt,
+54,barn housing,house wts in uppermost levels of barns at farms or place on top of silos,hiding the wt,barn housing
 55,landscape art,feature vawts as landscape sculptures and treat them as an attraction,aesthetics,landscape;buildings
-56,designated migration area,build an alleyway with trees next to windfarms that are designated as migration routes,wind concentrators,
+56,designated migration area,build an alleyway with trees next to windfarms that are designated as migration routes,wind concentrators,designated migration area
 57,retractable wind blades,wt with retracting blades to avoid obstruction in day,configuration,wt;wind
 58,mirrored wt,mirrored finish blends with surroundings,aesthetics,wt;wind
 59,variable height,wt adjusts to harvest rated wind speeds can be lowered for certain times of the day,aesthetics,wt;wind

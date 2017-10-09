@@ -1,12 +1,13 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,smart home,0,juice;sandwiches
 1,home,1,plant;shelf
-2,smart city,2,car
+2,smart city,2,guiding cart
 3,agriculture iot,3,soil;supplies
 4,casing,4,controller;wall
 5,smart office,5,user;tables
 ,,6,shape;home
-,,7,
+,,7,parking indicator
 ,,8,temperature;humidity
-,,9,light;user
-,,10,door
+,,9,gesture reader
+,,10,light;user
+,,11,smart door

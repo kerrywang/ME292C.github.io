@@ -5,7 +5,7 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 3,avoid traffic congestion,3,cars;traffic
 4,remote control,4,av;users
 5,efficiency,5,vehicle;energy
-6,localization and positioning,6,
+6,localization and positioning,6,user friendly 
 7,affordability,7,functions;interaction
 ,,8,user;malfunction
 ,,9,vehicle;vehicles
@@ -13,4 +13,5 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 ,,11,user;extensions
 ,,12,car;prompt
 ,,13,car;user
-,,14,passengers;views
+,,14,avoiding traffic jam
+,,15,passengers;views

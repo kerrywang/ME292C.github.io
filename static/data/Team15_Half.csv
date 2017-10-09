@@ -14,8 +14,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 13,stretch machine,the robotic machine provides the same twisting and stretching done during the manipulation of the spine during edf casting much lower forces can be used and the patient can stretch once a day for an hour,external treatment device,muscle;loads
 14,bed with rollers,this is a bed that applies loads overnight 3 foam rollers attached to lead screws to adjust force get pushed up against the child as they sleep on their back,external treatment device,muscle;loads
 15,pulleys along muscle direction. batons. tensegrity.,cloth with anchor points wind surfing sail anchor points,external treatment device,muscle;loads
-16,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,
-17,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,brace
+16,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,breathable cast
+17,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,exo skeleton back 
 18,data tracking brace,communicate activity level brace angle time spent in brace to the doctor patient and parent like a smart watch,treatment communication/ community building,brace;force
 19,soft band,soft bands are designed with various length and theyre adjustable it allows patients to have the maximum mobility,modular brace w/ multiple components,muscle;loads
 20,tensegrity,tensile elements outside curve stiff elements inside curve pivots about a center point,modular brace w/ multiple components,muscle;loads
@@ -49,7 +49,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 48,strain gauge,measure deformation of brace through strain have a tuned spring for a brace,actuated dynamic brace,brace;force
 49,muscle stimulation,avoid atrophy apply a load to user with their own muscle,implantable/ surgical intervention ,muscle;loads
 50,spinoscope,an implantable spinal gyroscope is implanted at the points of curvature on the spine to detect when the angle is greater than an acceptable spinal angle,implantable/ surgical intervention ,muscle;loads
-51,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,brace
+51,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,exo skeleton back 
 52,hinged cast,children in casts are unable to bathe but require the support of a rigid cast applying hinges latches allow it to be removed,rigid brace variations ,muscle;loads
 53,shirt brace,designed like a fitted tshirt the brace looks like any other article of clothing,external treatment device,brace;force
 54,tens unit brace,muscular stimulator removable by straps elastic adjustability gauges frequency of use,external treatment device,brace;force

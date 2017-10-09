@@ -1,21 +1,40 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,casin things,0,gloves
-1,enhance comfort,1,gloves;massage
-2,there's an app for that,2,
-3,internet with controls,3,gloves;button
-4,material,4,gloves;mars
-5,energy basic,5,energy
-6,intersurfaces,6,gloves;glove
-7,sensor,7,gloves;bearings
-8,touch,8,fingers
-9,better than the iphone,9,gloves;fingers
-10,lock n load,10,glove;wrist
-11,would you look at that,11,glove
-12,got it?,12,gloves;application
-13,grip,13,gloves;grip
-14,hot stuff,14,things
-15,clean things,15,heater;glove
-16,safety,,
-17,can you feel it?,,
-18,iron man glove,,
-19,intersurfaces with/into,,
+0,enhance comfort,0,gloves;massage
+1,internet with controls,1,gloves;button
+2,casin things,2,clip gloves
+3,material,3,gloves;mars
+4,energy basic,4,kinegtetic entry
+5,there's an app for that,5,gloves;glove
+6,sensor,6,thermal sensing glove
+7,intersurfaces,7,drilling gloves
+8,hot stuff,8,thermal control
+9,lock n load,9,gloves;bearings
+10,would you look at that,10,flexible boxing gloves
+11,touch,11,sticky grip
+12,better than the iphone,12,gloves;fingers
+13,clean things,13,hook gloves
+14,can you feel it?,14,force sensors gloves
+15,got it?,15,anti skid gloves
+16,intersurfaces with/into,16,arm screen
+17,iron man glove,17,rogue hands
+18,safety,18,water gloves
+19,grip,19,gloves;grip
+,,20,soud paper gloves
+,,21,flashlight
+,,22,sepcial watch in gloves
+,,23,plant slot glove
+,,24,gecko hands
+,,25,waste heat energy
+,,26,storage for quick food
+,,27,heater;glove
+,,28,glove;wrist
+,,29,mechatronic glove
+,,30,screen gloves
+,,31,air brush
+,,32,gloves;application
+,,33,good breathability of gloves
+,,34,wiring
+,,35,net mach 2
+,,36,pulse detection
+,,37,charger
+,,38,fish bowl hands

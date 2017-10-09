@@ -1,12 +1,12 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,the pincer,three rounded horns with spikes for grip like horns of a beatle,,grip;texture
-2,ibike,a myoelectric prosthetic hand designed for biking,gone ridin',hand
+2,ibike,a myoelectric prosthetic hand designed for biking,gone ridin',ibike
 3,thumb gripper,additional thumb for holding bike,,thumb;finger
 4,arm gripper,arm grip with suction cups for holding books or things with flat surfaces,,thumb;finger
 5,bending linkage,a linkage design that allows finger to bend by pulling the string,control,bindings;linkage
 6,2 piece clamp,2 fingers are mounted where the missing index to pinky finger are these close when the thumb squeezes to create a claw,the claw,finger;fingers
 7,ibike myo signal processing,using myo armbands myoelectric sensors and using the frequency range for brach radi muscle on the forarm one can use the median power frequency of the power spectrum to classify light break vs tight break,gone ridin',sensors;heat
-8,gripper,actuates like regular grippers,the claw,
+8,gripper,actuates like regular grippers,the claw,gripper
 9,drum roll,specific prosthetic for holding drumstick,,clamp;drum
 10,monkey bar thumb design,have the thumb actuated based on myoelectric signal from forarm muscle flexsion,control,brake;wrist
 11,octahand luck,have a lever on the back of hand to pressuring in the octapus suction cups on the palm side to lock in an object,,hand;fingers
@@ -22,18 +22,18 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 21,imonkey bar,c shabe composite metal that is attached at the wrist to l shaped velcro wrist srap the short end of l will flip over and lock the strap in place ,imonkeybar,wrist;fingers
 22,imonkey bar cushion love,have gel cushion at the wrist such that it would dampen the force on the wrist ,imonkeybar,wrist;fingers
 23,sing fing,single finger replacement for patients with most of a hand,,finger;hand
-24,double reaper,like the reaper but with a second scythe on the other side,,
-25,monkey bar hand joint,have the hand have only one joint where the hand is in l shape and the tip of it has a digit made with flexible pla also make the corner fater to take more tension ,finger designs,
+24,double reaper,like the reaper but with a second scythe on the other side,,double reaper
+25,monkey bar hand joint,have the hand have only one joint where the hand is in l shape and the tip of it has a digit made with flexible pla also make the corner fater to take more tension ,finger designs,monkey bar hand joint
 26,the strapper,straps shut against object with a buckle similar to snow board bindings,,bindings;linkage
 27,itouch,pressure sensors at tip of fingers as input and vibrator as output placed on wrist in order of the fingers,finger designs,wrist;fingers
-28,the gripper,passive gripper hand for holding high weights and cylindrical objects,,
+28,the gripper,passive gripper hand for holding high weights and cylindrical objects,,the gripper
 29,adjustable angle mount blocks,blocks can be used to change mounting angle of finger,mount,finger;fingers
 30,ball joint angle mount,finger can rotate based on what you need to pick up,mount,finger;fingers
-31,watch mount,a combination of prostheses and watch,harness,
+31,watch mount,a combination of prostheses and watch,harness,watch mount
 32,favorite color,let the user have the option to choose any pla color available for the various parts of their hand,other,hand;interface
 33,brain computer interface,open and close hand using hand motor imagery ,other,hand;interface
 34,hand stickers,design popular stickers for the hand and let the children choose their favorite stickers to put on,other,hand;interface
-35,imonkey bar c metal part,we want the composite matterial to be light and hold 100 lb before breaking,imonkeybar,
+35,imonkey bar c metal part,we want the composite matterial to be light and hold 100 lb before breaking,imonkeybar,imonkey bar c metal part
 36,wrist assist,allows you to hold handlebars when steering leaving wrist free to break,gone ridin',bindings;linkage
 37,3 jonts fingers,3 joints finger that built with flexible material,finger designs,finger;fingers
 38,tapping finger,a stopping system on each join of finger to prevent fingers from bending in the opposite direction,finger designs,finger;fingers
@@ -44,8 +44,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 43,webbed finger,webbed fingers actuate when triggered by thumb prevents slipping through fingers,finger designs,finger;fingers
 44,wiggle finger,locks open or close when sharply moved,finger designs,finger;fingers
 45,page turner,finger with small textured area to help with friction at tip of finger,finger designs,finger;fingers
-46,cosmetic  attachment,realistic hand attachment that closes when actuated by thumb movmenet,niche,
-47,ihero,have marvel hero designs available for each child to chose and apply the design to the hands,other,
+46,cosmetic  attachment,realistic hand attachment that closes when actuated by thumb movmenet,niche,cosmetic  attachment
+47,ihero,have marvel hero designs available for each child to chose and apply the design to the hands,other,ihero
 48,handle bar holding,a ring with a seat for the bike handle bar that would allow for control over steering when moving wrist to actuate brake,gone ridin',brake;wrist
 49,brake extension,small attachment that extends bike brake to thumb for easier actuation,gone ridin',brake;wrist
 50,brake hooker,very simple design to hook over brake on bike and allow for pulling brake while also steering,gone ridin',brake;wrist
@@ -60,7 +60,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 59,dual spring clamp,strong gripper for holding things for long periods of time,the claw,clamp;drum
 60,robo wrist,robotic arm to help with daily tasks,,wrist;fingers
 61,octohand ,fingers with octopus like suction cups,,wrist;fingers
-62,the mit,hand specifically designed to hold a baseball sized ball,niche,hand
+62,the mit,hand specifically designed to hold a baseball sized ball,niche,ibike
 63,open handed harness,a customizable harness that does not cover the entire hand and tied around the wrist,harness,hand;fingers
 64,itouch bci,get the arduino output from the pressure sensors and send it as input to tdac device to stimulate the brains somatosensory region for hand,other,device;input
 65,transcranial direct current stimulator,design a tdac device with fuse to deliver 02ma current to stimulate the brain,other,device;input

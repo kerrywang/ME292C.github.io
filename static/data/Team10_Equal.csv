@@ -1,12 +1,12 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,alex's claw hand,have pins to lock the claw hand in open position the pins can be located at the hands forarm where the joint is,the claw,hand;side
 2,light grip for claw hand,use adjustable springs to limit the force on soft objects,the claw,hand;side
-3,watch mount,a combination of prostheses and watch,harness,
+3,watch mount,a combination of prostheses and watch,harness,watch mount
 4,ball joint,ball shape joint that allows the finger to rotate in 360 degrees,joints,finger;fingers
 5,finger lock,a rotational lock for finger attachment,joints,finger;fingers
 6,screw joint,joint of finger that can be removed and attach by screwing in and out,joints,finger;fingers
 7,twist joint,joint that locks the finger by twisting,joints,finger;fingers
-8,imonkey bar c metal part,we want the composite matterial to be light and hold 100 lb before breaking,imonkeybar,
+8,imonkey bar c metal part,we want the composite matterial to be light and hold 100 lb before breaking,imonkeybar,imonkey bar c metal part
 9,zoidburg clamp,strong  three pronged gripper actuated with other hand,,hand;clamp
 10,handle bar holding,a ring with a seat for the bike handle bar that would allow for control over steering when moving wrist to actuate brake,gone ridin',wrist;brake
 11,brake extension,small attachment that extends bike brake to thumb for easier actuation,gone ridin',wrist;brake
@@ -22,8 +22,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 21,adjustable angle mount blocks,blocks can be used to change mounting angle of finger,mount,finger;fingers
 22,ball joint angle mount,finger can rotate based on what you need to pick up,mount,finger;fingers
 23,ibike myo signal processing,using myo armbands myoelectric sensors and using the frequency range for brach radi muscle on the forarm one can use the median power frequency of the power spectrum to classify light break vs tight break,gone ridin',sensors;heat
-24,ihero,have marvel hero designs available for each child to chose and apply the design to the hands,other,
-25,gripper,actuates like regular grippers,the claw,
+24,ihero,have marvel hero designs available for each child to chose and apply the design to the hands,other,ihero
+25,gripper,actuates like regular grippers,the claw,gripper
 26,octopus finger,sucking discs on finger tips for holding objects,finger designs,clamp;drum
 27,bending linkage,a linkage design that allows finger to bend by pulling the string,control,wrist;brake
 28,monkey bar thumb design,have the thumb actuated based on myoelectric signal from forarm muscle flexsion,control,wrist;brake
@@ -32,7 +32,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 31,bike fingers,fuse the last joint of the fingers such that there are two joins instead of three on the hand,finger designs,hand;side
 32,monkey bar hand joint,have the hand have only one joint where the hand is in l shape and the tip of it has a digit made with flexible pla also make the corner fater to take more tension ,finger designs,hand;side
 33,internal wiring,have the fishing lines or electric wires run in the fingers design space and hooks inside the digits and palm of the hand for lines and wirings ,finger designs,hand;side
-34,the gripper,passive gripper hand for holding high weights and cylindrical objects,,
+34,the gripper,passive gripper hand for holding high weights and cylindrical objects,,the gripper
 35,1 piece clamp,one solid piece connects where typical fingers would be this allows for strong pinching between thumb and piece,the claw,wrist;brake
 36,robo wrist,robotic arm to help with daily tasks,,wrist;brake
 37,the clamper,for fine pinching needs this gear actuated prosthetic is your best friend for small pinches and tieing shoelaces,,wrist;brake

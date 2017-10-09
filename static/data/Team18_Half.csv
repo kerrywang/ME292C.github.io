@@ -38,7 +38,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 37,rectangular enclosure,enclosure is designed to be as small as possible surrounding only the two control boards and thats it,weight,springs;enclosure
 38,froggy,projects self off higher rubble or roofs into desired areas,locomotion; planning,springs;enclosure
 39,loyalty,protects humans provides cover when near humans while disaster is occuring,secondary function,earthquake;disaster
-40,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,mod save america;impact toughness,
+40,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,mod save america;impact toughness,stensegth
 41,axial spring,decouple motors from stretchiness of sphere by placing springs on axle of motor,locomotion,springs;enclosure
 42,hollow rods,use hollow rods cut down on weight,secondary function/locomotion,rods;cables
 43,heavy load carrying robots,a wide flat robot with a large back which is able to carry heavy loads from one place to another,weight,robot;robots
@@ -57,7 +57,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 56,rod electronics,move electronics to rods in order to suspend the payload in the middle,locomotion,rods;cables
 57,expansion end caps,endcaps that expands like an inverse tripod to provide traction on different terrain,locomotion,rods;cables
 58,squish it!,collaspable rods into a cynlinder shape for ease of transportation space constraints,locomotion,rods;cables
-59,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact toughness,
+59,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact toughness,elastomer dampening
 60,removable endcaps,be able to switch out endcaps so we can test materials and springs,flexibility,obstacles;bars
 61,waterproof robots,a waterproof sheet wrapped around the robot which protects the payload and all the internal sensitive compeonents,secondary function,robot;robots
 62,robots with vr,instead of using gps which provides a 2d coordinate the robot uses 3d coordinate system wearing a vr to pinpoint the location of the victim,secondary function,robot;robots

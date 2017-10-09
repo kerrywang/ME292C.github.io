@@ -16,7 +16,7 @@ Human_Label_Index,Human_Label,Machine_Label_Index,Machine_Label,Bubble_size,Conc
 7,external help,5,cad;functions,1,[95]
 14,targeted markets,2,user;users,1,[20]
 5,costing,5,cad;functions,1,[5]
-2,ar/vr/gr & haptics,9,,1,[47]
+2,ar/vr/gr & haptics,9,natural environment,1,[47]
 8,ease of data representation,1,software;functionality,1,[4]
 18,ai and machine learning,5,cad;functions,1,[83]
 4,online help services,4,design;projects,2,[26; 27]

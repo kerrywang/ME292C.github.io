@@ -1,9 +1,10 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,communication,0,sensor;sensors
+0,health,0,sensor;sensors
 1,monitoring,1,arm;display
-2,assistant,2,
-3,stretchable application,,
-4,ar applications,,
-5,health,,
-6,consuming content,,
-7,ar overlays,,
+2,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,2,communication
+3,assistant,3,conference helper
+4,communication,4,textanator
+5,stretchable application,,
+6,ar applications,,
+7,consuming content,,
+8,ar overlays,,

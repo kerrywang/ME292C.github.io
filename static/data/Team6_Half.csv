@@ -27,7 +27,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 26,wall bar,the mini bar is to be mounted on the wall and is fordable ,home,door;phone
 27,speaker,it has a shape of a trumpet can play music when you plug in the phone,home,door;phone
 28,bird cage,the bird cage is consist of a bottom part resembling a real nest and top part made from glass which allows seeing for people ,home,door;phone
-29,gesture reader,use the hand gesture to control light and audio system ,smart home,
+29,gesture reader,use the hand gesture to control light and audio system ,smart home,gesture reader
 30,casing for controller_1,all the controller and sensor will be placed in a box which is will insulated and is water and dust resisted so that it can work in a harsh environment,casing,door;phone
 31,casing for controller_2,all the controller and sensor will be placed within the wall outlet to make the smart home controller invisiable,casing,door;phone
 32,smart wheel,to be installed to chairs and tables and restore to original location,smart office,door;phone

@@ -2,5 +2,6 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,application,0,printing;materials
 1,function,1,printer;machine
 2,material,2,material;pla
-3,policy,3,cakes;milk
-4,new form,4,print;products
+3,print out a rough shape first and mill off parts by switching tools,3,function
+4,policy,4,cakes;milk
+5,new form,5,print;products

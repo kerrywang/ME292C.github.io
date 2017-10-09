@@ -4,7 +4,7 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 2,other,2,hand;clamp
 3,harness,3,sensors;combination
 4,imonkeybar,4,bar;child
-5,the claw,5,
+5,the claw,5,gripper
 6,control,,
 7,gone ridin',,
 8,mount,,

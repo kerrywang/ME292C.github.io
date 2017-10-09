@@ -2,8 +2,9 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 0,health,0,sensors;sensor
 1,ar overlays,1,ar;user
 2,monitoring,2,display;helmet
-3,assistant,3,
-4,consuming content,4,directions;use
-5,communication,,
-6,stretchable application,,
-7,ar applications,,
+3,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,3,communication
+4,assistant,4,conference helper
+5,consuming content,5,directions;use
+6,communication,6,textanator
+7,stretchable application,7,heart smart: elderly tracking for falls and emergencies
+8,ar applications,8,huh that's interesting' assistant

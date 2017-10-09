@@ -1,25 +1,42 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,ar/vr/gr & haptics,0,
-1,ai and machine learning,1,design;software
-2,automation,2,software;users
-3,compatibility,3,software;package
-4,easy to use,4,file;software
-5,improving efficiency and power,5,software;optimization
-6,external help,6,users;software
-7,import functions,7,software;scanner
-8,online help services,8,online;forum
-9,user interaction,9,packaging;definition
-10,costing,10,packages;computing
-11,in-built help feature,11,software;help
-12,user interface,12,interface;users
-13,installation,13,file
-14,targeted markets,14,user;allows
-15,file/device integration,15,users;user
-16,export functions,16,drawing
-17,design recognition (image recognition),17,software
-18,ease of data representation,18,simulation;visualization
-19,ai,19,function;curve
-20,learning the software games,20,files;share
-,,21,ai;design
-,,22,design;cad
-,,23,users;customers
+0,ai and machine learning,0,design;software
+1,automation,1,software;users
+2,compatibility,2,software;package
+3,easy to use,3,file;software
+4,improving efficiency and power,4,software;optimization
+5,external help,5,users;software
+6,import functions,6,software;scanner
+7,online help services,7,online;forum
+8,user interaction,8,packaging;definition
+9,costing,9,packages;computing
+10,in-built help feature,10,software;help
+11,ease of data representation,11,automatically generates presentable data
+12,file/device integration,12,multiple file support 
+13,user interface,13,interface;users
+14,installation,14,small installation file size
+15,ar/vr/gr & haptics,15,simulation;visualization
+16,targeted markets,16,user;allows
+17,export functions,17,users;user
+18,learning the software games,18,3d scan morphing
+19,design recognition (image recognition),19,software adapting symbols
+20,ai,20,different costing
+,,21,dseign template
+,,22,function;curve
+,,23,use before you make
+,,24,files;share
+,,25,graphic design aid
+,,26,error feedback
+,,27,3d printing
+,,28,gesture recognition
+,,29,ai;design
+,,30,mobile app 
+,,31,small files
+,,32,natural environment
+,,33,design;cad
+,,34,virtual reality
+,,35,same ui for different function
+,,36,users;customers
+,,37,simple installation
+,,38,haptic designing
+,,39,self servie management
+,,40,augmented reality ui

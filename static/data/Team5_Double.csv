@@ -1,18 +1,18 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,cav city tours,a service for tourists to see attractive spots personalized tourist service where you select the places you want to see  stop,use cases,riders;tourists
 2,innovation tire,the tire itself can detect the temp and lanscape by attathced a sensor on the surface,interior design ,battery;pickup
-3,driver outsourcing,iutsourc remote driving to cheaper labor countries like india,transition to av,
+3,driver outsourcing,iutsourc remote driving to cheaper labor countries like india,transition to av,driver outsourcing
 4,completely autonomous driving,to increase the driving efficiencey and greatly reduce or completely eliminate accidents,transition to automated vehicles,accidents;hours
 5,solar cars,solar powered cars that run during the day,basic concept,cars;vehicles
 6,transit: find the cars near you,an application that can help people detect and find the available connected cars,basic concept,cars;vehicles
-7,comfy seats,soft and comforabtle reclining seating with massage chair ,interior design ,
+7,comfy seats,soft and comforabtle reclining seating with massage chair ,interior design ,comfy seats
 8,emergency button for cars,system to shut down all the program can connect you to hospitals,safety & health,cars;vehicles
 9,school self driving bus,provide automated school buses for kids in a neighborhood avoid the congestion for dropoff and pickup time at schools,kids,battery;pickup
 10,grocery store at home,saving time after work to directly go cook dinner at your home thanks a digital grocery store delivering the ingredients you need at your place during low hours on the road ,use cases,grocery;haircut
 11,haircut,get a haircutby a robot or use the services of a barber on your way to work,use cases,grocery;haircut
 12,redefine car shape,redifine the car shape by focusing on the function,new vehicle shapes/forms,car;seats
-13,modular interior design,the interior allows flexibility of uses to meet the expectations of a variety of users includes trap on the floor to open a table moveable chairs option to open or cover windows coffeetea box kids bo,use cases,
-14,moving silent disco,set up cav vans at music festivals to transport festival goers reconfigure the inside space as a silent disco ,use cases,
+13,modular interior design,the interior allows flexibility of uses to meet the expectations of a variety of users includes trap on the floor to open a table moveable chairs option to open or cover windows coffeetea box kids bo,use cases,modular interior design
+14,moving silent disco,set up cav vans at music festivals to transport festival goers reconfigure the inside space as a silent disco ,use cases,moving silent disco
 15,traffic jam assist,driving assist feature to drive the car in intense traffic situation to relieve the mental stress of the driver,transition to automated vehicles,car;seats
 16,karaoke car,have an onboard karaoke system,use cases,car;cars
 17,planetarium,have the roof of the car completely transparent on clear starry nights for a mesmerizing experience,use cases,car;cars
@@ -21,7 +21,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 20,cav fleet,a fleet of cavs that users pay to have ondemand access to,basic concept,cav;benefits
 21,frequent rider benefit program ,airlines have frequent flier programs and benefits we can apply this model to cav ridesharing,basic concept,cav;benefits
 22,v2i communication,vehicle to infrastructure communication to get info each othermaintenanceupdating city info,infrastructure planning,vehicle;ride
-23,flat intracity escalators,cross city that moving escalators taking people to places based on choice of activity,infrastructure planning,
+23,flat intracity escalators,cross city that moving escalators taking people to places based on choice of activity,infrastructure planning,flat intracity escalators
 24,cav   ridesharing fusion,incorporate cav into uber lyft and other similar platforms this will bring cavs online and kickstart mainstream usage,basic concept,cav;vans
 25,storage seats,seats can be made outline materials and small items within them,interior design ,seats;seat
 26,customized seat accesories,tables desks arm rests etc that can be hiddenremoved and taken out when needed for uee,interior design ,seats;seat
@@ -58,7 +58,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 57,sleepwell: sleep accessories in the car,you can sleep well in the car before or after work this enables you to have the ultimate calm in your car,interior design ,car;cars
 58,workpro: professional working table for business people,autonomous vehicle can drive to the destination itself so we change the interior design of the car to include a professional office space,interior design ,car;cars
 59,traffic lights,car can communicate the traffic lights by itself,infrastructure planning,car;seats
-60,fully covered 2 wheeler,fully covered 2 wheeler to protect from the rain  pollution,new vehicle shapes/forms,
+60,fully covered 2 wheeler,fully covered 2 wheeler to protect from the rain  pollution,new vehicle shapes/forms,fully covered 2 wheeler
 61,commute management,a twohour window for commuting riders will be matched with a commute time within this window agreed upon by the company which recieves benefits from the city cheaper ride,commute / peak management,ride;riders
 62,battery help!,emergency battery use in highway,infrastructure planning,battery;pickup
 63,pick up & drop off points,pool riders gather in a 5minute perimeter from where they requested the ride they will be dropped within a  5 minutewalk from their final destination,optimizing efficiency,ride;riders

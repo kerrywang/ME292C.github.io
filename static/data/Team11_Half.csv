@@ -45,7 +45,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 44,smart designing,the software tells you which design or material would be better taking into consideration boundary conditions,ai and machine learning,software;users
 45,design + manufacture,the software tells you if the design can be manufactured based on the machinery you have,ai and machine learning,software;users
 46,automatically fixing error,the software can automatically fix the drawing error,ai and machine learning,software;users
-47,natural environment,see how your product looks in natural setting,ar/vr/gr & haptics,
+47,natural environment,see how your product looks in natural setting,ar/vr/gr & haptics,natural environment
 48,allow user to join,allows user to ojoin parts using haptics and vr,ar/vr/gr & haptics,user;users
 49,animation generation,allows user to see the product in motion to build design flaw,ar/vr/gr & haptics,user;users
 50,use before you make,allows user to use the design before making it to build flaws,ar/vr/gr & haptics,user;users

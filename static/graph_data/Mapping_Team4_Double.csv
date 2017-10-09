@@ -1,13 +1,17 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
 0,portable appliances,0,panel;battery
 1,residential solar,1,panels;power
-2,large system,2,
-3,charging station,3,station;subscription
-4,hybrid application,4,water;energy
+2,charging station,2,station;subscription
+3,hybrid application,3,water;energy
+4,large system,4,solar band
 5,big system,5,sun;device
-6,maintenance,6,sun
-7,software,7,electricity
-,,8,platform;players
-,,9,sun;solar
-,,10,wireless;energy
-,,11,pads;battery
+6,maintenance,6,solar umbrella
+7,software,7,sunflower solar
+,,8,flexible solar
+,,9,iot soalr
+,,10,solar satelites
+,,11,platform;players
+,,12,sun;solar
+,,13,wireless;energy
+,,14,pads;battery
+,,15,soalr picking

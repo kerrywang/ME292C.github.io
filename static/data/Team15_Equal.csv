@@ -1,8 +1,8 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,
+1,breathable cast,similar to a cast but made from a breathable material,rigid brace variations,breathable cast
 2,data tracking brace,communicate activity level brace angle time spent in brace to the doctor patient and parent like a smart watch,treatment communication/ community building,brace;force
 3,3d tracking of spine,implanted markers in the spine can be tracked by the brace fit of brace as well as progresion of treatment can therefore be documented,implantable/ surgical intervention ,brace;force
-4,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,brace
+4,two halves of a cast,how might we actuate an existing brace,actuated dynamic brace,exo skeleton back 
 5,chair with brace,we put on and take off clothes throughout the day what if you had different braces throughout the day,actuated dynamic brace,brace;body
 6,turnbuckle,a turnbuckle is hooked with oneside on upper side and another on lower side it forces the concave curvature to go straight,rigid brace variations ,forces;pads
 7,elastic bands,elastic bands with different youngs modulus generate forces of various magnitude,rigid brace variations ,forces;pads
@@ -67,7 +67,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 66,lifevest,a vest that is decomposed into many small inflatable sections the regions that are inflated provide the necessary forces,actuated dynamic brace,forces;pads
 67,spinoscope,an implantable spinal gyroscope is implanted at the points of curvature on the spine to detect when the angle is greater than an acceptable spinal angle,implantable/ surgical intervention ,curvature;spine
 68,roller for tighten,by rotating a bar on the roller parents doctors easily adjust the forces applied,rigid brace variations,forces;pads
-69,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,brace
+69,exo skeleton back ,exo skeleton back brace with bolt positions for custom brace sections,rigid brace variations ,exo skeleton back 
 70,airbag vest,3 rings go around the chest and they are integrated on vest that the child wears attached to the rings are slots where air bags can inflate and apply loads,actuated dynamic brace,muscle;shaft
 71,spring vest,3 rings go around the chest but they are connected by springs the springs can be in tension or in compression to adjust forces on the body and can be adjusted using a turnebuckle,actuated dynamic brace,muscle;shaft
 72,jack vest,3 rings go around the chest the rings have slots where mechanical jacks can be put in where needed to apply the necessary forces at the output of the shaft for the jack is a large pad same forces over larger area  less pressure and more comfort,actuated dynamic brace,muscle;shaft

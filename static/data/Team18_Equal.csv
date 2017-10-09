@@ -8,7 +8,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 7,axial spring,decouple motors from stretchiness of sphere by placing springs on axle of motor,locomotion,springs;motors
 8,combined tensegrity shapes,tensegrities that can be joined together to make different shapes can be used for various purposes,modularity,bars;shapes
 9,pulsating lights,pulsating lights on tensegrity allow for easy identification at the diaster site,secondary function,bars;shapes
-10,cover it!,covering the payload and sensitive instruments of the tensegrity using a durable cover,impact toughness,
+10,cover it!,covering the payload and sensitive instruments of the tensegrity using a durable cover,impact toughness,cover it!
 11,pull,grabs something and use it to pull cog forward grab next thing and use to pull cog forward,locomotion,move;jump
 12,directional tread on endcaps,keep feet moving in proper direction by having spikes or something pointed in the opposite direction,locomotion,move;jump
 13,tensegrileap,introduce spring like feet to the endcaps of the tensegrity sphere helps the tensegrity jump past obstacles it cant otherwise roll over also helps act as a force dampener during deployment,locomotion,move;jump
@@ -27,7 +27,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 26,steady!,the robot uses walls to improve its stability,flexibility,robot;robo
 27,break!,the robot breakspushes through terrain that is in the way grass rocks,locomotion; impact toughness,robot;sensors
 28,expand!,the robot is wide so that the unevenness of the terrain is flat relative to size of contact area like a monster truck,locomotion; impact toughness,robot;sensors
-29,plunger endcaps,use air as a springdamper for end shock absorbtion,impact toughness,
+29,plunger endcaps,use air as a springdamper for end shock absorbtion,impact toughness,plunger endcaps
 30,helpless,robot asks for help uses local resources help me and carry me,user experience,robot;robo
 31,loyalty,protects humans provides cover when near humans while disaster is occuring,secondary function,earthquake;disaster
 32,rope,many fibers on tensile component  if one breaks ther are others,integrity,rods;cables
@@ -57,14 +57,14 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 56,cat eyes,robot locally locates itself using vision that does not depend on outside light eg sonar,secondary function,robots;robot
 57,interactive robot,robot has mic and speaker that can be used to communicate between victims and responders,secondary function,robots;robot
 58,feedme,good user control feedback when controlling the tensegrity through an app move the tensegrity using an app to allow for a more intuitive control of the robot,secondary function,robots;robot
-59,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact toughness,
+59,elastomer dampening,use a viscoelastic elastomer inside of a spring to act as a dashpot,impact toughness,elastomer dampening
 60,all in one robot,robots which can traverse in aerial land and sea,locomotion,robot;spider
 61,flight!,the robot flies over uneven terrain,locomotion,robot;spider
 62,jump!,the robot propels itself over obstacles like a cat,locomotion,robot;spider
 63,spider,robot swings on something like spider silk eg into a ditch or over a gap,locomotion,robot;spider
 64,composite spools,replace the current spools with carbonfibre thread to increase resistance to snappingbreaking,integrity,rods;obstacles
 65,suspense,one of the purposes of designing a robust tensegrity robot is to protect the payload its carrying suspend the payload in the middle with springs and dampeners magnetic repulsion,impact toughness,robot;sensors
-66,halved enclosure,design enclosure as two identical halves since were using two identical control boards,flexibility,control
+66,halved enclosure,design enclosure as two identical halves since were using two identical control boards,flexibility,rectangular enclosure
 67,drone tensegrity hybrid,robot has ability to lift off and land then operate as a tensegrity when need,locomotion,robot;robo
 68,frog motion,springs within robot that compress and help spring the robot forward when required,locomotion,robot;robo
 69,squeeze,can squeeze two compression rods together to hold onto things,locomotion,rods;cables
@@ -77,7 +77,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 76,mod,everything condensed to contained within tensile or compression elements,mod save america,rods;cables
 77,connectme,connect multiple tensegrities through their endcaps to form a huge transformer tensegrity,mod save america,rods;cables
 78,consciousness,robot actively chooses how to navigate,helmet,robot;spider
-79,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,mod save america;impact toughness,
+79,stensegth,modular strength  add strengthening mebers to to poles to exisiting poles of the tensegrity poles,mod save america;impact toughness,stensegth
 80,multi functional rods,integrate some sensors within rods free up some space,secondary function,rods;cables
 81,simplified tensegrity,use the least amount of rods materials,secondary function,rods;cables
 82,easy assembly,make it easy to add  or remove rods for use in different applications,secondary function,rods;cables
@@ -88,7 +88,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 87,size changing robots (transformer) ,robots with adjustable rods that can change size and shape whenever they need to fit into tight spots,flexibility,rods;cables
 88,orientation,all compression rods orient themselves to be parallel so that can fit through small spaces,flexibility,rods;cables
 89,sliding motor mounts,make it easy to moveremove motors by sliding them around,flexibility,rods;cables
-90,rectangular enclosure,enclosure is designed to be as small as possible surrounding only the two control boards and thats it,weight,control
+90,rectangular enclosure,enclosure is designed to be as small as possible surrounding only the two control boards and thats it,weight,rectangular enclosure
 91,projectile,robot is thrown into an area sticks landing conveys info,locomotion,robot;sensors
 92,retractable wheels,someor all rods have retractable wheels that are used when appropriate to improve maneuverability of the robot,locomotion,robot;sensors
 93,rubber tracks,cables on the robot made to resemble tracks like on a military vehicles eg tanks,locomotion,robot;sensors

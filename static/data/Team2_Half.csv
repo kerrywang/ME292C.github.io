@@ -30,7 +30,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 29,porpuse light signal,the car should use signal light on the car to indicate its purpose,safety,car;user
 30,outside airbag,the car has airbag outside of it when the car crush pedestrians teh airbag can protect pedestrians,safety,car;user
 31,affordable car,an autonomous vehicle should be affordable for ordinary people,affordability ,car;user
-32,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,
+32,user friendly ,the ui should be easy and friendly for ordinary people especially for children elder people and disabilities,user interface,user friendly 
 33,manual driving option ,the car can change to manual riving mode according to the drivers command,user interface,car;user
 34,surrounding screen dome,the car turns the inside surrounding into screen which becomes similar to vr,user interface,car;user
 35,location shared app,the car has an app that can share its location most like uber but more personal for example sharing it to family members you want to pick up somewhere,user interface,car;user

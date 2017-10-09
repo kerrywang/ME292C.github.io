@@ -1,9 +1,9 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
 1,vr rail walk,a rail walk to learn the physics of rail ,adventure,vr;kit
-2,mountain hiking,climbing mountains and trying to get to the top,daily life related,
+2,mountain hiking,climbing mountains and trying to get to the top,daily life related,mountain hiking
 3,vr science lab,learn basic usage of lab kit,prep education,vr;kit
 4,flying airplanes,learn the airflow and other physical knowledges about airplanes and how they work,daily life related,environment;molecules
-5,telescope view,viewing stars and planets using telescope,earth science games,
+5,telescope view,viewing stars and planets using telescope,earth science games,telescope view
 6,roller coaster,build structures of roller coasters and simulate the ride,constructing game,balls;roller
 7,vr industrial visit,visiting industry for educational purpose is not safe to children this app brings the virtual environment of a industry where children can interact and learn using equipments,simulation,environment;molecules
 8,chemical material collecting game,collect many kinds of chemical elements and combine them in the right way to level up,adventure,game;kids
@@ -12,7 +12,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 11,vr bridge construction,by constructing bridge in a virtual reality world users can learn about forces momentum and structures,constructing game,vr;kit
 12,physic baseball game,learn basic physics concepts through vr baseball game,physical sport game,vr;world
 13,table tennis vr,a virtual world where users can interact and play table tennis,physical sport game,vr;world
-14,harry potter stick,flying using magical stick used in harry potter,fiction games,
+14,harry potter stick,flying using magical stick used in harry potter,fiction games,harry potter stick
 15,vr chemical lab,chemistry is hard to learn however using this app its much easier user can play around with atoms and create new molecules,prep education,environment;molecules
 16,disaster simulation,learn how to react to emergency such as earthquakes and fire,prep education,environment;molecules
 17,vr breadboard,build fantastic circuits through connecting wires to the breadboard to learn how to use and how it works,prep education,environment;molecules
@@ -26,7 +26,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,reward system,players can get reward after completion of assigned mission for example they could get the materials they need to build their village for a strategy game,game mechanics and features,game;kids
 26,simple instructions,since our users are kids we need to keep the instructions or any other texts in the game as simple as possible,game mechanics and features,game;kids
 27,vr car driving,a virtual world where users can learn how to drive a car using equipments like steering kit and vr goggles,simulation,vr;kit
-28,space station fleat,view earth and planets from space station,earth science games,
+28,space station fleat,view earth and planets from space station,earth science games,space station fleat
 29,catch the fish,game based on catching fishes in the ocean,daily life related,balls;roller
 30,vr space travel,learn the knowledge of cosmos through the virtual reality space travel higher player level can go to further planet,earth science games,planet;earth
 31,space vr,3d view of the solar system to explore and learn about planets comets stars and satelites,earth science games,planet;earth

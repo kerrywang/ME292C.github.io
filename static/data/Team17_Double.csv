@@ -13,18 +13,18 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 12,solar powered pumpjack,electric motor powered by solar energy to be used for oil and gas pumpjacks,solar integration w/ existing product,battery;deck
 13,solar powered kettle coffee maker,solar powered kettles can be useful for people who like backpacking and camping,solar integration w/ existing product,battery;deck
 14,solar powered speakers,solar powered speakers for outdoor concerts,solar integration w/ existing product,battery;deck
-15,lunar power,use lunar light to generate power in night,unconventional usage,
+15,lunar power,use lunar light to generate power in night,unconventional usage,lunar power
 16,solar panels with storage systems on highway's lightning lamps,install solar panels on road lamps with storage since the batteries can charge during the day and light up the road at night,solar integration w/ existing product,panels;batteries
 17,train car solar panels,solar panels to be used on the top of train cars can store energy in batteries or be used for passenger amenities if passenger car,solar integration w/ existing product,panels;batteries
 18,solar panel integration company,company that identifies areas where solar panels could be used and how the energy generated could be used,b2b service,panels;panel
-19,smart panel for shadow calculation,smart panel can get shadow quantity that can be used to compare tracking,control sensor,
+19,smart panel for shadow calculation,smart panel can get shadow quantity that can be used to compare tracking,control sensor,smart panel for shadow calculation
 20,smart water heater,heat water during the day and keep hot using minimal energy for use at night,energy saving,energy;water
 21,solid energy storage,similar to a water tower this well allow a solid heavy block go up and down to store and release energy,energy storage,energy;water
 22,fuel cell storage,decompose water into hydrogen and oxygen use fuel cell to release the energy in gas when we need it,energy storage,energy;water
 23,mapping software for maintenance,shows current location and location of panels on map of solar farm,software integration,panels;batteries
-24,giant solar panel,one giant panel rather than multiple rows,efficiency boosting,
-25,generation loss due to clouds prediction,tool to predict generation loss due to how cloudy it will be,software integration,
-26,solar power wipers,wind shield wipers that are on the solar panels that can be powered by the solar power,maintenance,panels
+24,giant solar panel,one giant panel rather than multiple rows,efficiency boosting,giant solar panel
+25,generation loss due to clouds prediction,tool to predict generation loss due to how cloudy it will be,software integration,generation loss due to clouds prediction
+26,solar power wipers,wind shield wipers that are on the solar panels that can be powered by the solar power,maintenance,solar power wipers
 27,solar portable fan,small fan powered on solar power for hot days,solar integration w/ existing product,power;phone
 28,solar powered phone charger,power bank powered on solar power,solar integration w/ existing product,power;phone
 29,solar powered compressor for ac,a compressor for ac works on solar power since when the power gen is max the consumption is max too,solar integration w/ existing product,power;phone
@@ -39,7 +39,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 38,double solar installation,it can be feasible when no controls for tracking are available on existing farms,efficiency boosting,shadow;camera
 39,solar panels in sports stadiums,solar panels that can generate power from the projectors that light a sport field,unconventional usage,panels;power
 40,bag backpack w  solar charging,bag with built in solar panels to be used for electronic charging,solar integration w/ existing product,panels;panel
-41,smart fridge,small doors more specific classification of food,energy saving,
+41,smart fridge,small doors more specific classification of food,energy saving,smart fridge
 42,solar panel roads,roads with solar panels integrated in the pavement,transportation ,panels;panel
 43,solar fan for bbq smoker heat regulator,solar powered fan attached to bbq pit with app to control fan speed to regulate heat,solar integration w/ existing product,heat;energy
 44,solar powered portable storage system,people who go camping for weeks can take with them an energy storage system that charges on solar ,solar integration w/ existing product,heat;energy
@@ -50,12 +50,12 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 49,market adaptive energy management system,utilityscale energy management system to predict when to send to storage and when to grid,software integration,energy;storage
 50,energy generation storage phone app,phone app showing realtime and historical solar generation and batter level,software integration,energy;storage
 51,solar heated ski clothing,ski clothing with small solar panels to power small heating devices,solar integration w/ existing product,panels;power
-52,solar generating paint,paint capable of generating power through solar energy,unconventional usage,
+52,solar generating paint,paint capable of generating power through solar energy,unconventional usage,solar generating paint
 53,battery and energy management system for existing panels,battery storage and ems to retrofit to existing residential solar panels,retrofit market,panels;batteries
 54,visual measurement with drone,use drone to get position data and calculate the real position of each panel,b2b service,panel;mirrors
-55,integrated phone solar charging,phone with a solar panel on its back,solar integration w/ existing product,
-56,artificial light solar panels.,solar panels powered by already used artificial light,unconventional usage,panels
-57,solar powered interactive ads,solar panels installed on big interactive advertisement boards installed on highways,solar integration w/ existing product,panels
+55,integrated phone solar charging,phone with a solar panel on its back,solar integration w/ existing product,integrated phone solar charging
+56,artificial light solar panels.,solar panels powered by already used artificial light,unconventional usage,solar power wipers
+57,solar powered interactive ads,solar panels installed on big interactive advertisement boards installed on highways,solar integration w/ existing product,solar power wipers
 58,solar customer locator firm,locate potential residential solar customers based on demographics home shading,b2b service,home;customers
-59,smart light,light that tracks activity and turns off when not being used,energy saving,
+59,smart light,light that tracks activity and turns off when not being used,energy saving,smart light
 60,integrated panel water heating,heating water from pipes integrated in panels,energy saving,panels;panel

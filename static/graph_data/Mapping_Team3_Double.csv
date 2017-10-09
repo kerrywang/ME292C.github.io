@@ -1,12 +1,23 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,consumer product,0,
-1,home appliances,1,life;strength
-2,recreational,2,material;weight
-3,automotive,3,vehicle;performance
+0,home appliances,0,life;strength
+1,recreational,1,material;weight
+2,automotive,2,vehicle;performance
+3,consumer product,3,smart windows
 4,appliances,4,load;life
-5,electronics applications,5,performance;material
-6,stationery,6,material
-7,personal accessory,,
-8,aerospace & aeronautical,,
-9,renewable energy/consumer product,,
-10,renewable energy,,
+5,stationery,5,pen body
+6,personal accessory,6,composite glasses
+7,renewable energy/consumer product,7,solar powered umbrellas
+8,electronics applications,8,smart tap handle
+9,aerospace & aeronautical,9,temperature mug
+10,renewable energy,10,toothbrush mouthpiece
+,,11,tattoo printer
+,,12,performance;material
+,,13,skateboards
+,,14,golf glasses
+,,15,wi fi backpack
+,,16,handles for utensils
+,,17,window frames
+,,18,mugs
+,,19,back brace
+,,20,torque handle
+,,21,speaker phone case

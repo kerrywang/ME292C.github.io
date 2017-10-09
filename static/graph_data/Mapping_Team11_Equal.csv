@@ -8,15 +8,15 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 6,user interface,6,interface;installation
 7,import functions,7,function;curve
 8,file/device integration,8,file;users
-9,costing,9,
-10,external help,10,users;customers
-11,ai and machine learning,11,cad;functions
-12,export functions,12,drawing
-13,learning the software games,13,simulation;scanner
-14,targeted markets,14,design;ai
-15,ease of data representation,,
-16,installation,,
-17,automation,,
-18,design recognition (image recognition),,
-19,compatibility,,
+9,costing,9,users;customers
+10,external help,10,cad;functions
+11,export functions,11,3d printing
+12,learning the software games,12,simulation;scanner
+13,ai and machine learning,13,design;ai
+14,ease of data representation,14,same ui for different function
+15,installation,15,augmented reality ui
+16,automation,16,self servie management
+17,design recognition (image recognition),17,virtual reality
+18,compatibility,18,different costing
+19,targeted markets,19,natural environment
 20,ai,,

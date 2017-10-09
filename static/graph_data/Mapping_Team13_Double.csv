@@ -4,10 +4,14 @@ Human_Index,Human_Label,Machine_Index,Machine_Label
 2,performance,2,lubricant;viscosity
 3,long lasting,3,lubricant;bottle
 4,aesthetics,4,lubricant;time
-5,smell,5,
+5,smell,5,hydrocarbons;fumes
 6,cost,6,lubricant;industry
-7,noise,7,hydrocarbons;fumes
-,,8,operator
-,,9,pump
-,,10,self
-,,11,pleasant;smell
+7,noise,7,use ear plugs
+,,8,operator training
+,,9,use of suction pump
+,,10,highly flowable lubricant
+,,11,self lubricating
+,,12,gas mask
+,,13,flower fragrant additives
+,,14,pleasant;smell
+,,15,plastic apron

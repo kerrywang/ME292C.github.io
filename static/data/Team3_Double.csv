@@ -1,23 +1,23 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,smart windows,a window that shows what the weather for the day will be and other features,consumer product,
+1,smart windows,a window that shows what the weather for the day will be and other features,consumer product,smart windows
 2,phone case cover,the phone cover can be made out of composite material improving life and decreasing cost,electronics applications,life;strength
 3,mouse, mice can be made out of composite material improves life strength to weight ratio,electronics applications,life;strength
 4,exercise bike,bike parts made of compostie improved life load bearing capacity,appliances,load;life
-5,pen body,composite material can be used in manufacturing bodies for pens light weight improved life,stationery,
-6,smart tap handle,a beer tap handle that senses the amount of beer that has been dispensed to give an estimate on how full the keg is,consumer product,
+5,pen body,composite material can be used in manufacturing bodies for pens light weight improved life,stationery,pen body
+6,smart tap handle,a beer tap handle that senses the amount of beer that has been dispensed to give an estimate on how full the keg is,consumer product,smart tap handle
 7,shelves,shelves made of composite material improved life and load bearing capacity,home appliances,load;life
-8,temperature mug,a coffee mug that tells you the temperature of your coffeedrink,consumer product,
-9,composite glasses,glasses ade using composite material for the frames to increase durabilty,personal accessory ,
-10,toothbrush mouthpiece,a mouthpiece with bristles inside to clean all of your teeth at once,consumer product,
+8,temperature mug,a coffee mug that tells you the temperature of your coffeedrink,consumer product,temperature mug
+9,composite glasses,glasses ade using composite material for the frames to increase durabilty,personal accessory ,composite glasses
+10,toothbrush mouthpiece,a mouthpiece with bristles inside to clean all of your teeth at once,consumer product,toothbrush mouthpiece
 11,wing aerofoils in aerospace industry,most essential component in an aeroplane made out of composite material improved strength to weight ratio strength life,aerospace & aeronautical,life;strength
-12,solar powered umbrellas,for sun shade umbrellas utilize the top for solar power to create a source for energy,renewable energy/consumer product,
-13,tattoo printer,a device that prints preset sizes of tattoos on your body,consumer product,
+12,solar powered umbrellas,for sun shade umbrellas utilize the top for solar power to create a source for energy,renewable energy/consumer product,solar powered umbrellas
+13,tattoo printer,a device that prints preset sizes of tattoos on your body,consumer product,tattoo printer
 14,fixtures and shafts in automotive industry,1 shafts used in transmissions propulsion to be made of composite material for better performance fixture used in automotive industry to hold components and provide support,automotive,performance;material
-15,skateboards,a skateboard made of improved composite material used for small distance commuting,recreational,material
-16,surfboards,surfboard made of composite material used for recreational sport surfing,recreational,material
+15,skateboards,a skateboard made of improved composite material used for small distance commuting,recreational,skateboards
+16,surfboards,surfboard made of composite material used for recreational sport surfing,recreational,skateboards
 17,wheel rim,critical component essential for movement improved overall performance of vehicle due to material properties of new composite material,automotive,vehicle;performance
 18,body panels,aesthetics are important for the look of the vehicle stiff sturdy improved performance of vehicle due to weight reduction by composite material,automotive,vehicle;performance
-19,golf glasses,glasses that allow golfers to see the trace of their ball when they hit it along with other useful information,consumer product,
+19,golf glasses,glasses that allow golfers to see the trace of their ball when they hit it along with other useful information,consumer product,golf glasses
 20,wind turbine blades,wind turbine blades made of composite material used for power generation increases strength to weight ratio increases efficiency increases longevity,renewable energy,material;weight
 21,chairs,chairs made out of composite material enhances looks strength life,home appliances,life;strength
 22,table,table made of composite material improves strength and life also reduces weight,home appliances,life;strength
@@ -26,16 +26,16 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,skiis ,skiis made from composite materials for decreased weight,recreational,material;weight
 26,composite gun,a riffle or handgun made of composite materials,recreational,material;weight
 27,jet engine blades and body,important component and subjected to extreme conditions better efficiency and performance with improved longevity,aerospace & aeronautical,vehicle;performance
-28,wi fi backpack,a backpack with a mobile hotspot integrated within it to give data when going to remote places,recreational,
+28,wi fi backpack,a backpack with a mobile hotspot integrated within it to give data when going to remote places,recreational,wi fi backpack
 29,laptop body,the casing for laptop made of composite material to decrease weight,appliances,material;weight
-30,handles for utensils,handles made of compostie material it can add to life of the utensils,home appliances,material
-31,bed frames,bed frames made of composite material for lightweight,home appliances,material
-32,window frames,window frames madee out of composites so that rotting and termites dont effect them,home appliances,
-33,mugs,mugs can made of composite materail for increased strength,home appliances,
+30,handles for utensils,handles made of compostie material it can add to life of the utensils,home appliances,handles for utensils
+31,bed frames,bed frames made of composite material for lightweight,home appliances,handles for utensils
+32,window frames,window frames madee out of composites so that rotting and termites dont effect them,home appliances,window frames
+33,mugs,mugs can made of composite materail for increased strength,home appliances,mugs
 34,composite tools,tools made of composite material to decrease the weight,home appliances,material;weight
 35,fan blades,a fan blade made of compsite material ,home appliances,material;weight
-36,back brace,a composite back brace,personal accessory ,
-37,torque handle,the bottom of the handle on a baseball bat will rotate while the player swings,consumer product,
+36,back brace,a composite back brace,personal accessory ,back brace
+37,torque handle,the bottom of the handle on a baseball bat will rotate while the player swings,consumer product,torque handle
 38,bicycle components,used for commuting recreational activities  improved performance due to new composite material,recreational,performance;material
-39,speaker phone case,a phone case that senses the vibrations coming from the phone speaker and amplifies the sound,consumer product,
+39,speaker phone case,a phone case that senses the vibrations coming from the phone speaker and amplifies the sound,consumer product,speaker phone case
 40,steering wheels,wheels made out of composite material improved strength to weight ratio,automotive,material;weight

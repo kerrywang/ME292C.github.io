@@ -1,7 +1,7 @@
 index,Concept Name,Concpet Description,Human Label,Machine Label
-1,the cube,a robotic platform that solves the cube using userdefined algorithm,education,
-2,artificial hand,a robotic hand that can be programmed to do multiple versatile job,medical/industry,
-3,the connoisseur,a cooking pot equipped with robotic arms that could be programmed to do stir frying actions,consumer,
+1,the cube,a robotic platform that solves the cube using userdefined algorithm,education,the cube
+2,artificial hand,a robotic hand that can be programmed to do multiple versatile job,medical/industry,artificial hand
+3,the connoisseur,a cooking pot equipped with robotic arms that could be programmed to do stir frying actions,consumer,the connoisseur
 4,magic cube robot,a robot arm which can operate the magic cube cameras are located to get the status of magic cube,consumer/education,robot;arm
 5,apple bagging robot,no machine can replace the work of bagging for apple in agriculture some easy handled robot arm may help them ,agriculture,arm;screw
 6,components material delivery robot,deliver required components or material to working station in factory,industry,robot;robots
@@ -16,14 +16,14 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 15,robotic salesperson,a robot works as a shop assistant she can scan the code of product and receive money from customers,organization,robot;robots
 16,third hand,hold the screw or something else when people are assembling wear on the arm have a little screen to have user program it,industry/engineer,arm;screw
 17,the guardian,a robot that stand by the classroom and can be simply controlled by buttons to express feelings and reach things for autistic children ,consumer/education/medical,robot;arm
-18,agv,automatically guided vehicle that performs logistics duty in the plant,industry,
-19,the grommer,a robotic arm that automatically wash dry and groom pets,consumer,
+18,agv,automatically guided vehicle that performs logistics duty in the plant,industry,agv
+19,the grommer,a robotic arm that automatically wash dry and groom pets,consumer,the grommer
 20,homework robot,a robot can solve your homework peoblem with its database,consumer/education,robot;robots
 21,robotic teacher,the main function of this robot is teaching children she can talk and answer the questions ,consumer/education,robot;robots
 22,user programmable robots,users can upload the software to the robot they can watch the results of ther algorithm by video on the platform,consumer/education,robot;robots
 23,open source robot,the robot has open archetecture on hardware and software users can develop the software of robots the hard ware use standard interface,consumer/education,robot;robots
 24,make up robot,a robot that can be programmed to put different makeups on users,consumer/education,robot;robots
-25,hair cut robot,scan your hair download the style template cut automatically,consumer; organization,
+25,hair cut robot,scan your hair download the style template cut automatically,consumer; organization,hair cut robot
 26,industrial robot arm,a robot platfrom that controls robotic arms for heavy duty in the industry,industry,robot;arm
 27,injection assistant,shaking while injection can cause extra pain for patients the nurses can control our robot to finish the injection,medical,robot;arm
 28,surgery assistant,a robot arm can help with some simple but important motions during surgery to avoid handshaking,medical,robot;arm
@@ -43,12 +43,12 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 42,dancer robot,a robot with a lot of arms can dance under your control,education,robot;robots
 43,robotic artist,a robot use mathematical visualization method to design magic picture ,education,robot;robots
 44,educational humanoid robot,a humanoid robot that has inbuilt platform teaching junior high students programming knowledge,education,robot;robots
-45,the barber,a robotic arm that can do haircuts for people,consumer,arm
+45,the barber,a robotic arm that can do haircuts for people,consumer,the barber
 46,guide,a robot can guide blind people walking to replace service dog,consumer/medical,robot;robots
-47,medicine delivery,deliver pills to pateients under control of nurse to avoid mistakes that deliver wrong medicine to patients,medical,
+47,medicine delivery,deliver pills to pateients under control of nurse to avoid mistakes that deliver wrong medicine to patients,medical,medicine delivery
 48,medical injection robot,a robot that can accurately find the spot and control the dosage of injection,medical,robot;robots
-49,cooking assistant,help user stir fry while cooking to avoid hot oil splattering on body,consumer,
-50,robotic toy,this robotic toy provide software for children to program children can learn the course from apps they can use the graphic program tools,consumer/education,
+49,cooking assistant,help user stir fry while cooking to avoid hot oil splattering on body,consumer,cooking assistant
+50,robotic toy,this robotic toy provide software for children to program children can learn the course from apps they can use the graphic program tools,consumer/education,robotic toy
 51,robot cutter,cut cooking ingredients into specific shape and size,consumer,robot;arm
 52,crab opener,a robot can open crab with its arms while you eating to free your hands,consumer,robot;arm
 53,cooking robot,the robot can use all tools in kitchen they can process the meat vegatables etc they can also download different typ of meals,consumer,robot;arm
@@ -57,6 +57,6 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 56,robot lawn mower,a lawn mower that can automatically detect where needs to be cleaned or watered,consumer,robot;arm
 57,the combing robot,a robot arm that comb and fondle pets,consumer,robot;arm
 58,nanny,a robot arm that can sense babys crying and then play music and swing the cradle softly,consumer,robot;arm
-59,the acupuncturist,a robotic arm that can do acupuncture ,medical,arm
+59,the acupuncturist,a robotic arm that can do acupuncture ,medical,the barber
 60,quadruped robot,a quadruped robot that can do dangerous job for people,industry/consumer,robot;robots
 61,make up robot,young girls can learn makeup by practicing on a dummy and learn program by control a robot to remove the makeup,education,robot;arm

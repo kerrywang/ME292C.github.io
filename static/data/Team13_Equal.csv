@@ -16,8 +16,8 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 15,pneumatic lubrication,use high pressure air which will act as kind of lubricant,environment friendly,lubricant;viscosity
 16,frictionless drives,use magnetic leviation or other friction less drives to remove usage of lubricant,environment friendly,lubricant;viscosity
 17,recyclable lubricant,lubricant is recycled at the machine to make it reusable,environment friendly,lubricant;viscosity
-18,self lubricating,using material which can lubricate itself,aesthetics,self
-19,self lubricating,using self lubricating material,aesthetics,self
+18,self lubricating,using material which can lubricate itself,aesthetics,self lubricating
+19,self lubricating,using self lubricating material,aesthetics,self lubricating
 20,camouflaging lubricant,a lubricant with high transmissibility of light which adapts to its surrounding making it invisible,aesthetics,lubricant;viscosity
 21,intelligent lubricant,lubricant which changes colour or some other parameter to signal the user that its time to change,aesthetics,lubricant;viscosity
 22,spray based lubricant,to ease the process of applying to objects like skateboards cycles,aesthetics,lubricant;viscosity
@@ -26,7 +26,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 25,auto clean additives,particles which automatically clean lubricant and then can be easily taken out of system,aesthetics,lubricant;viscosity
 26,solvent to wash hands,solvent is provided to remove lubricant from hands,aesthetics,lubricant;viscosity
 27,metered lubrication,set stroke of lubrication can equivalent to machine needed,cost ,lubrication;lubricants
-28,use ear plugs,to reduce noise,noise,
+28,use ear plugs,to reduce noise,noise,use ear plugs
 29,recycling burnt lubricant,adding burnt lubricant back to system,cost ,lubricant;viscosity
 30,water based lubricant,adding water in lubricant to reduce the amount of lubricant being used,cost ,lubricant;viscosity
 31,resell used,reselling used lubricant to a different industry as a raw material,cost ,lubricant;viscosity
@@ -42,7 +42,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 41,odourless lubricant,lubricant which has no smell or odour of its own,smell,lubricant;viscosity
 42,evaporating lubricant,design a lubricant which will evaporate once its life is over,smell,lubricant;viscosity
 43,additive through pump,a pump to add fragrant additives to mix it with lubricant,smell,lubricant;viscosity
-44,gas mask,a gas mask for operators,smell,
+44,gas mask,a gas mask for operators,smell,gas mask
 45,ventilation,ventilation for removal of fumes,smell,lubrication;lubricants
 46,sticky lubricant,lubricant which sticks to the surface applied and does not come off due to water or any other natural elements,long lasting,lubricant;viscosity
 47,replace liquid by solid lubricant,develop lubricant which will have properties of liquid lubricant but will be solid in state,long lasting,lubricant;viscosity
@@ -56,6 +56,6 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 55,reuse lubricant,small scale industry can buy reused lubricant from larger industry,awareness,lubricant;viscosity
 56,using gauge,a gaufe can be designed to check level of lubricant,awareness,lubricant;viscosity
 57,plastic apron,to prevent from clothes getting dirty,aesthetics,pump;plastic
-58,flower fragrant additives,adding scented additives to counter the foul smell,smell,
+58,flower fragrant additives,adding scented additives to counter the foul smell,smell,flower fragrant additives
 59,manual additive addition,add additive manually at users end to smell lubricant pleasant,performance,smell;ingredients
 60,alter manufacturing ingredients,select alternative hydrocarbons which will smell good after lubricant manufacturing,performance,smell;ingredients
