@@ -160,7 +160,7 @@ page_render = function(num, type){
 				d.Concept_Indices = JSON.parse(d.Concept_Indices.replace(/;/g,","))
 				d.Human_Label_Index = +d.Human_Label_Index
 				d.Machine_Label_Index = +d.Machine_Label_Index
-//				 console.log(d)
+				console.log(d)
 			});
 
 			svg.selectAll(".dot")
@@ -175,19 +175,23 @@ page_render = function(num, type){
 				.style("fill","#d8452f")
 				.style("opacity",.9)
 				.on("click", function(d){
+				    if  (d == null) return null;
 //					 console.log(d);
 //					 console.log(d.Human_Label + ":" + d.Machine_Label)
 					d3.csv(concept_file,function(csv){
-//						console.log(csv);
+                        if (csv == null) return null;
+                        console.log(csv);
+
 						csv = csv.filter(function(row){
-							return row["Human Label"] == d.Human_Label && row["Machine Label"] == d.Machine_Label;;
+						    console.log(d.Human_Label + ":" + d.Machine_Label);
+							return row["Human Label"].replace(/^\s+|\s+$/g, "") == d.Human_Label && row["Machine Label"] == d.Machine_Label;
 						});
-//						 console.log(csv);
+						console.log(csv);
 						tabulate(csv);
 					});
 				})
 				.on("mouseover",function(d){
-//					 console.log(d);
+					console.log(d);
 					tooltip.transition()
 						.duration(200)
 						.style("opacity", .9)
@@ -208,14 +212,15 @@ page_render = function(num, type){
 	});
 
 	tabulate = function(data){
-//	    console.log(data[0])
+	    if (data == null) return null;
+
+	    console.log(data)
 		d3.select("#table > *").remove()
 		var table = d3.select("#table").append('table')
 		var thead = table.append('thead')
 		var tbody = table.append('tbody')
-
 		columns = Object.keys(data[0])
-//		 console.log(columns)
+		console.log(columns)
 
 		//header row
 		thead.append('tr')
