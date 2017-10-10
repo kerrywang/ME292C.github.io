@@ -109,7 +109,7 @@ page_render = function(num, type){
 			.on("click",function(d){
 				d3.csv(concept_file,function(csv){
 					csv = csv.filter(function(row){
-						return row["Human Label"] == data[d].Human_Label;
+						return row["Human Label"].replace(/^\s+|\s+$/g, "") == data[d].Human_Label;
 					});
 //					console.log(csv);
 					tabulate(csv);
