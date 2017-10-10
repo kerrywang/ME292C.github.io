@@ -62,7 +62,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 61,sheet gas sensor,the sensor is a thing sheet and can be attached on whatever you want apply wireless charging,smart device interactive,sensor;gas
 62,tv gas sensor,the sensor can be designed into smart tvs and show data on tv directly,smart device interactive,sensor;gas
 63,fresh meeting room,a device that control the havc of the meeting room according to the meeting people and schedule ,auto-multifunction,fresh meeting room
-64,timer gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
+64,timer/gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
 65,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,independent device,manual power generatot
 66,ac assistant,a system with several das sensor around the room to detect the air quality and adjust the ac,auto-multifunction,air;detection
 67,window opener,a decive that detect hte air flow throught the window and openclose the windowopen for fresh air close for polluted air,auto-multifunction,air;detection

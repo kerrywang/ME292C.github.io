@@ -47,7 +47,7 @@ index,Concept Name,Concpet Description,Human Label,Machine Label
 46,built into an air purifier,the sensor is built into an air purifier moniter the inlet and outlet air condition and start and stop working automaticly,independent device,sensor;gas
 47,air quality in car,a device that can be pluged in to the 12 v power in the car to detect the air quality inside the car,independent device,sensor;gas
 48,clean trash can,a gas sensor attaching to the trash can to detect the putrefaction ,independent device,sensor;gas
-49,"timer" gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
+49,timer/gas sensor,the sensor is in the shape of timer watch can be operated by several bottoms and show the result,independent device/watch and clock,sensor;gas
 50,iwatch embedded,embedded in iwatch uses during working out,clock&watch,sensor;gas
 51,mini size,mini size give chance to be mounted and embedded,special features,data;mini
 52,cell phone embedded,can be embedded in cell phone,special features,data;mini
