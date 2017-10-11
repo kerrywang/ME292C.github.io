@@ -1,10 +1,24 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,health,0,sensors;sensor
-1,ar overlays,1,ar;user
-2,monitoring,2,display;helmet
-3,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,3,communication
-4,assistant,4,conference helper
-5,consuming content,5,directions;use
-6,communication,6,textanator
-7,stretchable application,7,heart smart: elderly tracking for falls and emergencies
-8,ar applications,8,huh that's interesting' assistant
+0,gesture control,0,sensors;sensor
+1,ar display,1,ar;glasses
+2,monitoring,2,patch;sensor
+3,health monitoring,3,messages;use
+4,stretch display,4,sensor;packaging
+5,fashion,5,clothing;jackets
+6,utility devices,6,package;storage
+7,wrist display,7,zapp
+8,ar overlays,8,ar;user
+9,other,9,glasses;time
+10,engineering analysis,10,display;rope
+11,networking,11,sky skulpting
+12,communication,12,textanator
+13,assistant,13,info;information
+14,wrist tv,14,wristtv
+15,audio,15,bands;musicians
+16,consuming content,16,task control using stretchable tech
+17,sports,17,smart bandaids
+18,temperature control,18,have animated tattoos
+19,health,19,paintball
+20,wellness,20,neonatal infant monitoring system
+21,food monitoring,,
+22,ar applications,,

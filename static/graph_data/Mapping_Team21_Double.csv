@@ -1,18 +1,45 @@
 Human_Index,Human_Label,Machine_Index,Machine_Label
-0,health,0,sensors;sensor
-1,monitoring,1,sensor;patch
-2,ar overlays,2,ar;eg
-3,communication,3,communication;ar
-4,consuming content,4,streamdream
-5,assistant,5,display;helmet
-6,small sensors emg which can stretch and cover finger tips to allow the user to control their ar device laptop and phone by waving their hand or using other gestures,6,communication
-7,ar applications,7,real view: real estate ar
-8,stretchable application,8,huh that's interesting' assistant
-,,9,ar;user
-,,10,earflix
-,,11,conference helper
-,,12,heart smart: elderly tracking for falls and emergencies
-,,13,textanator
-,,14,emotigram
-,,15,car map: ar directions on windshield
-,,16,nuink
+0,ar display,0,glasses;ar
+1,food monitoring,1,sensors;sensor
+2,health monitoring,2,sensors;socks
+3,utility devices,3,storage;shape
+4,fashion,4,have animated tattoos
+5,ar overlays,5,ar;sensors
+6,audio,6,sensors;intensity
+7,temperature control,7,sensor;user
+8,stretch display,8,interactive packaging
+9,gesture control,9,sensors;hand
+10,communication,10,textanator
+11,wrist tv,11,display;rope
+12,consuming content,12,messages;store
+13,sports,13,monitoring;sensors
+14,assistant,14,conference helper
+15,other,15,paintball
+16,engineering analysis,16,elastomeasure
+17,health,17,patch;sensor
+18,networking,18,handshakar
+19,monitoring,19,personal energy guru
+20,wrist display,20,zapp
+21,ar applications,21,heart;agents
+22,wellness,22,neonatal infant monitoring system
+,,23,ar;user
+,,24,car map: ar directions on windshield
+,,25,leds;glasses
+,,26,training for musicians
+,,27,bag;cart
+,,28,time;glasses
+,,29,detect;sensory
+,,30,stretchable display for clothing
+,,31,wrist;neck
+,,32,monitor;display
+,,33,augmented jersey
+,,34,smart clothing
+,,35,wristtv
+,,36,stretchable tent display
+,,37,smart labels
+,,38,smart post it notes
+,,39,smart bandaids
+,,40,task control using stretchable tech
+,,41,nuink
+,,42,sky skulpting
+,,43,ez assembly
