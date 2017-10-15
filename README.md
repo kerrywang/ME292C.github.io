@@ -12,6 +12,7 @@ Try to click x-, y- tick labels and bubbles.
 * [IOT_and_Robotices_1](./ME292C/IOT_and_Robotices_1.html)
 * [IOT_and_Robotices_2](./ME292C/IOT_and_Robotices_2.html)
 * [Mars_Suit](./ME292C/Mars_Suit.html)
+* [Mars_Suit_2](./ME292C/Mars_suit_second_submission.html)
 * [MEMS_Sensors](./ME292C/MEMS_Sensors.html)
 * [Million_Hands](./ME292C/Million_Hands.html)
 * [Morphing](./ME292C/Morphing.html)

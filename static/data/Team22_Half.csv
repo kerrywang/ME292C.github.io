@@ -1,0 +1,84 @@
+index,Concept Name,Concpet Description,Human Label,Machine Label
+1,pressurized glove,glove has two layers removable pressure layer basic glove bladder valve for pressure control,material,glove;projectile
+2,arm screen,flexible display on arm for space tv,interface,arm screen
+3,pressure controlled gloves,gloves in mars suit should protect astronauts hand in entertainment with an accurate pressure gloves would contact with torso and keep same pressure as torso,would you look at that,gloves;fingers
+4,flexible boxing gloves,this design follows a mitten  like feature this is to allow the hands easier access into the mits furthermore the user can choose how many fingers they want to put in ,would you look at that,gloves;fingers
+5,capped fingers,padded cap that can removed from fingertips to allow for typing,touch,fingers;hands
+6,glove variety,each glove should be custom made to fit a users specific need for instance and analytic would have thinner gloves than a geologist,grip,gloves;glove
+7,padded glove,padding is distributed on gloves palms and fingers to allow for best protection,grip,gloves;glove
+8,clip gloves,gloves have carabiner clips to let you grab things without risk of dropping them,catching things,gloves;fingers
+9,soud paper gloves,sand paper is attached to gloves to help remove material,catching things,gloves;fingers
+10,net disperse,gloves have a net that can be shot out of it to ensnare other items,catching things,gloves;fingers
+11,hook gloves,gloves have retractable hook to dig into items helping carying,catching things,gloves;fingers
+12,magnetic gloves,gloves have magnets built in to help cary large objectives,catching things,gloves;fingers
+13,thermal control,the inside of the glove is thermally controlled maybe with a thin film of water ,hot stuff,glove;water
+14,projector glove,gloves project images or information,interface,gloves;glove
+15,good tactile sensation in gloves,keep the good tactile sensation of the hand can feel outside environment temperature pressure and other factors making astronaut good at scientific research in mars,sensors,gloves;fingers
+16,talon gloves,birdlike talon inspired gloves these help for picking up smaller items rubberized tensor modules with beads that help constrict and enable assistance ,sensors,gloves;fingers
+17,feeler gloves,gloves have sensors on finger tips to enhance user feel of objects,sensors,gloves;fingers
+18,flashlight,flashlight on glove lets you see what youre working on,there's an app for that,gloves;glove
+19,clean wrap gloves,glove has a pocket to store plastic glove wrap to use for sterile purposes,there's an app for that,gloves;glove
+20,drilling gloves,edge based glove that helps with excavating operations when you need to dig a lot,there's an app for that,gloves;glove
+21,bullet gloves,just like a gun,safety,gloves;fingers
+22,air bag,gloves inflate during a fall to prevent wrist sprain,safety,gloves;fingers
+23,water gloves,for playing in the beach control the water outlet,safety,gloves;fingers
+24,rover gloves,the gloves as remote controller or your rover that way you never lose your vehiclelike a tesla car key,safety,gloves;fingers
+25,sos gloves,in the terrible case you get stranded the gloves emit radio frequencies for home base,safety,gloves;fingers
+26,plant slot glove,glove has a slot to insert a touch screen phone or flexible screen screen is removable,interface,glove;water
+27,fishbowl hands,these hands are fully exempt from the outside environment sensors on the hand copy the signal over to a set of robotic actuatorsoutside of the hands ,would you look at that,sensors;hands
+28,net mach 2,a small net grenade can be shot as a projectile from the glove and will explode into a full net increasing the range of things that could be ensnared ,catching things,glove;projectile
+29,touch screen fingers,the fingers of the gloves can use touch screens,sensors,fingers;hands
+30,passive exercising gloves,to maintain strength in low gravity these gloves have a mode that adds resistance to tasks that are not essential to working,mechatronics,gloves;fingers
+31,storage for quick food,in space youll need some quick energy probably act as a food storage device,there's an app for that,energy;heat
+32,picture glove,glove has a compartment on back of palm to store notes or a picture,touch,glove;projectile
+33,layered glove,glove is layered with a thin bladder protective layer pressurized layer each layer is removable,grip,glove;projectile
+34,nuclear item gloves,gloves has nanoscale nuclear reactor built into it,energy,gloves;fingers
+35,kinesthetic energy,gloves gains energy through kinetic energy like mechanical watches,energy,gloves;fingers
+36,solar gloves,gather and transfer the solar energy to electricityprovided for the emergency lighting,energy,gloves;fingers
+37,force sensors gloves,crew members interact with computer system using gesture and voice control the user wear a glove with sensor which allows them to control an application running on a linked computer,interaction,gloves;glove
+38,button on gloves,buttons on glove can be pushed in order control other machines or mechanisms,interaction,gloves;glove
+39,grip assist,mechatronic fingers go around your fingers to aid in gripping,mechatronics,fingers;hands
+40,clean your hand gloves,clean your hand in the gloves by high frequency vibrating and beauty product,clean things,gloves;fingers
+41,water line in gloves,gloves have a water spigot in them,clean things,gloves;fingers
+42,dust collector gloves,easily collect dust just by using the gloves,clean things,gloves;fingers
+43,fun gloves,gloves wrist has deployable propellers which can then be rotated as a fun distraction,clean things,gloves;fingers
+44,air brush,pressurised air can be released to help clean dust off stuff,clean things,gloves;fingers
+45,pulse detection,glove can sense users pulse and can be used to check another persons pulse,sensors,glove;projectile
+46,thermal sensing glove,basic glove race car drivers with thermal sensors on palm and fingers,sensors,glove;projectile
+47,heater,the outside of the glove has a heater to warm up other things astronaut could melt ice buildup or warm a sample,there's an app for that,glove;projectile
+48,mechatronic glove,mechatronic device can snap onto a  users glove when needed,there's an app for that,glove;projectile
+49,extendable fingers,built in tools that extend from the fingertips that are anchored at the palm of the glove and therefore reduce the torque needed to use,there's an app for that,glove;projectile
+50,massage gloves,gloves can massage pressure points in the hand to deal with stress and relax the user,enhance comfort,gloves;fingers
+51,massage gloves 2.0,massage with some important acupuncture point in traditional chinese medicine,enhance comfort,gloves;fingers
+52,mother gloves,these gloves help to detect your stress level they talk to you for emotional support,enhance comfort,gloves;fingers
+53,caffeine gloves,these gloves are intended to give you the life of caffeine during long work hours,enhance comfort,gloves;fingers
+54,radio gloves,the feature of these gloves include a wristwatch that helps control the music you listen to in space,enhance comfort,gloves;fingers
+55,name engraved gloves,physical application that lets others know which gloves are yours,enhance comfort,gloves;fingers
+56,sticky grip,palms and fingers of gloves are lined with a grippy surface to make grabbing things easier,grip,fingers;hands
+57,gripping gloves,glove had hooks that can grab into walls to help rock climbing,catching things,gloves;glove
+58,rogue hands,reinforced composite layers use of fiber materials to help with use cases integrated battery for longer use ,mechatronics,sensors;hands
+59,screen gloves,have a screen on the gloves to show cabin or external entertainments,interface,gloves;fingers
+60,feedback gloves,these gloves warn you immediately when there is an issue with your gloves or with your spacesuit,interface,gloves;fingers
+61,anti skid gloves,gloves should be antiskid astronaut would conduct scientific research in mars which is required gloves can be a part of toolkit used for project handling slippery things well,grip,gloves;fingers
+62,rubberized tensor hands,these gloves are meant to go underneath the protective gloves the rubber and the flexible electronics are protected being in the middle layer and helps with movement,grip,gloves;fingers
+63,lobster gloves,claw like extension for the hand that has auto rotate feature on it this way user doesnt have to touch anything claw feature is good for grip ,grip,gloves;fingers
+64,eva 2.0,these gloves follows the designs of current eva gloves however the bottom side mechanical components are added these metal inserts also serve as metal inserts ,grip,gloves;fingers
+65,special watch in gloves,design for space and mars entertainment it has three dials can read the earth time and flight time also can used for record the mars time keep astronaut in a regular time,there's an app for that,gloves;fingers
+66,tool storage gloves,these gloves hold your tools,there's an app for that,gloves;fingers
+67,waste heat energy,waste heat from suit used to generate a turbine,energy,energy;heat
+68,wrist lock,air tight lock between glove and sleeve of suit,lock n load,glove;projectile
+69,temperature controlled gloves,gloves in mars suit should protect astronauts hand in entertainment with an accurate temperature temperature can be controlled by special materials or special temperature regulations,hot stuff,gloves;fingers
+70,high temperature resistance of gloves,gloves work in mars hence it may withstand different temperature our gloves should work well in high temperature even exposed directly to the sun,material,gloves;fingers
+71,good breathability of gloves,when hands put in gloves in a long time inaccurate humidity might make hand in some diseases due of bad breathability of hand so keep hand in a good comfortability is important,material,gloves;fingers
+72,radiation protection gloves,mars contains lots of uncertain radiations our gloves can protect astronauts hand from radiation when they conduct scientific research,material,gloves;fingers
+73,frog hands,borrows many concepts from frog hands the stretchability of the flaps between the fingers enable more use for the hands also the user should be more easily able to put on gloves and take them off ,material,gloves;fingers
+74,3 finger design,this glove looks into using a three finger approach to usability basically just using metal layers to constrict and grip,would you look at that,glove;projectile
+75,wiring,this concept is to connect glove wires to the rest of the suit seamlessly,would you look at that,glove;projectile
+76,button gloves,magnetic suspension control can allow you to summon your personal item within a short distance,interaction,gloves;fingers
+77,writing gloves,write and draw with your gloves sensor embeded and connect information into computer,interaction,gloves;fingers
+78,wii gloves,special motions activate things,interaction,gloves;fingers
+79,gecko hands,these hands follows the patterns of an amphibian above all these hands have a focus to grip and holding items,material,fingers;hands
+80,charger,glove is capable of charging things wirelessly,there's an app for that,glove;water
+81,massage gloves 3.0,glove vibrate but vibration massages a wave along the gloves,enhance comfort,gloves;glove
+82,glove finger nails,fingernails on the gloves with internal support that reduce pressure on the fingertips of the user these could retract depending on the utility,enhance comfort,gloves;glove
+83,good dexterity gloves with wrist bearings,wrist bearing in the gloves provide a high confidence level in the successful implementation of the designs the bearing meet the required high limits with margin to spare while presenting a smooth profile on their inner surface,lock n load,gloves;fingers

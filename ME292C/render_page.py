@@ -17,8 +17,8 @@ teams_info = [
 	# {"page_title": "HM Plot", "team_name": "Morphing", "team_number": "11"},
 	# {"page_title": "HM Plot", "team_name": "Pediatric_Exoskeleton", "team_number": "12"},
 	# {"page_title": "HM Plot", "team_name": "Rotationg_Machinery", "team_number": "13"},
-	{"page_title": "HM Plot", "team_name": "Renault", "team_number": "14"},
-	{"page_title": "HM Plot", "team_name": "Samsung", "team_number": "21"},
+	# {"page_title": "HM Plot", "team_name": "Renault", "team_number": "14"},
+	{"page_title": "HM Plot", "team_name": "Mars_suit_second_submission", "team_number": "22"},
 
 	# {"page_title":"HM Plot", "team_name":"Scoliosis_Treatment","team_number":"15"},
 	# {"page_title":"HM Plot", "team_name":"Smart_Exercise","team_number":"16"},
